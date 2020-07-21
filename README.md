@@ -29,7 +29,7 @@ Then just do `htlatex skak-sample "configfile"
 
 
 
-This answer for the configuration file for the [clear page] command to work(https://tex.stackexchange.com/questions/346811/tex4ebook-paragraph-spacing-centering-and-newpages/346889#346889):
+This answer for the configuration file for the [clear page](https://tex.stackexchange.com/questions/346811/tex4ebook-paragraph-spacing-centering-and-newpages/346889#346889) command to work:
 
 ```
 % save the clearpage before it is redefined by tex4ht
@@ -49,7 +49,7 @@ This answer for the configuration file for the [clear page] command to work(http
 
 To create pgn from a pgn in Python so far do:
 
-```
+```python
 n = 'uno.txt'
 game = gamechap[0]
 
@@ -102,7 +102,6 @@ with open(n,'w') as f:
     #f.write('\\begin{center}\n')
     #f.write('\\chessboard[setfen={fen}]\n'.format(fen=fentemp))
     #f.write('\\begin{end}\n')
-    ```
+```
 
-
-    I am sure there are better ways ...
+I am sure there are better ways ...
