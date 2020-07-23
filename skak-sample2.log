@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2020.7.20)  20 JUL 2020 23:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2020.7.20)  23 JUL 2020 03:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,7 +8,7 @@ de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
 documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
 \HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode configfile.a.b.c.\input  sk
-ak-sample2.tex
+ak-sample2
 (./skak-sample2.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
@@ -373,6 +373,303 @@ File: lsbskaknew.fd 2006/03/31 v1.0 Chess font definitions
 )
 \store@toks=\toks29
 )
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak.sty
+Package: xskak 2015/01/02 version v1.4 extended chess typesetting and parsing
+
+(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard.sty
+Package: chessboard 2014/05/01 version v1.7 print chessboards
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box30
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+)
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count141
+\c@pgf@countb=\count142
+\c@pgf@countc=\count143
+\c@pgf@countd=\count144
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-tex4ht.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-tex4ht.def
+File: pgfsys-tex4ht.def 2013/08/06  (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-svg.de
+f
+File: pgfsys-common-svg.def 2013/08/28  (rcs-revision 1.24)
+\pgf@sys@svg@objectcount=\count145
+\pgf@sys@svg@scopecount=\count146
+)
+\pgf@sys@svg@picnum=\count147
+\pgf@sys@svg@nodenum=\count148
+\pgfsys@foreignobject@Box=\box31
+\pgf@s=\dimen155
+\pgf@t=\dimen156
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count149
+\pgfsyssoftpath@bigbuffer@items=\count150
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen157
+\pgf@picmaxx=\dimen158
+\pgf@picminy=\dimen159
+\pgf@picmaxy=\dimen160
+\pgf@pathminx=\dimen161
+\pgf@pathmaxx=\dimen162
+\pgf@pathminy=\dimen163
+\pgf@pathmaxy=\dimen164
+\pgf@xx=\dimen165
+\pgf@xy=\dimen166
+\pgf@yx=\dimen167
+\pgf@yy=\dimen168
+\pgf@zx=\dimen169
+\pgf@zy=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen171
+\pgf@path@lasty=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen173
+\pgf@shorten@start@additional=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count151
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen176
+\pgf@pt@y=\dimen177
+\pgf@pt@temp=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen179
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count152
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box36
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen185
+)
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikzleveldistance=\dimen190
+\tikzsiblingdistance=\dimen191
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
+)
+\tikz@expandcount=\count161
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\len@board@tempx=\skip53
+\len@board@tempy=\skip54
+\c@cnt@board@file=\count162
+\c@cnt@board@rank=\count163
+\c@cnt@board=\count164
+\c@filelabel=\count165
+\c@ranklabel=\count166
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-main.sty
+File: chessboard-keys-main.sty 2014/05/01 version v1.7 key definitions for ches
+sboard.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-pgf.sty
+File: chessboard-keys-pgf.sty 2014/05/01 version v1.7 key definitions for chess
+board.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-pgf.sty
+File: chessboard-pgf.sty 2014/05/01 version v1.7 pgf code for chessboard.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-keys.sty
+File: xskak-keys.sty 2015/01/02 version v1.4 key definitions for xskak.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-nagdef.sty
+File: xskak-nagdef.sty 2015/01/02 version v1.4 nag definitions for xskak.sty
+)
+LaTeX Info: Redefining \variation on input line 1472.
+)
 (./configfile.cfg (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
 version 2017-05-09-09:21
 --------------------------------------
@@ -386,14 +683,14 @@ version 2017-05-09-09:21
 version 2018-02-11-15:01
 
 --- needs --- tex4ht skak-sample2 ---
-\tmp:cnt=\count140
+\tmp:cnt=\count167
 \openout15 = `skak-sample2.tmp'.
 
 (./skak-sample2.tmp)
-\tmp:dim=\skip53
+\tmp:dim=\skip55
  (./skak-sample2.xref)
-\:refout=\write3
-\openout3 = `skak-sample2.xref'.
+\:refout=\write4
+\openout4 = `skak-sample2.xref'.
 
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
@@ -480,8 +777,8 @@ on `imgdir:.../'
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
 )
-\:tokwrite=\toks30
-\:tokpage=\toks31
+\:tokwrite=\toks36
+\:tokpage=\toks37
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -491,8 +788,8 @@ version 2017-03-30-16:04
 --------------------------------------
 \openout15 = `skak-sample2.4ct'.
 
-\:tocout=\write4
-\openout4 = `skak-sample2.4tc'.
+\:tocout=\write5
+\openout5 = `skak-sample2.4tc'.
 
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
@@ -605,17 +902,7 @@ index=2)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/skak.4ht
-version 2017-05-09-09:46
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+)) (./skak.4ht) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/ifthen.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
@@ -659,6 +946,49 @@ version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pgf.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/everyshi.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2017-10-21-16:16
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphics.4ht
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
@@ -711,22 +1041,863 @@ File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    ... okay on input line 12.
 --- file skak-sample2.css ---
 )
-l. 13 Writing skak-sample2.idv[1] (skak-sample20x.png)
+l. 15 Writing skak-sample2.idv[1] (skak-sample20x.png)
  [1
 
 ] [2
 
 ]
-l. 26 Writing skak-sample2.idv[2] (skak-sample21x.png)
+l. 21 Writing skak-sample2.idv[2] (skak-sample21x.png)
  [3] [4]
-(./skak-sample2.aux) ) 
-Here is how much of TeX's memory you used:
- 13966 strings out of 492983
- 214317 string characters out of 6134922
- 411131 words of memory out of 5000000
- 17347 multiletter control sequences out of 15000+600000
- 5037 words of font info for 20 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 48i,6n,53p,1071b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
+[5
 
-Output written on skak-sample2.dvi (4 pages, 18804 bytes).
+]
+l. 48 Writing skak-sample2.idv[3] (skak-sample22x.png)
+ [6] [7
+
+]
+l. 54 Writing skak-sample2.idv[4] (skak-sample23x.png)
+ [8] [9
+
+]
+l. 69 Writing skak-sample2.idv[5] (skak-sample24x.png)
+ [10] [11
+
+]
+l. 75 Writing skak-sample2.idv[6] (skak-sample25x.png)
+ [12] [13] [14
+
+]
+l. 96 Writing skak-sample2.idv[7] (skak-sample26x.png)
+ [15] [16
+
+]
+l. 102 Writing skak-sample2.idv[8] (skak-sample27x.png)
+
+
+LaTeX Font Warning: Font shape `LSI/skaknew/m/it' undefined
+(Font)              using `LSI/skaknew/m/n' instead on input line 107.
+
+
+LaTeX Font Warning: Font shape `LSF/skaknew/m/it' undefined
+(Font)              using `LSF/skaknew/m/n' instead on input line 107.
+
+[17] [18] [19
+
+]
+l. 123 Writing skak-sample2.idv[9] (skak-sample28x.png)
+ [20] [21
+
+]
+l. 129 Writing skak-sample2.idv[10] (skak-sample29x.png)
+ [22] [23
+
+]
+l. 146 Writing skak-sample2.idv[11] (skak-sample210x.png)
+ [24] [25
+
+]
+l. 153 Writing skak-sample2.idv[12] (skak-sample211x.png)
+ [26] [27] [28
+
+]
+l. 176 Writing skak-sample2.idv[13] (skak-sample212x.png)
+ [29] [30
+
+]
+l. 182 Writing skak-sample2.idv[14] (skak-sample213x.png)
+ [31]
+[32] [33
+
+]
+l. 203 Writing skak-sample2.idv[15] (skak-sample214x.png)
+ [34] [35
+
+]
+l. 209 Writing skak-sample2.idv[16] (skak-sample215x.png)
+ [36] [37] [38
+
+]
+l. 228 Writing skak-sample2.idv[17] (skak-sample216x.png)
+ [39] [40
+
+]
+l. 234 Writing skak-sample2.idv[18] (skak-sample217x.png)
+ [41] [42
+
+]
+l. 250 Writing skak-sample2.idv[19] (skak-sample218x.png)
+ [43] [44
+
+]
+l. 257 Writing skak-sample2.idv[20] (skak-sample219x.png)
+ [45] [46]
+[47
+
+]
+l. 280 Writing skak-sample2.idv[21] (skak-sample220x.png)
+ [48] [49
+
+]
+l. 286 Writing skak-sample2.idv[22] (skak-sample221x.png)
+ [50] [51
+
+]
+l. 298 Writing skak-sample2.idv[23] (skak-sample222x.png)
+ [52] [53
+
+]
+l. 304 Writing skak-sample2.idv[24] (skak-sample223x.png)
+ [54] [55
+
+]
+l. 316 Writing skak-sample2.idv[25] (skak-sample224x.png)
+ [56] [57
+
+]
+l. 322 Writing skak-sample2.idv[26] (skak-sample225x.png)
+ [58] [59
+
+]
+l. 338 Writing skak-sample2.idv[27] (skak-sample226x.png)
+ [60] [61
+
+]
+l. 344 Writing skak-sample2.idv[28] (skak-sample227x.png)
+
+[62] [63] [64
+
+]
+l. 368 Writing skak-sample2.idv[29] (skak-sample228x.png)
+ [65] [66
+
+]
+l. 374 Writing skak-sample2.idv[30] (skak-sample229x.png)
+ [67] [68] [69
+
+]
+l. 395 Writing skak-sample2.idv[31] (skak-sample230x.png)
+ [70] [71
+
+]
+l. 401 Writing skak-sample2.idv[32] (skak-sample231x.png)
+ [72] [73
+
+]
+l. 417 Writing skak-sample2.idv[33] (skak-sample232x.png)
+ [74] [75
+
+]
+l. 423 Writing skak-sample2.idv[34] (skak-sample233x.png)
+ [76]
+[77
+
+]
+l. 440 Writing skak-sample2.idv[35] (skak-sample234x.png)
+ [78] [79
+
+]
+l. 446 Writing skak-sample2.idv[36] (skak-sample235x.png)
+ [80] [81
+
+]
+l. 461 Writing skak-sample2.idv[37] (skak-sample236x.png)
+ [82] [83
+
+]
+l. 467 Writing skak-sample2.idv[38] (skak-sample237x.png)
+ [84] [85
+
+]
+l. 482 Writing skak-sample2.idv[39] (skak-sample238x.png)
+ [86] [87
+
+]
+l. 488 Writing skak-sample2.idv[40] (skak-sample239x.png)
+ [88] [89
+
+]
+l. 504 Writing skak-sample2.idv[41] (skak-sample240x.png)
+ [90] [91
+
+]
+l. 510 Writing skak-sample2.idv[42] (skak-sample241x.png)
+
+[92] [93] [94
+
+]
+l. 532 Writing skak-sample2.idv[43] (skak-sample242x.png)
+ [95] [96
+
+]
+l. 539 Writing skak-sample2.idv[44] (skak-sample243x.png)
+ [97] [98
+
+]
+l. 554 Writing skak-sample2.idv[45] (skak-sample244x.png)
+ [99] [100
+
+]
+l. 560 Writing skak-sample2.idv[46] (skak-sample245x.png)
+ [101] [102
+
+]
+l. 573 Writing skak-sample2.idv[47] (skak-sample246x.png)
+ [103] [104
+
+]
+l. 579 Writing skak-sample2.idv[48] (skak-sample247x.png)
+ [105]
+[106
+
+]
+l. 592 Writing skak-sample2.idv[49] (skak-sample248x.png)
+ [107] [108
+
+]
+l. 598 Writing skak-sample2.idv[50] (skak-sample249x.png)
+ [109] [110
+
+]
+l. 611 Writing skak-sample2.idv[51] (skak-sample250x.png)
+ [111] [112
+
+]
+l. 617 Writing skak-sample2.idv[52] (skak-sample251x.png)
+ [113] [114] [115
+
+]
+l. 642 Writing skak-sample2.idv[53] (skak-sample252x.png)
+ [116] [117
+
+]
+l. 648 Writing skak-sample2.idv[54] (skak-sample253x.png)
+
+[118] [119
+
+]
+l. 665 Writing skak-sample2.idv[55] (skak-sample254x.png)
+ [120] [121
+
+]
+l. 671 Writing skak-sample2.idv[56] (skak-sample255x.png)
+ [122] [123
+
+]
+l. 685 Writing skak-sample2.idv[57] (skak-sample256x.png)
+ [124] [125
+
+]
+l. 691 Writing skak-sample2.idv[58] (skak-sample257x.png)
+ [126] [127] [128
+
+]
+l. 712 Writing skak-sample2.idv[59] (skak-sample258x.png)
+ [129]
+[130
+
+]
+l. 718 Writing skak-sample2.idv[60] (skak-sample259x.png)
+ [131] [132
+
+]
+l. 733 Writing skak-sample2.idv[61] (skak-sample260x.png)
+ [133] [134
+
+]
+l. 739 Writing skak-sample2.idv[62] (skak-sample261x.png)
+ [135] [136
+
+]
+l. 753 Writing skak-sample2.idv[63] (skak-sample262x.png)
+ [137] [138
+
+]
+l. 759 Writing skak-sample2.idv[64] (skak-sample263x.png)
+ [139] [140
+
+]
+l. 774 Writing skak-sample2.idv[65] (skak-sample264x.png)
+ [141]
+[142
+
+]
+l. 780 Writing skak-sample2.idv[66] (skak-sample265x.png)
+ [143] [144
+
+]
+l. 795 Writing skak-sample2.idv[67] (skak-sample266x.png)
+ [145] [146
+
+]
+l. 802 Writing skak-sample2.idv[68] (skak-sample267x.png)
+ [147] [148
+
+]
+l. 816 Writing skak-sample2.idv[69] (skak-sample268x.png)
+ [149] [150
+
+]
+l. 822 Writing skak-sample2.idv[70] (skak-sample269x.png)
+ [151] [152
+
+]
+l. 836 Writing skak-sample2.idv[71] (skak-sample270x.png)
+ [153]
+[154
+
+]
+l. 842 Writing skak-sample2.idv[72] (skak-sample271x.png)
+ [155] [156
+
+]
+l. 855 Writing skak-sample2.idv[73] (skak-sample272x.png)
+ [157] [158
+
+]
+l. 861 Writing skak-sample2.idv[74] (skak-sample273x.png)
+ [159] [160
+
+]
+l. 875 Writing skak-sample2.idv[75] (skak-sample274x.png)
+ [161] [162
+
+]
+l. 881 Writing skak-sample2.idv[76] (skak-sample275x.png)
+ [163] [164
+
+]
+l. 898 Writing skak-sample2.idv[77] (skak-sample276x.png)
+ [165]
+[166
+
+]
+l. 904 Writing skak-sample2.idv[78] (skak-sample277x.png)
+ [167] [168
+
+]
+l. 919 Writing skak-sample2.idv[79] (skak-sample278x.png)
+ [169] [170
+
+]
+l. 926 Writing skak-sample2.idv[80] (skak-sample279x.png)
+ [171] [172
+
+]
+l. 943 Writing skak-sample2.idv[81] (skak-sample280x.png)
+ [173] [174
+
+]
+l. 949 Writing skak-sample2.idv[82] (skak-sample281x.png)
+ [175] [176
+
+]
+l. 964 Writing skak-sample2.idv[83] (skak-sample282x.png)
+ [177]
+[178
+
+]
+l. 970 Writing skak-sample2.idv[84] (skak-sample283x.png)
+ [179] [180] [181
+
+]
+l. 990 Writing skak-sample2.idv[85] (skak-sample284x.png)
+ [182] [183
+
+]
+l. 996 Writing skak-sample2.idv[86] (skak-sample285x.png)
+ [184] [185
+
+]
+l. 1011 Writing skak-sample2.idv[87] (skak-sample286x.png)
+ [186] [187
+
+]
+l. 1017 Writing skak-sample2.idv[88] (skak-sample287x.png)
+ [188] [189]
+[190
+
+]
+l. 1038 Writing skak-sample2.idv[89] (skak-sample288x.png)
+ [191] [192
+
+]
+l. 1044 Writing skak-sample2.idv[90] (skak-sample289x.png)
+ [193] [194] [195
+
+]
+l. 1067 Writing skak-sample2.idv[91] (skak-sample290x.png)
+ [196] [197
+
+]
+l. 1073 Writing skak-sample2.idv[92] (skak-sample291x.png)
+ [198] [199] [200
+
+]
+l. 1093 Writing skak-sample2.idv[93] (skak-sample292x.png)
+ [201]
+[202
+
+]
+l. 1100 Writing skak-sample2.idv[94] (skak-sample293x.png)
+ [203] [204
+
+]
+l. 1120 Writing skak-sample2.idv[95] (skak-sample294x.png)
+ [205] [206
+
+]
+l. 1126 Writing skak-sample2.idv[96] (skak-sample295x.png)
+ [207] [208
+
+]
+l. 1142 Writing skak-sample2.idv[97] (skak-sample296x.png)
+ [209] [210
+
+]
+l. 1148 Writing skak-sample2.idv[98] (skak-sample297x.png)
+ [211] [212
+
+]
+l. 1160 Writing skak-sample2.idv[99] (skak-sample298x.png)
+ [213]
+[214
+
+]
+l. 1166 Writing skak-sample2.idv[100] (skak-sample299x.png)
+ [215] [216
+
+]
+l. 1183 Writing skak-sample2.idv[101] (skak-sample2100x.png)
+ [217] [218
+
+]
+l. 1189 Writing skak-sample2.idv[102] (skak-sample2101x.png)
+ [219] [220] [221
+
+]
+l. 1207 Writing skak-sample2.idv[103] (skak-sample2102x.png)
+ [222] [223
+
+]
+l. 1213 Writing skak-sample2.idv[104] (skak-sample2103x.png)
+ [224] [225]
+[226
+
+]
+l. 1230 Writing skak-sample2.idv[105] (skak-sample2104x.png)
+ [227] [228
+
+]
+l. 1236 Writing skak-sample2.idv[106] (skak-sample2105x.png)
+ [229] [230
+
+]
+l. 1250 Writing skak-sample2.idv[107] (skak-sample2106x.png)
+ [231] [232
+
+]
+l. 1256 Writing skak-sample2.idv[108] (skak-sample2107x.png)
+ [233] [234
+
+]
+l. 1270 Writing skak-sample2.idv[109] (skak-sample2108x.png)
+ [235] [236
+
+]
+l. 1276 Writing skak-sample2.idv[110] (skak-sample2109x.png)
+ [237]
+[238
+
+]
+l. 1292 Writing skak-sample2.idv[111] (skak-sample2110x.png)
+ [239] [240
+
+]
+l. 1298 Writing skak-sample2.idv[112] (skak-sample2111x.png)
+ [241] [242
+
+]
+l. 1313 Writing skak-sample2.idv[113] (skak-sample2112x.png)
+ [243] [244
+
+]
+l. 1319 Writing skak-sample2.idv[114] (skak-sample2113x.png)
+ [245] [246
+
+]
+l. 1338 Writing skak-sample2.idv[115] (skak-sample2114x.png)
+ [247] [248
+
+]
+l. 1344 Writing skak-sample2.idv[116] (skak-sample2115x.png)
+ [249]
+[250
+
+]
+l. 1359 Writing skak-sample2.idv[117] (skak-sample2116x.png)
+ [251] [252
+
+]
+l. 1365 Writing skak-sample2.idv[118] (skak-sample2117x.png)
+ [253] [254] [255
+
+]
+l. 1384 Writing skak-sample2.idv[119] (skak-sample2118x.png)
+ [256] [257
+
+]
+l. 1390 Writing skak-sample2.idv[120] (skak-sample2119x.png)
+ [258] [259
+
+]
+l. 1405 Writing skak-sample2.idv[121] (skak-sample2120x.png)
+ [260] [261
+
+]
+l. 1411 Writing skak-sample2.idv[122] (skak-sample2121x.png)
+
+[262] [263
+
+]
+l. 1423 Writing skak-sample2.idv[123] (skak-sample2122x.png)
+ [264] [265
+
+]
+l. 1429 Writing skak-sample2.idv[124] (skak-sample2123x.png)
+ [266] [267
+
+]
+l. 1445 Writing skak-sample2.idv[125] (skak-sample2124x.png)
+ [268] [269
+
+]
+l. 1451 Writing skak-sample2.idv[126] (skak-sample2125x.png)
+ [270] [271
+
+]
+l. 1468 Writing skak-sample2.idv[127] (skak-sample2126x.png)
+ [272] [273
+
+]
+l. 1474 Writing skak-sample2.idv[128] (skak-sample2127x.png)
+
+[274] [275
+
+]
+l. 1488 Writing skak-sample2.idv[129] (skak-sample2128x.png)
+ [276] [277
+
+]
+l. 1494 Writing skak-sample2.idv[130] (skak-sample2129x.png)
+ [278] [279
+
+]
+l. 1509 Writing skak-sample2.idv[131] (skak-sample2130x.png)
+ [280] [281
+
+]
+l. 1515 Writing skak-sample2.idv[132] (skak-sample2131x.png)
+ [282] [283
+
+]
+l. 1530 Writing skak-sample2.idv[133] (skak-sample2132x.png)
+ [284] [285
+
+]
+l. 1536 Writing skak-sample2.idv[134] (skak-sample2133x.png)
+
+[286] [287] [288
+
+]
+l. 1559 Writing skak-sample2.idv[135] (skak-sample2134x.png)
+ [289] [290
+
+]
+l. 1565 Writing skak-sample2.idv[136] (skak-sample2135x.png)
+ [291] [292] [293
+
+]
+l. 1597 Writing skak-sample2.idv[137] (skak-sample2136x.png)
+ [294] [295
+
+]
+l. 1603 Writing skak-sample2.idv[138] (skak-sample2137x.png)
+ [296] [297]
+[298
+
+]
+l. 1626 Writing skak-sample2.idv[139] (skak-sample2138x.png)
+ [299] [300
+
+]
+l. 1633 Writing skak-sample2.idv[140] (skak-sample2139x.png)
+ [301] [302] [303
+
+]
+l. 1656 Writing skak-sample2.idv[141] (skak-sample2140x.png)
+ [304] [305
+
+]
+l. 1663 Writing skak-sample2.idv[142] (skak-sample2141x.png)
+ [306] [307] [308
+
+]
+l. 1690 Writing skak-sample2.idv[143] (skak-sample2142x.png)
+ [309]
+[310
+
+]
+l. 1696 Writing skak-sample2.idv[144] (skak-sample2143x.png)
+ [311] [312] [313
+
+]
+l. 1722 Writing skak-sample2.idv[145] (skak-sample2144x.png)
+ [314] [315
+
+]
+l. 1728 Writing skak-sample2.idv[146] (skak-sample2145x.png)
+ [316] [317
+
+]
+l. 1748 Writing skak-sample2.idv[147] (skak-sample2146x.png)
+ [318] [319
+
+]
+l. 1754 Writing skak-sample2.idv[148] (skak-sample2147x.png)
+ [320] [321
+
+]
+l. 1771 Writing skak-sample2.idv[149] (skak-sample2148x.png)
+
+[322] [323
+
+]
+l. 1777 Writing skak-sample2.idv[150] (skak-sample2149x.png)
+ [324] [325] [326
+
+]
+l. 1798 Writing skak-sample2.idv[151] (skak-sample2150x.png)
+ [327] [328
+
+]
+l. 1804 Writing skak-sample2.idv[152] (skak-sample2151x.png)
+ [329] [330] [331
+
+]
+l. 1824 Writing skak-sample2.idv[153] (skak-sample2152x.png)
+ [332] [333
+
+]
+l. 1830 Writing skak-sample2.idv[154] (skak-sample2153x.png)
+
+[334] [335
+
+]
+l. 1848 Writing skak-sample2.idv[155] (skak-sample2154x.png)
+ [336] [337
+
+]
+l. 1854 Writing skak-sample2.idv[156] (skak-sample2155x.png)
+ [338] [339] [340
+
+]
+l. 1877 Writing skak-sample2.idv[157] (skak-sample2156x.png)
+ [341] [342
+
+]
+l. 1883 Writing skak-sample2.idv[158] (skak-sample2157x.png)
+ [343] [344] [345
+
+]
+l. 1905 Writing skak-sample2.idv[159] (skak-sample2158x.png)
+
+[346] [347
+
+]
+l. 1911 Writing skak-sample2.idv[160] (skak-sample2159x.png)
+ [348] [349] [350] [351
+
+]
+l. 1940 Writing skak-sample2.idv[161] (skak-sample2160x.png)
+ [352] [353
+
+]
+l. 1947 Writing skak-sample2.idv[162] (skak-sample2161x.png)
+ [354] [355
+
+]
+l. 1965 Writing skak-sample2.idv[163] (skak-sample2162x.png)
+ [356] [357
+
+]
+l. 1971 Writing skak-sample2.idv[164] (skak-sample2163x.png)
+
+[358] [359
+
+]
+l. 1988 Writing skak-sample2.idv[165] (skak-sample2164x.png)
+ [360] [361
+
+]
+l. 1994 Writing skak-sample2.idv[166] (skak-sample2165x.png)
+ [362] [363
+
+]
+l. 2014 Writing skak-sample2.idv[167] (skak-sample2166x.png)
+ [364] [365
+
+]
+l. 2020 Writing skak-sample2.idv[168] (skak-sample2167x.png)
+ [366] [367
+
+]
+l. 2038 Writing skak-sample2.idv[169] (skak-sample2168x.png)
+ [368] [369
+
+]
+l. 2044 Writing skak-sample2.idv[170] (skak-sample2169x.png)
+
+[370] [371
+
+]
+l. 2061 Writing skak-sample2.idv[171] (skak-sample2170x.png)
+ [372] [373
+
+]
+l. 2067 Writing skak-sample2.idv[172] (skak-sample2171x.png)
+ [374] [375
+
+]
+l. 2086 Writing skak-sample2.idv[173] (skak-sample2172x.png)
+ [376] [377
+
+]
+l. 2092 Writing skak-sample2.idv[174] (skak-sample2173x.png)
+ [378] [379
+
+]
+l. 2111 Writing skak-sample2.idv[175] (skak-sample2174x.png)
+ [380] [381
+
+]
+l. 2117 Writing skak-sample2.idv[176] (skak-sample2175x.png)
+
+[382] [383] [384
+
+]
+l. 2139 Writing skak-sample2.idv[177] (skak-sample2176x.png)
+ [385] [386
+
+]
+l. 2145 Writing skak-sample2.idv[178] (skak-sample2177x.png)
+ [387] [388
+
+]
+l. 2165 Writing skak-sample2.idv[179] (skak-sample2178x.png)
+ [389] [390
+
+]
+l. 2171 Writing skak-sample2.idv[180] (skak-sample2179x.png)
+ [391] [392
+
+]
+l. 2191 Writing skak-sample2.idv[181] (skak-sample2180x.png)
+ [393]
+[394
+
+]
+l. 2197 Writing skak-sample2.idv[182] (skak-sample2181x.png)
+ [395] [396
+
+]
+l. 2216 Writing skak-sample2.idv[183] (skak-sample2182x.png)
+ [397] [398
+
+]
+l. 2222 Writing skak-sample2.idv[184] (skak-sample2183x.png)
+ [399] [400] [401
+
+]
+l. 2244 Writing skak-sample2.idv[185] (skak-sample2184x.png)
+ [402] [403
+
+]
+l. 2250 Writing skak-sample2.idv[186] (skak-sample2185x.png)
+ [404] [405]
+[406
+
+]
+l. 2272 Writing skak-sample2.idv[187] (skak-sample2186x.png)
+ [407] [408
+
+]
+l. 2278 Writing skak-sample2.idv[188] (skak-sample2187x.png)
+ [409] [410
+
+]
+l. 2293 Writing skak-sample2.idv[189] (skak-sample2188x.png)
+ [411] [412
+
+]
+l. 2299 Writing skak-sample2.idv[190] (skak-sample2189x.png)
+ [413] [414] [415
+
+]
+l. 2322 Writing skak-sample2.idv[191] (skak-sample2190x.png)
+ [416] [417
+
+]
+l. 2328 Writing skak-sample2.idv[192] (skak-sample2191x.png)
+
+[418] [419
+
+]
+l. 2346 Writing skak-sample2.idv[193] (skak-sample2192x.png)
+ [420] [421
+
+]
+l. 2352 Writing skak-sample2.idv[194] (skak-sample2193x.png)
+ [422] [423] [424
+
+]
+l. 2368 Writing skak-sample2.idv[195] (skak-sample2194x.png)
+ [425] [426
+
+]
+l. 2374 Writing skak-sample2.idv[196] (skak-sample2195x.png)
+ [427] [428] [429
+
+]
+l. 2400 Writing skak-sample2.idv[197] (skak-sample2196x.png)
+
+[430] [431
+
+]
+l. 2406 Writing skak-sample2.idv[198] (skak-sample2197x.png)
+ [432] [433] [434
+
+]
+l. 2434 Writing skak-sample2.idv[199] (skak-sample2198x.png)
+ [435] [436
+
+]
+l. 2441 Writing skak-sample2.idv[200] (skak-sample2199x.png)
+ [437] [438] [439
+
+] [440] [441]
+(./skak-sample2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 22100 strings out of 492983
+ 395721 string characters out of 6134922
+ 599025 words of memory out of 5000000
+ 25231 multiletter control sequences out of 15000+600000
+ 5383 words of font info for 21 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 81i,8n,164p,3611b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on skak-sample2.dvi (441 pages, 555204 bytes).

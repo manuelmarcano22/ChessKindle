@@ -22,6 +22,11 @@ skak.4ht:
 \let\oldshowboard\showboard
 \Configure{showboard}{\Picture*{}}{\EndPicture}
 \renewcommand\showboard{\a:showboard\oldshowboard\b:showboard}
+
+\NewConfigure{showinverseboard}{2}
+\let\oldshowboard\showinverseboard
+\Configure{showinverseboard}{\Picture*{}}{\EndPicture}
+\renewcommand\showinverseboard{\a:showinverseboard\oldshowboard\b:showinverseboard}
 ```
 
 
