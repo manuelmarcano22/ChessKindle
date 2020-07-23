@@ -4,9 +4,9 @@
 \renewcommand\showboard{\a:showboard\oldshowboard\b:showboard}
 
 \NewConfigure{showinverseboard}{2}
-\let\oldshowboard\showinverseboard
+\let\oldshowinverseboard\showinverseboard
 \Configure{showinverseboard}{\Picture*{}}{\EndPicture}
-\renewcommand\showinverseboard{\a:showinverseboard\oldshowboard\b:showinverseboard}
+\renewcommand\showinverseboard{\a:showinverseboard\oldshowinverseboard\b:showinverseboard}
 
 
 
