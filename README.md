@@ -3,6 +3,10 @@
 
 How to create a very simple diagram for the kindle. For how to create the html to then convert to mobi with calibre [here](https://tex.stackexchange.com/questions/94749/chess-notation-does-not-show-figurine-font):
 
+
+
+This is based on the code pgn2latex by Felix Kling. It works really nicely with the nested parentheses. He seems to be the webmaster of [Rybka](http://rybkachess.com.www52.your-server.de/index.php?auswahl=Contact) and I found it [here](https://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32208). 
+
 skak-sample.tex:
 ```
 \documentclass{book}
