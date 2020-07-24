@@ -1,0 +1,4960 @@
+\fenboard{8/7p/4kb2/5Rp1/8/2rB4/3K2PP/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxf6+ Kxf6 2. Kxc3 { Win material }}\fenboard{8/7p/4kb2/5Rp1/8/2rB4/3K2PP/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{8/7p/4kb2/5Rp1/8/2rB4/3K2PP/8 w - - 0 1}
+\mainline[level=1]{1. Rxf6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rf3 Rc7 2. Rh3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Ra5 Rc6 2. Ke3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rb5 h5 2. Ra5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. g4 Ra3 2. Rb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Ke3 Rxd3+ 2. Kxd3 Kxf5 3. g4+ Kxg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Be4 Rc4 2. Kd3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Rxg5 Rxd3+ 2. Kxd3 Bxg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. g3 Rxd3+ 2. Kxd3 Kxf5 3. g4+ Kxg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. h4 Rxd3+ 2. Kxd3 Kxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. h3 Rxd3+ 2. Kxd3 Kxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. Bc4+ Kxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1. Rd5 Kxd5 2. Bxh7 Kd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1. Ke2 Rxd3 2. Rxf6+ Kxf6 3. Kxd3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 1. Re5+ Bxe5 2. Bxh7 Ra3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111115)} } 1. Rf2 Rc7 2. Ke3 }
+
+\mainline[level=1]{ 1... Kxf6 2. Kxc3 }
+ Win material 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{8/1p6/p3pk2/5nR1/8/P3rN2/1P3KP1/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxf5+ exf5 2. Kxe3 { Win material }}\fenboard{8/1p6/p3pk2/5nR1/8/P3rN2/1P3KP1/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{8/1p6/p3pk2/5nR1/8/P3rN2/1P3KP1/8 w - - 0 1}
+\mainline[level=1]{1. Rxf5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. g4 Rxf3+ 2. Kxf3 Kxg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rg6+ Kxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nd4 Kxg5 2. Nxf5 Rb3 }
+
+\mainline[level=1]{ 1... exf5 2. Kxe3 }
+ Win material 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r3nrk1/pbp2ppp/1pq5/8/2P2n2/P1QP1N2/1BR2PPP/4RNK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxe8 Raxe8 2. Qxg7# { Find the best continuation }}\fenboard{r3nrk1/pbp2ppp/1pq5/8/2P2n2/P1QP1N2/1BR2PPP/4RNK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r3nrk1/pbp2ppp/1pq5/8/2P2n2/P1QP1N2/1BR2PPP/4RNK1 w - - 0 1}
+\mainline[level=1]{1. Rxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qxg7+ Nxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Ne5 Qxg2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Re4 Qh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Nd4 Qxg2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Qb4 Nh3+ 2. Kh1 Qxf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. g3 Nh3+ 2. Kg2 Qxf3+ 3. Kxh3 Qh5# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Qe5 Nxd3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Ng5 Qxg2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Re7 Nh3+ 2. Kh1 Qxf3 }
+
+\mainline[level=1]{ 1... Raxe8 2. Qxg7# }
+ Find the best continuation 
+
+\variation[level=2]{ 2. Ne5 Qxg2# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r2r2k1/5pb1/2p1P2p/2R1nBpQ/1p2N3/1P5P/PP4q1/1KR5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxe5 Bxe5 2. Qxf7+ Kh8 3. Qh7# { Play for win }}\fenboard{r2r2k1/5pb1/2p1P2p/2R1nBpQ/1p2N3/1P5P/PP4q1/1KR5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r2r2k1/5pb1/2p1P2p/2R1nBpQ/1p2N3/1P5P/PP4q1/1KR5 w - - 0 1}
+\mainline[level=1]{1. Rxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. exf7+ Kf8 2. R5c2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. R5c2 Qf3 2. exf7+ Kf8 3. Qxf3 Nxf3 4. Bg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nf6+ Bxf6 2. Rxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxf7+ Nxf7 2. exf7+ Kxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Bh7+ Kxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Rxc6 Qxb2+ 2. Kxb2 Nc4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. e7 Qxb2+ 2. Kxb2 Nc4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Nxg5 Qxb2+ 2. Kxb2 Nc4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Qxh6 Qxb2+ 2. Kxb2 Nc4+ }
+
+\mainline[level=1]{ 1... Bxe5 2. Qxf7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Nf6+ Bxf6 3. Qxf7+ Kh8 4. Qh7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. exf7+ Kf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Qxh6 Qxb2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Qg6+ fxg6 3. Nf6+ Bxf6 }
+
+\mainline[level=1]{ 2... Kh8 3. Qh7# }
+ Play for win 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Qf8+ Rxf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Qg7+ Kxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Nf6 Qxb2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Bh7 Qxb2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3. e7 Qxb2# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/1q4p1/4p1P1/4Pn1Q/8/5RB1/7K/2r5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qh7+ Kf8 2. Rxf5+ exf5 3. Qh8+ Ke7 4. Qxg7+ Kd8 5. Qxb7 { Play for win }}\fenboard{6k1/1q4p1/4p1P1/4Pn1Q/8/5RB1/7K/2r5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{6k1/1q4p1/4p1P1/4Pn1Q/8/5RB1/7K/2r5 w - - 0 1}
+\mainline[level=1]{1. Qh7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rxf5 Qh1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qh8+ Kxh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Qg5 Rd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qh6 gxh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Qxf5 exf5 }
+
+\mainline[level=1]{ 1... Kf8 2. Rxf5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Qh8+ Ke7 3. Bh4+ Kd7 4. Qd8+ Kc6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Bh4 Rh1+ 3. Kxh1 Qxf3+ 4. Kg1 Qg4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Qxg7+ Kxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Rd3 Qh1# }
+
+\mainline[level=1]{ 2... exf5 3. Qh8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Qxg7+ Kxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. e6 Qh1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Bh4 Rc2+ 4. Bf2 Rxf2+ 5. Kg3 Qf3+ }
+
+\mainline[level=1]{ 3... Ke7 4. Qxg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Bh4+ Ke6 5. Qe8+ Kd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Qh4+ Ke6 }
+
+\mainline[level=1]{ 4... Kd8 5. Qxb7 }
+ Play for win 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 5. Bh4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 5. Qf8+ Kc7 6. e6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 5. Qc7+ Qxc7 6. Bh4+ Kd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 5. Qf6+ Ke8 6. Qh8+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/pp2rp2/6pp/3R1n2/8/3Q4/Pq4PP/5R1K w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rdxf5 -- { Decisive
+advantage }}\fenboard{6k1/pp2rp2/6pp/3R1n2/8/3Q4/Pq4PP/5R1K w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{6k1/pp2rp2/6pp/3R1n2/8/3Q4/Pq4PP/5R1K w - - 0 1}
+\mainline[level=1]{1. Rdxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rd8+ Kg7 2. Qb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rfxf5 gxf5 2. Rd8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rd7 Ne3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxf5 gxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rb1 Qxa2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. g4 Ne3 2. Rd8+ Kg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Rd1 Ne3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Re5 Rxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Qb1 Qe2 2. Qd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Rb5 Qg7 2. Qd8+ }
+
+\mainline[level=1]{ 1... -- }
+ Decisive
+advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... gxf5 2. Qd8+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 2. Qxf5 Qe5 3. Qc8+ Kh7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 2. Qg3+ Kh7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a3)} } 2. Rxf5 Re1+ 3. Qf1 Rxf1+ 4. Rxf1 Qxa2 } 
+\variation[level=2]{ 2... Kg7 3. Qxe7 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 3. Qe8 Rxe8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 3. Rxf5 Re1+ 4. Rf1 Rxf1# } 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{rr3nk1/6q1/2p1pRP1/3pP1Qp/6p1/2P3P1/N6P/K1R5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rf7 Qxg6 2. Rxf8+ Kg7 3. Qe7+ Kh6 4. Rf6 { Decisive advantage }}\fenboard{rr3nk1/6q1/2p1pRP1/3pP1Qp/6p1/2P3P1/N6P/K1R5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{rr3nk1/6q1/2p1pRP1/3pP1Qp/6p1/2P3P1/N6P/K1R5 w - - 0 1}
+\mainline[level=1]{1. Rf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qd2 Nxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxf8+ Rxf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Qxh5 Rxa2+ 2. Kxa2 Qa7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Rcf1 Rxa2+ 2. Kxa2 Qa7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rf3 Rxa2+ 2. Kxa2 Qa7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. h4 Rxa2+ 2. Kxa2 Qa7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Rb1 Rxa2+ 2. Kxa2 Qa7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Rxe6 Rxa2+ 2. Kxa2 Qa7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Qh6 Rxa2+ 2. Kxa2 Qa7# }
+
+\mainline[level=1]{ 1... Qxg6 2. Rxf8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Qxg6+ Nxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Qe7 Qxf7 3. Qxf7+ Kxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Rg7+ Kxg7 3. Qf6+ Qxf6 4. exf6+ Kxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Qf6 Qxf7 3. Qxf7+ Kxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2. Rf6 Qxg5 }
+
+\mainline[level=1]{ 2... Kg7 3. Qe7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Qxg6+ Kxg6 4. Rxb8 Rxb8 5. Rf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Qf6+ Qxf6 4. Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Rg8+ Rxg8 4. Qe7+ Kh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Rf7+ Kxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3. Rf6 Qxg5 4. Rf7+ Kxf7 5. Rf1+ Kg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 3. Rxb8 Rxa2+ 4. Kxa2 Qxg5 }
+
+\mainline[level=1]{ 3... Kh6 4. Rf6 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Rxb8 Rxb8 5. Rf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Rh8+ Rxh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 4. Qf6 Rxf8 5. Qxg6+ Kxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 4. Qh7+ Qxh7 5. Rxb8 Rxb8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 4. Rf7 Re8 5. Qf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 4. Rg8 Rxg8 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r3rn1k/3q2b1/4p2p/1Q1pn1p1/1N1N2P1/PR4BP/1P6/5RK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Bxe5 Bxe5 2. Rxf8+ Rxf8 3. Qxd7 Bxd4+ 4. Kg2 Rf2+ 5. Kg3 { Decisive advantage }}\fenboard{r3rn1k/3q2b1/4p2p/1Q1pn1p1/1N1N2P1/PR4BP/1P6/5RK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r3rn1k/3q2b1/4p2p/1Q1pn1p1/1N1N2P1/PR4BP/1P6/5RK1 w - - 0 1}
+\mainline[level=1]{1. Bxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rxf8+ Rxf8 2. Bxe5 Qxb5 3. Bxg7+ Kxg7 4. Nxb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qxd7 Nfxd7 2. Re1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nxd5 Qxd5 2. Qxd5 exd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Rf7 Qxf7 2. Bxe5 Bxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Ndc6 Reb8 2. Qxb8 Rxb8 3. Bxe5 Bxe5 4. Nxe5 Qc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Nbc6 Nxc6 2. Nxc6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Nxe6 Qxb5 2. Nxg7 Kxg7 }
+
+\mainline[level=1]{ 1... Bxe5 }
+
+\variation[level=2]{ 1... Qxb5 2. Bxg7+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 2. Nxb5 Bxe5 3. Nd3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 2. Rxf8+ Rxf8 3. Bxg7+ Kxg7 4. Nxb5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 2. Nbc6 Qa6 3. Bxg7+ Kxg7 } 
+\variation[level=2]{ 2... Kxg7 3. Nxb5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 3. Rf7+ Kxf7 4. Nxb5 Nd7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 3. Nxe6+ Nxe6 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 3. Nf5+ exf5 4. gxf5 Re2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{d)} } 3. Rxf8 Qc5 } 
+
+\mainline[level=1]{ 2. Rxf8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Qd3 Rac8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Qxd7 Bxd4+ 3. Kg2 Nxd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Nxe6 Qxb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Ndc6 Ng6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2. Rf7 Bxd4+ 3. Kh2 Qxb5 }
+
+\mainline[level=1]{ 2... Rxf8 3. Qxd7 }
+
+\variation[level=2]{ 3. Nxe6 Qxb5 }
+
+\mainline[level=1]{ 3... Bxd4+ 4. Kg2 Rf2+ 5. Kg3 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4q3/2R1p1k1/3p1bpr/1p1P4/4Q3/5RP1/1P3P2/rB4K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxf6 Rxb1+ 2. Qxb1 Kxf6 3. Qe4 Qf7 4. Qd4+ Kg5 5. Qe3+ Kh5 6. g4+ Kxg4 7. Qxh6 { Decisive advantage }}\fenboard{4q3/2R1p1k1/3p1bpr/1p1P4/4Q3/5RP1/1P3P2/rB4K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{4q3/2R1p1k1/3p1bpr/1p1P4/4Q3/5RP1/1P3P2/rB4K1 w - - 0 1}
+\mainline[level=1]{1. Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rxe7+ Qxe7 2. Qxe7+ Bxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qxg6+ Qxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Qe6 Rxb1+ 2. Kg2 Rh2+ 3. Kxh2 Qh8+ 4. Qh3 Rh1+ 5. Kxh1 Qxh3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxe7+ Bxe7 }
+
+\mainline[level=1]{ 1... Rxb1+ }
+
+\variation[level=2]{ 1... Kxf6 2. Qe6+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 2. Kg2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 2. Qf4+ Kg7 3. Qe4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 2. Rxe7 Qxe7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{d)} } 2. Qxe7+ Qxe7 3. Rxe7 Rxb1+ 4. Kg2 Kxe7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{e)} } 2. Qd4+ Kf7 3. Qe4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{f)} } 2. Qxg6+ Qxg6 } 
+\variation[level=2]{ 2... Kg5 3. f4+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 3. Qe3+ Kf6 4. Qe6+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 3. Rxe7 Rxb1+ 4. Kg2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 3. Qxe7+ Qxe7 4. Rxe7 Rxb1+ 5. Kg2 Rxb2 } 
+\variation[level=2]{ 3... Kh5 4. Qh3# }
+
+\mainline[level=1]{ 2. Qxb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Kg2 Rh2+ 3. Kf3 Kxf6 4. Qe6+ Kg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Rc1 Rxc1+ 3. Kg2 Rh2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Qe1 Rxe1+ 3. Kg2 Kxf6 }
+
+\mainline[level=1]{ 2... Kxf6 3. Qe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Qc1 Rh5 4. Rc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Qe1 e5 4. Qe3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. f4 Qb8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Qd3 Qd8 4. Qf3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3. Qxg6+ Qxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 3. g4 Qd8 4. Qc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 3. Rxe7 Qxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 3. Qf5+ gxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 3. b4 Rh5 4. Qc1 }
+
+\mainline[level=1]{ 3... Qf7 4. Qd4+ Kg5 }
+
+\variation[level=2]{ 4... Kf5 5. Qf4# }
+
+\mainline[level=1]{ 5. Qe3+ Kh5 6. g4+ Kxg4 7. Qxh6 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2rbr2k/1pq2ppp/p3bn2/4p1B1/P3P3/2N3Q1/1PP1B1PP/3R1R1K w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxd8 Qxd8 2. Qh4 Bc4 3. Rxf6 Bxe2 4. Rh6 f6 5. Bxf6 gxf6 6. Rxh7+ Kg8 7. Qh6 Rc7 8. Qg6+ Kf8 9. Rh8+ Ke7 10. Nd5+ { Play for
+advantage }}\fenboard{2rbr2k/1pq2ppp/p3bn2/4p1B1/P3P3/2N3Q1/1PP1B1PP/3R1R1K w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{2rbr2k/1pq2ppp/p3bn2/4p1B1/P3P3/2N3Q1/1PP1B1PP/3R1R1K w - - 0 1}
+\mainline[level=1]{1. Rxd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Bxf6 Bxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxf6 Bxf6 2. Bxf6 gxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nd5 Nxe4 2. Nxc7 Nxg3+ 3. hxg3 Bxc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qh4 Ng8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Bh6 gxh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Bg4 Nxg4 2. Bxd8 Rexd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Nb5 axb5 2. Bxf6 Bxf6 3. Bxb5 Red8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Rd5 Nxe4 2. Nxe4 Bxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Qxe5 Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Bh5 Nxh5 }
+
+\mainline[level=1]{ 1... Qxd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rcxd8 2. Rxf6 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 2. Bxf6 gxf6 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 2. Qh4 Ng8 3. Bxd8 Rxd8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a3)} } 2. Nd5 Bxd5 3. Bxf6 gxf6 4. exd5 Rxd5 } 
+
+\mainline[level=1]{ 2. Qh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Rd1 Qc7 3. Bxf6 gxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Qxe5 Bg4 3. Bxf6 gxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Rxf6 gxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Bxf6 gxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2. Nd5 Nxe4 3. Bxd8 Nxg3+ 4. hxg3 Bxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 2. Qd3 Qxd3 3. Bxd3 Kg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 2. Bh5 Nxh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 2. Bh6 gxh6 3. Qxe5 Bc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 2. Bg4 Bxg4 3. Bxf6 gxf6 4. Qxg4 Qd2 }
+
+\mainline[level=1]{ 2... Bc4 3. Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Bxf6 gxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Bxc4 Rxc4 4. Rxf6 Rxc3 5. Rf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Rd1 Qb6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Bg4 Bxf1 4. Bxc8 Qxc8 5. Bxf6 Re6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3. Nd5 Bxd5 4. exd5 Qxd5 5. Rxf6 }
+
+\mainline[level=1]{ 3... Bxe2 4. Rh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Nd5 Rxc2 5. h3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Rxf7 Qd6 5. Nxe2 Rxc2 6. Ng3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 4. Nxe2 Kg8 5. Qg3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 4. Rf2 f6 5. Bxf6 gxf6 6. Rxe2 f5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 4. Qxh7+ Kxh7 5. Rh6+ gxh6 6. Bxd8 Rexd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 4. Bh6 Rxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 4. Rd6 Qxd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 4. Rf1 f6 5. Bxf6 gxf6 6. Nxe2 Rxc2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 4. Re6 Qd7 }
+
+\mainline[level=1]{ 4... f6 5. Bxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 5. Rxh7+ Kg8 6. Nd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 5. Rxf6 Rxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 5. Nxe2 Qd1+ 6. Ng1 gxh6 7. Bxf6+ Kg8 }
+
+\mainline[level=1]{ 5... gxf6 6. Rxh7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 6. Rxf6 Rxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 6. Qxf6+ Qxf6 7. Rxf6 Bc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 6. Rg6 Rxc3 }
+
+\mainline[level=1]{ 6... Kg8 7. Qh6 Rc7 8. Qg6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 8. Rh8+ Kf7 9. Qh7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 8. Rxc7 Qxc7 9. Qg6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 8. Nd5 Rxh7 9. Nxf6+ Kf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 8. Qg7+ Rxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 8. Rg7+ Rxg7 9. Nxe2 Qd1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 8. Qxf6 Qxf6 9. Nxe2 Qf1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 8. Nxe2 Rxh7 }
+
+\mainline[level=1]{ 8... Kf8 9. Rh8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 9. Qh6+ Kg8 10. Qg6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 9. Qg8+ Kxg8 10. Rxc7 Qd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 9. Nd5 Rxh7 10. Qxh7 Bc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 9. Rh6 Bc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 9. Rf7+ Rxf7 10. Nxe2 Qd1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 9. Qxf6+ Qxf6 10. Nxe2 Qf1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 9. Qh5 Bxh5 10. Rxc7 Qxc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 9. Rxc7 Qxc7 10. Qxf6+ Qf7 11. Qh8+ }
+
+\mainline[level=1]{ 9... Ke7 10. Nd5+ }
+ Play for
+advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 10. Rh7+ Kd6 11. Rxc7 Kxc7 12. Nxe2 Qd1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 10. Qg7+ Kd6 11. Rxe8 Qxe8 12. Qxf6+ Kd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 10. Qh7+ Kd6 11. Rxe8 Qxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 10. Nxe2 Rxh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 10. Qf7+ Kxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 10. Rxe8+ Qxe8 11. Nd5+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/6p1/p3br2/1p1pQ3/5r2/1P1B2R1/1P3qPP/2R4K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qf1+ 2. Bxf1 Rxf1+ 3. Rxf1 Rxf1# { Mate in 3 }}\fenboard{6k1/6p1/p3br2/1p1pQ3/5r2/1P1B2R1/1P3qPP/2R4K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{6k1/6p1/p3br2/1p1pQ3/5r2/1P1B2R1/1P3qPP/2R4K b - - 0 1}
+\mainline[level=1]{1... Qf1+ 2. Bxf1 Rxf1+ 3. Rxf1 Rxf1# }
+ Mate in 3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5rk1/pp1rbp1p/5p2/5N1b/2P1p3/2BqQ1P1/PP3R1P/R3K3 b Q - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qd1+ 2. Rxd1 Rxd1# { Mate in 2 }}\fenboard{5rk1/pp1rbp1p/5p2/5N1b/2P1p3/2BqQ1P1/PP3R1P/R3K3 b Q - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{5rk1/pp1rbp1p/5p2/5N1b/2P1p3/2BqQ1P1/PP3R1P/R3K3 b Q - 0 1}
+\mainline[level=1]{1... Qd1+ 2. Rxd1 Rxd1# }
+ Mate in 2 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{3r4/1p5p/p1b3pk/R7/1P4B1/2Q3PP/1P1q1P2/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qd1+ 2. Bxd1 Rxd1+ 3. Kh2 Rh1# { Checkmate }}\fenboard{3r4/1p5p/p1b3pk/R7/1P4B1/2Q3PP/1P1q1P2/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{3r4/1p5p/p1b3pk/R7/1P4B1/2Q3PP/1P1q1P2/6K1 b - - 0 1}
+\mainline[level=1]{1... Qd1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qc1+ 2. Qxc1+ Rd2 3. Qxd2+ Kg7 4. Re5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qe1+ 2. Qxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qxc3 2. bxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Be4 }
+
+\mainline[level=1]{ 2. Bxd1 Rxd1+ 3. Kh2 Rh1# }
+ Checkmate 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1kr2b1r/p2Q2p1/1p3p2/8/2P1Nn1q/5B2/P3PP2/R2R2K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qh2+ 2. Kf1 Qh1+ 3. Bxh1 Rxh1# { Mate in 3 }}\fenboard{1kr2b1r/p2Q2p1/1p3p2/8/2P1Nn1q/5B2/P3PP2/R2R2K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{1kr2b1r/p2Q2p1/1p3p2/8/2P1Nn1q/5B2/P3PP2/R2R2K1 b - - 0 1}
+\mainline[level=1]{1... Qh2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qh1+ 2. Bxh1 Nxe2+ 3. Kf1 Rxh1+ 4. Kxe2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Nxe2+ 2. Kf1 Qh3+ 3. Kxe2 Qxd7 4. Rxd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Nh3+ 2. Kf1 Bd6 3. Qxd6+ Rc7 4. c5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Ng2 2. Qb7+ Kxb7 3. Nc5+ Kb8 4. Na6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qxf2+ 2. Nxf2 Rc6 3. Qxc6 Rh1+ 4. Kxh1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Qg4+ 2. Bxg4 Bb4 3. Qb5 Nxe2+ 4. Bxe2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Qh3 2. Qb7+ Kxb7 3. Nc5+ Kb8 4. Na6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Rxc4 2. Ng3 Rc7 3. Qe8+ Rc8 4. Qd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Bc5 2. Qb7+ Kxb7 3. Nxc5+ Kb8 4. Na6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... Qg5+ 2. Nxg5 Rh1+ 3. Kxh1 Nd5 4. Qxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1... f5 2. Qb7+ Kxb7 3. Nc5+ Kb8 4. Na6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1... Rh5 2. Qb7+ Kxb7 3. Nc5+ Kb8 4. Na6# }
+
+\mainline[level=1]{ 2. Kf1 Qh1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111)} } 2... Nh3 3. Qb7+ Kxb7 4. Nc5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 2... Qg1+ 3. Kxg1 Rh4 4. Qb7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a113)} } 2... Bc5 3. Qb7+ Kxb7 4. Nxc5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a114)} } 2... Ng2 3. Qb7+ Kxb7 4. Nc5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a115)} } 2... Qh3+ 3. Qxh3 Nxh3 4. Rd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a116)} } 2... Qg2+ 3. Bxg2 Nxg2 4. Kxg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a117)} } 2... Bb4 3. Qb7+ Kxb7 4. Nc5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a118)} } 2... Qxf2+ 3. Nxf2 Rh1+ 4. Bxh1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a119)} } 2... Nxe2 3. Qb7+ Kxb7 4. Nc5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1110)} } 2... Rh3 3. Qb7+ Kxb7 4. Nc5+ }
+
+\mainline[level=1]{ 3. Bxh1 Rxh1# }
+ Mate in 3 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111)} } 3... Rh7 4. Qb7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1112)} } 3... Rh2 4. Qb7+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{Q4nk1/1pq2pp1/3p1B2/1B1P4/2P5/2P2b1p/P4PrP/4RK2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxf8+ Kxf8 2. Re8# { Checkmate }}\fenboard{Q4nk1/1pq2pp1/3p1B2/1B1P4/2P5/2P2b1p/P4PrP/4RK2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{Q4nk1/1pq2pp1/3p1B2/1B1P4/2P5/2P2b1p/P4PrP/4RK2 w - - 0 1}
+\mainline[level=1]{1. Qxf8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Re8 gxf6 2. Rxf8+ Kg7 3. Rh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qe8 Qxc4+ 2. Bxc4 Rxh2 3. Qxf8+ Kxf8 4. Re8+ Kxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Bxg7 Kxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Be7 Rxh2 2. Qxf8+ Kh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. a3 Qxc4+ 2. Re2 Bxe2+ 3. Ke1 Rg1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Qxb7 Rxh2 2. a3 Rh1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Re7 Qxe7 2. Bxe7 Rxh2 3. Ke1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Be8 Qxc4+ 2. Re2 Qxe2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Bd8 Rxh2 2. a3 Rh1# }
+
+\mainline[level=1]{ 1... Kxf8 2. Re8# }
+ Checkmate 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Be8 Qxc4+ 3. Re2 Qxe2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Be7+ Kg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Re7 Qxe7 3. Bxe7+ Kxe7 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4k3/2n2p2/4pP2/P2nN2p/4qP2/8/Q5RP/2r3NK b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxg1+ 2. Kxg1 Qe1# { Mate in 2 }}\fenboard{4k3/2n2p2/4pP2/P2nN2p/4qP2/8/Q5RP/2r3NK b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{4k3/2n2p2/4pP2/P2nN2p/4qP2/8/Q5RP/2r3NK b - - 0 1}
+\mainline[level=1]{1... Rxg1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Ne3 2. Qa4+ Rc6 3. Qxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Nxf4 2. Qa4+ Rc6 3. Qxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qxg2+ 2. Qxg2 Nxf6 3. Qg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Qe1 2. Rg8# }
+
+\mainline[level=1]{ 2. Kxg1 Qe1# }
+ Mate in 2 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2r2rk1/1R3pp1/n3pP1n/q2p4/p2P1NP1/R2Q1P1p/2N4P/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxc2 2. Qxc2 Qe1# { Play for win }}\fenboard{2r2rk1/1R3pp1/n3pP1n/q2p4/p2P1NP1/R2Q1P1p/2N4P/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{2r2rk1/1R3pp1/n3pP1n/q2p4/p2P1NP1/R2Q1P1p/2N4P/6K1 b - - 0 1}
+\mainline[level=1]{1... Rxc2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Nf5 2. fxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qe1+ 2. Nxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rc7 2. Rb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Nb4 2. Qg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Nxg4 2. fxg7 }
+
+\mainline[level=1]{ 2. Qxc2 Qe1# }
+ Play for win 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Qc5 3. dxc5 gxf6 4. Rxa4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Nc5 3. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2... Rc8 3. Qxc8+ Kh7 4. Qc2+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2b2r2/2N1Qpk1/1q4pp/3pR3/2p2R2/4PP2/2n3PP/r4BK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxf1+ 2. Kxf1 Qb1+ 3. Ke2 Qe1# { Mate in 3 }}\fenboard{2b2r2/2N1Qpk1/1q4pp/3pR3/2p2R2/4PP2/2n3PP/r4BK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{2b2r2/2N1Qpk1/1q4pp/3pR3/2p2R2/4PP2/2n3PP/r4BK1 b - - 0 1}
+\mainline[level=1]{1... Rxf1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qb1 2. Ne8+ Kg8 3. Nf6+ Kg7 4. Qxf8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qxe3+ 2. Rxe3 Nxe3 3. Qxe3 Ra6 4. Nxa6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Nxe3 2. Rxe3 Bd7 3. Qe5+ f6 4. Rxf6 }
+
+\mainline[level=1]{ 2. Kxf1 Qb1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Nxe3+ 3. Rxe3 Bf5 4. Rxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Qxe3 3. Ne8+ Kg8 4. Nf6+ }
+
+\mainline[level=1]{ 3. Ke2 Qe1# }
+ Mate in 3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5rk1/pb3p1p/1b2pPp1/6qr/PQ6/6P1/1B1R1P1P/3R1BK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxf8+ Kxf8 2. Rd8+ Bxd8 3. Rxd8# { Mate in 3 }}\fenboard{5rk1/pb3p1p/1b2pPp1/6qr/PQ6/6P1/1B1R1P1P/3R1BK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{5rk1/pb3p1p/1b2pPp1/6qr/PQ6/6P1/1B1R1P1P/3R1BK1 w - - 0 1}
+\mainline[level=1]{1. Qxf8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rd8 Qxg3+ 2. Bg2 Qxg2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qxb6 axb6 2. Rd8 Qc5 3. R1d7 Bc6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rd7 Qxg3+ 2. Bg2 Qxg2# }
+
+\mainline[level=1]{ 1... Kxf8 2. Rd8+ }
+
+\variation[level=2]{ 2. Ba3+ Ke8 3. Bb5+ Qxb5 }
+
+\mainline[level=1]{ 2... Bxd8 3. Rxd8# }
+ Mate in 3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6rk/R7/3b2p1/5pqp/2QP4/2R3PK/1r2B2P/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxg8+ Kxg8 2. Rc8+ Bf8 3. Bc4+ Kh8 4. Rxf8# { Checkmate }}\fenboard{6rk/R7/3b2p1/5pqp/2QP4/2R3PK/1r2B2P/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{6rk/R7/3b2p1/5pqp/2QP4/2R3PK/1r2B2P/8 w - - 0 1}
+\mainline[level=1]{1. Qxg8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qc8 Qg4+ 2. Bxg4 hxg4+ 3. Kh4 g5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rh7+ Kxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Qf7 Qg4+ 2. Kg2 Qxe2+ 3. Kh3 Qxh2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Ra8 Qg4+ 2. Kg2 Rxe2+ 3. Kf1 Rxa8 4. Qxe2 Ra1+ }
+
+\mainline[level=1]{ 1... Kxg8 2. Rc8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Ra8+ Kf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Bc4+ Kf8 }
+
+\mainline[level=1]{ 2... Bf8 3. Bc4+ }
+
+\variation[level=2]{ 3. Rxf8+ Kxf8 }
+
+\mainline[level=1]{ 3... Kh8 4. Rxf8# }
+ Checkmate 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r5k1/p4p2/1nQR1P1p/2p5/2Pb2B1/P4RPK/4r2N/2q5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxa8+ Nxa8 2. Rd8+ Kh7 3. Bf5# { Checkmate }}\fenboard{r5k1/p4p2/1nQR1P1p/2p5/2Pb2B1/P4RPK/4r2N/2q5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r5k1/p4p2/1nQR1P1p/2p5/2Pb2B1/P4RPK/4r2N/2q5 w - - 0 1}
+\mainline[level=1]{1. Qxa8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rf1 Rxh2+ 2. Kxh2 Qxf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qc8+ Rxc8 2. Bxc8 Nxc8 3. Rd8+ Kh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Bc8 Rxc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Rd8+ Rxd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Qe8+ Raxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Bf5 Rxh2+ 2. Kxh2 Qg1+ 3. Kh3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Be6 Rf8 2. Rf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Bh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Rf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Rf5 }
+
+\mainline[level=1]{ 1... Nxa8 2. Rd8+ Kh7 3. Bf5# }
+ Checkmate 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4r2k/3Q2pp/q2n4/p1p5/4n2N/PB6/5PPP/5RK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxf1+ 2. Kxf1 Nd2+ 3. Kg1 Re1# { Mate in
+3 }}\fenboard{4r2k/3Q2pp/q2n4/p1p5/4n2N/PB6/5PPP/5RK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{4r2k/3Q2pp/q2n4/p1p5/4n2N/PB6/5PPP/5RK1 b - - 0 1}
+\mainline[level=1]{1... Qxf1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Nxf2 2. Bc2 c4 3. Nf5 Qb7 4. Qxd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Nd2 2. Ng6+ hxg6 3. Qh3# }
+
+\mainline[level=1]{ 2. Kxf1 Nd2+ }
+
+\variation[level=2]{ 2... Ng3+ 3. hxg3 h5 4. Qxd6 }
+
+\mainline[level=1]{ 3. Kg1 Re1# }
+ Mate in
+3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5rk1/4Rn2/Bp2QPpp/2p5/5P2/8/1PPr2q1/K4R2 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxf1+ 2. Bxf1 Ra8+ 3. Kb1 Rd1# { Checkmate }}\fenboard{5rk1/4Rn2/Bp2QPpp/2p5/5P2/8/1PPr2q1/K4R2 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{5rk1/4Rn2/Bp2QPpp/2p5/5P2/8/1PPr2q1/K4R2 b - - 0 1}
+\mainline[level=1]{1... Qxf1+ }
+
+\variation[level=2]{ 1... Rd1+ 2. Rxd1 }
+
+\mainline[level=1]{ 2. Bxf1 Ra8+ }
+
+\variation[level=2]{ 2... Rd1+ 3. Ka2 }
+
+\mainline[level=1]{ 3. Kb1 }
+
+\variation[level=2]{ 3. Qa2 Rd1# }
+
+\mainline[level=1]{ 3... Rd1# }
+ Checkmate 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5rk1/5ppp/p1B5/2Q1P2b/1r6/q4P2/P2R3P/K6R w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxf8+ Kxf8 2. Rd8+ Ke7 3. Re8# { Mate in 3 }}\fenboard{5rk1/5ppp/p1B5/2Q1P2b/1r6/q4P2/P2R3P/K6R w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{5rk1/5ppp/p1B5/2Q1P2b/1r6/q4P2/P2R3P/K6R w - - 0 1}
+\mainline[level=1]{1. Qxf8+ }
+
+\variation[level=2]{ 1. Rhd1 Rb1+ 2. Rxb1 Qxc5 3. Be4 Qxe5+ }
+
+\mainline[level=1]{ 1... Kxf8 2. Rd8+ }
+
+\variation[level=2]{ 2. Rd7 Qc3# }
+
+\mainline[level=1]{ 2... Ke7 3. Re8# }
+ Mate in 3 
+
+\variation[level=2]{ 3. Rd7+ Ke6 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{7k/r4r1p/2p1pPpQ/4B1P1/2q1p1N1/1n2Rb1P/1P3P2/5RK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxf1+ 2. Kxf1 Ra1+ 3. Re1 Nd2+ 4. Kg1 Rxe1+ 5. Kh2 Nf1+ 6. Kg1 Ne3+ 7. Kh2 Rh1+ { Play for win }}\fenboard{7k/r4r1p/2p1pPpQ/4B1P1/2q1p1N1/1n2Rb1P/1P3P2/5RK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{7k/r4r1p/2p1pPpQ/4B1P1/2q1p1N1/1n2Rb1P/1P3P2/5RK1 b - - 0 1}
+\mainline[level=1]{1... Qxf1+ }
+
+\variation[level=2]{ 1... Nd2 2. Qf8+ Rxf8 3. f7# }
+
+\mainline[level=1]{ 2. Kxf1 Ra1+ }
+
+\variation[level=2]{ 2... Nd2+ 3. Ke1 }
+
+\mainline[level=1]{ 3. Re1 Nd2+ }
+
+\variation[level=2]{ 3... Rxe1+ 4. Kxe1 }
+
+\mainline[level=1]{ 4. Kg1 Rxe1+ 5. Kh2 Nf1+ }
+
+\variation[level=2]{ 5... Rh1+ 6. Kg3 Rg1+ 7. Kf4 }
+
+\mainline[level=1]{ 6. Kg1 Ne3+ 7. Kh2 Rh1+ }
+ Play for win 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/5pp1/p3p2p/3r2b1/4Q3/1P3P2/P4qPP/2B1R2K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Bh4 2. -- { Decisive advantage }}\fenboard{6k1/5pp1/p3p2p/3r2b1/4Q3/1P3P2/P4qPP/2B1R2K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{6k1/5pp1/p3p2p/3r2b1/4Q3/1P3P2/P4qPP/2B1R2K b - - 0 1}
+\mainline[level=1]{1... Bh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rd4 2. Qa8+ Rd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Bxc1 2. Rxc1 g6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Be3 2. Qxe3 Qxa2 3. Qc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Bf4 2. Bxf4 Qxa2 3. Rc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Bd2 2. Bxd2 Rxd2 3. Qa8+ Kh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Qxe1+ 2. Qxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Re5 2. Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Rd1 2. Rxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... f5 2. Qxe6+ Kh7 3. Rg1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... Qh4 2. Qxh4 Bxh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1... Qxg2+ 2. Kxg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1... Qg3 2. hxg3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1... Rd2 2. Bxd2 Qxd2 3. b4 }
+
+\mainline[level=1]{ 2. -- }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111)} } 2. Rg1 Qxg1+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111)} } 2... Bg3 3. Qxd5 exd5 4. hxg3 Qxa2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11112)} } 2... Rd1 3. Rxd1 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11113)} } 2... Qg3 3. hxg3 Bxg3 4. Rf1 } 
+\variation[level=2]{ 3. Kxg1 Rd1+ 4. Qe1 Rxe1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1112)} } 2. g3 Bxg3 3. hxg3 Rh5+ } (\variation[level=3]{ 3... Qxg3 })
+\variation[level=2]{ 4. Qh4 Qxe1+ 5. Kg2 Rxh4 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2b2r2/2N1Qpk1/1q4pp/3pR3/2p2R2/4PP2/2n3PP/r4BK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Ne8+ Kg8 2. Nf6+ Kg7 3. Qxf8+ Kxf8 4. Re8+ Kg7 5. Rg8# { Play for win }}\fenboard{2b2r2/2N1Qpk1/1q4pp/3pR3/2p2R2/4PP2/2n3PP/r4BK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{2b2r2/2N1Qpk1/1q4pp/3pR3/2p2R2/4PP2/2n3PP/r4BK1 w - - 0 1}
+\mainline[level=1]{1. Ne8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qxf8+ Kxf8 2. Re8+ Kg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxf7+ Rxf7 2. Qxf7+ Kxf7 3. Re7+ Kxe7 4. Nxd5+ Ke6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Ne6+ Bxe6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qf6+ Qxf6 2. Rxf6 Kxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Qxf7+ Rxf7 2. Rxf7+ Kxf7 3. Re7+ Kxe7 4. Nxd5+ Ke6 }
+
+\mainline[level=1]{ 1... Kg8 }
+
+\variation[level=2]{ 1... Rxe8 2. Rxf7+ }
+
+\mainline[level=1]{ 2. Nf6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Re6 Rxf1+ 3. Kxf1 Qb1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Rxf7 Rxf1+ 3. Kxf1 Qb1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Rf6 Rxf1+ 3. Kxf1 Qb1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Qxf8+ Kxf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2. Nd6 Rxf1+ 3. Kxf1 Qb1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 2. Qxf7+ Rxf7 }
+
+\mainline[level=1]{ 2... Kg7 3. Qxf8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Ne8+ Rxe8 4. Qxf7+ Kh8 5. Rxe8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Nh5+ gxh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Qxf7+ Rxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Nh7 Rxf1+ 4. Kxf1 Qb1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3. Qe8 Rxf1+ 4. Kxf1 Qb1+ }
+
+\mainline[level=1]{ 3... Kxf8 4. Re8+ }
+
+\variation[level=2]{ 4. Nh7+ Kg7 }
+
+\mainline[level=1]{ 4... Kg7 5. Rg8# }
+ Play for win 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/p4ppp/Qp2n3/2r5/3q4/P1N5/1P3PPP/3R2K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxc3 2. Qf1 Rc8 3. Rxd4 Nxd4 4. Kh1 Ne2 5. -- { Play for advantage }}\fenboard{6k1/p4ppp/Qp2n3/2r5/3q4/P1N5/1P3PPP/3R2K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{6k1/p4ppp/Qp2n3/2r5/3q4/P1N5/1P3PPP/3R2K1 b - - 0 1}
+\mainline[level=1]{1... Rxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qxd1+ 2. Nxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qxc3 2. bxc3 Rxc3 3. Qxa7 }
+
+\mainline[level=1]{ 2. Qf1 }
+
+\variation[level=2]{ 2. Rxd4 Rc1+ }
+
+\mainline[level=1]{ 2... Rc8 3. Rxd4 Nxd4 4. Kh1 }
+
+\variation[level=2]{ 4. h3 Rc1 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 4... Nb3 5. Qa6 Rc1+ 6. Kh2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 4... Ne2+ 5. Qxe2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 4... Rc2 5. Qd3 Rc1+ 6. Kh2 } 
+\variation[level=2]{ 5. Qxc1 Ne2+ }
+
+\mainline[level=1]{ 4... Ne2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4... Nb3 5. Kg1 Rc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4... Rc1 5. Qxc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 4... Nf3 5. gxf3 }
+
+\mainline[level=1]{ 5. -- }
+ Play for advantage 
+
+\variation[level=2]{ 5. Qxe2 Rc1+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{rr3nk1/6q1/2p1pRP1/3pP1Qp/6p1/2P3P1/N6P/K1R5 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxa2+ 2. Kxa2 Qa7# { Mate in 2 }}\fenboard{rr3nk1/6q1/2p1pRP1/3pP1Qp/6p1/2P3P1/N6P/K1R5 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{rr3nk1/6q1/2p1pRP1/3pP1Qp/6p1/2P3P1/N6P/K1R5 b - - 0 1}
+\mainline[level=1]{1... Rxa2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qa7 2. Qd2 Nd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qb7 2. Rf2 Qa7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rb7 2. Rc2 Rab8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Rb1+ 2. Rxb1 Qa7 3. Qd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qxf6 2. exf6 Nd7 3. Rf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Rb3 2. Rf7 Rb7 3. Rxg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Nh7 2. gxh7+ Kh8 3. Qxg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Nxg6 2. Rxg6 Ra7 3. Rxg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Nd7 2. Rf7 Qxe5 3. Qxe5 }
+
+\mainline[level=1]{ 2. Kxa2 Qa7# }
+ Mate in 2 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Ra8+ 3. Kb2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Qxg6 3. Rxg6+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r5k1/p4p2/1nQR1P1p/2p5/2Pb2B1/P4RPK/4r2N/2q5 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxh2+ 2. Kxh2 Qg1+ 3. Kh3 Qh1# { Mate in 3 }}\fenboard{r5k1/p4p2/1nQR1P1p/2p5/2Pb2B1/P4RPK/4r2N/2q5 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{r5k1/p4p2/1nQR1P1p/2p5/2Pb2B1/P4RPK/4r2N/2q5 b - - 0 1}
+\mainline[level=1]{1... Rxh2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qg1 2. Qxa8+ Re8 3. Qxe8+ Kh7 4. Bf5# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qb2 2. Qxa8+ Nxa8 3. Rd8+ Re8 4. Rxe8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qh1 2. Qxa8+ Nxa8 3. Rd8+ Re8 4. Rxe8+ }
+
+\mainline[level=1]{ 2. Kxh2 Qg1+ }
+
+\variation[level=2]{ 2... Qh1+ 3. Kxh1 h5 4. Qe4 }
+
+\mainline[level=1]{ 3. Kh3 Qh1# }
+ Mate in 3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1r2b1k1/2r1qpb1/4p3/p3N2p/n1p1BQ1P/P1P4N/KP2R3/6R1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxg7+ Kxg7 2. Rg2+ Kf8 3. Qh6# { Checkmate }}\fenboard{1r2b1k1/2r1qpb1/4p3/p3N2p/n1p1BQ1P/P1P4N/KP2R3/6R1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{1r2b1k1/2r1qpb1/4p3/p3N2p/n1p1BQ1P/P1P4N/KP2R3/6R1 w - - 0 1}
+\mainline[level=1]{1. Rxg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qh6 Rxb2+ 2. Rxb2 Nxc3+ 3. Ka1 Qxa3+ 4. Ra2 Qxa2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Bh7+ Kh8 }
+
+\mainline[level=1]{ 1... Kxg7 2. Rg2+ }
+
+\variation[level=2]{ 2. Qh6+ Kxh6 3. Nxc4 Nxc3+ 4. Ka1 Nxe2 }
+
+\mainline[level=1]{ 2... Kf8 3. Qh6# }
+ Checkmate 
+
+\variation[level=2]{ 3. Ng6+ Kg8 4. Nh8+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r4rk1/p4pb1/1q3np1/2p5/6B1/P3P1P1/KNP2R1Q/7R w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxf6 Bxf6 2. Qh7# { Play for win }}\fenboard{r4rk1/p4pb1/1q3np1/2p5/6B1/P3P1P1/KNP2R1Q/7R w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r4rk1/p4pb1/1q3np1/2p5/6B1/P3P1P1/KNP2R1Q/7R w - - 0 1}
+\mainline[level=1]{1. Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Nc4 Qa6 2. Rxf6 Qxc4+ 3. Kb1 Rfb8+ 4. Kc1 Bxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qh7+ Nxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Qh8+ Bxh8 }
+
+\mainline[level=1]{ 1... Bxf6 2. Qh7# }
+ Play for win 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r2qr2k/6pp/pp1p4/3Pn1N1/8/1P4P1/P2Q3P/R3R1K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxe5 dxe5 2. Nf7+ Kg8 3. Nxd8 { Decisive advantage }}\fenboard{r2qr2k/6pp/pp1p4/3Pn1N1/8/1P4P1/P2Q3P/R3R1K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r2qr2k/6pp/pp1p4/3Pn1N1/8/1P4P1/P2Q3P/R3R1K1 w - - 0 1}
+\mainline[level=1]{1. Rxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Nf7+ Nxf7 2. Rxe8+ Qxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Ne6 Rxe6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nxh7 Nf3+ 2. Kh1 Nxd2 3. Rxe8+ Qxe8 }
+
+\mainline[level=1]{ 1... dxe5 }
+
+\variation[level=2]{ 1... Rf8 2. Qc2 }
+
+\mainline[level=1]{ 2. Nf7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Ne4 Qd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Ne6 Rxe6 }
+
+\mainline[level=1]{ 2... Kg8 3. Nxd8 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Rf1 Qc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Nh6+ gxh6 4. Qxh6 Ra7 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5bk1/2qn1p1p/2b3p1/1p6/1n2r1N1/1P2P2P/PB2QPP1/1K1RR3 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxd7 Bxd7 2. Nf6+ Kh8 3. Nd5+ Bg7 4. Nxc7 { Decisive
+advantage }}\fenboard{5bk1/2qn1p1p/2b3p1/1p6/1n2r1N1/1P2P2P/PB2QPP1/1K1RR3 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{5bk1/2qn1p1p/2b3p1/1p6/1n2r1N1/1P2P2P/PB2QPP1/1K1RR3 w - - 0 1}
+\mainline[level=1]{1. Rxd7 }
+
+\variation[level=2]{ 1. Nh6+ Bxh6 }
+
+\mainline[level=1]{ 1... Bxd7 2. Nf6+ Kh8 3. Nd5+ Bg7 4. Nxc7 }
+ Decisive
+advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2kr3r/1b3qp1/1p4p1/2b5/Q1P5/2B3P1/R5BP/4R2K w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qa8+ Bxa8 2. Rxa8+ Kd7 3. Ra7+ Kc8 4. Rxf7 { Decisive advantage }}\fenboard{2kr3r/1b3qp1/1p4p1/2b5/Q1P5/2B3P1/R5BP/4R2K w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{2kr3r/1b3qp1/1p4p1/2b5/Q1P5/2B3P1/R5BP/4R2K w - - 0 1}
+\mainline[level=1]{1. Qa8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Bxb7+ Qxb7+ 2. Qc6+ Qxc6+ 3. Re4 Qxe4+ 4. Rg2 Rd1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qa7 Bxg2+ 2. Kxg2 Rd2+ }
+
+\mainline[level=1]{ 1... Bxa8 2. Rxa8+ Kd7 3. Ra7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Bh3+ Rxh3 4. Ra7+ Kc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Rd1+ Ke6 4. Re1+ Kf5 }
+
+\mainline[level=1]{ 3... Kc8 4. Rxf7 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Bb7+ Kb8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Ra8+ Kc7 5. Ra7+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2r2rk1/3p2pp/1b2p3/2q1Pp1Q/3NbP2/1P5P/PB5K/3R2R1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qc2+ 2. Nxc2 Rxc2+ 3. Kg3 Bf2+ 4. Kh2 Bh4+ 5. Rg2 Rxg2+ 6. Kh1 Rg5+ 7. Kh2 Rxh5 { Decisive advantage }}\fenboard{2r2rk1/3p2pp/1b2p3/2q1Pp1Q/3NbP2/1P5P/PB5K/3R2R1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{2r2rk1/3p2pp/1b2p3/2q1Pp1Q/3NbP2/1P5P/PB5K/3R2R1 b - - 0 1}
+\mainline[level=1]{1... Qc2+ }
+
+\variation[level=2]{ 1... Qxd4 2. Bxd4 Rc2+ 3. Kg3 }
+
+\mainline[level=1]{ 2. Nxc2 Rxc2+ 3. Kg3 Bf2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3... Bxg1 4. Rxg1 Rxb2 5. Qg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3... Rg2+ 4. Rxg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3... Rxb2 4. Rdf1 Rxa2 }
+
+\mainline[level=1]{ 4. Kh2 Bh4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4... Be1+ 5. Rd2 Rxd2+ 6. Qe2 Rxe2+ 7. Rg2 Rxg2+ 8. Kh1 Bg3 9. a3 Rh2+ 10. Kg1 Rh1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4... Bxg1+ 5. Kxg1 Rxb2 6. Rxd7 Rxa2 7. Qh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 4... Be3+ 5. Kg3 Bf2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 4... Rxb2 5. Rxg7+ Kxg7 6. Rxd7+ Rf7 7. Rxf7+ Kh8 8. Qxh7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 4... Bc5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 4... Bb6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 4... Bg3+ 5. Kxg3 }
+
+\mainline[level=1]{ 5. Rg2 Rxg2+ 6. Kh1 Rg5+ }
+
+\variation[level=2]{ 6... Bg3 7. Re1 Rh2+ 8. Kg1 Rh1# }
+
+\mainline[level=1]{ 7. Kh2 Rxh5 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r1bq1rk1/pp2ppb1/5npB/2p1n1N1/3p3Q/3B4/PPP3PP/RN3RK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxf6 Bh8 2. Rf1 Re8 3. Bf8 Bf6 4. Rxf6 exf6 5. Qh6 Rxf8 6. Qh7# { Decisive advantage }}\fenboard{r1bq1rk1/pp2ppb1/5npB/2p1n1N1/3p3Q/3B4/PPP3PP/RN3RK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r1bq1rk1/pp2ppb1/5npB/2p1n1N1/3p3Q/3B4/PPP3PP/RN3RK1 w - - 0 1}
+\mainline[level=1]{1. Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Bxg7 Kxg7 2. Rxf6 Kxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Bxg6 Nxg6 }
+
+\mainline[level=1]{ 1... Bh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Bxf6 2. Bg7 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 2. Bxf8 Kxf8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 2. Bxg6 Nxg6 } 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... exf6 2. Bxg7 Kxg7 3. Qh7# }
+
+\mainline[level=1]{ 2. Rf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Bxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Rf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Rf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Rxg6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2. Bg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 2. Na3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 2. Nd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 2. Bc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 2. Be4 }
+
+\mainline[level=1]{ 2... Re8 3. Bf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Nxf7 Nxd3 4. Nxd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Rxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Bc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Bg7 Bxg7 4. Qh7+ }
+
+\mainline[level=1]{ 3... Bf6 4. Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Qh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Bxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 4. Qh7+ Kxf8 5. Nd2 }
+
+\mainline[level=1]{ 4... exf6 5. Qh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 5. Qh7+ Kxf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 5. Bg7 Kxg7 6. Qh7+ Kf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 5. Qh8+ Kxh8 }
+
+\mainline[level=1]{ 5... Rxf8 6. Qh7# }
+ Decisive advantage 
+
+\variation[level=2]{ 6. Bxg6 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{8/1p2R2p/2b2p1k/1p2pB2/6P1/KPR1n3/4r2P/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxe3 Rxe3 2. h4 { Decisive advantage }}\fenboard{8/1p2R2p/2b2p1k/1p2pB2/6P1/KPR1n3/4r2P/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{8/1p2R2p/2b2p1k/1p2pB2/6P1/KPR1n3/4r2P/8 w - - 0 1}
+\mainline[level=1]{1. Rxe3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rxh7+ Kg5 2. h4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. h4 b4+ 2. Kxb4 Nd5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. g5+ Kxg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Bxh7 b4+ 2. Kxb4 Nd5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rxc6 bxc6 }
+
+\mainline[level=1]{ 1... Rxe3 2. h4 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Rxh7+ Kg5 3. h4+ Kf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. g5+ Kxg5 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5rk1/4Rn2/Bp2QPpp/2p5/5P2/8/1PPr2q1/K4R2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxf7 Rxf7 2. Qe8+ Rf8 3. Bc4+ Kh7 4. Qe7+ Kh8 5. Qg7# { Checkmate }}\fenboard{5rk1/4Rn2/Bp2QPpp/2p5/5P2/8/1PPr2q1/K4R2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{5rk1/4Rn2/Bp2QPpp/2p5/5P2/8/1PPr2q1/K4R2 w - - 0 1}
+\mainline[level=1]{1. Rxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Re8 Rd8 2. Rxf8+ Rxf8 3. Kb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qxf7+ Rxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Bc4 Ra8+ 2. Ba6 Rxa6+ 3. Kb1 Qxf1+ 4. Qe1 Rd1+ }
+
+\mainline[level=1]{ 1... Rxf7 }
+
+\variation[level=2]{ 1... Qxf1+ 2. Bxf1 } (\variation[level=3]{ 2. Ka2 Qxa6+ 3. Kb3 Qb5+ })
+\variation[level=2]{ 2... Ra8+ 3. Ra7+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 3. Ba6 Rxa6+ 4. Kb1 Rd1# } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 3. Qa2 Rd1# } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 3. Kb1 Rd1# } 
+
+\mainline[level=1]{ 2. Qe8+ }
+
+\variation[level=2]{ 2. Bc4 Qa8+ 3. Kb1 }
+
+\mainline[level=1]{ 2... Rf8 3. Bc4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Qxg6+ Qxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. f7+ Kg7 }
+
+\mainline[level=1]{ 3... Kh7 }
+
+\variation[level=2]{ 3... Rd5 4. Bxd5+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 4. Qe6+ Kh8 5. Qxd5 Qxd5 6. Bxd5 Rxf6 7. Ka2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 4. f7+ Kg7 } 
+\variation[level=2]{ 4... Qxd5 5. Qxg6+ } (\variation[level=3]{ 5. f7+ Kg7 })
+\variation[level=2]{ 5... Kh8 6. Qg7# } (\variation[level=3]{ 6. Qxh6+ Kg8 7. Qg7# })
+
+\mainline[level=1]{ 4. Qe7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Qxf8 Qxf1+ 5. Bxf1 Rd1+ 6. Ka2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Bg8+ Kxg8 5. f7+ Kg7 }
+
+\mainline[level=1]{ 4... Kh8 5. Qg7# }
+ Checkmate 
+
+\variation[level=2]{ 5. Qxf8+ Kh7 6. Qg8# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/2Qn3p/6r1/3p4/5N1q/5P1P/PP2r1P1/1R3NK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxf4 2. -- { Play
+for win }}\fenboard{6k1/2Qn3p/6r1/3p4/5N1q/5P1P/PP2r1P1/1R3NK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{6k1/2Qn3p/6r1/3p4/5N1q/5P1P/PP2r1P1/1R3NK1 b - - 0 1}
+\mainline[level=1]{1... Qxf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rgxg2+ 2. Kh1 } (\variation[level=3]{ 2. Nxg2 Qf2+ })
+\variation[level=2]{ 2... Qf2 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 2... Ne5 3. Qc8+ Kg7 4. Nxg2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 2... Qg5 3. Nxe2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a3)} } 2... Rg1+ 3. Kxg1 Qf2+ 4. Kh1 Qxf3+ 5. Kg1 } 
+\variation[level=2]{ 3. Nxe2 Qxf3 } (\variation[level=3]{ 3... Qxe2 4. Qxd7 })
+\variation[level=2]{ 4. Qf4 Qxe2 5. Ne3 Rg6 6. Rf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qf2+ 2. Kh1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rexg2+ 2. Nxg2 Qxh3 3. Qd8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Qxh3 2. Nxh3 Rexg2+ 3. Kh1 }
+
+\mainline[level=1]{ 2. -- }
+ Play
+for win 
+
+\variation[level=2]{ 2. Qxf4 Rexg2+ } (\variation[level=3]{ 2... Rgxg2+ 3. Kh1 })
+\variation[level=2]{ 3. Kh1 Rg1+ 4. Kh2 R6g2# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{R1n3r1/1k1r4/1p2qp2/1p1bpn2/8/1P1NPP2/2Q2K1P/R3B1N1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxc8+ Rxc8 2. R1a7+ Kc6 3. Rxc8+ Kd6 4. Bb4# { Checkmate }}\fenboard{R1n3r1/1k1r4/1p2qp2/1p1bpn2/8/1P1NPP2/2Q2K1P/R3B1N1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{R1n3r1/1k1r4/1p2qp2/1p1bpn2/8/1P1NPP2/2Q2K1P/R3B1N1 w - - 0 1}
+\mainline[level=1]{1. Qxc8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. R1a7+ Nxa7 2. Rxg8 Qxg8 3. Nc5+ bxc5 4. Qxf5 Rh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Nc5+ bxc5 2. Qxc5 Qb6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rxc8 Rxc8 }
+
+\mainline[level=1]{ 1... Rxc8 2. R1a7+ Kc6 3. Rxc8+ }
+
+\variation[level=2]{ 3. Nb4+ Kd6 4. Rxd7+ Kxd7 5. Rxc8 Kxc8 }
+
+\mainline[level=1]{ 3... Kd6 4. Bb4# }
+ Checkmate 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r3r2k/7p/2Q2np1/p1N1Nn2/7q/P6P/6PK/4RR2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxf5 gxf5 2. g3 Qd4 3. Qxf6+ -- { Play for advantage }}\fenboard{r3r2k/7p/2Q2np1/p1N1Nn2/7q/P6P/6PK/4RR2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r3r2k/7p/2Q2np1/p1N1Nn2/7q/P6P/6PK/4RR2 w - - 0 1}
+\mainline[level=1]{1. Rxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rf2 Ng4+ 2. Nxg4 Qg3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Nf7+ Kg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nxg6+ hxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxe8+ Rxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. g3 Qxg3+ 2. Kh1 Qxh3+ 3. Kg1 Ng4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Qxf6+ Qxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Rf4 Qg3+ 2. Kg1 Qxe1+ 3. Kh2 Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Nf3 Qf4+ 2. Kg1 }
+
+\mainline[level=1]{ 1... gxf5 2. g3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Nf7+ Kg7 3. Ne6+ Rxe6 4. Rxe6 Ng4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Ng6+ hxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Nf3 Ng4+ 3. Kh1 Rxe1+ 4. Ng1 Rxg1+ 5. Kxg1 Qe1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Qxf6+ Qxf6 }
+
+\mainline[level=1]{ 2... Qd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Qg5 3. Nf7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Rac8 3. Qd6 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{b1)} } 3. Qxe8+ Nxe8 4. gxh4 Rxc5 5. Nd7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b2)} } 3. Qxc8 Rxc8 4. gxh4 Rxc5 5. Nf7+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b3)} } 3. Nf7+ Kg7 4. Ne6+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b4)} } 3. gxh4 Rxc6 4. Nxc6 Rxe1 5. Nxa5 Ne4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b5)} } 3. Qxf6+ Qxf6 } 
+\variation[level=2]{ 3... Rcd8 4. Nf7+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{b1)} } 4. Ncd7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b2)} } 4. Qxd8 Ng4+ 5. Kg2 Qxd8 6. Nf7+ Kg7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b3)} } 4. gxh4 Rxd6 5. Nf7+ Kg7 } 
+\variation[level=2]{ 4... Kg7 5. Nxd8 }
+
+\mainline[level=1]{ 3. Qxf6+ }
+
+\variation[level=2]{ 3. Nf7+ Kg7 4. Rxe8 Rxe8 5. Ne6+ Rxe6 6. Qxe6 Qf2+ }
+
+\mainline[level=1]{ 3... -- }
+ Play for advantage 
+
+\variation[level=2]{ 3... Kg8 4. Qg5+ } (\variation[level=3]{ 4. Qf7+ Kh8 5. Qf6+ })
+\variation[level=2]{ 4... Kf8 5. Ncd7+ }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{3rkn2/1Q2b2p/2p1p3/p2q4/n3NP2/2P1K1R1/P2B3P/2N5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxe7+ Kxe7 2. Rg7+ Ke8 3. Nf6# { Mate in 3 }}\fenboard{3rkn2/1Q2b2p/2p1p3/p2q4/n3NP2/2P1K1R1/P2B3P/2N5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{3rkn2/1Q2b2p/2p1p3/p2q4/n3NP2/2P1K1R1/P2B3P/2N5 w - - 0 1}
+\mainline[level=1]{1. Qxe7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rg7 Qxe4+ 2. Kxe4 Nc5+ 3. Ke3 Nxb7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Nf6+ Bxf6 2. Nb3 Nc5 3. Qb6 Nxb3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nd6+ Qxd6 2. Be1 Nc5 3. Qb1 Qd1 }
+
+\mainline[level=1]{ 1... Kxe7 2. Rg7+ Ke8 3. Nf6# }
+ Mate in 3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2r1r1k1/q4ppp/1pn3n1/2pN1N1Q/1pP1P3/1PbR2P1/P1B2R2/1K6 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxc3 bxc3 2. Nf6+ gxf6 3. Qh6 { Decisive advantage }}\fenboard{2r1r1k1/q4ppp/1pn3n1/2pN1N1Q/1pP1P3/1PbR2P1/P1B2R2/1K6 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{2r1r1k1/q4ppp/1pn3n1/2pN1N1Q/1pP1P3/1PbR2P1/P1B2R2/1K6 w - - 0 1}
+\mainline[level=1]{1. Rxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Nf6+ Bxf6 2. Nh6+ Kh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Nh6+ gxh6 2. Nxc3 bxc3 3. Rxc3 Qa3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Qxh7+ Kxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxg6 Qxa2+ 2. Kc1 Qb2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Nd6 Qxa2+ 2. Kc1 Qb2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Nxc3 bxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Nxg7 Qxa2+ 2. Kc1 Qb2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Rh2 Qxa2+ 2. Kc1 Qa3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Nde7+ Ncxe7 }
+
+\mainline[level=1]{ 1... bxc3 2. Nf6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Qh6 gxh6 3. Nxh6+ Kh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Nh6+ gxh6 3. Qxh6 Re6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Nxg7 Kxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Nd6 Re5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2. Nde7+ Ncxe7 }
+
+\mainline[level=1]{ 2... gxf6 }
+
+\variation[level=2]{ 2... Kf8 3. Qxh7 }
+
+\mainline[level=1]{ 3. Qh6 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Nh6+ Kf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Qxg6+ hxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Rh2 Qxa2+ 4. Kxa2 Ra8+ 5. Kb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Qxh7+ Kxh7 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1r2r1k1/n1p2ppp/3p4/q1P2N2/p1BPn2R/R1P3P1/5P1P/2Q2K2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxe4 Rxe4 2. Qg5 g6 3. Qf6 { Decisive advantage }}\fenboard{1r2r1k1/n1p2ppp/3p4/q1P2N2/p1BPn2R/R1P3P1/5P1P/2Q2K2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{1r2r1k1/n1p2ppp/3p4/q1P2N2/p1BPn2R/R1P3P1/5P1P/2Q2K2 w - - 0 1}
+\mainline[level=1]{1. Rxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qe3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Kg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Qf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Nh6+ Kf8 2. Qf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Qh6 gxh6 2. Nxh6+ Kg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Bxf7+ Kxf7 2. Kg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Nxg7 Rb1 2. Qxb1 Nd2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Rxh7 Kxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Rg4 Rb1 2. Qxb1 Nd2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Qg5 Nxg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. cxd6 Qxf5 }
+
+\mainline[level=1]{ 1... Rxe4 2. Qg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 2. Bxf7+ Kxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a12)} } 2. Nh6+ gxh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a13)} } 2. Nxg7 Rg4 3. Nf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a14)} } 2. Nxd6 cxd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a15)} } 2. Qh6 gxh6 3. Nxh6+ Kg7 }
+
+\mainline[level=1]{ 2... g6 3. Qf6 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 3. Rb3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a12)} } 3. Nh6+ Kg7 4. Nf5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a13)} } 3. Qh6 gxf5 4. Qg5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a14)} } 3. Ne7+ Rxe7 4. Qxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a15)} } 3. Qxg6+ hxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a16)} } 3. Bxf7+ Kxf7 4. Nh6+ Ke6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a17)} } 3. cxd6 Qxf5 4. Qxf5 gxf5 5. Rxa4 Nb5 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{b2r2k1/p3pp1p/4n1p1/2P5/8/2P1Q1P1/P2NqP1P/2B2RK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxd2 2. -- { Play for advantage }}\fenboard{b2r2k1/p3pp1p/4n1p1/2P5/8/2P1Q1P1/P2NqP1P/2B2RK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{b2r2k1/p3pp1p/4n1p1/2P5/8/2P1Q1P1/P2NqP1P/2B2RK1 b - - 0 1}
+\mainline[level=1]{1... Rxd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Ng5 2. h4 Rxd2 3. Qxe2 Nh3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Nf4 2. Qxf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qxe3 2. fxe3 Rd3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Qg4 2. f3 Qf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qh5 2. f3 Qf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Qxd2 2. Bxd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Qxf1+ 2. Kxf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Bh1 2. Qxe2 }
+
+\mainline[level=1]{ 2. -- }
+ Play for advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Qxd2 Qf3 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 2... Ng5 3. Qd8+ Kg7 4. Qxa8 Nf3+ 5. Kg2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 2... Qxd2 3. Bxd2 } 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Bxd2 Ng5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{b1)} } 2... Nf4 3. Qxf4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b2)} } 2... Qxe3 3. Bxe3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b3)} } 2... Nd4 3. cxd4 Qxe3 4. fxe3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b4)} } 2... Qf3 3. Qxf3 Bxf3 4. Rb1 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b5)} } 2... Qg4 3. Rb1 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b6)} } 2... Qxd2 3. Qxd2 } 
+\variation[level=2]{ 3. Qxe2 Nh3# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r2q1rk1/ppp1b1pp/1nn1p3/4P3/2PP4/2N1B2P/PP1Q4/2KR1B1R b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxf1 2. Rhxf1 Nxc4 3. Qd3 Nxe3 4. Qxe3 Bg5 5. Rf4 Nb4 6. Kb1 Nd5 7. Nxd5 Qxd5 8. Rg1 Bxf4 9. Qxf4 Rf8 10. Qg4 Rf7 { Play for
+advantage }}\fenboard{r2q1rk1/ppp1b1pp/1nn1p3/4P3/2PP4/2N1B2P/PP1Q4/2KR1B1R b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{r2q1rk1/ppp1b1pp/1nn1p3/4P3/2PP4/2N1B2P/PP1Q4/2KR1B1R b - - 0 1}
+\mainline[level=1]{1... Rxf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Nxc4 2. Bxc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Nb4 2. Qg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rf3 2. Kb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Nxd4 2. Qxd4 Qxd4 3. Bxd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Nxe5 2. dxe5 Qxd2+ 3. Bxd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Bb4 2. Bd3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Bg5 2. Bxg5 }
+
+\mainline[level=1]{ 2. Rhxf1 Nxc4 3. Qd3 Nxe3 4. Qxe3 Bg5 5. Rf4 Nb4 6. Kb1 Nd5 7. Nxd5 Qxd5 8. Rg1 Bxf4 9. Qxf4 Rf8 10. Qg4 Rf7 }
+ Play for
+advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r3k2r/pb3ppp/1pn1pq2/2b5/3p4/PN3NP1/1P3PBP/2RQ1RK1 w kq - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxc5 bxc5 2. Nxc5 Rb8 3. Nxd4 -- { Play for advantage }}\fenboard{r3k2r/pb3ppp/1pn1pq2/2b5/3p4/PN3NP1/1P3PBP/2RQ1RK1 w kq - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r3k2r/pb3ppp/1pn1pq2/2b5/3p4/PN3NP1/1P3PBP/2RQ1RK1 w kq - 0 1}
+\mainline[level=1]{1. Rxc5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Nfxd4 Nxd4 2. Bxb7 Rb8 3. Nxd4 Rxb7 4. Qa4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Nxc5 bxc5 2. Nd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nbxd4 Nxd4 2. Nxd4 Bxg2 3. Qa4+ Ke7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Ne5 Qxe5 2. Nxc5 bxc5 }
+
+\mainline[level=1]{ 1... bxc5 2. Nxc5 Rb8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Qe7 3. Nxb7 Qxb7 4. Ne5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... O-O-O 3. Qa4 Qe7 4. Rc1 }
+
+\mainline[level=1]{ 3. Nxd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Nxb7 Rxb7 4. Qa4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Qa4 O-O 4. Nxb7 Rxb7 5. Qxc6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Nh4 Ba8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Ne5 Qxe5 4. Nxb7 Nd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3. Nd2 Ba8 }
+
+\mainline[level=1]{ 3... -- }
+ Play for advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3... Qxd4 4. Bxc6+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 4. Qxd4 Nxd4 5. Bxb7 Nb3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 4. Nxb7 Qxd1 5. Rxd1 Ne5 } 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3... Nxd4 4. Qa4+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{b1)} } 4. Nxb7 O-O } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b2)} } 4. Qxd4 Qxd4 5. Nxb7 Qxb2 6. Nd6+ Ke7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b3)} } 4. Bxb7 Qd8 5. Qa4+ Ke7 } 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r3r1k1/4pp1p/b5pB/q1pP4/3b4/2N4P/PP4P1/R2RQ2K w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rxd4 cxd4 2. Qe5 f6 3. Qe6+ Kh8 4. Qf7 Rg8 5. Re1 Rae8 6. Rxe7 Rxe7 7. Qxe7 Qb6 8. d6 { Decisive advantage }}\fenboard{r3r1k1/4pp1p/b5pB/q1pP4/3b4/2N4P/PP4P1/R2RQ2K w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r3r1k1/4pp1p/b5pB/q1pP4/3b4/2N4P/PP4P1/R2RQ2K w - - 0 1}
+\mainline[level=1]{1. Rxd4 cxd4 2. Qe5 f6 3. Qe6+ Kh8 4. Qf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Re1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Ne4 Qxd5 5. Qxd5 }
+
+\mainline[level=1]{ 4... Rg8 5. Re1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 5. Qxe7 Qd8 6. Qxd8 Raxd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 5. Ne4 Ra7 6. Nxf6 exf6 7. Qxa7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 5. d6 Qh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 5. Rf1 Bxf1 }
+
+\mainline[level=1]{ 5... Rae8 6. Rxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 6. Bg7+ Rxg7 7. Qxe8+ Rg8 8. Qxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 6. d6 Bc4 7. Bg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 6. Ne4 Qxe1+ 7. Kh2 Qxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 6. Re6 }
+
+\mainline[level=1]{ 6... Rxe7 7. Qxe7 }
+
+\variation[level=2]{ 7. Qxf6+ Reg7 8. Bxg7+ Rxg7 9. Qf8+ }
+
+\mainline[level=1]{ 7... Qb6 }
+
+\variation[level=2]{ 7... Qd8 8. Bg7+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 8. d6 Qxe7 9. dxe7 dxc3 10. bxc3 Re8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 8. Qf7 dxc3 9. bxc3 Bc4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 8. Qxd8 Rxd8 } 
+
+\mainline[level=1]{ 8. d6 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 8. Na4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 8. Ne4 Qb7 9. Qxf6+ Rg7 10. Bxg7+ Qxg7 11. Qxa6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 8. Bg7+ Rxg7 9. Qe8+ Rg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 8. Ne2 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2kr3r/pp1n2p1/2q2pp1/2bR4/2p2B2/2N2P2/PPP1QP1P/2KR4 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rd6 Bxd6 2. Rxd6 Qc5 3. Rd5 -- { Decisive advantage }}\fenboard{2kr3r/pp1n2p1/2q2pp1/2bR4/2p2B2/2N2P2/PPP1QP1P/2KR4 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{2kr3r/pp1n2p1/2q2pp1/2bR4/2p2B2/2N2P2/PPP1QP1P/2KR4 w - - 0 1}
+\mainline[level=1]{1. Rd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qxc4 Be3+ 2. fxe3 Qxc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxc5 Nxc5 2. Rxd8+ Rxd8 3. Qxc4 Ne6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rxd7 Rxd7 2. Rxd7 Kxd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Ne4 c3 2. Kb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Nb5 Qxb5 }
+
+\mainline[level=1]{ 1... Bxd6 2. Rxd6 }
+
+\variation[level=2]{ 2. Bxd6 Rde8 }
+
+\mainline[level=1]{ 2... Qc5 3. Rd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Nd5 Rde8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Rxd7 Rxd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Rc6+ Qxc6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Ne4 Qb5 4. Nc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3. Qe6 Rhe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 3. Nb5 Qxb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 3. Na4 Qc7 }
+
+\mainline[level=1]{ 3... -- }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3... Qc6 4. Nb5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 4. Rd6 Rhe8 5. Rxc6+ bxc6 6. Ne4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 4. Qe7 b6 5. Qxg7 Rhe8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a3)} } 4. Rc5 Nxc5 5. Qxc4 Ne6 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a4)} } 4. Ne4 Qxd5 5. Nd6+ Kb8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a5)} } 4. Rxd7 Rxd7 } 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3... Qb6 4. Qxc4+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{b1)} } 4. Nb5 Qxb5 5. Rxb5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b2)} } 4. Rb5 Qc6 } 
+\variation[level=2]{ 4... Qc6 5. Nb5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{b1)} } 5. Qb5 Qxb5 6. Nxb5 Ne5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b2)} } 5. Qxc6+ bxc6 } 
+\variation[level=2]{ 5... Qxc4 6. Nxa7# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1r3rk1/p2qBpbp/2nP2p1/1ppNnb2/8/5N2/PP1QB1PP/R4RK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Nxe5 Bxe5 2. Nf6+ Bxf6 3. Bxf6 Qe6 4. Rxf5 Nd4 5. Rf2 Qxd6 6. Qh6 Ne6 7. Bg4 Qc7 8. Rf3 { Decisive advantage }}\fenboard{1r3rk1/p2qBpbp/2nP2p1/1ppNnb2/8/5N2/PP1QB1PP/R4RK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{1r3rk1/p2qBpbp/2nP2p1/1ppNnb2/8/5N2/PP1QB1PP/R4RK1 w - - 0 1}
+\mainline[level=1]{1. Nxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Nf6+ Bxf6 2. Bxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Bf6 Kh8 2. Nxe5 Nxe5 3. g4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Bxf8 Nxf3+ 2. Bxf3 Kxf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qh6 Bxh6 2. Nf6+ Kg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Ng5 Rfe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Nh4 Kh8 2. Nxf5 gxf5 3. Rad1 }
+
+\mainline[level=1]{ 1... Bxe5 }
+
+\variation[level=2]{ 1... Nxe5 2. Nf6+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 2. Bf6 Kh8 3. g4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 2. Rxf5 Qxf5 3. Rf1 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 2. Qg5 c4 3. Rad1 } 
+\variation[level=2]{ 2... Bxf6 3. Bxf6 } (\variation[level=3]{ 3. Rxf5 Qxf5 })
+\variation[level=2]{ 3... Qe6 4. Rxf5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 4. Qg5 h6 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 4. Bxe5 Qxe5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 4. Be7 Rfe8 5. Rae1 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{d)} } 4. Qh6 Qxf6 } 
+\variation[level=2]{ 4... gxf5 } (\variation[level=3]{ 4... Qxf5 5. Rf1 })
+\variation[level=2]{ 5. Qh6 } (\variation[level=3]{ 5. Qg5+ Ng6 })
+
+\mainline[level=1]{ 2. Nf6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Rxf5 Qxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Qh6 Nxe7 3. Nxe7+ Kh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Bf6 Qe6 3. Ne7+ Nxe7 4. Bxe7 Rfd8 }
+
+\mainline[level=1]{ 2... Bxf6 3. Bxf6 }
+
+\variation[level=2]{ 3. Rxf5 Bd4+ 4. Kh1 Qxf5 5. Bxf8 Kxf8 }
+
+\mainline[level=1]{ 3... Qe6 }
+
+\variation[level=2]{ 3... Nd4 4. Qh6 Ne6 5. Rxf5 } (\variation[level=3]{ 5. Rf4 })
+\variation[level=2]{ 5... gxf5 6. Bd3 }
+
+\mainline[level=1]{ 4. Rxf5 }
+
+\variation[level=2]{ 4. Qh6 Qxf6 }
+
+\mainline[level=1]{ 4... Nd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4... gxf5 5. Qg5# } (\variation[level=3]{ 5. Qh6 Qxf6 6. Qxf6 })
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4... Qxf5 5. Rf1 Qe6 6. Qh6 }
+
+\mainline[level=1]{ 5. Rf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 5. Rff1 Qxd6 6. Qh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 5. Qh6 Nxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 5. Bxd4 Qxf5 6. Be3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 5. Re5 Qxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 5. Raf1 Nxf5 }
+
+\mainline[level=1]{ 5... Qxd6 6. Qh6 Ne6 7. Bg4 Qc7 8. Rf3 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2rq4/5rbk/3p1n1p/p2Pp2P/1p2b3/4BNR1/PP1Q1P2/3BK1R1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Bxh6 Bxh6 2. Qxh6+ Kxh6 3. Rg6+ Bxg6 4. Rxg6+ Kxh5 5. Nxe5+ Ng4 6. Bxg4+ Kh4 7. Rh6+ Kg5 8. Nxf7+ Kxg4 9. Nxd8 { Find the best continuation }}\fenboard{2rq4/5rbk/3p1n1p/p2Pp2P/1p2b3/4BNR1/PP1Q1P2/3BK1R1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{2rq4/5rbk/3p1n1p/p2Pp2P/1p2b3/4BNR1/PP1Q1P2/3BK1R1 w - - 0 1}
+\mainline[level=1]{1. Bxh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rxg7+ Rxg7 2. Rxg7+ Kxg7 3. Bxh6+ Kh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rg6 Ng8 2. R6g4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Ng5+ hxg5 2. Bxg5 Qc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Bg5 Qc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Nxe5 dxe5 }
+
+\mainline[level=1]{ 1... Bxh6 2. Qxh6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Ng5+ Bxg5 3. Rxg5 Bb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Rg6 Bxd2+ 3. Nxd2 Bxd5 }
+
+\mainline[level=1]{ 2... Kxh6 3. Rg6+ Bxg6 4. Rxg6+ Kxh5 }
+
+\variation[level=2]{ 4... Kh7 5. Ng5+ Kh8 6. Nxf7+ Kh7 7. Nxd8 }
+
+\mainline[level=1]{ 5. Nxe5+ }
+
+\variation[level=2]{ 5. Rg5+ Kh6 }
+
+\mainline[level=1]{ 5... Ng4 }
+
+\variation[level=2]{ 5... Kh4 6. Rh6+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 6. Nxf7 Qe7+ 7. Kf1 Qxf7 8. Rh6+ Kg5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 6. Nf3+ Kh5 7. Ne5+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 6. Rg4+ Nxg4 } 
+\variation[level=2]{ 6... Kg5 7. Nxf7+ } (\variation[level=3]{ 7. Rh5+ Kf4 8. Ng6+ Ke4 })
+\variation[level=2]{ 7... Kf5 8. Nxd8 Rxd8 9. Bc2+ } (\variation[level=3]{ 9. Bf3 Rc8 10. Kd2 })
+\variation[level=2]{ 9... Ke5 10. f4+ }
+
+\mainline[level=1]{ 6. Bxg4+ }
+
+\variation[level=2]{ 6. Nxf7 Qe7+ 7. Kd2 Kxg6 8. Bxg4 Rc4 }
+
+\mainline[level=1]{ 6... Kh4 7. Rh6+ }
+
+\variation[level=2]{ 7. Nf3+ Rxf3 8. Bxf3 Qe8+ }
+
+\mainline[level=1]{ 7... Kg5 8. Nxf7+ }
+
+\variation[level=2]{ 8. Rh5+ Kf4 9. Nxf7 Rc1+ }
+
+\mainline[level=1]{ 8... Kxg4 9. Nxd8 }
+ Find the best continuation 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r4knr/ppp3bp/3pp1p1/7b/4P2q/2N1BP2/PPP1BP1P/R2Q1R1K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Bxf3+ 2. Bxf3 Be5 { Play for win }}\fenboard{r4knr/ppp3bp/3pp1p1/7b/4P2q/2N1BP2/PPP1BP1P/R2Q1R1K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{r4knr/ppp3bp/3pp1p1/7b/4P2q/2N1BP2/PPP1BP1P/R2Q1R1K b - - 0 1}
+\mainline[level=1]{1... Bxf3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Be5 2. f4 Bxf4 3. Bxf4 Qxf4 4. Bxh5 gxh5 5. f3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qxh2+ 2. Kxh2 }
+
+\mainline[level=1]{ 2. Bxf3 Be5 }
+ Play for win 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{3q3k/1p2rQ1p/1npbpN1P/4N1p1/3P2P1/1P6/r7/3R2RK w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxh7+ Rxh7 2. Ng6# { Mate in 2 }}\fenboard{3q3k/1p2rQ1p/1npbpN1P/4N1p1/3P2P1/1P6/r7/3R2RK w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{3q3k/1p2rQ1p/1npbpN1P/4N1p1/3P2P1/1P6/r7/3R2RK w - - 0 1}
+\mainline[level=1]{1. Qxh7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Ng6+ hxg6 2. Qg8+ Qxg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qg7+ Rxg7 2. hxg7+ Kxg7 }
+
+\mainline[level=1]{ 1... Rxh7 2. Ng6# }
+ Mate in 2 
+
+\variation[level=2]{ 2. Nf7+ Rxf7 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r4rk1/pp2ppbp/2n3p1/5q2/3P2P1/3n1PK1/PP2N1BP/R1BQ3R b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Nxd4 2. gxf5 Nxf5+ 3. -- { Play for advantage }}\fenboard{r4rk1/pp2ppbp/2n3p1/5q2/3P2P1/3n1PK1/PP2N1BP/R1BQ3R b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{r4rk1/pp2ppbp/2n3p1/5q2/3P2P1/3n1PK1/PP2N1BP/R1BQ3R b - - 0 1}
+\mainline[level=1]{1... Nxd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Be5+ 2. f4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Nce5 2. gxf5 Nxc1 3. Rxc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Bxd4 2. gxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Qxg4+ 2. fxg4 Nxc1 3. Rxc1 Nxd4 4. Nxd4 }
+
+\mainline[level=1]{ 2. gxf5 }
+
+\variation[level=2]{ 2. Nxd4 Qe5+ }
+
+\mainline[level=1]{ 2... Nxf5+ }
+
+\variation[level=2]{ 2... Be5+ 3. f4 Nxf5+ 4. Kf3 }
+
+\mainline[level=1]{ 3. -- }
+ Play for advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Kh3 Nf2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Kg4 h5+ 4. Kh3 Nf2# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4nqk1/1r4p1/1prp2np/5p2/1PP1p2P/6P1/1Q1N1PB1/R3R1K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Nxe4 fxe4 2. Bxe4 Ne7 3. Ra8 Rcc7 4. Bd5+ Kh7 5. Qc2+ g6 6. h5 { Play for advantage }}\fenboard{4nqk1/1r4p1/1prp2np/5p2/1PP1p2P/6P1/1Q1N1PB1/R3R1K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{4nqk1/1r4p1/1prp2np/5p2/1PP1p2P/6P1/1Q1N1PB1/R3R1K1 w - - 0 1}
+\mainline[level=1]{1. Nxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Bxe4 fxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Ra8 Re7 2. Qb3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rxe4 fxe4 2. Bxe4 Ne7 }
+
+\mainline[level=1]{ 1... fxe4 2. Bxe4 Ne7 3. Ra8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Bxc6 Nxc6 4. Ra8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. b5 Rcc7 4. Bxb7 Rxb7 5. Ra8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Bd5+ Nxd5 4. cxd5 Rc8 }
+
+\mainline[level=1]{ 3... Rcc7 4. Bd5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Bg6 Nxg6 5. Rexe8 Qxe8 6. Rxe8+ Kf7 7. Re4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Qa3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 4. Qa2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 4. Qa1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 4. Bxb7 Rxb7 5. Qa3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 4. Bh7+ Kxh7 5. Qc2+ Kh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 4. Rxe8 Qxe8 5. Bd5+ Kh7 }
+
+\mainline[level=1]{ 4... Kh7 5. Qc2+ g6 6. h5 }
+ Play for advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r1bq1r1k/5p1p/p1pp1npQ/1p2n3/2PNP1P1/2NB1P2/PP6/R3K2R w KQ - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Nxc6 Nxd3+ 2. Kd2 -- { Decisive advantage }}\fenboard{r1bq1r1k/5p1p/p1pp1npQ/1p2n3/2PNP1P1/2NB1P2/PP6/R3K2R w KQ - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r1bq1r1k/5p1p/p1pp1npQ/1p2n3/2PNP1P1/2NB1P2/PP6/R3K2R w KQ - 0 1}
+\mainline[level=1]{1. Nxc6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. g5 Nh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Nf5 Bxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nd5 cxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. O-O-O Rg8 2. Be2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Ne6 Nxf3+ 2. Ke2 fxe6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Qxh7+ Nxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. f4 Nxd3+ 2. Kd2 Nf2 }
+
+\mainline[level=1]{ 1... Nxd3+ }
+
+\variation[level=2]{ 1... Nxc6 2. Nd5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 2. g5 Nh5 3. Rxh5 gxh5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 2. e5 Nxe5 } 
+
+\mainline[level=1]{ 2. Kd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Ke2 Be6 3. Nxd8 Rfxd8 4. Kxd3 Bxc4+ 5. Ke3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Kd1 Be6 3. Qh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Kf1 Qb6 3. Qxf8+ Ng8 4. Rh2 }
+
+\mainline[level=1]{ 2... -- }
+ Decisive advantage 
+
+\variation[level=2]{ 2... Qe8 3. Nd5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 3. g5 Nh5 4. Rxh5 gxh5 5. Qf6+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 3. Kxd3 Be6 4. g5 } 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r1b1nrk1/pp1n3p/2pp4/8/2P2q1N/1PB4P/P4PB1/R2QR1K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Bd5+ cxd5 2. Qxd5+ Qf7 3. Qg5+ Ng7 4. Nf5 Qg6 5. Ne7+ { Decisive advantage }}\fenboard{r1b1nrk1/pp1n3p/2pp4/8/2P2q1N/1PB4P/P4PB1/R2QR1K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r1b1nrk1/pp1n3p/2pp4/8/2P2q1N/1PB4P/P4PB1/R2QR1K1 w - - 0 1}
+\mainline[level=1]{1. Bd5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rxe8 Rxe8 2. Qh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qd5+ cxd5 2. Bxd5+ Rf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Re4 Qxf2+ 2. Kh2 }
+
+\mainline[level=1]{ 1... cxd5 2. Qxd5+ Qf7 3. Qg5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Qg2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Nf5 Qxd5 4. Nh6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Re7 Qxd5 4. cxd5 Ndf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3. Rxe8 Rxe8 4. Qg5+ Kf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3. Qxf7+ Kxf7 }
+
+\mainline[level=1]{ 3... Ng7 4. Nf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4. Re7 Qxe7 5. Qxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4. Bxg7 Qxg7 5. Qxg7+ Kxg7 6. Re7+ Kg8 }
+
+\mainline[level=1]{ 4... Qg6 5. Ne7+ }
+ Decisive advantage 
+
+\variation[level=2]{ 5. Nh6+ Kh8 6. Qxg6 hxg6 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5rk1/1bqppp1p/5np1/6QP/rp1NP3/5P2/1PP1N1P1/2KR3R b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Bxe4 2. b3 Ra2 3. fxe4 Qc3 4. Nxc3 bxc3 5. Kb1 Rfa8 { Play for advantage }}\fenboard{5rk1/1bqppp1p/5np1/6QP/rp1NP3/5P2/1PP1N1P1/2KR3R b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{5rk1/1bqppp1p/5np1/6QP/rp1NP3/5P2/1PP1N1P1/2KR3R b - - 0 1}
+\mainline[level=1]{1... Bxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Ra6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Rfa8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Nxe4 2. fxe4 Ra1+ 3. Kd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... b3 2. Nxb3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Qc3 2. bxc3 Ra1+ 3. Kd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Ra1+ 2. Kd2 Rxd1+ 3. Kxd1 }
+
+\mainline[level=1]{ 2. b3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. fxe4 Nxe4 3. Qe3 Ra1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Qe3 e5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{b1)} } 2... Bxc2 3. Nxc2 Nxh5 4. Qb3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b2)} } 2... Nd5 3. Qxe4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b3)} } 2... Ra1+ 3. Kd2 Rxd1+ 4. Kxd1 e5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b4)} } 2... b3 3. fxe4 bxc2 4. Nxc2 Ra1+ 5. Kd2 } 
+\variation[level=2]{ 3. fxe4 exd4 4. Nxd4 Ra1+ 5. Kd2 Rxd1+ 6. Rxd1 Nxh5 }
+
+\mainline[level=1]{ 2... Ra2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Ra5 3. Qe3 e5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Ra1+ 3. Kd2 Ra5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2... Bxc2 3. bxa4 Bxa4+ 4. Kd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2... e5 3. bxa4 exd4 4. fxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2... Qxc2+ 3. Nxc2 Bxc2 4. bxa4 Bxd1 5. Kxd1 }
+
+\mainline[level=1]{ 3. fxe4 Qc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3... Qxc2+ 4. Nxc2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3... Qa7 4. Rh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3... Nxe4 4. Qxe7 Ra1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3... e5 4. hxg6 fxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3... Ra1+ 4. Kb2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 3... Qa5 4. Qxa5 Rxa5 5. Ng3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 3... Rfa8 4. hxg6 Ra1+ }
+
+\mainline[level=1]{ 4. Nxc3 bxc3 5. Kb1 Rfa8 }
+ Play for advantage 
+
+\variation[level=2]{ 5... Rb2+ 6. Kc1 Ra8 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/3r1p1p/p2p1QpB/q3b3/P7/7P/2P2PP1/4RK2 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxe1+ 2. Kxe1 Bxf6 { Decisive advantage }}\fenboard{6k1/3r1p1p/p2p1QpB/q3b3/P7/7P/2P2PP1/4RK2 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{6k1/3r1p1p/p2p1QpB/q3b3/P7/7P/2P2PP1/4RK2 b - - 0 1}
+\mainline[level=1]{1... Qxe1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Bxf6 2. Re8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Bc3 2. Re8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qc3 2. Qg7+ Bxg7 3. Re8+ }
+
+\mainline[level=1]{ 2. Kxe1 Bxf6 }
+ Decisive advantage 
+
+\variation[level=2]{ 2... Bc3+ 3. Qxc3 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2b1rnk1/2q2rp1/4p2Q/pp1p3N/2p5/P1P3RP/1PB2PP1/4R1K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxg3 2. Nf6+ Rxf6 3. Qxf6 gxf6 { Decisive advantage }}\fenboard{2b1rnk1/2q2rp1/4p2Q/pp1p3N/2p5/P1P3RP/1PB2PP1/4R1K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{2b1rnk1/2q2rp1/4p2Q/pp1p3N/2p5/P1P3RP/1PB2PP1/4R1K1 b - - 0 1}
+\mainline[level=1]{1... Qxg3 2. Nf6+ }
+
+\variation[level=2]{ 2. Nxg3 gxh6 }
+
+\mainline[level=1]{ 2... Rxf6 }
+
+\variation[level=2]{ 2... gxf6 3. fxg3 }
+
+\mainline[level=1]{ 3. Qxf6 gxf6 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{8/R7/1p2k3/2p1q1p1/2P1Q3/1P2K1P1/7r/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Re7+ Kxe7 2. Qxe5+ { Play for win }}\fenboard{8/R7/1p2k3/2p1q1p1/2P1Q3/1P2K1P1/7r/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{8/R7/1p2k3/2p1q1p1/2P1Q3/1P2K1P1/7r/8 w - - 0 1}
+\mainline[level=1]{1. Re7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qxe5+ Kxe5 2. Rd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Ra6 Re2+ 2. Kxe2 Qxe4+ 3. Kd1 Qd3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rb7 Re2+ 2. Kxe2 Qxe4+ 3. Kd2 Qxb7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. g4 Rh3+ 2. Kf2 Qxe4 3. Re7+ Kxe7 }
+
+\mainline[level=1]{ 1... Kxe7 2. Qxe5+ }
+ Play for win 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4R3/pp1r1pk1/2pb1qpp/8/2B5/1PQ2P1P/PKP3P1/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rg8+ Kxg8 2. Qxf6 { Decisive advantage }}\fenboard{4R3/pp1r1pk1/2pb1qpp/8/2B5/1PQ2P1P/PKP3P1/8 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{4R3/pp1r1pk1/2pb1qpp/8/2B5/1PQ2P1P/PKP3P1/8 w - - 0 1}
+\mainline[level=1]{1. Rg8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Bxf7 Ba3+ 2. Kxa3 Qxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qxf6+ Kxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rf8 Be5 2. Rxf7+ Rxf7 3. Qxe5 Qxe5+ 4. Kb1 Rd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Re6 Ba3+ 2. Kxa3 Qxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rh8 Be5 }
+
+\mainline[level=1]{ 1... Kxg8 2. Qxf6 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5rk1/2b3p1/p6p/1pp5/8/2P4P/PPB3P1/5RK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Bh7+ Kxh7 2. Rxf8 { Play for advantage }}\fenboard{5rk1/2b3p1/p6p/1pp5/8/2P4P/PPB3P1/5RK1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{5rk1/2b3p1/p6p/1pp5/8/2P4P/PPB3P1/5RK1 w - - 0 1}
+\mainline[level=1]{1. Bh7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Bb3+ c4 2. Rxf8+ Kxf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxf8+ Kxf8 }
+
+\mainline[level=1]{ 1... Kxh7 2. Rxf8 }
+ Play for advantage 
+
+\variation[level=2]{ 2. Rf7 Rxf7 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4R3/pp1r1pk1/2pb1qpp/8/2B5/1PQ2P1P/PKP3P1/8 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Ba3+ 2. Kxa3 Qxc3 { Decisive advantage }}\fenboard{4R3/pp1r1pk1/2pb1qpp/8/2B5/1PQ2P1P/PKP3P1/8 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{4R3/pp1r1pk1/2pb1qpp/8/2B5/1PQ2P1P/PKP3P1/8 b - - 0 1}
+\mainline[level=1]{1... Ba3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qxc3+ 2. Kxc3 Kf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Be5 2. Qxe5 Qxe5+ 3. Rxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Bb4 2. Rg8+ Kxg8 3. Qxf6 }
+
+\mainline[level=1]{ 2. Kxa3 Qxc3 }
+ Decisive advantage 
+
+\variation[level=2]{ 2... g5 3. Rg8+ Kxg8 4. Qxf6 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{8/8/4b3/7p/5K1k/2b1P1R1/6P1/8 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Be5+ 2. Kxe5 Kxg3 3. Kxe6 Kxg2 4. e4 h4 { Play for win }}\fenboard{8/8/4b3/7p/5K1k/2b1P1R1/6P1/8 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{8/8/4b3/7p/5K1k/2b1P1R1/6P1/8 b - - 0 1}
+\mainline[level=1]{1... Be5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Be1 2. Rg6 Bg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Bg4 2. Rh3+ Bxh3 3. g3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Bf6 2. Rh3+ Bxh3 3. g3# }
+
+\mainline[level=1]{ 2. Kxe5 Kxg3 }
+
+\variation[level=2]{ 2... Bg4 3. Kf4 }
+
+\mainline[level=1]{ 3. Kxe6 Kxg2 }
+
+\variation[level=2]{ 3... h4 4. e4 Kxg2 }
+
+\mainline[level=1]{ 4. e4 h4 }
+ Play for win 
+
+\variation[level=2]{ 4... Kf3 5. e5 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{8/p2b1pk1/1pq2rpp/4Q3/P3P2P/BPPR2R1/6K1/5r2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Rdf3 Rxf3 2. Rxf3 Qe6 3. Qxf6+ Qxf6 4. Bf8+ Kxf8 5. Rxf6 { Play for advantage }}\fenboard{8/p2b1pk1/1pq2rpp/4Q3/P3P2P/BPPR2R1/6K1/5r2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{8/p2b1pk1/1pq2rpp/4Q3/P3P2P/BPPR2R1/6K1/5r2 w - - 0 1}
+\mainline[level=1]{1. Rdf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rgf3 Rxf3 2. Rxf3 Bh3+ 3. Kh2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Bf8+ Kxf8 2. Rdf3 R6xf3 3. Rxf3 Re1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rxd7 Qxd7 2. Qxf6+ Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxf6+ Qxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rxg6+ Kxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Rd6 Qxe4+ 2. Rf3 Qxf3+ 3. Kh2 Qh3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Be7 Qxe4+ 2. Rgf3 Bh3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. h5 Qxe4+ 2. Rgf3 Bh3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Bd6 Kg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Rd5 Qe6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. Qe7 R6f2# }
+
+\mainline[level=1]{ 1... Rxf3 2. Rxf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 2. Bf8+ Kxf8 3. Rxf3 Rxf3 4. Kxf3 f6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a12)} } 2. Rxg6+ Kxg6 3. Qh5+ Kxh5 }
+
+\mainline[level=1]{ 2... Qe6 3. Qxf6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 3. Qd4 Qg4+ 4. Rg3 Qe2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a12)} } 3. Bf8+ Kxf8 4. Qxf6 Qxf6 5. Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a13)} } 3. Rxf6 Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a14)} } 3. Qxe6 Rxe6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a15)} } 3. Bb4 Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a16)} } 3. Bd6 Qg4+ 4. Qg3 Rxd6 5. Qxg4 Bxg4 }
+
+\mainline[level=1]{ 3... Qxf6 4. Bf8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 4. Rxf6 Kxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a12)} } 4. e5 Qxe5 }
+
+\mainline[level=1]{ 4... Kxf8 5. Rxf6 }
+ Play for advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/pqp2pbp/3p4/2PNr1P1/3RP3/2P3Q1/7P/1r1R2K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxe4 2. Nf6+ Kh8 3. Nxe4 Bxd4+ 4. cxd4 Rxd1+ { Play for advantage }}\fenboard{6k1/pqp2pbp/3p4/2PNr1P1/3RP3/2P3Q1/7P/1r1R2K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{6k1/pqp2pbp/3p4/2PNr1P1/3RP3/2P3Q1/7P/1r1R2K1 b - - 0 1}
+\mainline[level=1]{1... Rxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rxd1+ 2. Rxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Kh8 2. Kg2 Rxd1 3. Rxd1 Qb2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qb3 2. Rf1 Rxf1+ 3. Kxf1 Qb1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Kf8 2. cxd6 cxd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Rxd5 2. Rxd5 Rxd1+ 3. Rxd1 Qxe4 4. cxd6 cxd6 5. Re1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Rxg5 2. Qxg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Re6 2. Nf6+ Kf8 3. e5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... h6 2. gxh6 Rxd1+ 3. Rxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Qa6 2. Nf6+ Kh8 3. Rxb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... Bh6 2. gxh6+ Kf8 3. Qg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1... Rf5 2. Nf6+ Kh8 3. exf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1... Rb3 2. Nf6+ Kh8 3. Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1... Rc1 2. Nf6+ Kh8 3. Qxe5 Rxd1+ 4. Rxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 1... a5 2. Nf6+ Kf8 3. Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111115)} } 1... Qxd5 2. exd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111116)} } 1... dxc5 2. Nf6+ Kh8 3. Rd8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11111117)} } 1... f6 2. gxf6 Rxd1+ 3. Rxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111111118)} } 1... f5 2. gxf6 Rxd1+ 3. Rxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111119)} } 1... c6 2. Nf6+ Kf8 3. Qxe5 Rxd1+ 4. Rxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11111111120)} } 1... Qb2 2. Nf6+ Kh8 3. Qxe5 }
+
+\mainline[level=1]{ 2. Nf6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111112)} } 2. Rxe4 Rxd1+ 3. Kf2 Qxd5 }
+
+\mainline[level=1]{ 2... Kh8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111111)} } 2... Bxf6 3. gxf6+ Kf8 4. Rxd6 cxd6 5. Qxd6+ Re7 6. fxe7+ Qxe7 7. Rxb1 Qxd6 8. cxd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111112)} } 2... Kf8 3. Rxd6 cxd6 4. Qxd6+ Qe7 5. Rxb1 Qxd6 6. cxd6 Bxf6 7. gxf6 }
+
+\mainline[level=1]{ 3. Nxe4 Bxd4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111111)} } 3... Qxe4 4. Rxe4 Rxd1+ 5. Kf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111112)} } 3... Rxd1+ 4. Rxd1 Qxe4 5. Re1 }
+
+\mainline[level=1]{ 4. cxd4 Rxd1+ }
+ Play for advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111111111)} } 4... Qxe4 5. Rxb1 Qxb1+ 6. Kf2 Qe4 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1n1r2k1/6pp/bq2p3/p1R1Pp2/Pp6/1P2QB1P/5PP1/2N3K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... f4 2. Rb5 Qxe3 3. fxe3 Bxb5 4. axb5 fxe3 { Decisive advantage }}\fenboard{1n1r2k1/6pp/bq2p3/p1R1Pp2/Pp6/1P2QB1P/5PP1/2N3K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{1n1r2k1/6pp/bq2p3/p1R1Pp2/Pp6/1P2QB1P/5PP1/2N3K1 b - - 0 1}
+\mainline[level=1]{1... f4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Nd7 2. Rc6 Qxe3 3. fxe3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Rd1+ 2. Bxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Bb7 2. Rc8 Rxc8 3. Qxb6 Rxc1+ 4. Kh2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Qxc5 2. Qxc5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Rd3 2. Rc8+ Qd8 3. Rxd8+ Rxd8 4. Qc5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Nc6 2. Rxc6 Rd1+ 3. Bxd1 Qxc6 4. Be2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Rd5 2. Rxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Rc8 2. Rxc8+ Kf7 3. Qxb6 Bxc8 4. Qxb8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Rd2 2. Rc8+ Bxc8 3. Qxb6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... Be2 2. Rc8 Rxc8 3. Qxb6 Rxc1+ 4. Kh2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1... Bf1 2. Rc8 Qxe3 3. Rxd8+ Kf7 4. fxe3 }
+
+\mainline[level=1]{ 2. Rb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 2. Qxf4 Qxc5 }
+
+\mainline[level=1]{ 2... Qxe3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 2... Qxb5 3. axb5 fxe3 4. bxa6 Nxa6 5. fxe3 Nc5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a2)} } 2... Bxb5 3. Qxb6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a3)} } 2... fxe3 3. Rxb6 Rc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a4)} } 2... Rd1+ 3. Bxd1 Qxb5 4. axb5 fxe3 5. bxa6 Nxa6 6. fxe3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a5)} } 2... Qc7 3. Qc5 }
+
+\mainline[level=1]{ 3. fxe3 Bxb5 4. axb5 fxe3 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{3q2k1/p1b1pp2/1p4p1/5b1p/3B4/2P1QPP1/PP1N3P/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... e5 2. -- { Play
+for advantage }}\fenboard{3q2k1/p1b1pp2/1p4p1/5b1p/3B4/2P1QPP1/PP1N3P/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{3q2k1/p1b1pp2/1p4p1/5b1p/3B4/2P1QPP1/PP1N3P/6K1 b - - 0 1}
+\mainline[level=1]{1... e5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... h4 2. g4 Bxg4 3. fxg4 e5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... e6 2. f4 f6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... b5 2. Bxa7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Be5 2. Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qxd4 2. Qxd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Bxg3 2. hxg3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Bf4 2. Qxf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Bh3 2. Qe4 Bf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Qd5 2. Qxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... f6 2. Qe2 Kf7 }
+
+\mainline[level=1]{ 2. -- }
+ Play
+for advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Bxe5 Bxe5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 2... Qe7 3. Bd4 Qxe3+ 4. Bxe3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 2... Bd6 3. Bd4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a3)} } 2... Qxd2 3. Qxd2 Bxe5 4. Qd5 } 
+\variation[level=2]{ 3. Qxe5 Qxd2 } (\variation[level=3]{ 3... Qd3 4. Qe8+ Kg7 5. Qe5+ })
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r1r3k1/5p1p/6p1/8/1pq5/1p1Q1P1P/1P2R1P1/1K1R4 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Re8+ Rxe8 2. Qxc4 { Decisive
+advantage }}\fenboard{r1r3k1/5p1p/6p1/8/1pq5/1p1Q1P1P/1P2R1P1/1K1R4 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r1r3k1/5p1p/6p1/8/1pq5/1p1Q1P1P/1P2R1P1/1K1R4 w - - 0 1}
+\mainline[level=1]{1. Re8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qxc4 Rxc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Re4 Qxd3+ 2. Rxd3 Ra1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rc2 bxc2+ 2. Kc1 Qf4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Re7 Qxd3+ 2. Rxd3 Ra1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rc1 Qxc1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. h4 Qxd3+ 2. Rxd3 Ra1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Qe3 Ra1+ 2. Kxa1 Qa6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Qd8+ Rxd8 2. Rxd8+ Rxd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Red2 Qc5 2. Qxb3 Qa7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Qd7 Ra1+ 2. Kxa1 Qc1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. Ree1 Qc2+ 2. Qxc2 bxc2+ 3. Kc1 Ra1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1. Qe4 Ra1+ 2. Kxa1 Qa6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1. Qd4 Ra1+ 2. Kxa1 Qa6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 1. Qd5 Ra1+ 2. Kxa1 Qc1+ }
+
+\mainline[level=1]{ 1... Rxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111)} } 1... Kg7 2. Qxc4 Rxc4 3. Rxa8 }
+
+\mainline[level=1]{ 2. Qxc4 }
+ Decisive
+advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4nr1r/p1bq1kp1/1p3pp1/2pb4/2N2P2/P5PP/1PP1QBBK/4R1R1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qe7+ Qxe7 2. Bxd5+ Qe6 3. Rxe6 { Decisive advantage }}\fenboard{4nr1r/p1bq1kp1/1p3pp1/2pb4/2N2P2/P5PP/1PP1QBBK/4R1R1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{4nr1r/p1bq1kp1/1p3pp1/2pb4/2N2P2/P5PP/1PP1QBBK/4R1R1 w - - 0 1}
+\mainline[level=1]{1. Qe7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rd1 Rxh3+ 2. Bxh3 Qxh3+ 3. Kxh3 Rh8+ 4. Kg4 f5+ 5. Kg5 Rh5+ 6. Qxh5 Bd8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Bxd5+ Qxd5 2. Qe7+ Kg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Qxe8+ Rxe8 2. Rxe8 Kxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qd3 Qxh3+ 2. Bxh3 Rxh3+ 3. Kxh3 Rh8+ 4. Kg4 f5+ 5. Kg5 Rh5# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Bxc5 Bxg2 2. Qe7+ Qxe7 3. Rxe7+ Kg8 4. Kxg2 bxc5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Ne5+ fxe5 2. fxe5 Be6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Qe6+ Bxe6 2. Rxe6 Kxe6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Nd6+ Qxd6 2. Qe7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. h4 Bxg2 2. Rxg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Ne3 Rxh3+ 2. Bxh3 Qxh3+ 3. Kxh3 Rh8+ 4. Kg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. f5 Bxg2 2. Qe6+ Qxe6 3. fxe6+ Ke7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1. Qe5 Rxh3+ 2. Bxh3 Qxh3+ 3. Kxh3 Rh8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1. Nxb6 Rxh3+ 2. Bxh3 Qxh3+ 3. Kxh3 Rh8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 1. Qg4 f5 2. Qd1 }
+
+\mainline[level=1]{ 1... Qxe7 2. Bxd5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11111)} } 2. Rxe7+ Kxe7 3. Bxd5 g5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11112)} } 2. f5 Qd7 3. Rd1 Qxf5 4. Bxd5+ Ke7 5. Rge1+ Be5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11113)} } 2. Ne5+ fxe5 3. Bxd5+ Kf6 4. fxe5+ Kg5 }
+
+\mainline[level=1]{ 2... Qe6 3. Rxe6 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1rb1k2r/1pqp3p/pN2p1pQ/4b3/4pB2/6P1/PPP2P1P/R4RK1 w k - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qg7 Bxg7 2. Bxc7 { Play for advantage }}\fenboard{1rb1k2r/1pqp3p/pN2p1pQ/4b3/4pB2/6P1/PPP2P1P/R4RK1 w k - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{1rb1k2r/1pqp3p/pN2p1pQ/4b3/4pB2/6P1/PPP2P1P/R4RK1 w k - 0 1}
+\mainline[level=1]{1. Qg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Bxe5 Qxe5 2. Nc4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Nxc8 Rxc8 2. Bxe5 Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nxd7 Bxd7 2. Bxe5 Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Rfe1 Bxf4 2. Qxf4 Qxf4 3. gxf4 d5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Qg5 Bxf4 2. Qxf4 Qxf4 3. gxf4 Kd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Nc4 Bxf4 2. Qxf4 Qxf4 3. gxf4 b5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Nd5 exd5 2. Bxe5 Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Bg5 Qxb6 }
+
+\mainline[level=1]{ 1... Bxg7 2. Bxc7 }
+ Play for advantage 
+
+\variation[level=2]{ 2. Be5 Bxe5 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2r3rk/1b4pp/1p1Rp1q1/7R/4NPP1/2P1K3/2Q2P2/8 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rxc3+ 2. Qxc3 Qxe4+ 3. Kd2 Qxf4+ 4. Ke1 Qxd6 { Decisive advantage }}\fenboard{2r3rk/1b4pp/1p1Rp1q1/7R/4NPP1/2P1K3/2Q2P2/8 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{2r3rk/1b4pp/1p1Rp1q1/7R/4NPP1/2P1K3/2Q2P2/8 b - - 0 1}
+\mainline[level=1]{1... Rxc3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Bxe4 2. Qxe4 Rxc3+ 3. Rd3 Qxe4+ 4. Kxe4 Rxd3 5. Kxd3 h6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qxe4+ 2. Qxe4 Bxe4 3. Kxe4 Rc4+ 4. Ke5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qxg4 2. Rxh7+ Kxh7 3. Ng5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... e5 2. Rxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Rc4 2. Ng5 Re4+ 3. Qxe4 Qxe4+ 4. Nxe4 }
+
+\mainline[level=1]{ 2. Qxc3 }
+
+\variation[level=2]{ 2. Nxc3 Qxc2 }
+
+\mainline[level=1]{ 2... Qxe4+ }
+
+\variation[level=2]{ 2... Bxe4 3. Rg5 }
+
+\mainline[level=1]{ 3. Kd2 Qxf4+ }
+
+\variation[level=2]{ 3... Rc8 4. Qxc8+ Bxc8 5. Rd8# }
+
+\mainline[level=1]{ 4. Ke1 Qxd6 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 4... Qe4+ 5. Qe3 Qxg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 4... Qxg4 5. Rh3 Ba6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 4... Qxf2+ 5. Kxf2 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2r3k1/1b2q1pp/p2rp3/1pQpR3/5P2/2NR2P1/PPP4P/2K5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Nxd5 Qd7 2. Ne7+ -- { Play for advantage }}\fenboard{2r3k1/1b2q1pp/p2rp3/1pQpR3/5P2/2NR2P1/PPP4P/2K5 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{2r3k1/1b2q1pp/p2rp3/1pQpR3/5P2/2NR2P1/PPP4P/2K5 w - - 0 1}
+\mainline[level=1]{1. Nxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qxc8+ Bxc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qxd6 Qxd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rdxd5 Rxc5 2. Rxc5 b4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Rxe6 Qxe6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Ne4 Rxc5 2. Nxc5 b4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Rexd5 exd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Qa7 Qc7 2. Qd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. f5 Rxc5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Qxd5 Bxd5 2. Nxd5 Qa7 }
+
+\mainline[level=1]{ 1... Qd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... exd5 2. Qxc8+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 2. Rxe7 Rxc5 3. Rxb7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 2. Rdxd5 Rxc5 3. Rxe7 Bxd5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a3)} } 2. Qxd5+ Rxd5 3. Rxe7 Rxd3 4. Rxb7 Rd6 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a4)} } 2. Qxd6 Qxd6 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a5)} } 2. Rexd5 Qe1+ 3. Rd1 Qxd1+ 4. Rxd1 Rxd1+ 5. Kxd1 Rxc5 } 
+\variation[level=2]{ 2... Bxc8 3. Rxe7 } (\variation[level=3]{ 3. Re6 Rxe6 })
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Rxc5 2. Nxe7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rxd5 2. Qxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Bxd5 2. Qxc8+ }
+
+\mainline[level=1]{ 2. Ne7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Nb6 Rxc5 3. Nxd7 Rxe5 4. Nxe5 Rxd3 5. Nxd3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Nf6+ gxf6 3. Rxd6 Qe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Qxc8+ Bxc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Rxe6 Rxc5 3. Ne7+ Kf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2. Qxd6 Qxd6 3. Nf6+ gxf6 4. Rxd6 fxe5 5. fxe5 Be4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 2. Nc7 Rxd3 3. cxd3 Rxc7 }
+
+\mainline[level=1]{ 2... -- }
+ Play for advantage 
+
+\variation[level=2]{ 2... Qxe7 3. Qxd6 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 3. Qxc8+ Bxc8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 3. Rxd6 Rxc5 4. Rexe6 Qc7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 3. Rxe6 Rxe6 4. Qxe7 Rxe7 } 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{3r2k1/ppp1q1pp/2n5/2Pp2N1/3Pb3/6P1/PP1Q3P/4RBK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Nxd4 2. Qxd4 Qxg5 { Find the best continuation }}\fenboard{3r2k1/ppp1q1pp/2n5/2Pp2N1/3Pb3/6P1/PP1Q3P/4RBK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{3r2k1/ppp1q1pp/2n5/2Pp2N1/3Pb3/6P1/PP1Q3P/4RBK1 b - - 0 1}
+\mainline[level=1]{1... Nxd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... h6 2. Rxe4 Qxg5 3. Qxg5 hxg5 4. Re1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Bf3 2. Rxe7 Nxe7 3. Nxf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qxg5 2. Qxg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Ne5 2. dxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qf6 2. Rxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Rf8 2. Nxe4 dxe4 3. Bg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Re8 2. Bg2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Nb4 2. Nxe4 dxe4 3. Qxb4 }
+
+\mainline[level=1]{ 2. Qxd4 }
+
+\variation[level=2]{ 2. Rxe4 dxe4 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 2... Qxg5 3. Rxd4 Qxd2 4. Rxd2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 2... Qxe4 3. Nxe4 Nf3+ 4. Kf2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 2... Nf3+ 3. Nxf3 Qxe4 4. Ng5 } 
+\variation[level=2]{ 3. Bc4+ Kh8 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 3... Kf8 4. Qf4+ Ke8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 3... Ne6 4. Bxe6+ Kf8 5. Qf2+ } 
+\variation[level=2]{ 4. Qf4 } (\variation[level=3]{ 4. Nf7+ Qxf7 5. Bxf7 Nf3+ })
+\variation[level=2]{ 4... Qxg5 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 4... Nf3+ 5. Qxf3 Qxc5+ 6. Qf2 Qxg5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 4... Ne2+ 5. Bxe2 Qxc5+ 6. Kg2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 4... Ne6 5. Nf7+ Kg8 6. Nxd8 Qxd8 7. Bxe6+ Kh8 8. Qxe4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{d)} } 4... Qxc5 5. Nf7+ Kg8 6. Nh6+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{e)} } 4... Rf8 5. Nf7+ Rxf7 6. Qxf7 Qxf7 7. Bxf7 e3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{f)} } 4... Qf6 5. Nf7+ Kg8 6. Nxd8+ Kf8 7. Qxc7 Nf3+ 8. Kg2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{g)} } 4... b5 5. Nf7+ Kg8 6. Nh6+ } 
+\variation[level=2]{ 5. Qxg5 Nf3+ } (\variation[level=3]{ 5... Ne2+ 6. Bxe2 })
+\variation[level=2]{ 6. Kg2 Nxg5 } (\variation[level=3]{ 6... Rd2+ 7. Qxd2 Nxd2 })
+
+\mainline[level=1]{ 2... Qxg5 }
+ Find the best continuation 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1rb2nk1/p1r1qppp/4p3/2P5/4B1N1/P5Q1/5PPP/R3R1K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Nf6+ Kh8 2. Ne8 Qxe8 3. Qxc7 { Decisive advantage }}\fenboard{1rb2nk1/p1r1qppp/4p3/2P5/4B1N1/P5Q1/5PPP/R3R1K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{1rb2nk1/p1r1qppp/4p3/2P5/4B1N1/P5Q1/5PPP/R3R1K1 w - - 0 1}
+\mainline[level=1]{1. Nf6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Nh6+ Kh8 2. Ng4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Bd5 Ng6 2. c6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Bxh7+ Kxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxc7 Qxc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Ne5 Qxc5 2. Nc6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Qh3 Rb5 }
+
+\mainline[level=1]{ 1... Kh8 }
+
+\variation[level=2]{ 1... Qxf6 2. Qxc7 }
+
+\mainline[level=1]{ 2. Ne8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Nh5 f6 3. c6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Bxh7 Bb7 3. Nh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2. Nxh7 Nxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2. Qh4 Qxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2. Nd5 exd5 3. Bxd5 Qxc5 4. Bxf7 Bb7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 2. Qxg7+ Kxg7 3. Nh5+ Kh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 2. Nd7 Qxd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 2. Qxc7 Qxc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 2. Ng8 Qxc5 }
+
+\mainline[level=1]{ 2... Qxe8 3. Qxc7 }
+ Decisive advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Qxg7+ Kxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Bxh7 Qe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3. Qh4 Rxc5 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1r2k2r/p5bp/4p1p1/q2pn3/1p2N1P1/6QP/PPP5/1KBR3R w k - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Bh6 Qc7 2. Nd6+ Kd8 3. Bxg7 Qxg7 4. Qxe5 -- { Decisive advantage }}\fenboard{1r2k2r/p5bp/4p1p1/q2pn3/1p2N1P1/6QP/PPP5/1KBR3R w k - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{1r2k2r/p5bp/4p1p1/q2pn3/1p2N1P1/6QP/PPP5/1KBR3R w k - 0 1}
+\mainline[level=1]{1. Bh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Nd6+ Kd7 2. Bf4 Kxd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Ng5 Rb6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Bf4 dxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Rhf1 dxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rd3 dxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Nf6+ Bxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Bg5 dxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Qxe5 Bxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Rxd5 Qxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Nd2 O-O }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. Nf2 Rb6 }
+
+\mainline[level=1]{ 1... Qc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 1... Bxh6 2. Qxe5 Ke7 } (\variation[level=3]{ 2... Kd7 3. Qd6+ Kc8 4. Qxe6+ })
+\variation[level=2]{ 3. Qd6+ Kf7 4. Rhf1+ }
+
+\mainline[level=1]{ 2. Nd6+ Kd8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Kf8 3. Qxe5 Re8 4. Rdf1+ Kg8 5. Bxg7 Qxg7 6. Rf6 Rf8 7. Qxe6+ Rf7 8. Rxf7 h5 9. Rxg7+ Kxg7 10. Qe7+ Kg8 11. Qf7# }
+
+\mainline[level=1]{ 3. Bxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3. Rhe1 Rb6 4. Qh4+ Kd7 5. Bxg7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3. Rhf1 Rc8 }
+
+\mainline[level=1]{ 3... Qxg7 4. Qxe5 -- }
+ Decisive advantage 
+
+\variation[level=2]{ 4... Qxe5 5. Nf7+ Ke7 6. Nxe5 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2r1r1k1/pp1b1ppp/1q6/3P4/7N/Pn1Q4/1P3PPP/1RB2RK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Nxc1 2. Rbxc1 Rxc1 3. Rxc1 Qh6 4. Qc4 Bb5 5. Qc5 b6 { Play for advantage }}\fenboard{2r1r1k1/pp1b1ppp/1q6/3P4/7N/Pn1Q4/1P3PPP/1RB2RK1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{2r1r1k1/pp1b1ppp/1q6/3P4/7N/Pn1Q4/1P3PPP/1RB2RK1 b - - 0 1}
+\mainline[level=1]{1... Nxc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rxc1 2. Rfxc1 Nxc1 3. Rxc1 Re1+ 4. Rxe1 Qxb2 5. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qb5 2. Qxb5 Bxb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Nc5 2. Qf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Bb5 2. Qxb3 Bxf1 3. Qxb6 axb6 4. Kxf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qh6 2. Bxh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Re1 2. Rxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Nd4 2. Be3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Bf5 2. Nxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Qxf2+ 2. Kxf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... Nd2 2. Bxd2 }
+
+\mainline[level=1]{ 2. Rbxc1 Rxc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 2... Bb5 3. Rxc8 Rxc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a2)} } 2... Qh6 3. Rxc8 Rxc8 4. g3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a3)} } 2... Qxb2 3. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a4)} } 2... Qxf2+ 3. Kxf2 }
+
+\mainline[level=1]{ 3. Rxc1 Qh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 3... Qxb2 4. Rb1 Qf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a2)} } 3... Bb5 4. Qd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a3)} } 3... Qf6 4. Nf3 Qxb2 5. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a4)} } 3... Qb5 4. Qxb5 Bxb5 5. Nf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a5)} } 3... g5 4. Nf5 Qxb2 5. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a6)} } 3... Qc5 4. Rxc5 Re1+ 5. Qf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a7)} } 3... Qxf2+ 4. Kxf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a8)} } 3... Re1+ 4. Rxe1 Qxb2 5. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a9)} } 3... Qa5 4. b4 }
+
+\mainline[level=1]{ 4. Qc4 Bb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 4... g5 5. Nf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a2)} } 4... b5 5. Qc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a3)} } 4... Qxh4 5. Qxh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a4)} } 4... Re4 5. Qc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a5)} } 4... Rc8 5. Qxc8+ Bxc8 6. Rxc8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a6)} } 4... Qxc1+ 5. Qxc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a7)} } 4... Bg4 5. h3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a8)} } 4... Qd2 5. h3 Qxb2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a9)} } 4... Re1+ 5. Rxe1 }
+
+\mainline[level=1]{ 5. Qc5 b6 }
+ Play for advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 5... Qxh4 6. Qxb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a2)} } 5... a6 6. Nf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a3)} } 5... Qh5 6. Qxb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a4)} } 5... Qd2 6. h3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a5)} } 5... Qxc1+ 6. Qxc1 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1k4qb/p1pBp3/8/Pr1p2r1/2PP4/6RP/P4R2/K6Q w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxd5 Qxd5 2. Rf8+ Kb7 3. Bc8+ Ka8 4. Be6+ Kb7 5. Bxd5+ Rbxd5 6. Rb3+ Ka6 7. cxd5 Bxd4+ 8. Kb1 { Play for advantage }}\fenboard{1k4qb/p1pBp3/8/Pr1p2r1/2PP4/6RP/P4R2/K6Q w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{1k4qb/p1pBp3/8/Pr1p2r1/2PP4/6RP/P4R2/K6Q w - - 0 1}
+\mainline[level=1]{1. Qxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. cxb5 Bxd4+ 2. Kb1 Rxg3 3. Qxd5 Bxf2 4. Qxg8+ Rxg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxg5 Bxd4+ 2. Rb2 Bxb2+ 3. Kb1 Ba3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. cxd5 Bxd4+ 2. Rb2 Bxb2+ 3. Kb1 Qh7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Bxb5 Bxd4+ 2. Kb1 Rxg3 3. Qxd5 Bxf2 4. Qxg8+ Rxg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rf8+ Qxf8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Rb3 Bxd4+ 2. Kb1 Rxb3+ 3. axb3 Rg1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. c5 Bxd4+ 2. Rb2 Bxb2+ 3. Kb1 Qg6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Rfg2 Bxd4+ 2. Rb2 Bxb2+ 3. Kb1 Qg6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Rb2 Bxd4 2. Rxg5 Bxb2+ 3. Kb1 Ba3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Be6 Bxd4+ 2. Rb2 Bxb2+ 3. Kb1 Qg6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. Rg4 Rxg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1. Qb1 Bxd4+ 2. Rb2 Rxb2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1. Rd3 Rg1+ 2. Rf1 Rxh1 3. Rxh1 Rb4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 1. a6 Bxd4+ 2. Rb2 Bxb2+ 3. Kb1 Qg6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111115)} } 1. Qd1 Rxg3 2. cxb5 Bf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111116)} } 1. Rf5 Bxd4+ 2. Rc3 Bxc3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11111117)} } 1. h4 Bxd4+ 2. Rb2 Bxb2+ 3. Kb1 Qg6+ }
+
+\mainline[level=1]{ 1... Qxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111)} } 1... Rbxd5 2. Rb2+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111111)} } 2. cxd5 Bxd4+ 3. Kb1 Rxg3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111112)} } 2. Rf8+ Qxf8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111113)} } 2. Rf5 Bxd4+ 3. Kb1 Rxg3 4. cxd5 Rg1+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111114)} } 2. Bf5 Rdxf5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111115)} } 2. Rb3+ Rb5 3. Rxb5+ Rxb5 4. cxb5 Bxd4+ 5. Kb1 Qg1+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111116)} } 2. Rxg5 Bxd4+ 3. Kb1 Rxg5 4. Rf8+ Qxf8 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111117)} } 2. Be6 Bxd4+ 3. Kb1 Qxe6 4. Rb3+ Kc8 } 
+\variation[level=2]{ 2... Rb5 3. Rxb5+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111111)} } 3. Rxg5 Qxg5 4. Rxb5+ Qxb5 5. cxb5 Bxd4+ 6. Kb1 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111112)} } 3. Bxb5 Bxd4 4. Rxg5 Qxg5 5. Bc6+ Bxb2+ 6. Kxb2 Qf6+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111113)} } 3. cxb5 Qc4 } 
+\variation[level=2]{ 3... Rxb5 } (\variation[level=3]{ 3... Ka8 4. Bc6# })
+\variation[level=2]{ 4. Rxg8+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111111)} } 4. Bxb5 Bxd4+ 5. Kb1 Qxg3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111112)} } 4. cxb5 Bxd4+ 5. Kb1 Qxg3 } 
+
+\mainline[level=1]{ 2. Rf8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111)} } 2. cxd5 Bxd4+ 3. Rb2 Rxb2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111112)} } 2. Rb2 Qh1+ 3. Rg1 Rxg1+ 4. Rb1 Rgxb1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111113)} } 2. Rxg5 Qxd4+ 3. Rb2 Qxb2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111114)} } 2. Bxb5 Qxd4+ 3. Rc3 Qxc3+ 4. Kb1 Rg1+ }
+
+\mainline[level=1]{ 2... Kb7 3. Bc8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111)} } 3. Bc6+ Qxc6 4. a6+ Kxa6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111112)} } 3. cxd5 Bxd4+ 4. Rc3 Bxc3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111113)} } 3. Bxb5 Qxd4+ 4. Rc3 Qxc3+ 5. Kb1 Qb2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111114)} } 3. a6+ Kb6 4. Rb8+ Ka5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111115)} } 3. Rxg5 Qxd4# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111116)} } 3. cxb5 Qxd4+ 4. Rc3 Qxc3+ 5. Kb1 Qb2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111117)} } 3. Rxh8 Qxd4+ 4. Rc3 Qxc3# }
+
+\mainline[level=1]{ 3... Ka8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111)} } 3... Kc6 4. cxd5+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111111)} } 4. Rf6+ Bxf6 5. cxd5+ Rgxd5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111112)} } 4. Rxg5 Qxd4# } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111113)} } 4. cxb5+ Qxb5 5. Rc3+ Kd5 } 
+\variation[level=2]{ 4... Rbxd5 5. Rc3+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111111)} } 5. Rxg5 Bxd4+ 6. Kb1 Rxg5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111112)} } 5. Rf5 Bxd4+ 6. Kb1 Rxg3 7. Bb7+ Kxb7 8. Rxd5 e5 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111113)} } 5. Rxh8 Rxg3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111114)} } 5. Bb7+ Kxb7 6. Rb3+ Kc6 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111115)} } 5. Rf6+ Bxf6 6. Rxg5 Bxd4+ 7. Kb1 Rxg5 } 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111112)} } 3... Kb8 4. Ba6+ }
+
+\mainline[level=1]{ 4. Be6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111)} } 4. Ba6+ Rb8 5. Rxb8+ Kxb8 6. Rb3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111112)} } 4. cxd5 Bxd4+ 5. Rc3 Bxc3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111113)} } 4. Bd7+ Rb8 5. Rxb8+ Kxb8 6. cxd5 Bxd4+ 7. Kb1 Rxg3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111114)} } 4. Bb7+ Kxb7 5. a6+ Kxa6 6. cxb5+ Kb7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111115)} } 4. a6 Bxd4+ 5. Rc3 Bxc3# }
+
+\mainline[level=1]{ 4... Kb7 5. Bxd5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111)} } 5. Bc8+ Ka8 6. Be6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111112)} } 5. cxd5 Bxd4+ 6. Rc3 Bxc3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111113)} } 5. a6+ Kxa6 6. Ra3+ Ra5 }
+
+\mainline[level=1]{ 5... Rbxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111111)} } 5... Rgxd5 6. Rxh8 }
+
+\mainline[level=1]{ 6. Rb3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111111)} } 6. Rxg5 Bxd4+ 7. Kb1 Rxg5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111112)} } 6. cxd5 Bxd4+ 7. Kb1 Rxg3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111113)} } 6. Rxh8 Rxg3 7. cxd5 }
+
+\mainline[level=1]{ 6... Ka6 7. cxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111111)} } 7. Rxh8 Rxd4 8. h4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111112)} } 7. Rf6+ Bxf6 8. cxd5 Bxd4+ 9. Kb1 Rxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111113)} } 7. Rb6+ axb6 8. cxd5 Bxd4+ 9. Kb1 Kxa5 }
+
+\mainline[level=1]{ 7... Bxd4+ 8. Kb1 }
+ Play for advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4r1k1/p4p1p/1p3qpB/3b4/1P1R4/P1Q5/5PPP/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxd4 2. Qxd4 Re1# { Play
+for win }}\fenboard{4r1k1/p4p1p/1p3qpB/3b4/1P1R4/P1Q5/5PPP/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{4r1k1/p4p1p/1p3qpB/3b4/1P1R4/P1Q5/5PPP/6K1 b - - 0 1}
+\mainline[level=1]{1... Qxd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Re1+ 2. Qxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Re4 2. Qc8+ Qd8 3. Qxd8+ Re8 4. Qxe8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Bxg2 2. Rd8 Rxd8 3. Qxf6 Rd1+ 4. Kxg2 Rg1+ 5. Kxg1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Qxf2+ 2. Kxf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qc6 2. Rc4 Re1+ 3. Qxe1 }
+
+\mainline[level=1]{ 2. Qxd4 Re1# }
+ Play
+for win 
+
+\variation[level=2]{ 2... Re6 3. Qg7# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{7k/1p1r2pp/p7/5q2/1bP1R3/3r2B1/4QPPP/R5K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxe4 2. Qxe4 Rd1+ 3. Qe1 Bxe1 { Decisive advantage }}\fenboard{7k/1p1r2pp/p7/5q2/1bP1R3/3r2B1/4QPPP/R5K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{7k/1p1r2pp/p7/5q2/1bP1R3/3r2B1/4QPPP/R5K1 b - - 0 1}
+\mainline[level=1]{1... Qxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rd2 2. Re8+ Bf8 3. Qh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Rd1+ 2. Rxd1 Rxd1+ 3. Qxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qxf2+ 2. Bxf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Bc3 2. Re8+ Qf8 3. Rxf8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Rxg3 2. Re8+ Bf8 3. fxg3 }
+
+\mainline[level=1]{ 2. Qxe4 Rd1+ }
+
+\variation[level=2]{ 2... Rd2 3. Qe8+ Bf8 4. Qxf8# }
+
+\mainline[level=1]{ 3. Qe1 Bxe1 }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{rr4k1/R1Q2ppp/4pq2/8/7n/3P4/2P2NPP/5R1K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxf2 2. Rxf2 Rb1+ { Play for advantage }}\fenboard{rr4k1/R1Q2ppp/4pq2/8/7n/3P4/2P2NPP/5R1K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{rr4k1/R1Q2ppp/4pq2/8/7n/3P4/2P2NPP/5R1K b - - 0 1}
+\mainline[level=1]{1... Qxf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qd8 2. Qxf7+ Kh8 3. Qxg7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Rc8 2. Rxa8 Rxa8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rb1 2. Rxa8+ Rb8 3. Rxb8+ Qd8 4. Rxd8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Rb2 2. Rxa8+ Rb8 3. Rxb8+ Qd8 4. Rxd8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qa1 2. Rfxa1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Rxa7 2. Qxb8+ Qd8 3. Qxd8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Nf3 2. Ng4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Nxg2 2. Qb7 }
+
+\mainline[level=1]{ 2. Rxf2 Rb1+ }
+ Play for advantage 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Nxg2 3. Qxf7+ Kh8 4. Qxg7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Rxa7 3. Qxb8# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r1b3k1/1p6/2p2q2/3pnNp1/3Q4/1PP1P1Pp/2B4P/5R1K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Bxf5 2. Bxf5 Qxf5 3. Rxf5 Ra1+ 4. Rf1 Rxf1# { Decisive advantage }}\fenboard{r1b3k1/1p6/2p2q2/3pnNp1/3Q4/1PP1P1Pp/2B4P/5R1K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{r1b3k1/1p6/2p2q2/3pnNp1/3Q4/1PP1P1Pp/2B4P/5R1K b - - 0 1}
+\mainline[level=1]{1... Bxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Ra1 2. Rxa1 Bxf5 3. Rf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qxf5 2. Bxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Ng4 2. Qxg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... c5 2. Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Nf3 2. Qxf6 Bxf5 3. Qxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Ra2 2. Qxe5 Rxc2 3. Qxf6 Rxh2+ 4. Kxh2 Bxf5 5. Rxf5 }
+
+\mainline[level=1]{ 2. Bxf5 Qxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Ra1 3. Rxa1 Qxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Nf3 3. Qxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2... Rf8 3. Bxh3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2... g4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2... Ra2 }
+
+\mainline[level=1]{ 3. Rxf5 Ra1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3... Nd3 4. Rxg5+ Kf7 5. Qg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3... Rf8 4. Rxg5+ Ng6 5. Rxg6+ Kf7 6. Qg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3... Nf3 4. Qd1 }
+
+\mainline[level=1]{ 4. Rf1 Rxf1# }
+ Decisive advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1r2r3/p1q2p1k/R5p1/3p3b/7Q/1P4R1/3B1PPP/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qc1+ 2. Bxc1 Re1# { Mate in 2 }}\fenboard{1r2r3/p1q2p1k/R5p1/3p3b/7Q/1P4R1/3B1PPP/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{1r2r3/p1q2p1k/R5p1/3p3b/7Q/1P4R1/3B1PPP/6K1 b - - 0 1}
+\mainline[level=1]{1... Qc1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qc2 2. Qxh5+ Kg7 3. Bc3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qc3 2. Qxh5+ Kg8 3. Bxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Re1+ 2. Bxe1 Kg8 3. Qxh5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Qxg3 2. hxg3 Re4 3. Qf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Re2 2. Qxh5+ Kg8 3. Qxe2 }
+
+\mainline[level=1]{ 2. Bxc1 Re1# }
+ Mate in 2 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1r6/p5kp/2b2pn1/3p2nR/3P1q1N/B1PB2Q1/6PP/7K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rb1+ 2. Bxb1 Qf1# { Checkmate }}\fenboard{1r6/p5kp/2b2pn1/3p2nR/3P1q1N/B1PB2Q1/6PP/7K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{1r6/p5kp/2b2pn1/3p2nR/3P1q1N/B1PB2Q1/6PP/7K b - - 0 1}
+\mainline[level=1]{1... Rb1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qxg3 2. Nf5+ Kg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Bb5 2. Rxh7+ Kg8 3. Nxg6 Qxg3 4. Ne7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qf1+ 2. Bxf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Qc1+ 2. Bxc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qxh4 2. Qc7+ Nf7 3. Rxh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Ne4 2. Rxh7+ Kxh7 3. Qxg6+ Kh8 4. Qh5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Qe4 2. Qc7+ Ne7 3. Bxe4 }
+
+\mainline[level=1]{ 2. Bxb1 Qf1# }
+ Checkmate 
+
+\variation[level=2]{ 2... Qc1+ 3. Bxc1 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r4rk1/1p2QN1p/4nPp1/1n1p4/4q3/1P6/1NR3PP/2R4K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxc2 2. Nh6+ Kh8 3. Qxf8+ Rxf8 4. Rxc2 Rxf6 { Play for advantage }}\fenboard{r4rk1/1p2QN1p/4nPp1/1n1p4/4q3/1P6/1NR3PP/2R4K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{r4rk1/1p2QN1p/4nPp1/1n1p4/4q3/1P6/1NR3PP/2R4K b - - 0 1}
+\mainline[level=1]{1... Qxc2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rxf7 2. Rc8+ Nf8 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a1)} } 2... Rxc8 3. Rxc8+ Nf8 } (\variation[level=4]{ 3... Rf8 4. Rxf8+ Nxf8 5. Qg7# })
+\variation[level=3]{ 4. Rxf8+ Rxf8 5. Qg7# } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a2)} } 2... Rf8 3. Rxa8 Rxa8 4. f7+ Kh8 5. Qf6+ Ng7 6. f8=Q+ Rxf8 7. Qxf8# } 
+\variation[level=2]{ 3. Qxe4 dxe4 4. Rxa8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Nd6 2. Nh6+ Kh8 3. Rc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Ra1 2. Nh6+ Kh8 3. Rxa1 Qxc2 4. Nf7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Na3 2. Nh6+ Kh8 3. Rc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Rae8 2. Qd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Nbd4 2. Nh6+ Kh8 3. Rc7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Qe1+ 2. Rxe1 Rxf7 3. Qxe6 }
+
+\mainline[level=1]{ 2. Nh6+ }
+
+\variation[level=2]{ 2. Rxc2 Ra1+ }
+
+\mainline[level=1]{ 2... Kh8 3. Qxf8+ Rxf8 }
+
+\variation[level=2]{ 3... Nxf8 4. Nf7+ Kg8 5. Nh6+ Kh8 6. Nf7+ }
+
+\mainline[level=1]{ 4. Rxc2 Rxf6 }
+ Play for advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r3n2Q/2p2kp1/1p1q1pN1/1b1PpP2/1b2P3/1B4R1/1B4PP/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qc5+ 2. Kh1 Ra1+ 3. Bxa1 Qc1+ 4. Bd1 Qxd1# { Mate in 4 }}\fenboard{r3n2Q/2p2kp1/1p1q1pN1/1b1PpP2/1b2P3/1B4R1/1B4PP/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{r3n2Q/2p2kp1/1p1q1pN1/1b1PpP2/1b2P3/1B4R1/1B4PP/6K1 b - - 0 1}
+\mainline[level=1]{1... Qc5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Ra1+ 2. Bxa1 Qc5+ 3. Bd4 Qxd4+ 4. Re3 Qxe3+ 5. Kh1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Ba4 2. h4 Bxb3 3. Rxb3 Qc5+ 4. Kh2 Qc4 5. Re3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Bc5+ 2. Kh1 Ra4 3. Bxa4 Bxa4 4. Qh5 Kg8 5. Rh3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Bc6 2. dxc6+ Qe6 3. fxe6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Ra2 2. Qf8+ Qxf8 3. d6+ Bc4 4. Bxc4# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Ba3 2. Qf8+ Qxf8 3. d6+ Bc4 4. Bxc4# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Bc3 2. Qf8+ Qxf8 3. d6+ Bc4 4. Bxc4# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Ra3 2. Bxa3 Bc4 3. Bxb4 b5 4. Bxd6 b4 5. Qf8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Qxd5 2. Bxd5# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... Be1 2. Qf8+ Qxf8 3. d6+ Bc4 4. Bxc4# }
+
+\mainline[level=1]{ 2. Kh1 Ra1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Qc1+ 3. Bxc1 Nd6 4. Qxa8 Be8 5. Rh3 }
+
+\mainline[level=1]{ 3. Bxa1 Qc1+ 4. Bd1 Qxd1# }
+ Mate in 4 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1k6/ppnrrp2/8/1p5p/1P3Qn1/1P6/q4PPP/B1RR1KN1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxc7+ Rxc7 2. Rd8+ Rc8 3. Rcxc8# { Mate in 3 }}\fenboard{1k6/ppnrrp2/8/1p5p/1P3Qn1/1P6/q4PPP/B1RR1KN1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{1k6/ppnrrp2/8/1p5p/1P3Qn1/1P6/q4PPP/B1RR1KN1 w - - 0 1}
+\mainline[level=1]{1. Qxc7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rxc7 Qxf2+ 2. Qxf2 Nxh2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxd7 Qxf2+ 2. Qxf2 Nxh2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Bd4 Rxd4 2. g3 Ne3+ 3. Qxe3 Rxe3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. h3 Qxf2+ 2. Qxf2 Nh2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Be5 Rxe5 2. g3 Ne6 3. Rxd7 Nxh2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Qd6 Qxf2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Bf6 Qxf2+ 2. Qxf2 Nxh2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Qxf7 Nxh2# }
+
+\mainline[level=1]{ 1... Rxc7 2. Rd8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2. Rc6 Nxh2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2. Rxc7 Qxf2# }
+
+\mainline[level=1]{ 2... Rc8 3. Rcxc8# }
+ Mate in 3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{2Rr2k1/2R4p/q2r1pp1/1p1p4/3P1PQ1/7P/PP1n4/K2N4 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qe6+ Rxe6 2. Rxd8+ Re8 3. Rxe8# { Mate in 3 }}\fenboard{2Rr2k1/2R4p/q2r1pp1/1p1p4/3P1PQ1/7P/PP1n4/K2N4 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{2Rr2k1/2R4p/q2r1pp1/1p1p4/3P1PQ1/7P/PP1n4/K2N4 w - - 0 1}
+\mainline[level=1]{1. Qe6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qd7 Qxa2+ 2. Kxa2 Ra6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxd8+ Rxd8 2. a3 Qd6 3. Rc8 Nb3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rg7+ Kxg7 2. Rc7+ Kh8 3. Qg3 Rc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxg6+ hxg6 2. a3 Rxc8 3. Rxc8+ Qxc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Rd7 Qxa2+ 2. Kxa2 Ra6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Rxh7 Qxa2+ 2. Kxa2 Ra6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Qh4 Qxa2+ 2. Kxa2 Ra6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Rc6 Qxc6 2. Rxc6 Rxc6 3. b3 Rdc8 }
+
+\mainline[level=1]{ 1... Rxe6 2. Rxd8+ Re8 3. Rxe8# }
+ Mate in 3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{1nk5/2p2p2/5q2/4p2p/1R2P3/2PN2Pp/r4P1P/3Q2K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qf3 2. Qf1 Ra1 3. Ne1 Rxe1 4. Qxe1 Qg2# { Checkmate }}\fenboard{1nk5/2p2p2/5q2/4p2p/1R2P3/2PN2Pp/r4P1P/3Q2K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{1nk5/2p2p2/5q2/4p2p/1R2P3/2PN2Pp/r4P1P/3Q2K1 b - - 0 1}
+\mainline[level=1]{1... Qf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Ra1 2. Qxa1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Nc6 2. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qxf2+ 2. Nxf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Rxf2 2. Nxf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Rd2 2. Qxd2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Qa6 2. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... h4 2. Rxb8+ Kxb8 3. Qb1+ }
+
+\mainline[level=1]{ 2. Qf1 }
+
+\variation[level=2]{ 2. Qxf3 Ra1+ }
+
+\mainline[level=1]{ 2... Ra1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Qxd3 3. Qxd3 Ra1+ 4. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Rxf2 3. Qxh3+ Nd7 4. Nxf2 Qxc3 5. Rb1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2... Qg2+ 3. Qxg2 hxg2 4. Nxe5 }
+
+\mainline[level=1]{ 3. Ne1 Rxe1 }
+
+\variation[level=2]{ 3... Qg2+ 4. Nxg2 Rxf1+ 5. Kxf1 hxg2+ 6. Kxg2 }
+
+\mainline[level=1]{ 4. Qxe1 Qg2# }
+ Checkmate 
+
+\variation[level=2]{ 4... Qxf2+ 5. Qxf2 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{r3k1r1/1pP2p2/4bB1p/2P1R1p1/5n1n/5qNP/2Q2P1K/4N2R w q - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qa4+ Rxa4 2. c8=Q# { Checkmate }}\fenboard{r3k1r1/1pP2p2/4bB1p/2P1R1p1/5n1n/5qNP/2Q2P1K/4N2R w q - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{r3k1r1/1pP2p2/4bB1p/2P1R1p1/5n1n/5qNP/2Q2P1K/4N2R w q - 0 1}
+\mainline[level=1]{1. Qa4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Nxf3 Nxf3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rxe6+ fxe6 2. Rf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. c8=Q+ Rxc8 2. Rxe6+ fxe6 3. Rg1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qg6 Qxf2+ 2. Ng2 Qxg2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Nf5 Qxh3+ 2. Kg1 Nf3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Qh7 Qxf2+ 2. Ng2 Qxg2# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Qa2 Qg2+ 2. Nxg2 Nf3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. c6 Qg2+ 2. Nxg2 Nf3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Re3 Qc6 2. Qh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Qd2 Qg2+ 2. Nxg2 Nf3# }
+
+\mainline[level=1]{ 1... Rxa4 2. c8=Q# }
+ Checkmate 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 2. Rxe6+ Kd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a2)} } 2. c8=R+ Kd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a3)} } 2. Nxf3 Nxf3# }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/3r1p1p/p2p1QpB/q3b3/P7/7P/2P2PP1/4RK2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qg7+ Bxg7 2. Re8+ Bf8 3. Rxf8# { Mate in 3 }}\fenboard{6k1/3r1p1p/p2p1QpB/q3b3/P7/7P/2P2PP1/4RK2 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{6k1/3r1p1p/p2p1QpB/q3b3/P7/7P/2P2PP1/4RK2 w - - 0 1}
+\mainline[level=1]{1. Qg7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rxe5 Qxe5 2. Qh4 Qa1+ 3. Ke2 d5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Qf4 Qxe1+ 2. Kxe1 Bxf4 3. Bxf4 Re7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. f4 Qxe1+ 2. Kxe1 Bxf6 3. f5 gxf5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxf7+ Rxf7 2. Rb1 d5 3. Kg1 Qc5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Qxe5 dxe5 2. Ra1 Rc7 3. c3 Qxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Qh8+ Kxh8 2. f4 Qd2 3. fxe5 Qxh6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Qxd6 Rxd6 2. f4 Rf6 3. Bg5 Qxa4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Qd8+ Rxd8 2. Be3 Qxa4 3. Kg1 Rc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Rb1 Bxf6 2. h4 Qxa4 3. g3 Qxc2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Bg7 Bxf6 2. Bxf6 Kf8 3. Rb1 Qc7 }
+
+\mainline[level=1]{ 1... Bxg7 2. Re8+ Bf8 3. Rxf8# }
+ Mate in 3 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{8/1b4k1/p2rq2p/2p3p1/8/2P1N1QP/1PR2P2/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Rd1+ 2. Nxd1 Qe1+ 3. Kh2 Qh1# { Play for win }}\fenboard{8/1b4k1/p2rq2p/2p3p1/8/2P1N1QP/1PR2P2/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{8/1b4k1/p2rq2p/2p3p1/8/2P1N1QP/1PR2P2/6K1 b - - 0 1}
+\mainline[level=1]{1... Rd1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qxe3 2. fxe3 Rd1+ 3. Kf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Qe4 2. Kf1 Rd7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Bh1 2. Qxd6 Qxd6 3. Nf5+ }
+
+\mainline[level=1]{ 2. Nxd1 }
+
+\variation[level=2]{ 2. Nf1 Qe1 3. Kh2 Qe4 }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 3... Qxf1 4. Qe5+ Kf7 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 3... Qe7 4. Qe3 Qd6+ } 
+\variation[level=2]{ 4. f3 Qxc2+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 4... Qxf3 5. Qxf3 Bxf3 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 4... Rxf1 5. fxe4 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 4... Qe2+ 5. Rxe2 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{d)} } 4... Qf4 5. Rf2 Kf6 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{e)} } 4... Qe1 5. Qc7+ Kf6 6. Qxb7 Qxf1 7. Qc6+ } 
+
+\mainline[level=1]{ 2... Qe1+ }
+
+\variation[level=2]{ 2... Qe4 3. Qc7+ Kg6 4. Kf1 }
+
+\mainline[level=1]{ 3. Kh2 Qh1# }
+ Play for win 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3... Qxd1 4. Qc7+ Kg6 5. Qb6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3... Qg1+ 4. Kxg1 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4rk2/1Q3p1r/2p1bB2/p6p/P3q2b/7P/6RK/3R4 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qe7+ Rxe7 2. Rd8+ Re8 3. Rg8+ Kxg8 4. Rxe8# { Mate in 4 }}\fenboard{4rk2/1Q3p1r/2p1bB2/p6p/P3q2b/7P/6RK/3R4 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{4rk2/1Q3p1r/2p1bB2/p6p/P3q2b/7P/6RK/3R4 w - - 0 1}
+\mainline[level=1]{1. Qe7+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Rd8 Bxh3 2. Be7+ Qxe7 3. Rg8+ Kxg8 4. Qxe7 Bxe7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Rg8+ Kxg8 2. Rg1+ Kf8 3. Bxh4 Qxh4 4. Rg2 Qxh3+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Rg7 Qf4+ 2. Kh1 Bd5+ 3. Rg2 Bxg2+ 4. Kxg2 Qf2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Qxf7+ Rxf7 2. Ba1 Bd5 3. Bg7+ Kg8 4. Rdg1 Qf4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Qb8 Rxb8 2. Rd8+ Rxd8 3. Bxh4 Qxh4 4. Rg8+ Kxg8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Be7+ Bxe7 2. Qb2 Qf3 3. Qd4 Bd5 4. Rg3 Bd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Rdg1 Qf4+ 2. Kh1 Bd5 3. Bc3 Bxg2+ 4. Rxg2 Qc1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Bg7+ Rxg7 2. Qb2 Rxg2+ 3. Qxg2 Qf4+ 4. Kg1 Bd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Bxh4 Qxh4 2. Qxc6 Qxh3+ 3. Kg1 Qe3+ 4. Kh1 Bg4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. Qa8 Qf4+ 2. Kg1 Rxa8 3. Rd3 Bxf6 4. h4 Rb8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. Qxc6 Qxc6 2. Rb1 Bxf6 3. Rbb2 Bxb2 4. h4 Qf3 }
+
+\mainline[level=1]{ 1... Rxe7 2. Rd8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 2. Rg8+ Kxg8 3. Rd8+ Re8 4. Rxe8# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a12)} } 2. Bxe7+ Bxe7 3. Rdd2 Qe3 4. h4 Rg7 }
+
+\mainline[level=1]{ 2... Re8 3. Rg8+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 3. Rxe8+ Kxe8 4. Bxh4 Qxh4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a12)} } 3. Bg7+ Rxg7 4. Rxe8+ Kxe8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a13)} } 3. Rg7 Qf4+ 4. Kg1 Qf2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a14)} } 3. Be7+ Kxe7 4. Rd1 Rb8 }
+
+\mainline[level=1]{ 3... Kxg8 4. Rxe8# }
+ Mate in 4 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4rrk1/2p2ppp/p2b4/1p1P4/3P2nq/2P4P/PPQ1RPP1/RNB3K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qxf2+ 2. Rxf2 Re1+ 3. Rf1 Bh2+ 4. Kh1 Rxf1# { Mate in 4 }}\fenboard{4rrk1/2p2ppp/p2b4/1p1P4/3P2nq/2P4P/PPQ1RPP1/RNB3K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{4rrk1/2p2ppp/p2b4/1p1P4/3P2nq/2P4P/PPQ1RPP1/RNB3K1 b - - 0 1}
+\mainline[level=1]{1... Qxf2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Nxf2 2. Rxf2 Re1+ 3. Rf1 Qg3 4. Qd3 Qxd3 5. Rxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Bh2+ 2. Kf1 Bd6 3. Re3 Nxe3+ 4. Bxe3 Bf4 5. Bxf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Nh2 2. Qd3 Qh5 3. Re5 Bxe5 4. dxe5 Qxe5 5. Be3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Rxe2 2. Qxe2 Nf6 3. a4 Re8 4. Be3 b4 5. Qf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Ne3 2. Rxe3 Qg5 3. Nd2 Rxe3 4. Nf3 Re1+ 5. Nxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Re3 2. Bxe3 Kh8 3. Nd2 Nf6 4. Qf5 g6 5. Qf3 }
+
+\mainline[level=1]{ 2. Rxf2 Re1+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Bh2+ 3. Kf1 Nxf2 4. Qxf2 Re7 5. g3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Re2 3. Rxe2 Nf6 4. a4 Nh5 5. Qd3 }
+
+\mainline[level=1]{ 3. Rf1 Bh2+ }
+
+\variation[level=2]{ 3... Rxf1+ 4. Kxf1 Nf6 5. a4 }
+
+\mainline[level=1]{ 4. Kh1 Rxf1# }
+ Mate in 4 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{8/k1nr2pp/p3p1b1/PpR1P1P1/1N5n/2B5/1P3r1P/3BR2K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Be4+ 2. Kg1 Rg2+ 3. Kh1 Rxd1 4. Rxc7+ Ka8 5. Rxd1 Rg4# { Checkmate }}\fenboard{8/k1nr2pp/p3p1b1/PpR1P1P1/1N5n/2B5/1P3r1P/3BR2K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{8/k1nr2pp/p3p1b1/PpR1P1P1/1N5n/2B5/1P3r1P/3BR2K b - - 0 1}
+\mainline[level=1]{1... Be4+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rxd1 2. Rxc7+ Ka8 3. Rxd1 Be4+ 4. Kg1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Rf1+ 2. Rxf1 Be4+ 3. Kg1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rxh2+ 2. Kxh2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... Nf3 2. Bxf3 Rxf3 3. Rc6 }
+
+\mainline[level=1]{ 2. Kg1 }
+
+\variation[level=2]{ 2. Rxe4 Rf1# } (\variation[level=3]{ 2... Rxd1+ 3. Re1 Rxe1+ 4. Bxe1 Rf1# })
+
+\mainline[level=1]{ 2... Rg2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 2... Re2 3. Rxe2 Nf3+ 4. Kf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 2... Nf3+ 3. Bxf3 Rxf3 4. Rxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 2... Rf1+ 3. Rxf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 2... Rxd1 3. Rxc7+ Ka8 4. Kxf2 Rxe1 5. Bxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 2... Rdf7 3. Rxc7+ Rxc7 4. Rxe4 Rg2+ 5. Kh1 }
+
+\mainline[level=1]{ 3. Kh1 }
+
+\variation[level=2]{ 3. Kf1 Rf7+ }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a)} } 3... Rxd1 4. Rxc7+ Kb8 5. Nxa6+ Ka8 6. Rxd1 } \\\variation[level=3]{\xskakcomment{\noindent\textbf{b)} } 3... Bd3+ 4. Re2 Rf7+ } \\\variation[level=3]{\xskakcomment{\noindent\textbf{c)} } 3... Rxh2 4. Rxc7+ Rxc7 5. Rxe4 Rf7+ 6. Ke1 } 
+
+\mainline[level=1]{ 3... Rxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 3... Rf2+ 4. Rxe4 Rf1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 3... Rg4+ 4. Rxe4 Rxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 3... Re2+ 4. Kg1 Rg2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 3... Rg3+ 4. Rxe4 Rxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 3... Rgd2+ 4. Rxe4 Rxd1+ 5. Re1 Kb7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 3... Rxg5+ 4. Rxe4 Rxd1+ 5. Re1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 3... Rf7 4. Rxc7+ Rxc7 5. Rxe4 Rxc3 6. bxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 3... Rg1+ 4. Kxg1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 3... Rxb2+ 4. Rxe4 Rxd1+ 5. Re1 Rxe1+ 6. Bxe1 Kb7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 3... Rdd2 4. Rxc7+ Kb8 5. Nxa6+ Ka8 6. Bxd2 Rxd2+ 7. Kg1 }
+
+\mainline[level=1]{ 4. Rxc7+ Ka8 5. Rxd1 Rg4# }
+ Checkmate 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1)} } 5... Rg3# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a2)} } 5... Rxg5# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a3)} } 5... Rd2+ 6. Kg1 Nf3+ 7. Kf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a4)} } 5... Rg1+ 6. Kxg1 Nf3+ 7. Kf2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a5)} } 5... Rxb2+ 6. Kg1 Nf3+ 7. Kf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a6)} } 5... Rxh2+ 6. Kxh2 Nf3+ 7. Kg3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a7)} } 5... Rf2+ 6. Kg1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a8)} } 5... Re2+ 6. Kg1 }
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{4kr2/1pp3pp/3qP3/3p2B1/8/P1N5/1Pn1Q1PP/1R2b2K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qe5 2. h4 Qxe2 3. Nxe2 Rf1+ 4. Ng1 h6 { Play for advantage }}\fenboard{4kr2/1pp3pp/3qP3/3p2B1/8/P1N5/1Pn1Q1PP/1R2b2K b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{4kr2/1pp3pp/3qP3/3p2B1/8/P1N5/1Pn1Q1PP/1R2b2K b - - 0 1}
+\mainline[level=1]{1... Qe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Rf2 2. Qd3 Qxe6 3. h4 Bxc3 4. Qxc3 h6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... d4 2. Bf6 Rxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Rf5 2. h4 Qe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... h6 2. Qh5+ g6 3. Qxg6+ Rf7 4. Qxf7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... g6 2. Nb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Ne3 2. Rxe1 Qxe6 3. Bxe3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Qa6 2. Nb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Rf1+ 2. Qxf1 Qxe6 3. Rc1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Qxe6 2. Qxe6# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... Nd4 2. Qxe1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1... Qxh2+ 2. Kxh2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1... Bxc3 2. bxc3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1... Qc5 2. h4 Qxc3 3. bxc3 Rf1+ 4. Qxf1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 1... Bg3 2. Qxc2 }
+
+\mainline[level=1]{ 2. h4 Qxe2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11111)} } 2... Bxc3 3. Qxc2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11112)} } 2... Qg3 3. Nxd5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11113)} } 2... h6 3. Qh5+ g6 4. Qxg6+ Rf7 5. Qxf7# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 2... Qf5 3. Nb5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11115)} } 2... Rf1+ 3. Qxf1 Qxe6 4. Nxd5 Qxd5 5. Qe2+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11116)} } 2... Rf2 3. Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11117)} } 2... Bg3 3. Qb5+ c6 4. Qxb7 Qxe6 5. Qa8+ }
+
+\mainline[level=1]{ 3. Nxe2 Rf1+ 4. Ng1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111)} } 4. Kh2 Rf2 5. Nc3 h6 6. Be3 Rf1 7. Ba7 d4 8. Nb5 Bg3+ 9. Kxg3 Rxb1 }
+
+\mainline[level=1]{ 4... h6 }
+ Play for advantage 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{6k1/1p5p/2P1p3/pP1pN2q/P2Qpr2/7b/5R1P/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1... Qe2 2. -- { Play for win }}\fenboard{6k1/1p5p/2P1p3/pP1pN2q/P2Qpr2/7b/5R1P/6K1 b - - 0 1}
+\begin{center}
+\showinverseboard 
+\end{center}
+\fenboard{6k1/1p5p/2P1p3/pP1pN2q/P2Qpr2/7b/5R1P/6K1 b - - 0 1}
+\mainline[level=1]{1... Qe2 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1... Qg5+ 2. Kh1 Rf5 3. Qb2 e3 4. b6 exf2 5. Qxf2 Rxf2 6. c7 Rf1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1... Rxf2 2. Kxf2 bxc6 3. b6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1... Qxe5 2. Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1... e3 2. Qxf4 exf2+ 3. Kxf2 bxc6 4. b6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1... Qd1+ 2. Qxd1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1... Rg4+ 2. Nxg4 Qxg4+ 3. Kh1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1... Bg2 2. Rxg2+ Rg4 3. Rxg4+ Qg6 4. Nxg6 hxg6 5. Rxg6+ Kf7 6. Qf6+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1... Qf5 2. cxb7 Qg5+ 3. Kh1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1... Bf1 2. Rxf4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1... Qg4+ 2. Nxg4 Rxg4+ 3. Kh1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1... Qh4 2. cxb7 Qg5+ 3. Kh1 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1... Qf3 2. Rxf3 Rxf3 3. Nxf3 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1... Bf5 2. cxb7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 1... Qg6+ 2. Nxg6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a111115)} } 1... bxc6 2. Rxf4 Qg5+ }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111116)} } 1... Rf3 2. Rxf3 exf3 3. cxb7 Qg5+ 4. Ng4 }
+
+\mainline[level=1]{ 2. -- }
+ Play for win 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111111)} } 2. Rxe2 Rf1# }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111112)} } 2. Rxf4 Qg2# }\\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111121)} } 2... Qe1+ 3. Rf1 Qxf1# } \\\variation[level=3]{\xskakcomment{\noindent\textbf{a11111122)} } 2... Qf1+ 3. Rxf1 bxc6 4. Qa7 } 
+
+
+
+
+\clearpage 
+\newpage 
+
+\fenboard{5k2/pbq2pp1/1p5r/1Bp1nQ2/4N3/5PP1/PPP5/3R2K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\clearpage 
+\newpage 
+\mainline{1. Qxe5 Qxe5 2. Rd8+ Ke7 3. Re8# { Play
+for win }}\fenboard{5k2/pbq2pp1/1p5r/1Bp1nQ2/4N3/5PP1/PPP5/3R2K1 w - - 0 1}
+\begin{center}
+\showboard 
+\end{center}
+\fenboard{5k2/pbq2pp1/1p5r/1Bp1nQ2/4N3/5PP1/PPP5/3R2K1 w - - 0 1}
+\mainline[level=1]{1. Qxe5 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a)} } 1. Qc8+ Qxc8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{b)} } 1. Nd6 Rxd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{c)} } 1. Nf6 Nxf3+ 2. Kf2 Rxf6 3. Qxf6 gxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{d)} } 1. Rd7 Nxd7 2. Qxd7 Qxd7 3. Bxd7 Bxe4 4. fxe4 Rd6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{e)} } 1. Be8 Nxf3+ 2. Qxf3 Bxe4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{f)} } 1. Ng5 Nxf3+ 2. Kf2 Nd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{g)} } 1. Rd8+ Qxd8 2. Qxe5 Re6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{h)} } 1. Qxf7+ Kxf7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{i)} } 1. Qd7 Nxd7 2. Rxd7 Qb8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a0)} } 1. f4 Nf3+ 2. Kf2 Nd4 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11)} } 1. Qf6 gxf6 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a112)} } 1. Bd7 Bxe4 2. Qxe4 Nxd7 3. Qa8+ Nb8 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1113)} } 1. Qh7 Rxh7 }
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a11114)} } 1. Qg5 Nxf3+ 2. Kf1 Nxg5 }
+
+\mainline[level=1]{ 1... Qxe5 2. Rd8+ Ke7 3. Re8# }
+ Play
+for win 
+
+\variation[level=2]{\xskakcomment{\noindent\textbf{a1111)} } 3. Rd7+ Ke6 4. Rxb7 Qxb2 5. Bc4+ Ke5 }
+
+
+
+
+\clearpage 
+\newpage 
+
