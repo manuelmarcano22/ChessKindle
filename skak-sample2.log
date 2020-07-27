@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2020.7.20)  24 JUL 2020 00:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2020.7.20)  26 JUL 2020 19:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -670,7 +670,13 @@ File: xskak-nagdef.sty 2015/01/02 version v1.4 nag definitions for xskak.sty
 )
 LaTeX Info: Redefining \variation on input line 1472.
 )
-(./configfile.cfg (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks36
+\verbatim@line=\toks37
+\verbatim@in@stream=\read2
+) (./configfile.cfg
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
 version 2017-05-09-09:21
 --------------------------------------
 --- Note --- for additional information, use the command line option `info'
@@ -777,8 +783,8 @@ on `imgdir:.../'
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
 )
-\:tokwrite=\toks36
-\:tokpage=\toks37
+\:tokwrite=\toks38
+\:tokpage=\toks39
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -993,6 +999,15 @@ en bounding box is unavailable try `Gin-dim+'; neither is recommended
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
 ))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/verbatim.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2018-02-21-09:31
 )
@@ -1040,863 +1055,75 @@ File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 12.
 --- file skak-sample2.css ---
-)
-l. 14 Writing skak-sample2.idv[1] (skak-sample20x.png)
+) (./uno.txt
+l. 3 Writing skak-sample2.idv[1] (skak-sample20x.png)
  [1
 
-] [2
+]
+[2
 
 ]
-l. 20 Writing skak-sample2.idv[2] (skak-sample21x.png)
+l. 9 Writing skak-sample2.idv[2] (skak-sample21x.png)
  [3] [4
 
 ]
-l. 66 Writing skak-sample2.idv[3] (skak-sample22x.png)
-
-[5] [6
+l. 32 Writing skak-sample2.idv[3] (skak-sample22x.png)
+ [5] [6
 
 ]
-l. 72 Writing skak-sample2.idv[4] (skak-sample23x.png)
+l. 38 Writing skak-sample2.idv[4] (skak-sample23x.png)
  [7] [8
 
 ]
-l. 94 Writing skak-sample2.idv[5] (skak-sample24x.png)
+l. 61 Writing skak-sample2.idv[5] (skak-sample24x.png)
  [9] [10
 
 ]
-l. 100 Writing skak-sample2.idv[6] (skak-sample25x.png)
+l. 67 Writing skak-sample2.idv[6] (skak-sample25x.png)
  [11] [12
 
 ]
-l. 136 Writing skak-sample2.idv[7] (skak-sample26x.png)
+l. 90 Writing skak-sample2.idv[7] (skak-sample26x.png)
  [13] [14
 
 ]
-l. 142 Writing skak-sample2.idv[8] (skak-sample27x.png)
+l. 96 Writing skak-sample2.idv[8] (skak-sample27x.png)
  [15] [16
 
 ]
-l. 196 Writing skak-sample2.idv[9] (skak-sample28x.png)
- [17] [18
+l. 119 Writing skak-sample2.idv[9] (skak-sample28x.png)
+ [17]
+[18
 
 ]
-l. 202 Writing skak-sample2.idv[10] (skak-sample29x.png)
- [19] [20]
-[21
+l. 125 Writing skak-sample2.idv[10] (skak-sample29x.png)
+ [19] [20
 
 ]
-l. 260 Writing skak-sample2.idv[11] (skak-sample210x.png)
- [22] [23
+l. 148 Writing skak-sample2.idv[11] (skak-sample210x.png)
+ [21] [22
 
 ]
-l. 267 Writing skak-sample2.idv[12] (skak-sample211x.png)
+l. 154 Writing skak-sample2.idv[12] (skak-sample211x.png)
+ [23] [24
 
-
-LaTeX Font Warning: Font shape `LSF/skaknew/m/it' undefined
-(Font)              using `LSF/skaknew/m/n' instead on input line 296.
-
-
-LaTeX Font Warning: Font shape `LSI/skaknew/m/it' undefined
-(Font)              using `LSI/skaknew/m/n' instead on input line 296.
-
-[24] [25
-
-]
-l. 307 Writing skak-sample2.idv[13] (skak-sample212x.png)
- [26] [27
-
-]
-l. 313 Writing skak-sample2.idv[14] (skak-sample213x.png)
- [28] [29] [30
-
-]
-l. 385 Writing skak-sample2.idv[15] (skak-sample214x.png)
- [31] [32
-
-]
-l. 391 Writing skak-sample2.idv[16] (skak-sample215x.png)
- [33] [34] [35
-
-]
-l. 442 Writing skak-sample2.idv[17] (skak-sample216x.png)
- [36] [37
-
-]
-l. 448 Writing skak-sample2.idv[18] (skak-sample217x.png)
- [38]
-[39] [40
-
-]
-l. 510 Writing skak-sample2.idv[19] (skak-sample218x.png)
- [41] [42
-
-]
-l. 517 Writing skak-sample2.idv[20] (skak-sample219x.png)
- [43] [44] [45] [46
-
-]
-l. 672 Writing skak-sample2.idv[21] (skak-sample220x.png)
- [47] [48
-
-]
-l. 678 Writing skak-sample2.idv[22] (skak-sample221x.png)
- [49] [50
-
-]
-l. 692 Writing skak-sample2.idv[23] (skak-sample222x.png)
- [51] [52
-
-]
-l. 698 Writing skak-sample2.idv[24] (skak-sample223x.png)
- [53]
-[54
-
-]
-l. 712 Writing skak-sample2.idv[25] (skak-sample224x.png)
- [55] [56
-
-]
-l. 718 Writing skak-sample2.idv[26] (skak-sample225x.png)
- [57] [58
-
-]
-l. 742 Writing skak-sample2.idv[27] (skak-sample226x.png)
- [59] [60
-
-]
-l. 748 Writing skak-sample2.idv[28] (skak-sample227x.png)
- [61] [62] [63
-
-]
-l. 814 Writing skak-sample2.idv[29] (skak-sample228x.png)
- [64] [65
-
-]
-l. 820 Writing skak-sample2.idv[30] (skak-sample229x.png)
- [66] [67
-
-]
-l. 860 Writing skak-sample2.idv[31] (skak-sample230x.png)
- [68]
-[69
-
-]
-l. 866 Writing skak-sample2.idv[32] (skak-sample231x.png)
- [70] [71
-
-]
-l. 890 Writing skak-sample2.idv[33] (skak-sample232x.png)
- [72] [73
-
-]
-l. 896 Writing skak-sample2.idv[34] (skak-sample233x.png)
- [74] [75
-
-]
-l. 928 Writing skak-sample2.idv[35] (skak-sample234x.png)
- [76] [77
-
-]
-l. 934 Writing skak-sample2.idv[36] (skak-sample235x.png)
- [78] [79
-
-]
-l. 962 Writing skak-sample2.idv[37] (skak-sample236x.png)
- [80] [81
-
-]
-l. 968 Writing skak-sample2.idv[38] (skak-sample237x.png)
- [82] [83
-
-]
-l. 994 Writing skak-sample2.idv[39] (skak-sample238x.png)
-
-[84] [85
-
-]
-l. 1000 Writing skak-sample2.idv[40] (skak-sample239x.png)
- [86] [87
-
-]
-l. 1034 Writing skak-sample2.idv[41] (skak-sample240x.png)
- [88] [89
-
-]
-l. 1040 Writing skak-sample2.idv[42] (skak-sample241x.png)
- [90] [91
-
-]
-l. 1076 Writing skak-sample2.idv[43] (skak-sample242x.png)
- [92] [93
-
-]
-l. 1083 Writing skak-sample2.idv[44] (skak-sample243x.png)
- [94] [95
-
-]
-l. 1108 Writing skak-sample2.idv[45] (skak-sample244x.png)
- [96] [97
-
-]
-l. 1114 Writing skak-sample2.idv[46] (skak-sample245x.png)
- [98]
-[99
-
-]
-l. 1140 Writing skak-sample2.idv[47] (skak-sample246x.png)
- [100] [101
-
-]
-l. 1146 Writing skak-sample2.idv[48] (skak-sample247x.png)
- [102] [103
-
-]
-l. 1170 Writing skak-sample2.idv[49] (skak-sample248x.png)
- [104] [105
-
-]
-l. 1176 Writing skak-sample2.idv[50] (skak-sample249x.png)
- [106] [107
-
-]
-l. 1206 Writing skak-sample2.idv[51] (skak-sample250x.png)
- [108] [109
-
-]
-l. 1212 Writing skak-sample2.idv[52] (skak-sample251x.png)
- [110] [111
-
-]
-l. 1260 Writing skak-sample2.idv[53] (skak-sample252x.png)
-
-[112] [113
-
-]
-l. 1266 Writing skak-sample2.idv[54] (skak-sample253x.png)
- [114] [115] [116
-
-]
-l. 1326 Writing skak-sample2.idv[55] (skak-sample254x.png)
- [117] [118
-
-]
-l. 1332 Writing skak-sample2.idv[56] (skak-sample255x.png)
- [119] [120
-
-]
-l. 1371 Writing skak-sample2.idv[57] (skak-sample256x.png)
- [121] [122
-
-]
-l. 1377 Writing skak-sample2.idv[58] (skak-sample257x.png)
- [123]
-[124
-
-]
-l. 1415 Writing skak-sample2.idv[59] (skak-sample258x.png)
- [125] [126
-
-]
-l. 1421 Writing skak-sample2.idv[60] (skak-sample259x.png)
- [127] [128
-
-]
-l. 1447 Writing skak-sample2.idv[61] (skak-sample260x.png)
- [129] [130
-
-]
-l. 1453 Writing skak-sample2.idv[62] (skak-sample261x.png)
- [131] [132
-
-]
-l. 1479 Writing skak-sample2.idv[63] (skak-sample262x.png)
- [133] [134
-
-]
-l. 1485 Writing skak-sample2.idv[64] (skak-sample263x.png)
- [135]
-[136
-
-]
-l. 1507 Writing skak-sample2.idv[65] (skak-sample264x.png)
- [137] [138
-
-]
-l. 1513 Writing skak-sample2.idv[66] (skak-sample265x.png)
- [139] [140
-
-]
-l. 1549 Writing skak-sample2.idv[67] (skak-sample266x.png)
- [141] [142
-
-]
-l. 1556 Writing skak-sample2.idv[68] (skak-sample267x.png)
- [143] [144
-
-]
-l. 1575 Writing skak-sample2.idv[69] (skak-sample268x.png)
- [145] [146
-
-]
-l. 1581 Writing skak-sample2.idv[70] (skak-sample269x.png)
- [147]
-[148
-
-]
-l. 1611 Writing skak-sample2.idv[71] (skak-sample270x.png)
- [149] [150
-
-]
-l. 1617 Writing skak-sample2.idv[72] (skak-sample271x.png)
- [151] [152
-
-]
-l. 1663 Writing skak-sample2.idv[73] (skak-sample272x.png)
- [153] [154
-
-]
-l. 1669 Writing skak-sample2.idv[74] (skak-sample273x.png)
- [155] [156] [157
-
-]
-l. 1743 Writing skak-sample2.idv[75] (skak-sample274x.png)
- [158] [159
-
-]
-l. 1749 Writing skak-sample2.idv[76] (skak-sample275x.png)
-
-[160] [161
-
-]
-l. 1779 Writing skak-sample2.idv[77] (skak-sample276x.png)
- [162] [163
-
-]
-l. 1785 Writing skak-sample2.idv[78] (skak-sample277x.png)
- [164] [165] [166
-
-]
-l. 1836 Writing skak-sample2.idv[79] (skak-sample278x.png)
- [167] [168
-
-]
-l. 1843 Writing skak-sample2.idv[80] (skak-sample279x.png)
- [169] [170
-
-]
-l. 1874 Writing skak-sample2.idv[81] (skak-sample280x.png)
- [171]
-[172
-
-]
-l. 1880 Writing skak-sample2.idv[82] (skak-sample281x.png)
- [173] [174
-
-]
-l. 1906 Writing skak-sample2.idv[83] (skak-sample282x.png)
- [175] [176
-
-]
-l. 1912 Writing skak-sample2.idv[84] (skak-sample283x.png)
- [177] [178] [179
-
-]
-l. 1969 Writing skak-sample2.idv[85] (skak-sample284x.png)
- [180] [181
-
-]
-l. 1975 Writing skak-sample2.idv[86] (skak-sample285x.png)
- [182] [183
-
-]
-l. 1997 Writing skak-sample2.idv[87] (skak-sample286x.png)
-
-[184] [185
-
-]
-l. 2003 Writing skak-sample2.idv[88] (skak-sample287x.png)
- [186] [187
-
-]
-l. 2061 Writing skak-sample2.idv[89] (skak-sample288x.png)
- [188] [189
-
-]
-l. 2067 Writing skak-sample2.idv[90] (skak-sample289x.png)
- [190] [191] [192
-
-]
-l. 2131 Writing skak-sample2.idv[91] (skak-sample290x.png)
- [193] [194
-
-]
-l. 2137 Writing skak-sample2.idv[92] (skak-sample291x.png)
- [195]
-[196
-
-]
-l. 2174 Writing skak-sample2.idv[93] (skak-sample292x.png)
- [197] [198
-
-]
-l. 2181 Writing skak-sample2.idv[94] (skak-sample293x.png)
- [199] [200
-
-]
-l. 2212 Writing skak-sample2.idv[95] (skak-sample294x.png)
- [201] [202
-
-]
-l. 2218 Writing skak-sample2.idv[96] (skak-sample295x.png)
- [203] [204
-
-]
-l. 2264 Writing skak-sample2.idv[97] (skak-sample296x.png)
- [205] [206
-
-]
-l. 2270 Writing skak-sample2.idv[98] (skak-sample297x.png)
- [207]
-[208] [209
-
-]
-l. 2326 Writing skak-sample2.idv[99] (skak-sample298x.png)
- [210] [211
-
-]
-l. 2332 Writing skak-sample2.idv[100] (skak-sample299x.png)
- [212] [213] [214
-
-]
-l. 2384 Writing skak-sample2.idv[101] (skak-sample2100x.png)
- [215] [216
-
-]
-l. 2390 Writing skak-sample2.idv[102] (skak-sample2101x.png)
- [217] [218] [219
-
-]
-l. 2465 Writing skak-sample2.idv[103] (skak-sample2102x.png)
-
-[220] [221
-
-]
-l. 2471 Writing skak-sample2.idv[104] (skak-sample2103x.png)
- [222] [223] [224
-
-]
-l. 2530 Writing skak-sample2.idv[105] (skak-sample2104x.png)
- [225] [226
-
-]
-l. 2536 Writing skak-sample2.idv[106] (skak-sample2105x.png)
- [227] [228
-
-]
-l. 2556 Writing skak-sample2.idv[107] (skak-sample2106x.png)
- [229] [230
-
-]
-l. 2562 Writing skak-sample2.idv[108] (skak-sample2107x.png)
- [231]
-[232
-
-]
-l. 2584 Writing skak-sample2.idv[109] (skak-sample2108x.png)
- [233] [234
-
-]
-l. 2590 Writing skak-sample2.idv[110] (skak-sample2109x.png)
- [235] [236
-
-]
-l. 2626 Writing skak-sample2.idv[111] (skak-sample2110x.png)
- [237] [238
-
-]
-l. 2632 Writing skak-sample2.idv[112] (skak-sample2111x.png)
- [239] [240
-
-]
-l. 2678 Writing skak-sample2.idv[113] (skak-sample2112x.png)
- [241] [242
-
-]
-l. 2684 Writing skak-sample2.idv[114] (skak-sample2113x.png)
- [243]
-[244
-
-]
-l. 2728 Writing skak-sample2.idv[115] (skak-sample2114x.png)
- [245] [246
-
-]
-l. 2734 Writing skak-sample2.idv[116] (skak-sample2115x.png)
- [247] [248
-
-]
-l. 2776 Writing skak-sample2.idv[117] (skak-sample2116x.png)
- [249] [250
-
-]
-l. 2782 Writing skak-sample2.idv[118] (skak-sample2117x.png)
- [251] [252] [253
-
-]
-l. 2849 Writing skak-sample2.idv[119] (skak-sample2118x.png)
- [254] [255
-
-]
-l. 2855 Writing skak-sample2.idv[120] (skak-sample2119x.png)
-
-[256] [257
-
-]
-l. 2879 Writing skak-sample2.idv[121] (skak-sample2120x.png)
- [258] [259
-
-]
-l. 2885 Writing skak-sample2.idv[122] (skak-sample2121x.png)
- [260] [261
-
-]
-l. 2907 Writing skak-sample2.idv[123] (skak-sample2122x.png)
- [262] [263
-
-]
-l. 2913 Writing skak-sample2.idv[124] (skak-sample2123x.png)
- [264] [265
-
-]
-l. 2937 Writing skak-sample2.idv[125] (skak-sample2124x.png)
- [266] [267
-
-]
-l. 2943 Writing skak-sample2.idv[126] (skak-sample2125x.png)
-
-[268] [269
-
-]
-l. 2969 Writing skak-sample2.idv[127] (skak-sample2126x.png)
- [270] [271
-
-]
-l. 2975 Writing skak-sample2.idv[128] (skak-sample2127x.png)
- [272] [273
-
-]
-l. 2997 Writing skak-sample2.idv[129] (skak-sample2128x.png)
- [274] [275
-
-]
-l. 3003 Writing skak-sample2.idv[130] (skak-sample2129x.png)
- [276] [277
-
-]
-l. 3027 Writing skak-sample2.idv[131] (skak-sample2130x.png)
- [278] [279
-
-]
-l. 3033 Writing skak-sample2.idv[132] (skak-sample2131x.png)
-
-[280] [281
-
-]
-l. 3065 Writing skak-sample2.idv[133] (skak-sample2132x.png)
- [282] [283
-
-]
-l. 3071 Writing skak-sample2.idv[134] (skak-sample2133x.png)
- [284] [285] [286
-
-]
-l. 3135 Writing skak-sample2.idv[135] (skak-sample2134x.png)
- [287] [288
-
-]
-l. 3141 Writing skak-sample2.idv[136] (skak-sample2135x.png)
- [289] [290] [291
-
-]
-l. 3215 Writing skak-sample2.idv[137] (skak-sample2136x.png)
-
-[292] [293
-
-]
-l. 3221 Writing skak-sample2.idv[138] (skak-sample2137x.png)
- [294] [295
-
-]
-l. 3275 Writing skak-sample2.idv[139] (skak-sample2138x.png)
- [296] [297
-
-]
-l. 3282 Writing skak-sample2.idv[140] (skak-sample2139x.png)
- [298] [299
-
-]
-l. 3322 Writing skak-sample2.idv[141] (skak-sample2140x.png)
- [300] [301
-
-]
-l. 3329 Writing skak-sample2.idv[142] (skak-sample2141x.png)
- [302] [303
-
-]
-l. 3378 Writing skak-sample2.idv[143] (skak-sample2142x.png)
-
-[304] [305
-
-]
-l. 3384 Writing skak-sample2.idv[144] (skak-sample2143x.png)
- [306] [307
-
-]
-l. 3436 Writing skak-sample2.idv[145] (skak-sample2144x.png)
- [308] [309
-
-]
-l. 3442 Writing skak-sample2.idv[146] (skak-sample2145x.png)
- [310] [311
-
-]
-l. 3476 Writing skak-sample2.idv[147] (skak-sample2146x.png)
- [312] [313
-
-]
-l. 3482 Writing skak-sample2.idv[148] (skak-sample2147x.png)
- [314] [315
-
-]
-l. 3526 Writing skak-sample2.idv[149] (skak-sample2148x.png)
-
-[316] [317
-
-]
-l. 3532 Writing skak-sample2.idv[150] (skak-sample2149x.png)
- [318] [319] [320
-
-]
-l. 3593 Writing skak-sample2.idv[151] (skak-sample2150x.png)
- [321] [322
-
-]
-l. 3599 Writing skak-sample2.idv[152] (skak-sample2151x.png)
- [323] [324] [325
-
-]
-l. 3640 Writing skak-sample2.idv[153] (skak-sample2152x.png)
- [326] [327
-
-]
-l. 3646 Writing skak-sample2.idv[154] (skak-sample2153x.png)
-
-[328] [329
-
-]
-l. 3704 Writing skak-sample2.idv[155] (skak-sample2154x.png)
- [330] [331
-
-]
-l. 3710 Writing skak-sample2.idv[156] (skak-sample2155x.png)
- [332] [333] [334
-
-]
-l. 3765 Writing skak-sample2.idv[157] (skak-sample2156x.png)
- [335] [336
-
-]
-l. 3771 Writing skak-sample2.idv[158] (skak-sample2157x.png)
- [337] [338] [339
-
-]
-l. 3867 Writing skak-sample2.idv[159] (skak-sample2158x.png)
-
-[340] [341
-
-]
-l. 3873 Writing skak-sample2.idv[160] (skak-sample2159x.png)
- [342] [343] [344] [345
-
-]
-l. 4003 Writing skak-sample2.idv[161] (skak-sample2160x.png)
- [346] [347
-
-]
-l. 4010 Writing skak-sample2.idv[162] (skak-sample2161x.png)
- [348] [349
-
-]
-l. 4039 Writing skak-sample2.idv[163] (skak-sample2162x.png)
- [350] [351
-
-]
-l. 4045 Writing skak-sample2.idv[164] (skak-sample2163x.png)
-
-[352] [353
-
-]
-l. 4075 Writing skak-sample2.idv[165] (skak-sample2164x.png)
- [354] [355
-
-]
-l. 4081 Writing skak-sample2.idv[166] (skak-sample2165x.png)
- [356] [357
-
-]
-l. 4117 Writing skak-sample2.idv[167] (skak-sample2166x.png)
- [358] [359
-
-]
-l. 4123 Writing skak-sample2.idv[168] (skak-sample2167x.png)
- [360] [361
-
-]
-l. 4171 Writing skak-sample2.idv[169] (skak-sample2168x.png)
- [362] [363
-
-]
-l. 4177 Writing skak-sample2.idv[170] (skak-sample2169x.png)
-
-[364] [365
-
-]
-l. 4203 Writing skak-sample2.idv[171] (skak-sample2170x.png)
- [366] [367
-
-]
-l. 4209 Writing skak-sample2.idv[172] (skak-sample2171x.png)
- [368] [369
-
-]
-l. 4241 Writing skak-sample2.idv[173] (skak-sample2172x.png)
- [370] [371
-
-]
-l. 4247 Writing skak-sample2.idv[174] (skak-sample2173x.png)
- [372] [373
-
-]
-l. 4287 Writing skak-sample2.idv[175] (skak-sample2174x.png)
- [374] [375
-
-]
-l. 4293 Writing skak-sample2.idv[176] (skak-sample2175x.png)
-
-[376] [377
-
 ]
-l. 4333 Writing skak-sample2.idv[177] (skak-sample2176x.png)
- [378] [379
+l. 177 Writing skak-sample2.idv[13] (skak-sample212x.png)
+ [25] [26
 
 ]
-l. 4339 Writing skak-sample2.idv[178] (skak-sample2177x.png)
- [380] [381
-
-]
-l. 4377 Writing skak-sample2.idv[179] (skak-sample2178x.png)
- [382] [383
-
-]
-l. 4383 Writing skak-sample2.idv[180] (skak-sample2179x.png)
- [384] [385
-
-]
-l. 4415 Writing skak-sample2.idv[181] (skak-sample2180x.png)
- [386] [387
-
-]
-l. 4421 Writing skak-sample2.idv[182] (skak-sample2181x.png)
-
-[388] [389
-
-]
-l. 4469 Writing skak-sample2.idv[183] (skak-sample2182x.png)
- [390] [391
-
-]
-l. 4475 Writing skak-sample2.idv[184] (skak-sample2183x.png)
- [392] [393
-
-]
-l. 4517 Writing skak-sample2.idv[185] (skak-sample2184x.png)
- [394] [395
-
-]
-l. 4523 Writing skak-sample2.idv[186] (skak-sample2185x.png)
- [396] [397
-
-]
-l. 4559 Writing skak-sample2.idv[187] (skak-sample2186x.png)
- [398] [399
-
-]
-l. 4565 Writing skak-sample2.idv[188] (skak-sample2187x.png)
-
-[400] [401
-
-]
-l. 4600 Writing skak-sample2.idv[189] (skak-sample2188x.png)
- [402] [403
-
-]
-l. 4606 Writing skak-sample2.idv[190] (skak-sample2189x.png)
- [404] [405
-
-]
-l. 4660 Writing skak-sample2.idv[191] (skak-sample2190x.png)
- [406] [407
-
-]
-l. 4666 Writing skak-sample2.idv[192] (skak-sample2191x.png)
- [408] [409
-
-]
-l. 4704 Writing skak-sample2.idv[193] (skak-sample2192x.png)
- [410] [411
-
-]
-l. 4710 Writing skak-sample2.idv[194] (skak-sample2193x.png)
-
-[412] [413] [414
-
-]
-l. 4792 Writing skak-sample2.idv[195] (skak-sample2194x.png)
- [415] [416
-
-]
-l. 4798 Writing skak-sample2.idv[196] (skak-sample2195x.png)
- [417] [418] [419
-
-]
-l. 4862 Writing skak-sample2.idv[197] (skak-sample2196x.png)
- [420] [421
-
-]
-l. 4868 Writing skak-sample2.idv[198] (skak-sample2197x.png)
- [422] [423
-
-]
-l. 4920 Writing skak-sample2.idv[199] (skak-sample2198x.png)
-
-[424] [425
-
-]
-l. 4927 Writing skak-sample2.idv[200] (skak-sample2199x.png)
- [426] [427
-
-] [428] [429] (./skak-sample2.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+l. 183 Writing skak-sample2.idv[14] (skak-sample213x.png)
+ [27] [28
 
- ) 
+]) [29] [30]
+(./skak-sample2.aux) ) 
 Here is how much of TeX's memory you used:
- 21975 strings out of 492983
- 392521 string characters out of 6134922
- 598024 words of memory out of 5000000
- 25106 multiletter control sequences out of 15000+600000
- 5407 words of font info for 21 fonts, out of 8000000 for 9000
+ 21973 strings out of 492983
+ 392983 string characters out of 6134922
+ 593966 words of memory out of 5000000
+ 25094 multiletter control sequences out of 15000+600000
+ 4702 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,8n,164p,1312b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,8n,119p,1304b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on skak-sample2.dvi (429 pages, 611808 bytes).
+Output written on skak-sample2.dvi (30 pages, 45208 bytes).

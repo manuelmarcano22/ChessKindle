@@ -113,4 +113,4 @@ with open(n,'w') as f:
     #f.write('\\begin{end}\n')
 ```
 
-I am sure there are better ways ...
+I am sure there are better ways .... Then the uno.txt has all the postion and paste into the ska.tex to compile with htlatex.
