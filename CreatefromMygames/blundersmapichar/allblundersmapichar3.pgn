@@ -1,0 +1,11 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/aBLUBbGR"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "mapichar"]
+[Black "lautrec"]
+[Result "0-1"]
+[FEN "r2q1rk1/2p1bppp/p1bp4/3n2B1/1p2P3/1B6/PPP2PPP/R2QR1K1 w - - 0 14"]
+
+{ Bxe7?? was bad. 0.21 → -4.72 } 14. exd5 ( 14. Bxd5 Bxd5 15. Bxe7 Qxe7 { 0.13 } ) ( 14. Bxe7 Nxe7 15. Rc1 a5 { -4.66 } ) 14... Bxg5 15. dxc6 Bf6 { 0.28 } 0-1

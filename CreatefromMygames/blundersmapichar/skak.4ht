@@ -1,0 +1,12 @@
+\NewConfigure{showboard}{2}
+\let\oldshowboard\showboard
+\Configure{showboard}{\Picture*{}}{\EndPicture}
+\renewcommand\showboard{\a:showboard\oldshowboard\b:showboard}
+
+\NewConfigure{showinverseboard}{2}
+\let\oldshowinverseboard\showinverseboard
+\Configure{showinverseboard}{\Picture*{}}{\EndPicture}
+\renewcommand\showinverseboard{\a:showinverseboard\oldshowinverseboard\b:showinverseboard}
+
+
+

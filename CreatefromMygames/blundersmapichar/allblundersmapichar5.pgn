@@ -1,0 +1,22 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/YUhDOhI3"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "sspiderman"]
+[Black "mapichar"]
+[Result "1-0"]
+[FEN "r3k2r/pp1qb3/3pbn1p/2p3p1/4P1P1/3PBN1P/PPP2P2/R2QK2R b KQ - 1 15"]
+
+{ Kf7?? was bad. -3.41 → -1.33 } 15... Rf8 ( 15... Kd8 16. Qe2 Kc7 17. b3 { -3.65 } ) ( 15... Qc6 16. c4 Nd7 17. Rc1 { -3.46 } ) 16. Nd2 d5 17. f3 { -3.89 } 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/YUhDOhI3"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "sspiderman"]
+[Black "mapichar"]
+[Result "1-0"]
+[FEN "r6r/pp1qbk2/3pbn1p/2p1P1p1/6P1/3PBN1P/PPP2P2/R2QK2R b KQ - 0 16"]
+
+{ dxe5?? was bad. -3.74 → 6.87 } 16... Nd5 ( 16... Nh7 17. exd6 Qxd6 18. Nd2 { -3.3 } ) ( 16... Ne8 17. d4 Nc7 18. exd6 { -3.0 } ) 17. Qe2 Kg7 18. O-O-O { -4.29 } 1-0

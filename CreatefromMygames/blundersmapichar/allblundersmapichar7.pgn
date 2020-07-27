@@ -1,0 +1,33 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/zEWDrdAT"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "kapiw"]
+[Black "mapichar"]
+[Result "1-0"]
+[FEN "r2qk2r/ppp1bppp/2n1b3/4p3/4P3/1P1P1NP1/P4PBP/R1BQ1RK1 b kq - 0 11"]
+
+{ Nb4?? was bad. -1.02 → 1.13 } 11... Qd6 ( 11... Bg4 12. h3 Bxf3 13. Bxf3 { -0.95 } ) ( 11... Qd7 12. Bb2 Bg4 13. Rc1 { -0.8 } ) 12. Qe2 h5 13. h3 { -1.06 } 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/zEWDrdAT"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "kapiw"]
+[Black "mapichar"]
+[Result "1-0"]
+[FEN "r2qk2r/ppp1b1pp/4bp2/4N2Q/1n2P3/1P1P2P1/P4PBP/R1B2RK1 b kq - 1 13"]
+
+{ Kf8?? was bad. -0.70 → 2.87 } 13... g6 ( 13... Kf8 14. Ng6+ hxg6 15. Qxh8+ { 2.65 } ) ( 13... Bf7 14. Qxf7# { #+1 } ) 14. Nxg6 Bf7 15. d4 { -0.96 } 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/zEWDrdAT"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "kapiw"]
+[Black "mapichar"]
+[Result "1-0"]
+[FEN "r2q1k1r/ppp1b1pp/4bp2/4N2Q/1n2P3/1P1P2PB/P4P1P/R1B2RK1 b - - 3 14"]
+
+{ Bxh3?? was bad. 1.68 → Mate in 1 } 14... Qe8 ( 14... Qd6 15. Ng6+ Kg8 16. Bxe6+ { 3.85 } ) ( 14... Nxd3 15. Ng6+ hxg6 16. Qxh8+ { 4.18 } ) 15. Qxe8+ Kxe8 16. Bxe6 { 1.41 } 1-0

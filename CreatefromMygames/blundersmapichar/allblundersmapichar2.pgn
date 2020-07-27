@@ -1,0 +1,33 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/2wy5OBP5"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "mapichar"]
+[Black "rammari"]
+[Result "0-1"]
+[FEN "rnb1kbnr/ppp1pppp/8/8/8/2N2N2/PPqPQPPP/R1B1KB1R w KQkq - 0 6"]
+
+{ Qd3?? was bad. 0.82 → -0.94 } 6. Nh4 ( 6. Qe5 Nc6 7. Qxc7 Bd7 { 1.14 } ) ( 6. Qc4 Qf5 7. Qxc7 Qd7 { 1.07 } ) 6... Nc6 7. Qf3 Nd4 { 1.81 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/2wy5OBP5"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "mapichar"]
+[Black "rammari"]
+[Result "0-1"]
+[FEN "r1r5/p3R1Rp/8/2p2p2/5k2/8/5PPP/2K5 w - - 8 32"]
+
+{ Rxh7?? was bad. Mate in 2 → 0.00 } 32. Re3 ( 32. Rg3 a5 33. Rf3+ Kg5 { 0.13 } ) ( 32. Rxh7 Rg8 33. g3+ Kf3 { 0.0 } ) 32... c4 33. g3# { #+2 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/2wy5OBP5"]
+[Date "2020.07.26"]
+[Round "?"]
+[White "mapichar"]
+[Black "rammari"]
+[Result "0-1"]
+[FEN "r1r5/p3R3/8/5pk1/2p4R/8/5PPP/2K5 w - - 2 34"]
+
+{ Rg7+?? was bad. 0.41 → -8.24 } 34. Reh7 ( 34. Rh3 a5 35. Re6 a4 { 0.13 } ) ( 34. g3 Kf6 35. Re3 a5 { 0.12 } ) 34... Kf6 35. R7h6+ Ke5 { 0.32 } 0-1
