@@ -1,33 +1,22 @@
 
 [Event "Rated Rapid game"]
-[Site "https://lichess.org/8c5AIpi7"]
-[Date "2020.07.26"]
+[Site "https://lichess.org/3dlU7NO3"]
+[Date "2020.07.28"]
 [Round "?"]
 [White "mapichar"]
-[Black "oscar_osiosi"]
-[Result "0-1"]
-[FEN "r2q1rk1/2p2pp1/pb1p1n1p/2p4b/3PP2B/2N2N1P/PP3PP1/R2QR1K1 w - - 0 15"]
+[Black "jonespozzatti"]
+[Result "1-0"]
+[FEN "r1bq1rk1/2pp1ppp/p4n2/1pb3B1/3pP3/1B1P4/PPP2PPP/RN1Q1RK1 w - - 0 10"]
 
-{ e5? was bad. 2.07 → 0.68 } 15. g4 ( 15. dxc5 Bxc5 16. g4 { 1.31 } ) 15... g5 16. Nxg5 { 1.87 } 0-1
+{ Nd2?? was bad. 4.70 → 1.54 } 10. e5 { 4.17 } 1-0
 
 [Event "Rated Rapid game"]
-[Site "https://lichess.org/8c5AIpi7"]
-[Date "2020.07.26"]
+[Site "https://lichess.org/3dlU7NO3"]
+[Date "2020.07.28"]
 [Round "?"]
 [White "mapichar"]
-[Black "oscar_osiosi"]
-[Result "0-1"]
-[FEN "4r2k/r3P1pn/p1p4p/b1p3p1/6P1/4RNBP/PP3P2/3R2K1 w - - 1 26"]
+[Black "jonespozzatti"]
+[Result "1-0"]
+[FEN "r1bq1rk1/2ppbppp/p4n2/1p4B1/3pP3/1B1P4/PPPN1PPP/R2Q1RK1 w - - 2 11"]
 
-{ Rd8?? was bad. 6.26 → -2.49 } 26. Ne5 ( 26. Ra3 Bb4 27. Ra4 { 3.93 } ) 26... Rb7 27. Nc4 { 5.63 } 0-1
-
-[Event "Rated Rapid game"]
-[Site "https://lichess.org/8c5AIpi7"]
-[Date "2020.07.26"]
-[Round "?"]
-[White "mapichar"]
-[Black "oscar_osiosi"]
-[Result "0-1"]
-[FEN "3Rr2k/4r1pn/p1p4p/b1p3p1/6P1/4RNBP/PP3P2/6K1 w - - 0 27"]
-
-{ Rxe7?? was bad. 15.29 → 1.74 } 27. Rxe8+ ( 27. Rxe7 Rxd8 28. Ra7 { 1.95 } ) 27... Rxe8 28. Rxe8+ { 13.13 } 0-1
+{ Nf3? was bad. 1.75 → 0.59 } 11. e5 { 2.29 } 1-0

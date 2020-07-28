@@ -1,0 +1,66 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/67W2Seda"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "bernievarr"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "r3k2r/ppp2ppp/2n2p2/8/1b6/2N2B1P/PP3PP1/R3K2R b KQkq - 0 14"]
+
+{ Nd4?? was bad. -3.00 → -1.05 } 14... O-O-O ( 14... Bxc3+ 15. bxc3 O-O-O { -2.68 } ) 15. O-O Nd4 { -2.8 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/67W2Seda"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "bernievarr"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "r3k2r/pBp2ppp/5p2/8/1b1n4/2N4P/PP3PP1/R3K2R b KQkq - 0 15"]
+
+{ Nc2+?? was bad. -1.09 → 3.03 } 15... Rb8 ( 15... Bxc3+ 16. bxc3 Rb8 { -1.08 } ) 16. Be4 O-O { -1.46 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/67W2Seda"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "bernievarr"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "B3k2r/p1p2ppp/5p2/8/1b6/2N4P/PP1K1PP1/n6R b k - 0 17"]
+
+{ Bxc3+? was bad. 2.70 → 5.30 } 17... O-O ( 17... Kd7 18. Be4 Bc5 { 2.53 } ) 18. Be4 Bc5 { 2.19 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/67W2Seda"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "bernievarr"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "8/p4ppp/8/2pk1p2/5P2/1P1K3P/P5P1/8 b - - 0 31"]
+
+{ f6? was bad. -2.33 → -1.04 } 31... h6 ( 31... h5 32. g3 a6 { -1.89 } ) 32. a3 h5 { -1.93 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/67W2Seda"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "bernievarr"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "8/p5pp/5p2/2pk1p2/5P2/1P1K2PP/P7/8 b - - 0 32"]
+
+{ g5?? was bad. -2.23 → -0.19 } 32... h5 ( 32... g6 33. a3 a5 { -1.71 } ) 33. a3 a6 { -1.78 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/67W2Seda"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "bernievarr"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "8/p7/5p2/2pk1p1p/5PpP/PP2K1P1/8/8 b - - 0 35"]
+
+{ a5?? was bad. -4.70 → 0.00 } 35... c4 ( 35... Kc6 36. Kd3 Kb5 { -1.23 } ) 36. b4 c3 { -1.93 } 0-1

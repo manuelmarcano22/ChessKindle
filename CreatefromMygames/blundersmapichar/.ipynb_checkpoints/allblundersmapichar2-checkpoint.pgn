@@ -1,0 +1,33 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/RpPS1MRJ"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "mapichar"]
+[Black "Cuevas60"]
+[Result "0-1"]
+[FEN "rn1q2k1/pp2brp1/2p2nN1/3p2B1/3P2p1/2N4P/PPP2P2/R2QR1K1 w - - 1 15"]
+
+{ Nxe7+? was bad. 3.59 → 1.83 } 15. Ne5 ( 15. Bxf6 Bxf6 16. Qxg4 { 4.05 } ) 15... Rf8 16. Ng6 { 4.18 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/RpPS1MRJ"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "mapichar"]
+[Black "Cuevas60"]
+[Result "0-1"]
+[FEN "rn4k1/pp4p1/2p2q2/3p4/3P2p1/2N4P/PPP2P2/R3Q1K1 w - - 0 18"]
+
+{ hxg4?? was bad. 4.60 → 0.00 } 18. Qe8+ ( 18. hxg4 Na6 19. Nd1 { 0.18 } ) 18... Qf8 19. Qe6+ { 2.46 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/RpPS1MRJ"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "mapichar"]
+[Black "Cuevas60"]
+[Result "0-1"]
+[FEN "r5k1/pp1n2p1/2p2q2/3p4/3P2P1/2N5/PPP2P2/R3Q1K1 w - - 1 19"]
+
+{ Qf1?? was bad. 0.00 → -1.96 } 19. Qe3 ( 19. Rd1 Rf8 20. Rd3 { 0.83 } ) 19... Qg6 20. f3 { 0.84 } 0-1

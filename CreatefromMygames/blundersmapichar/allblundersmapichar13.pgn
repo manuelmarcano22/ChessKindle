@@ -1,0 +1,22 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/26dngkdk"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "mauriciocguti"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "rnbqkb1r/ppp2pp1/3ppn1p/8/2B1N3/8/PPPPQPPP/RNB2RK1 b kq - 1 7"]
+
+{ d5?? was bad. -5.51 → -1.29 } 7... Nxe4 ( 7... Nfd7 8. Nbc3 Nc6 { -2.19 } ) 8. Qxe4 d5 { -5.3 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/26dngkdk"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "mauriciocguti"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "rnbqkb1r/ppp2pp1/4pN1p/3p4/2B5/8/PPPPQPPP/RNB2RK1 b kq - 0 8"]
+
+{ Qxf6? was bad. -1.10 → 0.26 } 8... gxf6 ( 8... Qxf6 9. Bxd5 Bd6 { -0.38 } ) 9. Bb3 Nc6 { -1.17 } 0-1

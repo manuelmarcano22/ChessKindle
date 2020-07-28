@@ -1,0 +1,33 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/TM0BMkoe"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "mapichar"]
+[Black "DMishra"]
+[Result "1-0"]
+[FEN "r1bqkb1r/pppp1ppp/2n5/1B6/3pn3/5N2/PPP2PPP/RNBQ1RK1 w kq - 0 6"]
+
+{ Bxc6? was bad. 0.98 → -0.08 } 6. Re1 ( 6. Nxd4 Qf6 7. Nf3 { 1.02 } ) 6... d5 7. Qxd4 { 2.52 } 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/TM0BMkoe"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "mapichar"]
+[Black "DMishra"]
+[Result "1-0"]
+[FEN "r1b2rk1/ppp3pp/8/2p2p2/3Nn3/P7/1PP2PPP/R1B1R1K1 w - - 0 13"]
+
+{ Nf3? was bad. 0.54 → -0.48 } 13. Nb5 ( 13. Ne2 b6 14. f3 { 0.15 } ) 13... Rf7 14. Rd1 { 0.54 } 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/TM0BMkoe"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "mapichar"]
+[Black "DMishra"]
+[Result "1-0"]
+[FEN "6k1/p5pp/5B2/1pp2p2/6r1/P7/1PPN1PbP/3RR1K1 w - - 1 22"]
+
+{ Re3?? was bad. 10.06 → 3.66 } 22. Be5 ( 22. h3 Rg6 23. Be7 { 8.49 } ) 22... Bf3+ 23. Kf1 { 8.79 } 1-0

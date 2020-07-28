@@ -1,0 +1,33 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/XeCH6ufi"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "martynus"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "rnb1r1k1/ppp1p2p/5ppB/3Nb3/8/8/PPP1BPPP/3R1RK1 b - - 3 13"]
+
+{ c6?? was bad. -0.93 → 2.17 } 13... Nc6 ( 13... Be6 14. c4 Bxd5 { -0.61 } ) 14. b3 Be6 { -1.11 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/XeCH6ufi"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "martynus"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "r3r1k1/p2n3p/2p1p1pB/1p6/5P2/1P1Bb3/P1P4P/4R2K b - - 1 24"]
+
+{ Bxf4? was bad. -7.51 → -4.04 } 24... Bf2 ( 24... Bc5 25. Be4 Rac8 { -7.57 } ) 25. Re2 Bb6 { -7.57 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/XeCH6ufi"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "martynus"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "3rr1k1/7p/p1p1pnp1/1p6/P1P2B2/1P1BR3/7P/7K b - - 2 28"]
+
+{ Rd4?? was bad. -8.76 → -1.65 } 28... Ng4 ( 28... bxa4 29. Bc2 Ng4 { -6.87 } ) 29. Be2 Nxe3 { -7.15 } 0-1

@@ -1,0 +1,33 @@
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/kUcZHCkq"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "learntolearntolearn"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "rnbq1r2/pp2ppkp/2pp1np1/8/3PP2P/2N5/PPPQ1PP1/R3KBNR b KQ - 0 8"]
+
+{ e5? was bad. 0.20 → 1.32 } 8... h6 ( 8... b5 9. a3 h5 { 0.34 } ) 9. Be2 b5 { -0.08 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/kUcZHCkq"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "learntolearntolearn"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "rnbq1r2/pp3pkp/2pp1np1/4p3/3PP2P/2N2N2/PPPQ1PP1/R3KB1R b KQ - 1 9"]
+
+{ Bg4?? was bad. 0.00 → 1.55 } 9... Qe7 ( 9... Nbd7 10. O-O-O Qe7 { 0.14 } ) 10. Be2 Bg4 { -0.7 } 0-1
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/kUcZHCkq"]
+[Date "2020.07.27"]
+[Round "?"]
+[White "learntolearntolearn"]
+[Black "mapichar"]
+[Result "0-1"]
+[FEN "rn1q1r2/pp3pkp/2pp1np1/4p3/3PP1bP/2N2N2/PPPQBPP1/R3K2R b KQ - 3 10"]
+
+{ Qb6? was bad. 0.08 → 1.37 } 10... Nbd7 ( 10... Qb6 11. dxe5 dxe5 { -0.58 } ) 11. O-O-O Qe8 { -0.9 } 0-1

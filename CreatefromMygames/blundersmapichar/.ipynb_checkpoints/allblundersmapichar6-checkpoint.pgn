@@ -8,7 +8,7 @@
 [Result "1-0"]
 [FEN "rnbq1rk1/p3ppbp/2pp1np1/1p4B1/3PP2P/P1N5/1PPQ1PP1/2KR1BNR b - - 0 8"]
 
-{ a6?? was bad. -0.87 → 1.60 } 8... a5 ( 8... h5 9. e5 Ne8 { 0.05 } ) 9. e5 dxe5 { -0.29 } 1-0
+{ a6?? was bad. -0.87 → 1.60 } 8... a5 { -0.89 } 1-0
 
 [Event "Rated Rapid game"]
 [Site "https://lichess.org/jdx10smK"]
@@ -19,7 +19,7 @@
 [Result "1-0"]
 [FEN "rnbq1rk1/4ppbp/2pp1np1/p5BP/3PP3/N7/1PPQBPP1/2KR2NR b - - 0 12"]
 
-{ Ba6?? was bad. -2.54 → 1.39 } 12... Nxe4 ( 12... Nbd7 13. Qe3 gxh5 { 0.2 } ) 13. Qe3 Nxg5 { -1.9 } 1-0
+{ Ba6?? was bad. -2.54 → 1.39 } 12... Nxe4 { -1.97 } 1-0
 
 [Event "Rated Rapid game"]
 [Site "https://lichess.org/jdx10smK"]
@@ -30,7 +30,7 @@
 [Result "1-0"]
 [FEN "rn1q1rk1/4p1bp/b1pp1npB/p7/3PP3/N7/1PPQBPP1/2KR2NR b - - 1 14"]
 
-{ Bxe2?? was bad. 0.01 → 1.98 } 14... Nxe4 ( 14... Bxe2 15. Nxe2 Nxe4 { 0.17 } ) 15. Qe3 Bxh6 { -0.84 } 1-0
+{ Bxe2?? was bad. 0.01 → 1.98 } 14... Nxe4 { -0.55 } 1-0
 
 [Event "Rated Rapid game"]
 [Site "https://lichess.org/jdx10smK"]
@@ -41,7 +41,7 @@
 [Result "1-0"]
 [FEN "rn1q1rk1/4p1bp/2pp2pB/p7/3Pn3/N3Q3/1PP1NPP1/2KR3R b - - 1 16"]
 
-{ Nxf2?? was bad. -0.50 → 3.97 } 16... Bxh6 ( 16... Nxf2 17. Bxg7 Kxg7 { 0.59 } ) 17. Qxh6 Rf7 { -1.87 } 1-0
+{ Nxf2?? was bad. -0.50 → 3.97 } 16... Bxh6 { -0.65 } 1-0
 
 [Event "Rated Rapid game"]
 [Site "https://lichess.org/jdx10smK"]
@@ -52,7 +52,7 @@
 [Result "1-0"]
 [FEN "rn1q1rk1/4p1Bp/2pp2p1/p7/3P4/N3Q3/1PP1NnP1/2KR3R b - - 0 17"]
 
-{ Kxg7? was bad. 4.13 → 7.80 } 17... Kxg7 ( 17... Nxh1 18. Bxf8 Qxf8 { 2.68 } ) 18. Qh6+ Kf7 { 0.71 } 1-0
+{ Kxg7? was bad. 4.13 → 7.80 } 17... Kxg7 { -0.3 } 1-0
 
 [Event "Rated Rapid game"]
 [Site "https://lichess.org/jdx10smK"]
@@ -63,4 +63,4 @@
 [Result "1-0"]
 [FEN "rn1q1r2/4p1kp/2pp2pQ/p7/3P4/N7/1PP1NnP1/2KR3R b - - 1 18"]
 
-{ Kg8? was bad. 7.39 → Mate in 1 } 18... Kf7 ( 18... Kf6 19. Nc4 Ke6 { 0.9 } ) 19. Qxh7+ Ke8 { -0.53 } 1-0
+{ Kg8? was bad. 7.39 → Mate in 1 } 18... Kf7 { 0.59 } 1-0

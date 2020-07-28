@@ -1,33 +1,33 @@
 
 [Event "Rated Rapid game"]
-[Site "https://lichess.org/2wy5OBP5"]
-[Date "2020.07.26"]
+[Site "https://lichess.org/RpPS1MRJ"]
+[Date "2020.07.27"]
 [Round "?"]
 [White "mapichar"]
-[Black "rammari"]
+[Black "Cuevas60"]
 [Result "0-1"]
-[FEN "rnb1kbnr/ppp1pppp/8/8/8/2N2N2/PPqPQPPP/R1B1KB1R w KQkq - 0 6"]
+[FEN "rn1q2k1/pp2brp1/2p2nN1/3p2B1/3P2p1/2N4P/PPP2P2/R2QR1K1 w - - 1 15"]
 
-{ Qd3?? was bad. 0.82 → -0.94 } 6. Nh4 ( 6. Qe5 Nc6 7. Qxc7 Bd7 { 1.14 } ) ( 6. Qc4 Qf5 7. Qxc7 Qd7 { 1.07 } ) 6... Nc6 7. Qf3 Nd4 { 1.81 } 0-1
+{ Nxe7+? was bad. 3.59 → 1.83 } 15. hxg4 ( 15. Ne5 Na6 16. hxg4 Rf8 17. Ng6 { 3.84 } ) ( 15. Re3 Nbd7 16. hxg4 Nf8 17. Ne5 { 3.81 } ) ( 15. Bxf6 Bxf6 16. Qxg4 Nd7 17. Qh5 { 3.62 } ) ( 15. Qd3 Bd6 16. Ne5 Na6 17. Nxf7 { 3.46 } ) 15... Nbd7 16. Kg2 Nf8 17. Ne5 { 4.26 } 0-1
 
 [Event "Rated Rapid game"]
-[Site "https://lichess.org/2wy5OBP5"]
-[Date "2020.07.26"]
+[Site "https://lichess.org/RpPS1MRJ"]
+[Date "2020.07.27"]
 [Round "?"]
 [White "mapichar"]
-[Black "rammari"]
+[Black "Cuevas60"]
 [Result "0-1"]
-[FEN "r1r5/p3R1Rp/8/2p2p2/5k2/8/5PPP/2K5 w - - 8 32"]
+[FEN "rn4k1/pp4p1/2p2q2/3p4/3P2p1/2N4P/PPP2P2/R3Q1K1 w - - 0 18"]
 
-{ Rxh7?? was bad. Mate in 2 → 0.00 } 32. Re3 ( 32. Rg3 a5 33. Rf3+ Kg5 { 0.13 } ) ( 32. Rxh7 Rg8 33. g3+ Kf3 { 0.0 } ) 32... c4 33. g3# { #+2 } 0-1
+{ hxg4?? was bad. 4.60 → 0.00 } 18. Qe8+ ( 18. hxg4 Na6 19. Qe5 Qg6 20. Qf5 { 0.37 } ) ( 18. Qe2 gxh3 19. Qe8+ Qf8 20. Qe6+ { 0.0 } ) ( 18. Rd1 Qg6 19. Rd3 gxh3+ 20. Rg3 { 0.0 } ) ( 18. Qe3 Na6 19. hxg4 Rf8 20. Re1 { 0.0 } ) 18... Kh7 19. hxg4 Qg6 20. Re1 { 5.4 } 0-1
 
 [Event "Rated Rapid game"]
-[Site "https://lichess.org/2wy5OBP5"]
-[Date "2020.07.26"]
+[Site "https://lichess.org/RpPS1MRJ"]
+[Date "2020.07.27"]
 [Round "?"]
 [White "mapichar"]
-[Black "rammari"]
+[Black "Cuevas60"]
 [Result "0-1"]
-[FEN "r1r5/p3R3/8/5pk1/2p4R/8/5PPP/2K5 w - - 2 34"]
+[FEN "r5k1/pp1n2p1/2p2q2/3p4/3P2P1/2N5/PPP2P2/R3Q1K1 w - - 1 19"]
 
-{ Rg7+?? was bad. 0.41 → -8.24 } 34. Reh7 ( 34. Rh3 a5 35. Re6 a4 { 0.13 } ) ( 34. g3 Kf6 35. Re3 a5 { 0.12 } ) 34... Kf6 35. R7h6+ Ke5 { 0.32 } 0-1
+{ Qf1?? was bad. 0.00 → -1.96 } 19. Qe3 ( 19. Kg2 Rf8 20. Qe3 Qg6 21. f3 { 0.0 } ) ( 19. a4 Kf7 20. Qd2 Rh8 21. Ne2 { 0.0 } ) ( 19. Rd1 Nf8 20. Rd3 Ng6 21. Rg3 { 0.0 } ) ( 19. Qe2 Rf8 20. Qe3 Qf4 21. Qxf4 { 0.0 } ) 19... Rf8 20. Re1 Rf7 21. Nd1 { 0.28 } 0-1
