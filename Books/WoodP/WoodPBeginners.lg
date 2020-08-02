@@ -1,0 +1,589 @@
+htfcss: cmbxti  font-weight: bold; font-style: italic;
+htfcss: cmti  font-style: italic;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmss   font-family: sans-serif;
+htfcss: cmssbx  font-family: sans-serif; font-weight: bold;
+htfcss: cmssbxo  font-family: sans-serif; font-style: oblique; font-weight: bold;
+htfcss: cmssdc  font-family: sans-serif;
+htfcss: cmssi  font-family: sans-serif; font-style: oblique;
+File: WoodPBeginners.html
+File: WoodPBeginners.css
+File: WoodPBeginners.tmp
+Css: p.noindent { text-indent: 0em }
+Css: td p.noindent { text-indent: 0em; margin-top:0em; }
+Css: p.nopar { text-indent: 0em; }
+Css: p.indent{ text-indent: 1.5em }
+Css: @media print {div.crosslinks {visibility:hidden;}}
+Css: a img { border-top: 0; border-left: 0; border-right: 0; }
+Font_Css("4"): .small-caps{font-variant: small-caps; }
+Font_Css("10"): .htf-cmbx {font-weight: bold; font-style:normal;}
+Font_Css("12"): .htf-calligraphy {font-family:cursive}
+Font_Css("14"): .htf-italic {font-style: italic;}
+Font_Css("16"): .htf-bold {font-weight: bold;}
+Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
+Css: center { margin-top:1em; margin-bottom:1em; }
+Css: td center { margin-top:0em; margin-bottom:0em; }
+Css: .Canvas { position:relative; }
+Css: img.math{vertical-align:middle;}
+Css: li p.indent { text-indent: 0em }
+Css: li p:first-child{ margin-top:0em; }
+Css: li p:last-child, li div:last-child { margin-bottom:0.5em; }
+Css: li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+Css: .enumerate1 {list-style-type:decimal;}
+Css: .enumerate2 {list-style-type:lower-alpha;}
+Css: .enumerate3 {list-style-type:lower-roman;}
+Css: .enumerate4 {list-style-type:upper-alpha;}
+Css: div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+Css: .obeylines-h,.obeylines-v {white-space: nowrap; }
+Css: div.obeylines-v p { margin-top:0; margin-bottom:0; }
+Css: .overline{ text-decoration:overline; }
+Css: .overline img{ border-top: 1px solid black; }
+Css: td.displaylines {text-align:center; white-space:nowrap;}
+Css: .centerline {text-align:center;}
+Css: .rightline {text-align:right;}
+Css: div.verbatim {font-family: monospace; white-space: nowrap; text-align:left; clear:both; }
+Css: .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.fbox {display:table}
+Css: div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.minipage{width:100%;}
+Css: div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+Css: div.center div {text-align: left;}
+Css: div.flushright, div.flushright div.flushright {text-align: right;}
+Css: div.flushright div {text-align: left;}
+Css: div.flushleft {text-align: left;}
+Css: .underline{ text-decoration:underline; }
+Css: .underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+Css: .framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: .framebox-c {text-align:center;}
+Css: .framebox-l {text-align:left;}
+Css: .framebox-r {text-align:right;}
+Css: span.thank-mark{ vertical-align: super }
+Css: span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+Css: div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+Css: table.tabular td p{margin-top:0em;}
+Css: table.tabular {margin-left: auto; margin-right: auto;}
+Css: td p:first-child{ margin-top:0em; }
+Css: td p:last-child{ margin-bottom:0em; }
+Css: div.td00{ margin-left:0pt; margin-right:0pt; }
+Css: div.td01{ margin-left:0pt; margin-right:5pt; }
+Css: div.td10{ margin-left:5pt; margin-right:0pt; }
+Css: div.td11{ margin-left:5pt; margin-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: td.td00{ padding-left:0pt; padding-right:0pt; }
+Css: td.td01{ padding-left:0pt; padding-right:5pt; }
+Css: td.td10{ padding-left:5pt; padding-right:0pt; }
+Css: td.td11{ padding-left:5pt; padding-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: .hline hr, .cline hr{ height : 1px; margin:0px; }
+Css: .tabbing-right {text-align:right;}
+Css: span.TEX {letter-spacing: -0.125em; }
+Css: span.TEX span.E{ position:relative;top:0.5ex;left:-0.0417em;}
+Css: a span.TEX span.E {text-decoration: none; }
+Css: span.LATEX span.A{ position:relative; top:-0.5ex; left:-0.4em; font-size:85%;}
+Css: span.LATEX span.TEX{ position:relative; left: -0.4em; }
+Css: div.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: div.float img {text-align:center;}
+Css: div.figure img {text-align:center;}
+Css: .marginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+Css: .marginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+Css: table.equation {width:100%;}
+Css: .equation td{text-align:center; }
+Css: td.equation { margin-top:1em; margin-bottom:1em; } 
+Css: td.equation-label { width:5%; text-align:center; }
+Css: td.eqnarray4 { width:5%; white-space: normal; }
+Css: td.eqnarray2 { width:5%; }
+Css: table.eqnarray-star, table.eqnarray {width:100%;}
+Css: div.eqnarray{text-align:center;}
+Css: div.array {text-align:center;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.pmatrix img{vertical-align:middle;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.bar-css {text-decoration:overline;}
+Css: img.cdots{vertical-align:middle;}
+Css: .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+Css: .chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {line-height: 200%; font-weight:bold;}
+Css: .index-item, .index-subitem, .index-subsubitem {display:block}
+Css: div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+Css: div.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: h1.partHead{text-align: center}
+Css: p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: .paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+Css: .subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+Css: .quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+Css: .verse{white-space:nowrap; margin-left:2em}
+Css: div.maketitle {text-align:center;}
+Css: h2.titleHead{text-align:center;}
+Css: div.maketitle{ margin-bottom: 2em; }
+Css: div.author, div.date {text-align:center;}
+Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+Css: div.author{white-space: nowrap;}
+Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+Css: h1.partHead{text-align: center}
+Css:  .chapterToc, .likechapterToc {margin-left:0em;}
+Css:  .chapterToc ~ .likesectionToc, .chapterToc ~ .sectionToc, .likechapterToc ~ .likesectionToc, .likechapterToc ~ .sectionToc {margin-left:2em;}
+Css:  .chapterToc ~ .likesectionToc ~ .likesubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc {margin-left:4em;}
+Css: .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:6em;}
+Css:  .likesectionToc , .sectionToc {margin-left:0em;}
+Css:  .likesectionToc ~ .likesubsectionToc, .likesectionToc ~ .subsectionToc, .sectionToc ~ .likesubsectionToc, .sectionToc ~ .subsectionToc {margin-left:2em;}
+Css: .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:4em;}
+Css:  .likesubsectionToc, .subsectionToc {margin-left:0em;}
+Css:  .likesubsectionToc ~ .subsubsectionToc, .subsectionToc ~ .subsubsectionToc {margin-left:2em;}
+Css: .figure img.graphics {margin-left:10%;}
+Css: .newpage{page-break-before:always;}
+--- needs --- WoodPBeginners.idv[2] ==> WoodPBeginners0x.png ---
+--- needs --- WoodPBeginners.idv[4] ==> WoodPBeginners1x.png ---
+--- needs --- WoodPBeginners.idv[6] ==> WoodPBeginners2x.png ---
+--- needs --- WoodPBeginners.idv[8] ==> WoodPBeginners3x.png ---
+--- needs --- WoodPBeginners.idv[10] ==> WoodPBeginners4x.png ---
+--- needs --- WoodPBeginners.idv[12] ==> WoodPBeginners5x.png ---
+--- needs --- WoodPBeginners.idv[14] ==> WoodPBeginners6x.png ---
+--- needs --- WoodPBeginners.idv[16] ==> WoodPBeginners7x.png ---
+--- needs --- WoodPBeginners.idv[18] ==> WoodPBeginners8x.png ---
+--- needs --- WoodPBeginners.idv[20] ==> WoodPBeginners9x.png ---
+--- needs --- WoodPBeginners.idv[22] ==> WoodPBeginners10x.png ---
+--- needs --- WoodPBeginners.idv[24] ==> WoodPBeginners11x.png ---
+--- needs --- WoodPBeginners.idv[26] ==> WoodPBeginners12x.png ---
+--- needs --- WoodPBeginners.idv[28] ==> WoodPBeginners13x.png ---
+--- needs --- WoodPBeginners.idv[30] ==> WoodPBeginners14x.png ---
+--- needs --- WoodPBeginners.idv[32] ==> WoodPBeginners15x.png ---
+--- needs --- WoodPBeginners.idv[34] ==> WoodPBeginners16x.png ---
+--- needs --- WoodPBeginners.idv[36] ==> WoodPBeginners17x.png ---
+--- needs --- WoodPBeginners.idv[38] ==> WoodPBeginners18x.png ---
+--- needs --- WoodPBeginners.idv[40] ==> WoodPBeginners19x.png ---
+--- needs --- WoodPBeginners.idv[42] ==> WoodPBeginners20x.png ---
+--- needs --- WoodPBeginners.idv[44] ==> WoodPBeginners21x.png ---
+--- needs --- WoodPBeginners.idv[46] ==> WoodPBeginners22x.png ---
+--- needs --- WoodPBeginners.idv[48] ==> WoodPBeginners23x.png ---
+--- needs --- WoodPBeginners.idv[50] ==> WoodPBeginners24x.png ---
+--- needs --- WoodPBeginners.idv[52] ==> WoodPBeginners25x.png ---
+--- needs --- WoodPBeginners.idv[54] ==> WoodPBeginners26x.png ---
+--- needs --- WoodPBeginners.idv[56] ==> WoodPBeginners27x.png ---
+--- needs --- WoodPBeginners.idv[58] ==> WoodPBeginners28x.png ---
+--- needs --- WoodPBeginners.idv[60] ==> WoodPBeginners29x.png ---
+--- needs --- WoodPBeginners.idv[62] ==> WoodPBeginners30x.png ---
+--- needs --- WoodPBeginners.idv[64] ==> WoodPBeginners31x.png ---
+--- needs --- WoodPBeginners.idv[66] ==> WoodPBeginners32x.png ---
+--- needs --- WoodPBeginners.idv[68] ==> WoodPBeginners33x.png ---
+--- needs --- WoodPBeginners.idv[70] ==> WoodPBeginners34x.png ---
+--- needs --- WoodPBeginners.idv[72] ==> WoodPBeginners35x.png ---
+--- needs --- WoodPBeginners.idv[74] ==> WoodPBeginners36x.png ---
+--- needs --- WoodPBeginners.idv[76] ==> WoodPBeginners37x.png ---
+--- needs --- WoodPBeginners.idv[78] ==> WoodPBeginners38x.png ---
+--- needs --- WoodPBeginners.idv[80] ==> WoodPBeginners39x.png ---
+--- needs --- WoodPBeginners.idv[82] ==> WoodPBeginners40x.png ---
+--- needs --- WoodPBeginners.idv[84] ==> WoodPBeginners41x.png ---
+--- needs --- WoodPBeginners.idv[86] ==> WoodPBeginners42x.png ---
+--- needs --- WoodPBeginners.idv[88] ==> WoodPBeginners43x.png ---
+--- needs --- WoodPBeginners.idv[90] ==> WoodPBeginners44x.png ---
+--- needs --- WoodPBeginners.idv[92] ==> WoodPBeginners45x.png ---
+--- needs --- WoodPBeginners.idv[94] ==> WoodPBeginners46x.png ---
+--- needs --- WoodPBeginners.idv[96] ==> WoodPBeginners47x.png ---
+--- needs --- WoodPBeginners.idv[98] ==> WoodPBeginners48x.png ---
+--- needs --- WoodPBeginners.idv[100] ==> WoodPBeginners49x.png ---
+--- needs --- WoodPBeginners.idv[102] ==> WoodPBeginners50x.png ---
+--- needs --- WoodPBeginners.idv[104] ==> WoodPBeginners51x.png ---
+--- needs --- WoodPBeginners.idv[106] ==> WoodPBeginners52x.png ---
+--- needs --- WoodPBeginners.idv[108] ==> WoodPBeginners53x.png ---
+--- needs --- WoodPBeginners.idv[110] ==> WoodPBeginners54x.png ---
+--- needs --- WoodPBeginners.idv[112] ==> WoodPBeginners55x.png ---
+--- needs --- WoodPBeginners.idv[114] ==> WoodPBeginners56x.png ---
+--- needs --- WoodPBeginners.idv[116] ==> WoodPBeginners57x.png ---
+--- needs --- WoodPBeginners.idv[118] ==> WoodPBeginners58x.png ---
+--- needs --- WoodPBeginners.idv[120] ==> WoodPBeginners59x.png ---
+--- needs --- WoodPBeginners.idv[122] ==> WoodPBeginners60x.png ---
+--- needs --- WoodPBeginners.idv[124] ==> WoodPBeginners61x.png ---
+--- needs --- WoodPBeginners.idv[126] ==> WoodPBeginners62x.png ---
+--- needs --- WoodPBeginners.idv[128] ==> WoodPBeginners63x.png ---
+--- needs --- WoodPBeginners.idv[130] ==> WoodPBeginners64x.png ---
+--- needs --- WoodPBeginners.idv[132] ==> WoodPBeginners65x.png ---
+--- needs --- WoodPBeginners.idv[134] ==> WoodPBeginners66x.png ---
+--- needs --- WoodPBeginners.idv[136] ==> WoodPBeginners67x.png ---
+--- needs --- WoodPBeginners.idv[138] ==> WoodPBeginners68x.png ---
+--- needs --- WoodPBeginners.idv[140] ==> WoodPBeginners69x.png ---
+--- needs --- WoodPBeginners.idv[142] ==> WoodPBeginners70x.png ---
+--- needs --- WoodPBeginners.idv[144] ==> WoodPBeginners71x.png ---
+--- needs --- WoodPBeginners.idv[146] ==> WoodPBeginners72x.png ---
+--- needs --- WoodPBeginners.idv[148] ==> WoodPBeginners73x.png ---
+--- needs --- WoodPBeginners.idv[150] ==> WoodPBeginners74x.png ---
+--- needs --- WoodPBeginners.idv[152] ==> WoodPBeginners75x.png ---
+--- needs --- WoodPBeginners.idv[154] ==> WoodPBeginners76x.png ---
+--- needs --- WoodPBeginners.idv[156] ==> WoodPBeginners77x.png ---
+--- needs --- WoodPBeginners.idv[158] ==> WoodPBeginners78x.png ---
+--- needs --- WoodPBeginners.idv[160] ==> WoodPBeginners79x.png ---
+--- needs --- WoodPBeginners.idv[162] ==> WoodPBeginners80x.png ---
+--- needs --- WoodPBeginners.idv[164] ==> WoodPBeginners81x.png ---
+--- needs --- WoodPBeginners.idv[166] ==> WoodPBeginners82x.png ---
+--- needs --- WoodPBeginners.idv[168] ==> WoodPBeginners83x.png ---
+--- needs --- WoodPBeginners.idv[170] ==> WoodPBeginners84x.png ---
+--- needs --- WoodPBeginners.idv[172] ==> WoodPBeginners85x.png ---
+--- needs --- WoodPBeginners.idv[174] ==> WoodPBeginners86x.png ---
+--- needs --- WoodPBeginners.idv[176] ==> WoodPBeginners87x.png ---
+--- needs --- WoodPBeginners.idv[178] ==> WoodPBeginners88x.png ---
+--- needs --- WoodPBeginners.idv[180] ==> WoodPBeginners89x.png ---
+--- needs --- WoodPBeginners.idv[182] ==> WoodPBeginners90x.png ---
+--- needs --- WoodPBeginners.idv[184] ==> WoodPBeginners91x.png ---
+--- needs --- WoodPBeginners.idv[186] ==> WoodPBeginners92x.png ---
+--- needs --- WoodPBeginners.idv[188] ==> WoodPBeginners93x.png ---
+--- needs --- WoodPBeginners.idv[190] ==> WoodPBeginners94x.png ---
+--- needs --- WoodPBeginners.idv[192] ==> WoodPBeginners95x.png ---
+--- needs --- WoodPBeginners.idv[194] ==> WoodPBeginners96x.png ---
+--- needs --- WoodPBeginners.idv[196] ==> WoodPBeginners97x.png ---
+--- needs --- WoodPBeginners.idv[198] ==> WoodPBeginners98x.png ---
+--- needs --- WoodPBeginners.idv[200] ==> WoodPBeginners99x.png ---
+--- needs --- WoodPBeginners.idv[202] ==> WoodPBeginners100x.png ---
+--- needs --- WoodPBeginners.idv[204] ==> WoodPBeginners101x.png ---
+--- needs --- WoodPBeginners.idv[206] ==> WoodPBeginners102x.png ---
+--- needs --- WoodPBeginners.idv[208] ==> WoodPBeginners103x.png ---
+--- needs --- WoodPBeginners.idv[210] ==> WoodPBeginners104x.png ---
+--- needs --- WoodPBeginners.idv[212] ==> WoodPBeginners105x.png ---
+--- needs --- WoodPBeginners.idv[214] ==> WoodPBeginners106x.png ---
+--- needs --- WoodPBeginners.idv[216] ==> WoodPBeginners107x.png ---
+--- needs --- WoodPBeginners.idv[218] ==> WoodPBeginners108x.png ---
+--- needs --- WoodPBeginners.idv[220] ==> WoodPBeginners109x.png ---
+--- needs --- WoodPBeginners.idv[222] ==> WoodPBeginners110x.png ---
+--- needs --- WoodPBeginners.idv[224] ==> WoodPBeginners111x.png ---
+--- needs --- WoodPBeginners.idv[226] ==> WoodPBeginners112x.png ---
+--- needs --- WoodPBeginners.idv[228] ==> WoodPBeginners113x.png ---
+--- needs --- WoodPBeginners.idv[230] ==> WoodPBeginners114x.png ---
+--- needs --- WoodPBeginners.idv[232] ==> WoodPBeginners115x.png ---
+--- needs --- WoodPBeginners.idv[234] ==> WoodPBeginners116x.png ---
+--- needs --- WoodPBeginners.idv[236] ==> WoodPBeginners117x.png ---
+--- needs --- WoodPBeginners.idv[238] ==> WoodPBeginners118x.png ---
+--- needs --- WoodPBeginners.idv[240] ==> WoodPBeginners119x.png ---
+--- needs --- WoodPBeginners.idv[242] ==> WoodPBeginners120x.png ---
+--- needs --- WoodPBeginners.idv[244] ==> WoodPBeginners121x.png ---
+--- needs --- WoodPBeginners.idv[246] ==> WoodPBeginners122x.png ---
+--- needs --- WoodPBeginners.idv[248] ==> WoodPBeginners123x.png ---
+--- needs --- WoodPBeginners.idv[250] ==> WoodPBeginners124x.png ---
+--- needs --- WoodPBeginners.idv[252] ==> WoodPBeginners125x.png ---
+--- needs --- WoodPBeginners.idv[254] ==> WoodPBeginners126x.png ---
+--- needs --- WoodPBeginners.idv[256] ==> WoodPBeginners127x.png ---
+--- needs --- WoodPBeginners.idv[258] ==> WoodPBeginners128x.png ---
+--- needs --- WoodPBeginners.idv[260] ==> WoodPBeginners129x.png ---
+--- needs --- WoodPBeginners.idv[262] ==> WoodPBeginners130x.png ---
+--- needs --- WoodPBeginners.idv[264] ==> WoodPBeginners131x.png ---
+--- needs --- WoodPBeginners.idv[266] ==> WoodPBeginners132x.png ---
+--- needs --- WoodPBeginners.idv[268] ==> WoodPBeginners133x.png ---
+--- needs --- WoodPBeginners.idv[270] ==> WoodPBeginners134x.png ---
+--- needs --- WoodPBeginners.idv[272] ==> WoodPBeginners135x.png ---
+--- needs --- WoodPBeginners.idv[274] ==> WoodPBeginners136x.png ---
+--- needs --- WoodPBeginners.idv[276] ==> WoodPBeginners137x.png ---
+--- needs --- WoodPBeginners.idv[278] ==> WoodPBeginners138x.png ---
+--- needs --- WoodPBeginners.idv[280] ==> WoodPBeginners139x.png ---
+--- needs --- WoodPBeginners.idv[282] ==> WoodPBeginners140x.png ---
+--- needs --- WoodPBeginners.idv[284] ==> WoodPBeginners141x.png ---
+--- needs --- WoodPBeginners.idv[286] ==> WoodPBeginners142x.png ---
+--- needs --- WoodPBeginners.idv[288] ==> WoodPBeginners143x.png ---
+--- needs --- WoodPBeginners.idv[290] ==> WoodPBeginners144x.png ---
+--- needs --- WoodPBeginners.idv[292] ==> WoodPBeginners145x.png ---
+--- needs --- WoodPBeginners.idv[294] ==> WoodPBeginners146x.png ---
+--- needs --- WoodPBeginners.idv[296] ==> WoodPBeginners147x.png ---
+--- needs --- WoodPBeginners.idv[298] ==> WoodPBeginners148x.png ---
+--- needs --- WoodPBeginners.idv[300] ==> WoodPBeginners149x.png ---
+--- needs --- WoodPBeginners.idv[302] ==> WoodPBeginners150x.png ---
+--- needs --- WoodPBeginners.idv[304] ==> WoodPBeginners151x.png ---
+--- needs --- WoodPBeginners.idv[306] ==> WoodPBeginners152x.png ---
+--- needs --- WoodPBeginners.idv[308] ==> WoodPBeginners153x.png ---
+--- needs --- WoodPBeginners.idv[310] ==> WoodPBeginners154x.png ---
+--- needs --- WoodPBeginners.idv[312] ==> WoodPBeginners155x.png ---
+--- needs --- WoodPBeginners.idv[314] ==> WoodPBeginners156x.png ---
+--- needs --- WoodPBeginners.idv[316] ==> WoodPBeginners157x.png ---
+--- needs --- WoodPBeginners.idv[318] ==> WoodPBeginners158x.png ---
+--- needs --- WoodPBeginners.idv[320] ==> WoodPBeginners159x.png ---
+--- needs --- WoodPBeginners.idv[322] ==> WoodPBeginners160x.png ---
+--- needs --- WoodPBeginners.idv[324] ==> WoodPBeginners161x.png ---
+--- needs --- WoodPBeginners.idv[326] ==> WoodPBeginners162x.png ---
+--- needs --- WoodPBeginners.idv[328] ==> WoodPBeginners163x.png ---
+--- needs --- WoodPBeginners.idv[330] ==> WoodPBeginners164x.png ---
+--- needs --- WoodPBeginners.idv[332] ==> WoodPBeginners165x.png ---
+--- needs --- WoodPBeginners.idv[334] ==> WoodPBeginners166x.png ---
+--- needs --- WoodPBeginners.idv[336] ==> WoodPBeginners167x.png ---
+--- needs --- WoodPBeginners.idv[338] ==> WoodPBeginners168x.png ---
+--- needs --- WoodPBeginners.idv[340] ==> WoodPBeginners169x.png ---
+--- needs --- WoodPBeginners.idv[342] ==> WoodPBeginners170x.png ---
+--- needs --- WoodPBeginners.idv[344] ==> WoodPBeginners171x.png ---
+--- needs --- WoodPBeginners.idv[346] ==> WoodPBeginners172x.png ---
+--- needs --- WoodPBeginners.idv[348] ==> WoodPBeginners173x.png ---
+--- needs --- WoodPBeginners.idv[350] ==> WoodPBeginners174x.png ---
+--- needs --- WoodPBeginners.idv[352] ==> WoodPBeginners175x.png ---
+--- needs --- WoodPBeginners.idv[354] ==> WoodPBeginners176x.png ---
+--- needs --- WoodPBeginners.idv[356] ==> WoodPBeginners177x.png ---
+--- needs --- WoodPBeginners.idv[358] ==> WoodPBeginners178x.png ---
+--- needs --- WoodPBeginners.idv[360] ==> WoodPBeginners179x.png ---
+--- needs --- WoodPBeginners.idv[362] ==> WoodPBeginners180x.png ---
+--- needs --- WoodPBeginners.idv[364] ==> WoodPBeginners181x.png ---
+--- needs --- WoodPBeginners.idv[366] ==> WoodPBeginners182x.png ---
+--- needs --- WoodPBeginners.idv[368] ==> WoodPBeginners183x.png ---
+--- needs --- WoodPBeginners.idv[370] ==> WoodPBeginners184x.png ---
+--- needs --- WoodPBeginners.idv[372] ==> WoodPBeginners185x.png ---
+--- needs --- WoodPBeginners.idv[374] ==> WoodPBeginners186x.png ---
+--- needs --- WoodPBeginners.idv[376] ==> WoodPBeginners187x.png ---
+--- needs --- WoodPBeginners.idv[378] ==> WoodPBeginners188x.png ---
+--- needs --- WoodPBeginners.idv[380] ==> WoodPBeginners189x.png ---
+--- needs --- WoodPBeginners.idv[382] ==> WoodPBeginners190x.png ---
+--- needs --- WoodPBeginners.idv[384] ==> WoodPBeginners191x.png ---
+--- needs --- WoodPBeginners.idv[386] ==> WoodPBeginners192x.png ---
+--- needs --- WoodPBeginners.idv[388] ==> WoodPBeginners193x.png ---
+--- needs --- WoodPBeginners.idv[390] ==> WoodPBeginners194x.png ---
+--- needs --- WoodPBeginners.idv[392] ==> WoodPBeginners195x.png ---
+--- needs --- WoodPBeginners.idv[394] ==> WoodPBeginners196x.png ---
+--- needs --- WoodPBeginners.idv[396] ==> WoodPBeginners197x.png ---
+--- needs --- WoodPBeginners.idv[398] ==> WoodPBeginners198x.png ---
+--- needs --- WoodPBeginners.idv[400] ==> WoodPBeginners199x.png ---
+--- needs --- WoodPBeginners.idv[402] ==> WoodPBeginners200x.png ---
+--- needs --- WoodPBeginners.idv[404] ==> WoodPBeginners201x.png ---
+--- needs --- WoodPBeginners.idv[406] ==> WoodPBeginners202x.png ---
+--- needs --- WoodPBeginners.idv[408] ==> WoodPBeginners203x.png ---
+--- needs --- WoodPBeginners.idv[410] ==> WoodPBeginners204x.png ---
+--- needs --- WoodPBeginners.idv[412] ==> WoodPBeginners205x.png ---
+--- needs --- WoodPBeginners.idv[414] ==> WoodPBeginners206x.png ---
+--- needs --- WoodPBeginners.idv[416] ==> WoodPBeginners207x.png ---
+--- needs --- WoodPBeginners.idv[418] ==> WoodPBeginners208x.png ---
+--- needs --- WoodPBeginners.idv[420] ==> WoodPBeginners209x.png ---
+--- needs --- WoodPBeginners.idv[422] ==> WoodPBeginners210x.png ---
+--- needs --- WoodPBeginners.idv[424] ==> WoodPBeginners211x.png ---
+--- needs --- WoodPBeginners.idv[426] ==> WoodPBeginners212x.png ---
+--- needs --- WoodPBeginners.idv[428] ==> WoodPBeginners213x.png ---
+--- needs --- WoodPBeginners.idv[430] ==> WoodPBeginners214x.png ---
+--- needs --- WoodPBeginners.idv[432] ==> WoodPBeginners215x.png ---
+--- needs --- WoodPBeginners.idv[434] ==> WoodPBeginners216x.png ---
+--- needs --- WoodPBeginners.idv[436] ==> WoodPBeginners217x.png ---
+--- needs --- WoodPBeginners.idv[438] ==> WoodPBeginners218x.png ---
+--- needs --- WoodPBeginners.idv[440] ==> WoodPBeginners219x.png ---
+--- needs --- WoodPBeginners.idv[442] ==> WoodPBeginners220x.png ---
+--- needs --- WoodPBeginners.idv[444] ==> WoodPBeginners221x.png ---
+--- needs --- WoodPBeginners.idv[446] ==> WoodPBeginners222x.png ---
+--- needs --- WoodPBeginners.idv[448] ==> WoodPBeginners223x.png ---
+--- needs --- WoodPBeginners.idv[450] ==> WoodPBeginners224x.png ---
+--- needs --- WoodPBeginners.idv[452] ==> WoodPBeginners225x.png ---
+--- needs --- WoodPBeginners.idv[454] ==> WoodPBeginners226x.png ---
+--- needs --- WoodPBeginners.idv[456] ==> WoodPBeginners227x.png ---
+--- needs --- WoodPBeginners.idv[458] ==> WoodPBeginners228x.png ---
+--- needs --- WoodPBeginners.idv[460] ==> WoodPBeginners229x.png ---
+--- needs --- WoodPBeginners.idv[462] ==> WoodPBeginners230x.png ---
+--- needs --- WoodPBeginners.idv[464] ==> WoodPBeginners231x.png ---
+--- needs --- WoodPBeginners.idv[466] ==> WoodPBeginners232x.png ---
+--- needs --- WoodPBeginners.idv[468] ==> WoodPBeginners233x.png ---
+--- needs --- WoodPBeginners.idv[470] ==> WoodPBeginners234x.png ---
+--- needs --- WoodPBeginners.idv[472] ==> WoodPBeginners235x.png ---
+--- needs --- WoodPBeginners.idv[474] ==> WoodPBeginners236x.png ---
+--- needs --- WoodPBeginners.idv[476] ==> WoodPBeginners237x.png ---
+--- needs --- WoodPBeginners.idv[478] ==> WoodPBeginners238x.png ---
+--- needs --- WoodPBeginners.idv[480] ==> WoodPBeginners239x.png ---
+--- needs --- WoodPBeginners.idv[482] ==> WoodPBeginners240x.png ---
+--- needs --- WoodPBeginners.idv[484] ==> WoodPBeginners241x.png ---
+--- needs --- WoodPBeginners.idv[486] ==> WoodPBeginners242x.png ---
+--- needs --- WoodPBeginners.idv[488] ==> WoodPBeginners243x.png ---
+--- needs --- WoodPBeginners.idv[490] ==> WoodPBeginners244x.png ---
+--- needs --- WoodPBeginners.idv[492] ==> WoodPBeginners245x.png ---
+--- needs --- WoodPBeginners.idv[494] ==> WoodPBeginners246x.png ---
+--- needs --- WoodPBeginners.idv[496] ==> WoodPBeginners247x.png ---
+--- needs --- WoodPBeginners.idv[498] ==> WoodPBeginners248x.png ---
+--- needs --- WoodPBeginners.idv[500] ==> WoodPBeginners249x.png ---
+--- needs --- WoodPBeginners.idv[502] ==> WoodPBeginners250x.png ---
+--- needs --- WoodPBeginners.idv[504] ==> WoodPBeginners251x.png ---
+--- needs --- WoodPBeginners.idv[506] ==> WoodPBeginners252x.png ---
+--- needs --- WoodPBeginners.idv[508] ==> WoodPBeginners253x.png ---
+--- needs --- WoodPBeginners.idv[510] ==> WoodPBeginners254x.png ---
+--- needs --- WoodPBeginners.idv[512] ==> WoodPBeginners255x.png ---
+--- needs --- WoodPBeginners.idv[514] ==> WoodPBeginners256x.png ---
+--- needs --- WoodPBeginners.idv[516] ==> WoodPBeginners257x.png ---
+--- needs --- WoodPBeginners.idv[518] ==> WoodPBeginners258x.png ---
+--- needs --- WoodPBeginners.idv[520] ==> WoodPBeginners259x.png ---
+--- needs --- WoodPBeginners.idv[522] ==> WoodPBeginners260x.png ---
+--- needs --- WoodPBeginners.idv[524] ==> WoodPBeginners261x.png ---
+--- needs --- WoodPBeginners.idv[526] ==> WoodPBeginners262x.png ---
+--- needs --- WoodPBeginners.idv[528] ==> WoodPBeginners263x.png ---
+--- needs --- WoodPBeginners.idv[530] ==> WoodPBeginners264x.png ---
+--- needs --- WoodPBeginners.idv[532] ==> WoodPBeginners265x.png ---
+--- needs --- WoodPBeginners.idv[534] ==> WoodPBeginners266x.png ---
+--- needs --- WoodPBeginners.idv[536] ==> WoodPBeginners267x.png ---
+--- needs --- WoodPBeginners.idv[538] ==> WoodPBeginners268x.png ---
+--- needs --- WoodPBeginners.idv[540] ==> WoodPBeginners269x.png ---
+--- needs --- WoodPBeginners.idv[542] ==> WoodPBeginners270x.png ---
+--- needs --- WoodPBeginners.idv[544] ==> WoodPBeginners271x.png ---
+--- needs --- WoodPBeginners.idv[546] ==> WoodPBeginners272x.png ---
+--- needs --- WoodPBeginners.idv[548] ==> WoodPBeginners273x.png ---
+--- needs --- WoodPBeginners.idv[550] ==> WoodPBeginners274x.png ---
+--- needs --- WoodPBeginners.idv[552] ==> WoodPBeginners275x.png ---
+--- needs --- WoodPBeginners.idv[554] ==> WoodPBeginners276x.png ---
+--- needs --- WoodPBeginners.idv[556] ==> WoodPBeginners277x.png ---
+--- needs --- WoodPBeginners.idv[558] ==> WoodPBeginners278x.png ---
+--- needs --- WoodPBeginners.idv[560] ==> WoodPBeginners279x.png ---
+--- needs --- WoodPBeginners.idv[562] ==> WoodPBeginners280x.png ---
+--- needs --- WoodPBeginners.idv[564] ==> WoodPBeginners281x.png ---
+--- needs --- WoodPBeginners.idv[566] ==> WoodPBeginners282x.png ---
+--- needs --- WoodPBeginners.idv[568] ==> WoodPBeginners283x.png ---
+--- needs --- WoodPBeginners.idv[570] ==> WoodPBeginners284x.png ---
+--- needs --- WoodPBeginners.idv[572] ==> WoodPBeginners285x.png ---
+--- needs --- WoodPBeginners.idv[574] ==> WoodPBeginners286x.png ---
+--- needs --- WoodPBeginners.idv[576] ==> WoodPBeginners287x.png ---
+--- needs --- WoodPBeginners.idv[578] ==> WoodPBeginners288x.png ---
+--- needs --- WoodPBeginners.idv[580] ==> WoodPBeginners289x.png ---
+--- needs --- WoodPBeginners.idv[582] ==> WoodPBeginners290x.png ---
+--- needs --- WoodPBeginners.idv[584] ==> WoodPBeginners291x.png ---
+--- needs --- WoodPBeginners.idv[586] ==> WoodPBeginners292x.png ---
+--- needs --- WoodPBeginners.idv[588] ==> WoodPBeginners293x.png ---
+--- needs --- WoodPBeginners.idv[590] ==> WoodPBeginners294x.png ---
+--- needs --- WoodPBeginners.idv[592] ==> WoodPBeginners295x.png ---
+--- needs --- WoodPBeginners.idv[594] ==> WoodPBeginners296x.png ---
+--- needs --- WoodPBeginners.idv[596] ==> WoodPBeginners297x.png ---
+--- needs --- WoodPBeginners.idv[598] ==> WoodPBeginners298x.png ---
+--- needs --- WoodPBeginners.idv[600] ==> WoodPBeginners299x.png ---
+--- needs --- WoodPBeginners.idv[602] ==> WoodPBeginners300x.png ---
+--- needs --- WoodPBeginners.idv[604] ==> WoodPBeginners301x.png ---
+--- needs --- WoodPBeginners.idv[606] ==> WoodPBeginners302x.png ---
+--- needs --- WoodPBeginners.idv[608] ==> WoodPBeginners303x.png ---
+--- needs --- WoodPBeginners.idv[610] ==> WoodPBeginners304x.png ---
+--- needs --- WoodPBeginners.idv[612] ==> WoodPBeginners305x.png ---
+--- needs --- WoodPBeginners.idv[614] ==> WoodPBeginners306x.png ---
+--- needs --- WoodPBeginners.idv[616] ==> WoodPBeginners307x.png ---
+--- needs --- WoodPBeginners.idv[618] ==> WoodPBeginners308x.png ---
+--- needs --- WoodPBeginners.idv[620] ==> WoodPBeginners309x.png ---
+--- needs --- WoodPBeginners.idv[622] ==> WoodPBeginners310x.png ---
+--- needs --- WoodPBeginners.idv[624] ==> WoodPBeginners311x.png ---
+--- needs --- WoodPBeginners.idv[626] ==> WoodPBeginners312x.png ---
+--- needs --- WoodPBeginners.idv[628] ==> WoodPBeginners313x.png ---
+--- needs --- WoodPBeginners.idv[630] ==> WoodPBeginners314x.png ---
+--- needs --- WoodPBeginners.idv[632] ==> WoodPBeginners315x.png ---
+--- needs --- WoodPBeginners.idv[634] ==> WoodPBeginners316x.png ---
+--- needs --- WoodPBeginners.idv[636] ==> WoodPBeginners317x.png ---
+--- needs --- WoodPBeginners.idv[638] ==> WoodPBeginners318x.png ---
+--- needs --- WoodPBeginners.idv[640] ==> WoodPBeginners319x.png ---
+--- needs --- WoodPBeginners.idv[642] ==> WoodPBeginners320x.png ---
+--- needs --- WoodPBeginners.idv[644] ==> WoodPBeginners321x.png ---
+--- needs --- WoodPBeginners.idv[646] ==> WoodPBeginners322x.png ---
+--- needs --- WoodPBeginners.idv[648] ==> WoodPBeginners323x.png ---
+--- needs --- WoodPBeginners.idv[650] ==> WoodPBeginners324x.png ---
+--- needs --- WoodPBeginners.idv[652] ==> WoodPBeginners325x.png ---
+--- needs --- WoodPBeginners.idv[654] ==> WoodPBeginners326x.png ---
+--- needs --- WoodPBeginners.idv[656] ==> WoodPBeginners327x.png ---
+--- needs --- WoodPBeginners.idv[658] ==> WoodPBeginners328x.png ---
+--- needs --- WoodPBeginners.idv[660] ==> WoodPBeginners329x.png ---
+--- needs --- WoodPBeginners.idv[662] ==> WoodPBeginners330x.png ---
+--- needs --- WoodPBeginners.idv[664] ==> WoodPBeginners331x.png ---
+--- needs --- WoodPBeginners.idv[666] ==> WoodPBeginners332x.png ---
+--- needs --- WoodPBeginners.idv[668] ==> WoodPBeginners333x.png ---
+--- needs --- WoodPBeginners.idv[670] ==> WoodPBeginners334x.png ---
+--- needs --- WoodPBeginners.idv[672] ==> WoodPBeginners335x.png ---
+--- needs --- WoodPBeginners.idv[674] ==> WoodPBeginners336x.png ---
+--- needs --- WoodPBeginners.idv[676] ==> WoodPBeginners337x.png ---
+--- needs --- WoodPBeginners.idv[678] ==> WoodPBeginners338x.png ---
+--- needs --- WoodPBeginners.idv[680] ==> WoodPBeginners339x.png ---
+--- needs --- WoodPBeginners.idv[682] ==> WoodPBeginners340x.png ---
+--- needs --- WoodPBeginners.idv[684] ==> WoodPBeginners341x.png ---
+--- needs --- WoodPBeginners.idv[686] ==> WoodPBeginners342x.png ---
+--- needs --- WoodPBeginners.idv[688] ==> WoodPBeginners343x.png ---
+--- needs --- WoodPBeginners.idv[690] ==> WoodPBeginners344x.png ---
+--- needs --- WoodPBeginners.idv[692] ==> WoodPBeginners345x.png ---
+--- needs --- WoodPBeginners.idv[694] ==> WoodPBeginners346x.png ---
+--- needs --- WoodPBeginners.idv[696] ==> WoodPBeginners347x.png ---
+--- needs --- WoodPBeginners.idv[698] ==> WoodPBeginners348x.png ---
+--- needs --- WoodPBeginners.idv[700] ==> WoodPBeginners349x.png ---
+--- needs --- WoodPBeginners.idv[702] ==> WoodPBeginners350x.png ---
+--- needs --- WoodPBeginners.idv[704] ==> WoodPBeginners351x.png ---
+--- needs --- WoodPBeginners.idv[706] ==> WoodPBeginners352x.png ---
+--- needs --- WoodPBeginners.idv[708] ==> WoodPBeginners353x.png ---
+--- needs --- WoodPBeginners.idv[710] ==> WoodPBeginners354x.png ---
+--- needs --- WoodPBeginners.idv[712] ==> WoodPBeginners355x.png ---
+--- needs --- WoodPBeginners.idv[714] ==> WoodPBeginners356x.png ---
+--- needs --- WoodPBeginners.idv[716] ==> WoodPBeginners357x.png ---
+--- needs --- WoodPBeginners.idv[718] ==> WoodPBeginners358x.png ---
+--- needs --- WoodPBeginners.idv[720] ==> WoodPBeginners359x.png ---
+--- needs --- WoodPBeginners.idv[722] ==> WoodPBeginners360x.png ---
+--- needs --- WoodPBeginners.idv[724] ==> WoodPBeginners361x.png ---
+--- needs --- WoodPBeginners.idv[726] ==> WoodPBeginners362x.png ---
+--- needs --- WoodPBeginners.idv[728] ==> WoodPBeginners363x.png ---
+--- needs --- WoodPBeginners.idv[730] ==> WoodPBeginners364x.png ---
+--- needs --- WoodPBeginners.idv[732] ==> WoodPBeginners365x.png ---
+--- needs --- WoodPBeginners.idv[734] ==> WoodPBeginners366x.png ---
+--- needs --- WoodPBeginners.idv[736] ==> WoodPBeginners367x.png ---
+--- needs --- WoodPBeginners.idv[738] ==> WoodPBeginners368x.png ---
+--- needs --- WoodPBeginners.idv[740] ==> WoodPBeginners369x.png ---
+--- needs --- WoodPBeginners.idv[742] ==> WoodPBeginners370x.png ---
+--- needs --- WoodPBeginners.idv[744] ==> WoodPBeginners371x.png ---
+--- needs --- WoodPBeginners.idv[746] ==> WoodPBeginners372x.png ---
+--- needs --- WoodPBeginners.idv[748] ==> WoodPBeginners373x.png ---
+--- needs --- WoodPBeginners.idv[750] ==> WoodPBeginners374x.png ---
+--- needs --- WoodPBeginners.idv[752] ==> WoodPBeginners375x.png ---
+--- needs --- WoodPBeginners.idv[754] ==> WoodPBeginners376x.png ---
+--- needs --- WoodPBeginners.idv[756] ==> WoodPBeginners377x.png ---
+--- needs --- WoodPBeginners.idv[758] ==> WoodPBeginners378x.png ---
+--- needs --- WoodPBeginners.idv[760] ==> WoodPBeginners379x.png ---
+--- needs --- WoodPBeginners.idv[762] ==> WoodPBeginners380x.png ---
+--- needs --- WoodPBeginners.idv[764] ==> WoodPBeginners381x.png ---
+--- needs --- WoodPBeginners.idv[766] ==> WoodPBeginners382x.png ---
+--- needs --- WoodPBeginners.idv[768] ==> WoodPBeginners383x.png ---
+--- needs --- WoodPBeginners.idv[770] ==> WoodPBeginners384x.png ---
+--- needs --- WoodPBeginners.idv[772] ==> WoodPBeginners385x.png ---
+--- needs --- WoodPBeginners.idv[774] ==> WoodPBeginners386x.png ---
+--- needs --- WoodPBeginners.idv[776] ==> WoodPBeginners387x.png ---
+--- needs --- WoodPBeginners.idv[778] ==> WoodPBeginners388x.png ---
+--- needs --- WoodPBeginners.idv[780] ==> WoodPBeginners389x.png ---
+--- needs --- WoodPBeginners.idv[782] ==> WoodPBeginners390x.png ---
+--- needs --- WoodPBeginners.idv[784] ==> WoodPBeginners391x.png ---
+--- needs --- WoodPBeginners.idv[786] ==> WoodPBeginners392x.png ---
+--- needs --- WoodPBeginners.idv[788] ==> WoodPBeginners393x.png ---
+--- needs --- WoodPBeginners.idv[790] ==> WoodPBeginners394x.png ---
+--- needs --- WoodPBeginners.idv[792] ==> WoodPBeginners395x.png ---
+--- needs --- WoodPBeginners.idv[794] ==> WoodPBeginners396x.png ---
+--- needs --- WoodPBeginners.idv[796] ==> WoodPBeginners397x.png ---
+--- needs --- WoodPBeginners.idv[798] ==> WoodPBeginners398x.png ---
+--- needs --- WoodPBeginners.idv[800] ==> WoodPBeginners399x.png ---
+--- needs --- WoodPBeginners.idv[802] ==> WoodPBeginners400x.png ---
+--- needs --- WoodPBeginners.idv[804] ==> WoodPBeginners401x.png ---
+--- needs --- WoodPBeginners.idv[806] ==> WoodPBeginners402x.png ---
+--- needs --- WoodPBeginners.idv[808] ==> WoodPBeginners403x.png ---
+--- needs --- WoodPBeginners.idv[810] ==> WoodPBeginners404x.png ---
+--- needs --- WoodPBeginners.idv[812] ==> WoodPBeginners405x.png ---
+--- needs --- WoodPBeginners.idv[814] ==> WoodPBeginners406x.png ---
+--- needs --- WoodPBeginners.idv[816] ==> WoodPBeginners407x.png ---
+--- needs --- WoodPBeginners.idv[818] ==> WoodPBeginners408x.png ---
+--- needs --- WoodPBeginners.idv[820] ==> WoodPBeginners409x.png ---
+--- needs --- WoodPBeginners.idv[822] ==> WoodPBeginners410x.png ---
+--- needs --- WoodPBeginners.idv[824] ==> WoodPBeginners411x.png ---
+--- needs --- WoodPBeginners.idv[826] ==> WoodPBeginners412x.png ---
+--- needs --- WoodPBeginners.idv[828] ==> WoodPBeginners413x.png ---
+--- needs --- WoodPBeginners.idv[830] ==> WoodPBeginners414x.png ---
+--- needs --- WoodPBeginners.idv[832] ==> WoodPBeginners415x.png ---
+--- needs --- WoodPBeginners.idv[834] ==> WoodPBeginners416x.png ---
+--- needs --- WoodPBeginners.idv[836] ==> WoodPBeginners417x.png ---
+--- needs --- WoodPBeginners.idv[838] ==> WoodPBeginners418x.png ---
+--- needs --- WoodPBeginners.idv[840] ==> WoodPBeginners419x.png ---
+--- needs --- WoodPBeginners.idv[842] ==> WoodPBeginners420x.png ---
+--- needs --- WoodPBeginners.idv[844] ==> WoodPBeginners421x.png ---
+--- needs --- WoodPBeginners.idv[846] ==> WoodPBeginners422x.png ---
+--- needs --- WoodPBeginners.idv[848] ==> WoodPBeginners423x.png ---
+--- needs --- WoodPBeginners.idv[850] ==> WoodPBeginners424x.png ---
+--- needs --- WoodPBeginners.idv[852] ==> WoodPBeginners425x.png ---
+--- needs --- WoodPBeginners.idv[854] ==> WoodPBeginners426x.png ---
+--- needs --- WoodPBeginners.idv[856] ==> WoodPBeginners427x.png ---
+--- needs --- WoodPBeginners.idv[858] ==> WoodPBeginners428x.png ---
+--- needs --- WoodPBeginners.idv[860] ==> WoodPBeginners429x.png ---
+--- needs --- WoodPBeginners.idv[862] ==> WoodPBeginners430x.png ---
+--- needs --- WoodPBeginners.idv[864] ==> WoodPBeginners431x.png ---
+--- needs --- WoodPBeginners.idv[866] ==> WoodPBeginners432x.png ---
+--- needs --- WoodPBeginners.idv[868] ==> WoodPBeginners433x.png ---
+--- needs --- WoodPBeginners.idv[870] ==> WoodPBeginners434x.png ---
+--- needs --- WoodPBeginners.idv[872] ==> WoodPBeginners435x.png ---
+--- needs --- WoodPBeginners.idv[874] ==> WoodPBeginners436x.png ---
+--- needs --- WoodPBeginners.idv[876] ==> WoodPBeginners437x.png ---
+--- needs --- WoodPBeginners.idv[878] ==> WoodPBeginners438x.png ---
+--- needs --- WoodPBeginners.idv[880] ==> WoodPBeginners439x.png ---
+--- needs --- WoodPBeginners.idv[882] ==> WoodPBeginners440x.png ---
+--- needs --- WoodPBeginners.idv[884] ==> WoodPBeginners441x.png ---
+--- needs --- WoodPBeginners.idv[886] ==> WoodPBeginners442x.png ---
+--- needs --- WoodPBeginners.idv[888] ==> WoodPBeginners443x.png ---
+--- characters ---
+Font("cmr","10","10","100")
+Font("SkakNew-Diagram","","10","200")
+Font("cmss","10","10","100")
+Font("cmbx","10","10","100")
+Font("SkakNew-FigurineBold","","10","100")
+Font("SkakNew-Figurine","","10","100")
+Font("cmti","10","10","100")
+Font("cmbxti","10","10","100")

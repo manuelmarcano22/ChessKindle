@@ -1,0 +1,1907 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2020.7.20)  2 AUG 2020 17:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode configfile.a.b.c.\input  CT
+ARTFirst100.tex
+(./CTARTFirst100.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2018-02-11-15:01
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht)
+(/usr/share/texlive/texmf-dist/tex/latex/skak/skak.sty
+Package: skak 2018/01/08 v1.5.3 Chess typesetting
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/chessfss.sty
+Package: chessfss 2006/06/14 v1.2a chess font selection scheme
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count88
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbenc.def
+File: lsbenc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfenc.def
+File: lsfenc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsienc.def
+File: lsienc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+\len@cfss@squarewidth=\skip43
+\len@cfss@squaretotalheight=\skip44
+\len@cfss@squaredepth=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/plain/lambda-lists/lambda.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count92
+\pstFP@xia=\count93
+\pstFP@xib=\count94
+\pstFP@xfa=\count95
+\pstFP@xfb=\count96
+\pstFP@rega=\count97
+\pstFP@regb=\count98
+\pstFP@regs=\count99
+\pstFP@times=\count100
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen105
+\pgfutil@tempdimb=\dimen106
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks20
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen107
+\pgf@xa=\dimen108
+\pgf@xb=\dimen109
+\pgf@xc=\dimen110
+\pgf@y=\dimen111
+\pgf@ya=\dimen112
+\pgf@yb=\dimen113
+\pgf@yc=\dimen114
+\c@pgf@counta=\count101
+\c@pgf@countb=\count102
+\c@pgf@countc=\count103
+\c@pgf@countd=\count104
+\pgfutil@tempcnta=\count105
+\pgfutil@tempcntb=\count106
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen115
+\pgfmath@count=\count107
+\pgfmath@box=\box26
+\pgfmath@toks=\toks21
+\pgfmath@stack@operand=\toks22
+\pgfmath@stack@operation=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count108
+))
+\pgffor@iter=\dimen116
+\pgffor@skip=\dimen117
+\pgffor@stack=\toks24
+\pgffor@toks=\toks25
+)
+\psLoopIndex=\count109
+
+`PSTricks' v2.82  <2018/01/06> (tvz,hv)
+\pst@dima=\dimen118
+\pst@dimb=\dimen119
+\pst@dimc=\dimen120
+\pst@dimd=\dimen121
+\pst@dimg=\dimen122
+\pst@dimh=\dimen123
+\pst@dimm=\dimen124
+\pst@dimn=\dimen125
+\pst@dimo=\dimen126
+\pst@dimp=\dimen127
+\pst@hbox=\box27
+\pst@ibox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count110
+\pst@cntb=\count111
+\pst@cntc=\count112
+\pst@cntd=\count113
+\pst@cntg=\count114
+\pst@cnth=\count115
+\pst@cntm=\count116
+\pst@cntn=\count117
+\pst@cnto=\count118
+\pst@cntp=\count119
+\@zero=\count120
+\pst@toks=\toks26
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen128
+\psxunit=\dimen129
+\psyunit=\dimen130
+\pst@C@@rType=\count121
+\pslinewidth=\dimen131
+\psk@startLW=\dimen132
+\psk@endLW=\dimen133
+\pst@customdefs=\toks27
+\pslinearc=\dimen134
+\pst@symbolStep=\dimen135
+\pst@symbolWidth=\dimen136
+\pst@symbolLinewidth=\dimen137
+\everypsbox=\toks28
+\psframesep=\dimen138
+\pslabelsep=\dimen139
+\sh@wgridXunit=\dimen140
+\sh@wgridYunit=\dimen141
+\pst@shift=\dimen142
+)
+File: pstricks.tex 2018/01/06 v2.82 `PSTricks' (tvz,hv)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2018/01/06 v2.82 `PST-fp' (hv)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pst-node/pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pst-node/pst-node.tex
+ v1.41, 2017/12/30
+\psrow=\count122
+\pscol=\count123
+\psmatrixcnt=\count124
+\psrowsep=\skip49
+\pscolsep=\skip50
+\pst@args=\count125
+\num@pts=\count126
+\pst@argcnt=\count127
+)
+File: pst-node.tex 2017/12/30 1.41 `pst-node' (tvz,hv)
+)
+\c@fileFrom=\count128
+\c@rankFrom=\count129
+\c@fileTo=\count130
+\c@rankTo=\count131
+\c@ps@inverse=\count132
+\c@ps@knightangle=\count133
+\c@halfmove=\count134
+\c@move=\count135
+\c@helpgobble=\count136
+\c@helpnumber=\count137
+\c@helpnumberMove=\count138
+\squarelength=\skip51
+\square@multiplier=\count139
+\ranklift=\skip52
+LaTeX Font Info:    Try loading font information for LSB+skaknew on input line 
+1774.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbskaknew.fd
+File: lsbskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+\store@toks=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak.sty
+Package: xskak 2015/01/02 version v1.4 extended chess typesetting and parsing
+
+(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard.sty
+Package: chessboard 2014/05/01 version v1.7 print chessboards
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box30
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+)
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count141
+\c@pgf@countb=\count142
+\c@pgf@countc=\count143
+\c@pgf@countd=\count144
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-tex4ht.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-tex4ht.def
+File: pgfsys-tex4ht.def 2013/08/06  (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-svg.de
+f
+File: pgfsys-common-svg.def 2013/08/28  (rcs-revision 1.24)
+\pgf@sys@svg@objectcount=\count145
+\pgf@sys@svg@scopecount=\count146
+)
+\pgf@sys@svg@picnum=\count147
+\pgf@sys@svg@nodenum=\count148
+\pgfsys@foreignobject@Box=\box31
+\pgf@s=\dimen155
+\pgf@t=\dimen156
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count149
+\pgfsyssoftpath@bigbuffer@items=\count150
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen157
+\pgf@picmaxx=\dimen158
+\pgf@picminy=\dimen159
+\pgf@picmaxy=\dimen160
+\pgf@pathminx=\dimen161
+\pgf@pathmaxx=\dimen162
+\pgf@pathminy=\dimen163
+\pgf@pathmaxy=\dimen164
+\pgf@xx=\dimen165
+\pgf@xy=\dimen166
+\pgf@yx=\dimen167
+\pgf@yy=\dimen168
+\pgf@zx=\dimen169
+\pgf@zy=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen171
+\pgf@path@lasty=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen173
+\pgf@shorten@start@additional=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count151
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen176
+\pgf@pt@y=\dimen177
+\pgf@pt@temp=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen179
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count152
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box36
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen185
+)
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikzleveldistance=\dimen190
+\tikzsiblingdistance=\dimen191
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
+)
+\tikz@expandcount=\count161
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\len@board@tempx=\skip53
+\len@board@tempy=\skip54
+\c@cnt@board@file=\count162
+\c@cnt@board@rank=\count163
+\c@cnt@board=\count164
+\c@filelabel=\count165
+\c@ranklabel=\count166
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-main.sty
+File: chessboard-keys-main.sty 2014/05/01 version v1.7 key definitions for ches
+sboard.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-pgf.sty
+File: chessboard-keys-pgf.sty 2014/05/01 version v1.7 key definitions for chess
+board.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-pgf.sty
+File: chessboard-pgf.sty 2014/05/01 version v1.7 pgf code for chessboard.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-keys.sty
+File: xskak-keys.sty 2015/01/02 version v1.4 key definitions for xskak.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-nagdef.sty
+File: xskak-nagdef.sty 2015/01/02 version v1.4 nag definitions for xskak.sty
+)
+LaTeX Info: Redefining \variation on input line 1472.
+)
+(./configfile.cfg (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2017-05-09-09:21
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2018-02-11-15:01
+
+--- needs --- tex4ht CTARTFirst100 ---
+\tmp:cnt=\count167
+\openout15 = `CTARTFirst100.tmp'.
+
+(./CTARTFirst100.tmp)
+\tmp:dim=\skip55
+ (./CTARTFirst100.xref)
+\:refout=\write4
+\openout4 = `CTARTFirst100.xref'.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html,xhtml
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+\:tokwrite=\toks36
+\:tokpage=\toks37
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `CTARTFirst100.4ct'.
+
+\:tocout=\write5
+\openout5 = `CTARTFirst100.4tc'.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2018-01-12-14:38
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/book.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)) (./skak.4ht) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pstricks.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2017-04-28-08:47
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pgf.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/everyshi.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2017-10-21-16:16
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphics.4ht
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(./CTARTFirst100.aux)
+\openout1 = `CTARTFirst100.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSB/skaknew/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSF/skaknew/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for LSF+skaknew on input line 
+12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfskaknew.fd
+File: lsfskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSI/skaknew/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for LSI+skaknew on input line 
+12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsiskaknew.fd
+File: lsiskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+--- file CTARTFirst100.css ---
+) [1
+
+] [2
+
+]
+(./CTARTFirst100.4ct [3] [4]) [5] [6
+
+]
+Chapter 1.
+l. 11 Writing CTARTFirst100.idv[1] (CTARTFirst1000x.png)
+[7] [8
+
+]
+l. 17 Writing CTARTFirst100.idv[2] (CTARTFirst1001x.png)
+ [9] [10
+
+]
+l. 64 Writing CTARTFirst100.idv[3] (CTARTFirst1002x.png)
+ [11] [12
+
+]
+l. 70 Writing CTARTFirst100.idv[4] (CTARTFirst1003x.png)
+ [13] [14
+
+]
+l. 93 Writing CTARTFirst100.idv[5] (CTARTFirst1004x.png)
+ [15] [16
+
+]
+l. 99 Writing CTARTFirst100.idv[6] (CTARTFirst1005x.png)
+ [17] [18
+
+]
+l. 136 Writing CTARTFirst100.idv[7] (CTARTFirst1006x.png)
+ [19] [20
+
+]
+l. 142 Writing CTARTFirst100.idv[8] (CTARTFirst1007x.png)
+ [21]
+[22
+
+]
+l. 197 Writing CTARTFirst100.idv[9] (CTARTFirst1008x.png)
+ [23] [24
+
+]
+l. 203 Writing CTARTFirst100.idv[10] (CTARTFirst1009x.png)
+ [25] [26] [27
+
+]
+l. 262 Writing CTARTFirst100.idv[11] (CTARTFirst10010x.png)
+ [28] [29
+
+]
+l. 269 Writing CTARTFirst100.idv[12] (CTARTFirst10011x.png)
+
+
+LaTeX Font Warning: Font shape `LSF/skaknew/m/it' undefined
+(Font)              using `LSF/skaknew/m/n' instead on input line 298.
+
+
+LaTeX Font Warning: Font shape `LSI/skaknew/m/it' undefined
+(Font)              using `LSI/skaknew/m/n' instead on input line 298.
+
+[30] [31
+
+]
+l. 310 Writing CTARTFirst100.idv[13] (CTARTFirst10012x.png)
+ [32] [33
+
+]
+l. 316 Writing CTARTFirst100.idv[14] (CTARTFirst10013x.png)
+ [34] [35] [36
+
+]
+l. 389 Writing CTARTFirst100.idv[15] (CTARTFirst10014x.png)
+ [37] [38
+
+]
+l. 395 Writing CTARTFirst100.idv[16] (CTARTFirst10015x.png)
+ [39] [40] [41
+
+]
+l. 447 Writing CTARTFirst100.idv[17] (CTARTFirst10016x.png)
+ [42] [43
+
+]
+l. 453 Writing CTARTFirst100.idv[18] (CTARTFirst10017x.png)
+ [44]
+[45] [46
+
+]
+l. 516 Writing CTARTFirst100.idv[19] (CTARTFirst10018x.png)
+ [47] [48
+
+]
+l. 523 Writing CTARTFirst100.idv[20] (CTARTFirst10019x.png)
+ [49] [50] [51] [52
+
+]
+l. 679 Writing CTARTFirst100.idv[21] (CTARTFirst10020x.png)
+ [53] [54
+
+]
+l. 685 Writing CTARTFirst100.idv[22] (CTARTFirst10021x.png)
+ [55] [56
+
+]
+l. 700 Writing CTARTFirst100.idv[23] (CTARTFirst10022x.png)
+ [57] [58
+
+]
+l. 706 Writing CTARTFirst100.idv[24] (CTARTFirst10023x.png)
+ [59]
+[60
+
+]
+l. 721 Writing CTARTFirst100.idv[25] (CTARTFirst10024x.png)
+ [61] [62
+
+]
+l. 727 Writing CTARTFirst100.idv[26] (CTARTFirst10025x.png)
+ [63] [64
+
+]
+l. 752 Writing CTARTFirst100.idv[27] (CTARTFirst10026x.png)
+ [65] [66
+
+]
+l. 758 Writing CTARTFirst100.idv[28] (CTARTFirst10027x.png)
+ [67] [68] [69
+
+]
+l. 825 Writing CTARTFirst100.idv[29] (CTARTFirst10028x.png)
+ [70] [71
+
+]
+l. 831 Writing CTARTFirst100.idv[30] (CTARTFirst10029x.png)
+ [72] [73
+
+]
+l. 872 Writing CTARTFirst100.idv[31] (CTARTFirst10030x.png)
+ [74]
+[75
+
+]
+l. 878 Writing CTARTFirst100.idv[32] (CTARTFirst10031x.png)
+ [76] [77
+
+]
+l. 903 Writing CTARTFirst100.idv[33] (CTARTFirst10032x.png)
+ [78] [79
+
+]
+l. 909 Writing CTARTFirst100.idv[34] (CTARTFirst10033x.png)
+ [80] [81
+
+]
+l. 942 Writing CTARTFirst100.idv[35] (CTARTFirst10034x.png)
+ [82] [83
+
+]
+l. 948 Writing CTARTFirst100.idv[36] (CTARTFirst10035x.png)
+ [84] [85
+
+]
+l. 977 Writing CTARTFirst100.idv[37] (CTARTFirst10036x.png)
+ [86] [87
+
+]
+l. 983 Writing CTARTFirst100.idv[38] (CTARTFirst10037x.png)
+ [88] [89
+
+]
+l. 1010 Writing CTARTFirst100.idv[39] (CTARTFirst10038x.png)
+
+[90] [91
+
+]
+l. 1016 Writing CTARTFirst100.idv[40] (CTARTFirst10039x.png)
+ [92] [93
+
+]
+l. 1051 Writing CTARTFirst100.idv[41] (CTARTFirst10040x.png)
+ [94] [95
+
+]
+l. 1057 Writing CTARTFirst100.idv[42] (CTARTFirst10041x.png)
+ [96] [97
+
+]
+l. 1094 Writing CTARTFirst100.idv[43] (CTARTFirst10042x.png)
+ [98] [99
+
+]
+l. 1101 Writing CTARTFirst100.idv[44] (CTARTFirst10043x.png)
+ [100] [101
+
+]
+l. 1127 Writing CTARTFirst100.idv[45] (CTARTFirst10044x.png)
+ [102] [103
+
+]
+l. 1133 Writing CTARTFirst100.idv[46] (CTARTFirst10045x.png)
+
+[104] [105
+
+]
+l. 1160 Writing CTARTFirst100.idv[47] (CTARTFirst10046x.png)
+ [106] [107
+
+]
+l. 1166 Writing CTARTFirst100.idv[48] (CTARTFirst10047x.png)
+ [108] [109
+
+]
+l. 1191 Writing CTARTFirst100.idv[49] (CTARTFirst10048x.png)
+ [110] [111
+
+]
+l. 1197 Writing CTARTFirst100.idv[50] (CTARTFirst10049x.png)
+ [112] [113
+
+]
+l. 1228 Writing CTARTFirst100.idv[51] (CTARTFirst10050x.png)
+ [114] [115
+
+]
+l. 1234 Writing CTARTFirst100.idv[52] (CTARTFirst10051x.png)
+
+[116] [117
+
+]
+l. 1283 Writing CTARTFirst100.idv[53] (CTARTFirst10052x.png)
+ [118] [119
+
+]
+l. 1289 Writing CTARTFirst100.idv[54] (CTARTFirst10053x.png)
+ [120] [121] [122
+
+]
+l. 1350 Writing CTARTFirst100.idv[55] (CTARTFirst10054x.png)
+ [123] [124
+
+]
+l. 1356 Writing CTARTFirst100.idv[56] (CTARTFirst10055x.png)
+ [125] [126
+
+]
+l. 1396 Writing CTARTFirst100.idv[57] (CTARTFirst10056x.png)
+ [127]
+[128
+
+]
+l. 1402 Writing CTARTFirst100.idv[58] (CTARTFirst10057x.png)
+ [129] [130
+
+]
+l. 1441 Writing CTARTFirst100.idv[59] (CTARTFirst10058x.png)
+ [131] [132
+
+]
+l. 1447 Writing CTARTFirst100.idv[60] (CTARTFirst10059x.png)
+ [133] [134
+
+]
+l. 1474 Writing CTARTFirst100.idv[61] (CTARTFirst10060x.png)
+ [135] [136
+
+]
+l. 1480 Writing CTARTFirst100.idv[62] (CTARTFirst10061x.png)
+ [137] [138
+
+]
+l. 1507 Writing CTARTFirst100.idv[63] (CTARTFirst10062x.png)
+ [139]
+[140
+
+]
+l. 1513 Writing CTARTFirst100.idv[64] (CTARTFirst10063x.png)
+ [141] [142
+
+]
+l. 1536 Writing CTARTFirst100.idv[65] (CTARTFirst10064x.png)
+ [143] [144
+
+]
+l. 1542 Writing CTARTFirst100.idv[66] (CTARTFirst10065x.png)
+ [145] [146
+
+]
+l. 1579 Writing CTARTFirst100.idv[67] (CTARTFirst10066x.png)
+ [147] [148
+
+]
+l. 1586 Writing CTARTFirst100.idv[68] (CTARTFirst10067x.png)
+ [149] [150
+
+]
+l. 1606 Writing CTARTFirst100.idv[69] (CTARTFirst10068x.png)
+ [151]
+[152
+
+]
+l. 1612 Writing CTARTFirst100.idv[70] (CTARTFirst10069x.png)
+ [153] [154
+
+]
+l. 1643 Writing CTARTFirst100.idv[71] (CTARTFirst10070x.png)
+ [155] [156
+
+]
+l. 1649 Writing CTARTFirst100.idv[72] (CTARTFirst10071x.png)
+ [157] [158
+
+]
+l. 1696 Writing CTARTFirst100.idv[73] (CTARTFirst10072x.png)
+ [159] [160
+
+]
+l. 1702 Writing CTARTFirst100.idv[74] (CTARTFirst10073x.png)
+ [161] [162] [163
+
+]
+l. 1777 Writing CTARTFirst100.idv[75] (CTARTFirst10074x.png)
+
+[164] [165
+
+]
+l. 1783 Writing CTARTFirst100.idv[76] (CTARTFirst10075x.png)
+ [166] [167
+
+]
+l. 1814 Writing CTARTFirst100.idv[77] (CTARTFirst10076x.png)
+ [168] [169
+
+]
+l. 1820 Writing CTARTFirst100.idv[78] (CTARTFirst10077x.png)
+ [170] [171] [172
+
+]
+l. 1872 Writing CTARTFirst100.idv[79] (CTARTFirst10078x.png)
+ [173] [174
+
+]
+l. 1879 Writing CTARTFirst100.idv[80] (CTARTFirst10079x.png)
+ [175]
+[176
+
+]
+l. 1911 Writing CTARTFirst100.idv[81] (CTARTFirst10080x.png)
+ [177] [178
+
+]
+l. 1917 Writing CTARTFirst100.idv[82] (CTARTFirst10081x.png)
+ [179] [180
+
+]
+l. 1944 Writing CTARTFirst100.idv[83] (CTARTFirst10082x.png)
+ [181] [182
+
+]
+l. 1950 Writing CTARTFirst100.idv[84] (CTARTFirst10083x.png)
+ [183] [184] [185
+
+]
+l. 2008 Writing CTARTFirst100.idv[85] (CTARTFirst10084x.png)
+ [186] [187
+
+]
+l. 2014 Writing CTARTFirst100.idv[86] (CTARTFirst10085x.png)
+
+[188] [189
+
+]
+l. 2037 Writing CTARTFirst100.idv[87] (CTARTFirst10086x.png)
+ [190] [191
+
+]
+l. 2043 Writing CTARTFirst100.idv[88] (CTARTFirst10087x.png)
+ [192] [193
+
+]
+l. 2102 Writing CTARTFirst100.idv[89] (CTARTFirst10088x.png)
+ [194] [195
+
+]
+l. 2108 Writing CTARTFirst100.idv[90] (CTARTFirst10089x.png)
+ [196] [197] [198
+
+]
+l. 2173 Writing CTARTFirst100.idv[91] (CTARTFirst10090x.png)
+ [199]
+[200
+
+]
+l. 2179 Writing CTARTFirst100.idv[92] (CTARTFirst10091x.png)
+ [201] [202
+
+]
+l. 2217 Writing CTARTFirst100.idv[93] (CTARTFirst10092x.png)
+ [203] [204
+
+]
+l. 2224 Writing CTARTFirst100.idv[94] (CTARTFirst10093x.png)
+ [205] [206
+
+]
+l. 2256 Writing CTARTFirst100.idv[95] (CTARTFirst10094x.png)
+ [207] [208
+
+]
+l. 2262 Writing CTARTFirst100.idv[96] (CTARTFirst10095x.png)
+ [209] [210
+
+]
+l. 2309 Writing CTARTFirst100.idv[97] (CTARTFirst10096x.png)
+ [211]
+[212
+
+]
+l. 2315 Writing CTARTFirst100.idv[98] (CTARTFirst10097x.png)
+ [213] [214] [215
+
+]
+l. 2372 Writing CTARTFirst100.idv[99] (CTARTFirst10098x.png)
+ [216] [217
+
+]
+l. 2378 Writing CTARTFirst100.idv[100] (CTARTFirst10099x.png)
+ [218] [219] [220
+
+]
+l. 2431 Writing CTARTFirst100.idv[101] (CTARTFirst100100x.png)
+ [221] [222
+
+]
+l. 2437 Writing CTARTFirst100.idv[102] (CTARTFirst100101x.png)
+ [223]
+[224] [225
+
+]
+l. 2513 Writing CTARTFirst100.idv[103] (CTARTFirst100102x.png)
+ [226] [227
+
+]
+l. 2519 Writing CTARTFirst100.idv[104] (CTARTFirst100103x.png)
+ [228] [229] [230
+
+]
+l. 2579 Writing CTARTFirst100.idv[105] (CTARTFirst100104x.png)
+ [231] [232
+
+]
+l. 2585 Writing CTARTFirst100.idv[106] (CTARTFirst100105x.png)
+ [233] [234
+
+]
+l. 2606 Writing CTARTFirst100.idv[107] (CTARTFirst100106x.png)
+ [235]
+[236
+
+]
+l. 2612 Writing CTARTFirst100.idv[108] (CTARTFirst100107x.png)
+ [237] [238
+
+]
+l. 2635 Writing CTARTFirst100.idv[109] (CTARTFirst100108x.png)
+ [239] [240
+
+]
+l. 2641 Writing CTARTFirst100.idv[110] (CTARTFirst100109x.png)
+ [241] [242
+
+]
+l. 2678 Writing CTARTFirst100.idv[111] (CTARTFirst100110x.png)
+ [243] [244
+
+]
+l. 2684 Writing CTARTFirst100.idv[112] (CTARTFirst100111x.png)
+ [245] [246
+
+]
+l. 2731 Writing CTARTFirst100.idv[113] (CTARTFirst100112x.png)
+ [247]
+[248
+
+]
+l. 2737 Writing CTARTFirst100.idv[114] (CTARTFirst100113x.png)
+ [249] [250
+
+]
+l. 2782 Writing CTARTFirst100.idv[115] (CTARTFirst100114x.png)
+ [251] [252
+
+]
+l. 2788 Writing CTARTFirst100.idv[116] (CTARTFirst100115x.png)
+ [253] [254
+
+]
+l. 2831 Writing CTARTFirst100.idv[117] (CTARTFirst100116x.png)
+ [255] [256
+
+]
+l. 2837 Writing CTARTFirst100.idv[118] (CTARTFirst100117x.png)
+ [257] [258] [259
+
+]
+l. 2905 Writing CTARTFirst100.idv[119] (CTARTFirst100118x.png)
+
+[260] [261
+
+]
+l. 2911 Writing CTARTFirst100.idv[120] (CTARTFirst100119x.png)
+ [262] [263
+
+]
+l. 2936 Writing CTARTFirst100.idv[121] (CTARTFirst100120x.png)
+ [264] [265
+
+]
+l. 2942 Writing CTARTFirst100.idv[122] (CTARTFirst100121x.png)
+ [266] [267
+
+]
+l. 2965 Writing CTARTFirst100.idv[123] (CTARTFirst100122x.png)
+ [268] [269
+
+]
+l. 2971 Writing CTARTFirst100.idv[124] (CTARTFirst100123x.png)
+ [270] [271
+
+]
+l. 2996 Writing CTARTFirst100.idv[125] (CTARTFirst100124x.png)
+
+[272] [273
+
+]
+l. 3002 Writing CTARTFirst100.idv[126] (CTARTFirst100125x.png)
+ [274] [275
+
+]
+l. 3029 Writing CTARTFirst100.idv[127] (CTARTFirst100126x.png)
+ [276] [277
+
+]
+l. 3035 Writing CTARTFirst100.idv[128] (CTARTFirst100127x.png)
+ [278] [279
+
+]
+l. 3058 Writing CTARTFirst100.idv[129] (CTARTFirst100128x.png)
+ [280] [281
+
+]
+l. 3064 Writing CTARTFirst100.idv[130] (CTARTFirst100129x.png)
+ [282] [283
+
+]
+l. 3089 Writing CTARTFirst100.idv[131] (CTARTFirst100130x.png)
+
+[284] [285
+
+]
+l. 3095 Writing CTARTFirst100.idv[132] (CTARTFirst100131x.png)
+ [286] [287
+
+]
+l. 3128 Writing CTARTFirst100.idv[133] (CTARTFirst100132x.png)
+ [288] [289
+
+]
+l. 3134 Writing CTARTFirst100.idv[134] (CTARTFirst100133x.png)
+ [290] [291] [292
+
+]
+l. 3199 Writing CTARTFirst100.idv[135] (CTARTFirst100134x.png)
+ [293] [294
+
+]
+l. 3205 Writing CTARTFirst100.idv[136] (CTARTFirst100135x.png)
+ [295]
+[296] [297
+
+]
+l. 3280 Writing CTARTFirst100.idv[137] (CTARTFirst100136x.png)
+ [298] [299
+
+]
+l. 3286 Writing CTARTFirst100.idv[138] (CTARTFirst100137x.png)
+ [300] [301
+
+]
+l. 3341 Writing CTARTFirst100.idv[139] (CTARTFirst100138x.png)
+ [302] [303
+
+]
+l. 3348 Writing CTARTFirst100.idv[140] (CTARTFirst100139x.png)
+ [304] [305
+
+]
+l. 3389 Writing CTARTFirst100.idv[141] (CTARTFirst100140x.png)
+ [306] [307
+
+]
+l. 3396 Writing CTARTFirst100.idv[142] (CTARTFirst100141x.png)
+
+[308] [309
+
+]
+l. 3446 Writing CTARTFirst100.idv[143] (CTARTFirst100142x.png)
+ [310] [311
+
+]
+l. 3452 Writing CTARTFirst100.idv[144] (CTARTFirst100143x.png)
+ [312] [313
+
+]
+l. 3505 Writing CTARTFirst100.idv[145] (CTARTFirst100144x.png)
+ [314] [315
+
+]
+l. 3511 Writing CTARTFirst100.idv[146] (CTARTFirst100145x.png)
+ [316] [317
+
+]
+l. 3546 Writing CTARTFirst100.idv[147] (CTARTFirst100146x.png)
+ [318] [319
+
+]
+l. 3552 Writing CTARTFirst100.idv[148] (CTARTFirst100147x.png)
+
+[320] [321
+
+]
+l. 3597 Writing CTARTFirst100.idv[149] (CTARTFirst100148x.png)
+ [322] [323
+
+]
+l. 3603 Writing CTARTFirst100.idv[150] (CTARTFirst100149x.png)
+ [324] [325] [326
+
+]
+l. 3665 Writing CTARTFirst100.idv[151] (CTARTFirst100150x.png)
+ [327] [328
+
+]
+l. 3671 Writing CTARTFirst100.idv[152] (CTARTFirst100151x.png)
+ [329] [330] [331
+
+]
+l. 3713 Writing CTARTFirst100.idv[153] (CTARTFirst100152x.png)
+
+[332] [333
+
+]
+l. 3719 Writing CTARTFirst100.idv[154] (CTARTFirst100153x.png)
+ [334] [335
+
+]
+l. 3778 Writing CTARTFirst100.idv[155] (CTARTFirst100154x.png)
+ [336] [337
+
+]
+l. 3784 Writing CTARTFirst100.idv[156] (CTARTFirst100155x.png)
+ [338] [339] [340
+
+]
+l. 3840 Writing CTARTFirst100.idv[157] (CTARTFirst100156x.png)
+ [341] [342
+
+]
+l. 3846 Writing CTARTFirst100.idv[158] (CTARTFirst100157x.png)
+ [343]
+[344] [345
+
+]
+l. 3943 Writing CTARTFirst100.idv[159] (CTARTFirst100158x.png)
+ [346] [347
+
+]
+l. 3949 Writing CTARTFirst100.idv[160] (CTARTFirst100159x.png)
+ [348] [349] [350] [351
+
+]
+l. 4080 Writing CTARTFirst100.idv[161] (CTARTFirst100160x.png)
+ [352] [353
+
+]
+l. 4087 Writing CTARTFirst100.idv[162] (CTARTFirst100161x.png)
+ [354] [355
+
+]
+l. 4117 Writing CTARTFirst100.idv[163] (CTARTFirst100162x.png)
+
+[356] [357
+
+]
+l. 4123 Writing CTARTFirst100.idv[164] (CTARTFirst100163x.png)
+ [358] [359
+
+]
+l. 4154 Writing CTARTFirst100.idv[165] (CTARTFirst100164x.png)
+ [360] [361
+
+]
+l. 4160 Writing CTARTFirst100.idv[166] (CTARTFirst100165x.png)
+ [362] [363
+
+]
+l. 4197 Writing CTARTFirst100.idv[167] (CTARTFirst100166x.png)
+ [364] [365
+
+]
+l. 4203 Writing CTARTFirst100.idv[168] (CTARTFirst100167x.png)
+ [366] [367
+
+]
+l. 4252 Writing CTARTFirst100.idv[169] (CTARTFirst100168x.png)
+
+[368] [369
+
+]
+l. 4258 Writing CTARTFirst100.idv[170] (CTARTFirst100169x.png)
+ [370] [371
+
+]
+l. 4285 Writing CTARTFirst100.idv[171] (CTARTFirst100170x.png)
+ [372] [373
+
+]
+l. 4291 Writing CTARTFirst100.idv[172] (CTARTFirst100171x.png)
+ [374] [375
+
+]
+l. 4324 Writing CTARTFirst100.idv[173] (CTARTFirst100172x.png)
+ [376] [377
+
+]
+l. 4330 Writing CTARTFirst100.idv[174] (CTARTFirst100173x.png)
+ [378] [379
+
+]
+l. 4371 Writing CTARTFirst100.idv[175] (CTARTFirst100174x.png)
+
+[380] [381
+
+]
+l. 4377 Writing CTARTFirst100.idv[176] (CTARTFirst100175x.png)
+ [382] [383
+
+]
+l. 4418 Writing CTARTFirst100.idv[177] (CTARTFirst100176x.png)
+ [384] [385
+
+]
+l. 4424 Writing CTARTFirst100.idv[178] (CTARTFirst100177x.png)
+ [386] [387
+
+]
+l. 4463 Writing CTARTFirst100.idv[179] (CTARTFirst100178x.png)
+ [388] [389
+
+]
+l. 4469 Writing CTARTFirst100.idv[180] (CTARTFirst100179x.png)
+ [390] [391
+
+]
+l. 4502 Writing CTARTFirst100.idv[181] (CTARTFirst100180x.png)
+
+[392] [393
+
+]
+l. 4508 Writing CTARTFirst100.idv[182] (CTARTFirst100181x.png)
+ [394] [395
+
+]
+l. 4557 Writing CTARTFirst100.idv[183] (CTARTFirst100182x.png)
+ [396] [397
+
+]
+l. 4563 Writing CTARTFirst100.idv[184] (CTARTFirst100183x.png)
+ [398] [399
+
+]
+l. 4606 Writing CTARTFirst100.idv[185] (CTARTFirst100184x.png)
+ [400] [401
+
+]
+l. 4612 Writing CTARTFirst100.idv[186] (CTARTFirst100185x.png)
+ [402] [403
+
+]
+l. 4649 Writing CTARTFirst100.idv[187] (CTARTFirst100186x.png)
+
+[404] [405
+
+]
+l. 4655 Writing CTARTFirst100.idv[188] (CTARTFirst100187x.png)
+ [406] [407
+
+]
+l. 4691 Writing CTARTFirst100.idv[189] (CTARTFirst100188x.png)
+ [408] [409
+
+]
+l. 4697 Writing CTARTFirst100.idv[190] (CTARTFirst100189x.png)
+ [410] [411
+
+]
+l. 4752 Writing CTARTFirst100.idv[191] (CTARTFirst100190x.png)
+ [412] [413
+
+]
+l. 4758 Writing CTARTFirst100.idv[192] (CTARTFirst100191x.png)
+ [414] [415
+
+]
+l. 4797 Writing CTARTFirst100.idv[193] (CTARTFirst100192x.png)
+
+[416] [417
+
+]
+l. 4803 Writing CTARTFirst100.idv[194] (CTARTFirst100193x.png)
+ [418] [419] [420
+
+]
+l. 4886 Writing CTARTFirst100.idv[195] (CTARTFirst100194x.png)
+ [421] [422
+
+]
+l. 4892 Writing CTARTFirst100.idv[196] (CTARTFirst100195x.png)
+ [423] [424] [425
+
+]
+l. 4957 Writing CTARTFirst100.idv[197] (CTARTFirst100196x.png)
+ [426] [427
+
+]
+l. 4963 Writing CTARTFirst100.idv[198] (CTARTFirst100197x.png)
+
+[428] [429
+
+]
+l. 5016 Writing CTARTFirst100.idv[199] (CTARTFirst100198x.png)
+ [430] [431
+
+]
+l. 5023 Writing CTARTFirst100.idv[200] (CTARTFirst100199x.png)
+ [432] [433
+
+] [434] [435] (./CTARTFirst100.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 22332 strings out of 492983
+ 397447 string characters out of 6134922
+ 598639 words of memory out of 5000000
+ 25457 multiletter control sequences out of 15000+600000
+ 6786 words of font info for 26 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 81i,8n,164p,1317b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on CTARTFirst100.dvi (435 pages, 643812 bytes).

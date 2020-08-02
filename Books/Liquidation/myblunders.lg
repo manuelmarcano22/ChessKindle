@@ -1,0 +1,585 @@
+htfcss: cmbxti  font-weight: bold; font-style: italic;
+htfcss: cmti  font-style: italic;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmss   font-family: sans-serif;
+htfcss: cmssbx  font-family: sans-serif; font-weight: bold;
+htfcss: cmssbxo  font-family: sans-serif; font-style: oblique; font-weight: bold;
+htfcss: cmssdc  font-family: sans-serif;
+htfcss: cmssi  font-family: sans-serif; font-style: oblique;
+File: myblunders.html
+File: myblunders.css
+File: myblunders.tmp
+Css: p.noindent { text-indent: 0em }
+Css: td p.noindent { text-indent: 0em; margin-top:0em; }
+Css: p.nopar { text-indent: 0em; }
+Css: p.indent{ text-indent: 1.5em }
+Css: @media print {div.crosslinks {visibility:hidden;}}
+Css: a img { border-top: 0; border-left: 0; border-right: 0; }
+Font_Css("4"): .small-caps{font-variant: small-caps; }
+Font_Css("10"): .htf-cmbx {font-weight: bold; font-style:normal;}
+Font_Css("12"): .htf-calligraphy {font-family:cursive}
+Font_Css("14"): .htf-italic {font-style: italic;}
+Font_Css("16"): .htf-bold {font-weight: bold;}
+Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
+Css: center { margin-top:1em; margin-bottom:1em; }
+Css: td center { margin-top:0em; margin-bottom:0em; }
+Css: .Canvas { position:relative; }
+Css: img.math{vertical-align:middle;}
+Css: li p.indent { text-indent: 0em }
+Css: li p:first-child{ margin-top:0em; }
+Css: li p:last-child, li div:last-child { margin-bottom:0.5em; }
+Css: li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+Css: .enumerate1 {list-style-type:decimal;}
+Css: .enumerate2 {list-style-type:lower-alpha;}
+Css: .enumerate3 {list-style-type:lower-roman;}
+Css: .enumerate4 {list-style-type:upper-alpha;}
+Css: div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+Css: .obeylines-h,.obeylines-v {white-space: nowrap; }
+Css: div.obeylines-v p { margin-top:0; margin-bottom:0; }
+Css: .overline{ text-decoration:overline; }
+Css: .overline img{ border-top: 1px solid black; }
+Css: td.displaylines {text-align:center; white-space:nowrap;}
+Css: .centerline {text-align:center;}
+Css: .rightline {text-align:right;}
+Css: div.verbatim {font-family: monospace; white-space: nowrap; text-align:left; clear:both; }
+Css: .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.fbox {display:table}
+Css: div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.minipage{width:100%;}
+Css: div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+Css: div.center div {text-align: left;}
+Css: div.flushright, div.flushright div.flushright {text-align: right;}
+Css: div.flushright div {text-align: left;}
+Css: div.flushleft {text-align: left;}
+Css: .underline{ text-decoration:underline; }
+Css: .underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+Css: .framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: .framebox-c {text-align:center;}
+Css: .framebox-l {text-align:left;}
+Css: .framebox-r {text-align:right;}
+Css: span.thank-mark{ vertical-align: super }
+Css: span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+Css: div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+Css: table.tabular td p{margin-top:0em;}
+Css: table.tabular {margin-left: auto; margin-right: auto;}
+Css: td p:first-child{ margin-top:0em; }
+Css: td p:last-child{ margin-bottom:0em; }
+Css: div.td00{ margin-left:0pt; margin-right:0pt; }
+Css: div.td01{ margin-left:0pt; margin-right:5pt; }
+Css: div.td10{ margin-left:5pt; margin-right:0pt; }
+Css: div.td11{ margin-left:5pt; margin-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: td.td00{ padding-left:0pt; padding-right:0pt; }
+Css: td.td01{ padding-left:0pt; padding-right:5pt; }
+Css: td.td10{ padding-left:5pt; padding-right:0pt; }
+Css: td.td11{ padding-left:5pt; padding-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: .hline hr, .cline hr{ height : 1px; margin:0px; }
+Css: .tabbing-right {text-align:right;}
+Css: span.TEX {letter-spacing: -0.125em; }
+Css: span.TEX span.E{ position:relative;top:0.5ex;left:-0.0417em;}
+Css: a span.TEX span.E {text-decoration: none; }
+Css: span.LATEX span.A{ position:relative; top:-0.5ex; left:-0.4em; font-size:85%;}
+Css: span.LATEX span.TEX{ position:relative; left: -0.4em; }
+Css: div.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: div.float img {text-align:center;}
+Css: div.figure img {text-align:center;}
+Css: .marginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+Css: .marginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+Css: table.equation {width:100%;}
+Css: .equation td{text-align:center; }
+Css: td.equation { margin-top:1em; margin-bottom:1em; } 
+Css: td.equation-label { width:5%; text-align:center; }
+Css: td.eqnarray4 { width:5%; white-space: normal; }
+Css: td.eqnarray2 { width:5%; }
+Css: table.eqnarray-star, table.eqnarray {width:100%;}
+Css: div.eqnarray{text-align:center;}
+Css: div.array {text-align:center;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.pmatrix img{vertical-align:middle;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.bar-css {text-decoration:overline;}
+Css: img.cdots{vertical-align:middle;}
+Css: .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+Css: .chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {line-height: 200%; font-weight:bold;}
+Css: .index-item, .index-subitem, .index-subsubitem {display:block}
+Css: div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+Css: div.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: h1.partHead{text-align: center}
+Css: p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: .paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+Css: .subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+Css: .quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+Css: .verse{white-space:nowrap; margin-left:2em}
+Css: div.maketitle {text-align:center;}
+Css: h2.titleHead{text-align:center;}
+Css: div.maketitle{ margin-bottom: 2em; }
+Css: div.author, div.date {text-align:center;}
+Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+Css: div.author{white-space: nowrap;}
+Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+Css: h1.partHead{text-align: center}
+Css:  .chapterToc, .likechapterToc {margin-left:0em;}
+Css:  .chapterToc ~ .likesectionToc, .chapterToc ~ .sectionToc, .likechapterToc ~ .likesectionToc, .likechapterToc ~ .sectionToc {margin-left:2em;}
+Css:  .chapterToc ~ .likesectionToc ~ .likesubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc {margin-left:4em;}
+Css: .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:6em;}
+Css:  .likesectionToc , .sectionToc {margin-left:0em;}
+Css:  .likesectionToc ~ .likesubsectionToc, .likesectionToc ~ .subsectionToc, .sectionToc ~ .likesubsectionToc, .sectionToc ~ .subsectionToc {margin-left:2em;}
+Css: .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:4em;}
+Css:  .likesubsectionToc, .subsectionToc {margin-left:0em;}
+Css:  .likesubsectionToc ~ .subsubsectionToc, .subsectionToc ~ .subsubsectionToc {margin-left:2em;}
+Css: .figure img.graphics {margin-left:10%;}
+Css: .newpage{page-break-before:always;}
+--- needs --- myblunders.idv[2] ==> myblunders0x.png ---
+--- needs --- myblunders.idv[4] ==> myblunders1x.png ---
+--- needs --- myblunders.idv[6] ==> myblunders2x.png ---
+--- needs --- myblunders.idv[8] ==> myblunders3x.png ---
+--- needs --- myblunders.idv[10] ==> myblunders4x.png ---
+--- needs --- myblunders.idv[12] ==> myblunders5x.png ---
+--- needs --- myblunders.idv[14] ==> myblunders6x.png ---
+--- needs --- myblunders.idv[16] ==> myblunders7x.png ---
+--- needs --- myblunders.idv[18] ==> myblunders8x.png ---
+--- needs --- myblunders.idv[20] ==> myblunders9x.png ---
+--- needs --- myblunders.idv[22] ==> myblunders10x.png ---
+--- needs --- myblunders.idv[24] ==> myblunders11x.png ---
+--- needs --- myblunders.idv[26] ==> myblunders12x.png ---
+--- needs --- myblunders.idv[28] ==> myblunders13x.png ---
+--- needs --- myblunders.idv[30] ==> myblunders14x.png ---
+--- needs --- myblunders.idv[32] ==> myblunders15x.png ---
+--- needs --- myblunders.idv[34] ==> myblunders16x.png ---
+--- needs --- myblunders.idv[36] ==> myblunders17x.png ---
+--- needs --- myblunders.idv[38] ==> myblunders18x.png ---
+--- needs --- myblunders.idv[40] ==> myblunders19x.png ---
+--- needs --- myblunders.idv[42] ==> myblunders20x.png ---
+--- needs --- myblunders.idv[44] ==> myblunders21x.png ---
+--- needs --- myblunders.idv[46] ==> myblunders22x.png ---
+--- needs --- myblunders.idv[48] ==> myblunders23x.png ---
+--- needs --- myblunders.idv[50] ==> myblunders24x.png ---
+--- needs --- myblunders.idv[52] ==> myblunders25x.png ---
+--- needs --- myblunders.idv[54] ==> myblunders26x.png ---
+--- needs --- myblunders.idv[56] ==> myblunders27x.png ---
+--- needs --- myblunders.idv[58] ==> myblunders28x.png ---
+--- needs --- myblunders.idv[60] ==> myblunders29x.png ---
+--- needs --- myblunders.idv[62] ==> myblunders30x.png ---
+--- needs --- myblunders.idv[64] ==> myblunders31x.png ---
+--- needs --- myblunders.idv[66] ==> myblunders32x.png ---
+--- needs --- myblunders.idv[68] ==> myblunders33x.png ---
+--- needs --- myblunders.idv[70] ==> myblunders34x.png ---
+--- needs --- myblunders.idv[72] ==> myblunders35x.png ---
+--- needs --- myblunders.idv[74] ==> myblunders36x.png ---
+--- needs --- myblunders.idv[76] ==> myblunders37x.png ---
+--- needs --- myblunders.idv[78] ==> myblunders38x.png ---
+--- needs --- myblunders.idv[80] ==> myblunders39x.png ---
+--- needs --- myblunders.idv[82] ==> myblunders40x.png ---
+--- needs --- myblunders.idv[84] ==> myblunders41x.png ---
+--- needs --- myblunders.idv[86] ==> myblunders42x.png ---
+--- needs --- myblunders.idv[88] ==> myblunders43x.png ---
+--- needs --- myblunders.idv[90] ==> myblunders44x.png ---
+--- needs --- myblunders.idv[92] ==> myblunders45x.png ---
+--- needs --- myblunders.idv[94] ==> myblunders46x.png ---
+--- needs --- myblunders.idv[96] ==> myblunders47x.png ---
+--- needs --- myblunders.idv[98] ==> myblunders48x.png ---
+--- needs --- myblunders.idv[100] ==> myblunders49x.png ---
+--- needs --- myblunders.idv[102] ==> myblunders50x.png ---
+--- needs --- myblunders.idv[104] ==> myblunders51x.png ---
+--- needs --- myblunders.idv[106] ==> myblunders52x.png ---
+--- needs --- myblunders.idv[108] ==> myblunders53x.png ---
+--- needs --- myblunders.idv[110] ==> myblunders54x.png ---
+--- needs --- myblunders.idv[112] ==> myblunders55x.png ---
+--- needs --- myblunders.idv[114] ==> myblunders56x.png ---
+--- needs --- myblunders.idv[116] ==> myblunders57x.png ---
+--- needs --- myblunders.idv[118] ==> myblunders58x.png ---
+--- needs --- myblunders.idv[120] ==> myblunders59x.png ---
+--- needs --- myblunders.idv[122] ==> myblunders60x.png ---
+--- needs --- myblunders.idv[124] ==> myblunders61x.png ---
+--- needs --- myblunders.idv[126] ==> myblunders62x.png ---
+--- needs --- myblunders.idv[128] ==> myblunders63x.png ---
+--- needs --- myblunders.idv[130] ==> myblunders64x.png ---
+--- needs --- myblunders.idv[132] ==> myblunders65x.png ---
+--- needs --- myblunders.idv[134] ==> myblunders66x.png ---
+--- needs --- myblunders.idv[136] ==> myblunders67x.png ---
+--- needs --- myblunders.idv[138] ==> myblunders68x.png ---
+--- needs --- myblunders.idv[140] ==> myblunders69x.png ---
+--- needs --- myblunders.idv[142] ==> myblunders70x.png ---
+--- needs --- myblunders.idv[144] ==> myblunders71x.png ---
+--- needs --- myblunders.idv[146] ==> myblunders72x.png ---
+--- needs --- myblunders.idv[148] ==> myblunders73x.png ---
+--- needs --- myblunders.idv[150] ==> myblunders74x.png ---
+--- needs --- myblunders.idv[152] ==> myblunders75x.png ---
+--- needs --- myblunders.idv[154] ==> myblunders76x.png ---
+--- needs --- myblunders.idv[156] ==> myblunders77x.png ---
+--- needs --- myblunders.idv[158] ==> myblunders78x.png ---
+--- needs --- myblunders.idv[160] ==> myblunders79x.png ---
+--- needs --- myblunders.idv[162] ==> myblunders80x.png ---
+--- needs --- myblunders.idv[164] ==> myblunders81x.png ---
+--- needs --- myblunders.idv[166] ==> myblunders82x.png ---
+--- needs --- myblunders.idv[168] ==> myblunders83x.png ---
+--- needs --- myblunders.idv[170] ==> myblunders84x.png ---
+--- needs --- myblunders.idv[172] ==> myblunders85x.png ---
+--- needs --- myblunders.idv[174] ==> myblunders86x.png ---
+--- needs --- myblunders.idv[176] ==> myblunders87x.png ---
+--- needs --- myblunders.idv[178] ==> myblunders88x.png ---
+--- needs --- myblunders.idv[180] ==> myblunders89x.png ---
+--- needs --- myblunders.idv[182] ==> myblunders90x.png ---
+--- needs --- myblunders.idv[184] ==> myblunders91x.png ---
+--- needs --- myblunders.idv[186] ==> myblunders92x.png ---
+--- needs --- myblunders.idv[188] ==> myblunders93x.png ---
+--- needs --- myblunders.idv[190] ==> myblunders94x.png ---
+--- needs --- myblunders.idv[192] ==> myblunders95x.png ---
+--- needs --- myblunders.idv[194] ==> myblunders96x.png ---
+--- needs --- myblunders.idv[196] ==> myblunders97x.png ---
+--- needs --- myblunders.idv[198] ==> myblunders98x.png ---
+--- needs --- myblunders.idv[200] ==> myblunders99x.png ---
+--- needs --- myblunders.idv[202] ==> myblunders100x.png ---
+--- needs --- myblunders.idv[204] ==> myblunders101x.png ---
+--- needs --- myblunders.idv[206] ==> myblunders102x.png ---
+--- needs --- myblunders.idv[208] ==> myblunders103x.png ---
+--- needs --- myblunders.idv[210] ==> myblunders104x.png ---
+--- needs --- myblunders.idv[212] ==> myblunders105x.png ---
+--- needs --- myblunders.idv[214] ==> myblunders106x.png ---
+--- needs --- myblunders.idv[216] ==> myblunders107x.png ---
+--- needs --- myblunders.idv[218] ==> myblunders108x.png ---
+--- needs --- myblunders.idv[220] ==> myblunders109x.png ---
+--- needs --- myblunders.idv[222] ==> myblunders110x.png ---
+--- needs --- myblunders.idv[224] ==> myblunders111x.png ---
+--- needs --- myblunders.idv[226] ==> myblunders112x.png ---
+--- needs --- myblunders.idv[228] ==> myblunders113x.png ---
+--- needs --- myblunders.idv[230] ==> myblunders114x.png ---
+--- needs --- myblunders.idv[232] ==> myblunders115x.png ---
+--- needs --- myblunders.idv[234] ==> myblunders116x.png ---
+--- needs --- myblunders.idv[236] ==> myblunders117x.png ---
+--- needs --- myblunders.idv[238] ==> myblunders118x.png ---
+--- needs --- myblunders.idv[240] ==> myblunders119x.png ---
+--- needs --- myblunders.idv[242] ==> myblunders120x.png ---
+--- needs --- myblunders.idv[244] ==> myblunders121x.png ---
+--- needs --- myblunders.idv[246] ==> myblunders122x.png ---
+--- needs --- myblunders.idv[248] ==> myblunders123x.png ---
+--- needs --- myblunders.idv[250] ==> myblunders124x.png ---
+--- needs --- myblunders.idv[252] ==> myblunders125x.png ---
+--- needs --- myblunders.idv[254] ==> myblunders126x.png ---
+--- needs --- myblunders.idv[256] ==> myblunders127x.png ---
+--- needs --- myblunders.idv[258] ==> myblunders128x.png ---
+--- needs --- myblunders.idv[260] ==> myblunders129x.png ---
+--- needs --- myblunders.idv[262] ==> myblunders130x.png ---
+--- needs --- myblunders.idv[264] ==> myblunders131x.png ---
+--- needs --- myblunders.idv[266] ==> myblunders132x.png ---
+--- needs --- myblunders.idv[268] ==> myblunders133x.png ---
+--- needs --- myblunders.idv[270] ==> myblunders134x.png ---
+--- needs --- myblunders.idv[272] ==> myblunders135x.png ---
+--- needs --- myblunders.idv[274] ==> myblunders136x.png ---
+--- needs --- myblunders.idv[276] ==> myblunders137x.png ---
+--- needs --- myblunders.idv[278] ==> myblunders138x.png ---
+--- needs --- myblunders.idv[280] ==> myblunders139x.png ---
+--- needs --- myblunders.idv[282] ==> myblunders140x.png ---
+--- needs --- myblunders.idv[284] ==> myblunders141x.png ---
+--- needs --- myblunders.idv[286] ==> myblunders142x.png ---
+--- needs --- myblunders.idv[288] ==> myblunders143x.png ---
+--- needs --- myblunders.idv[290] ==> myblunders144x.png ---
+--- needs --- myblunders.idv[292] ==> myblunders145x.png ---
+--- needs --- myblunders.idv[294] ==> myblunders146x.png ---
+--- needs --- myblunders.idv[296] ==> myblunders147x.png ---
+--- needs --- myblunders.idv[298] ==> myblunders148x.png ---
+--- needs --- myblunders.idv[300] ==> myblunders149x.png ---
+--- needs --- myblunders.idv[302] ==> myblunders150x.png ---
+--- needs --- myblunders.idv[304] ==> myblunders151x.png ---
+--- needs --- myblunders.idv[306] ==> myblunders152x.png ---
+--- needs --- myblunders.idv[308] ==> myblunders153x.png ---
+--- needs --- myblunders.idv[310] ==> myblunders154x.png ---
+--- needs --- myblunders.idv[312] ==> myblunders155x.png ---
+--- needs --- myblunders.idv[314] ==> myblunders156x.png ---
+--- needs --- myblunders.idv[316] ==> myblunders157x.png ---
+--- needs --- myblunders.idv[318] ==> myblunders158x.png ---
+--- needs --- myblunders.idv[320] ==> myblunders159x.png ---
+--- needs --- myblunders.idv[322] ==> myblunders160x.png ---
+--- needs --- myblunders.idv[324] ==> myblunders161x.png ---
+--- needs --- myblunders.idv[326] ==> myblunders162x.png ---
+--- needs --- myblunders.idv[328] ==> myblunders163x.png ---
+--- needs --- myblunders.idv[330] ==> myblunders164x.png ---
+--- needs --- myblunders.idv[332] ==> myblunders165x.png ---
+--- needs --- myblunders.idv[334] ==> myblunders166x.png ---
+--- needs --- myblunders.idv[336] ==> myblunders167x.png ---
+--- needs --- myblunders.idv[338] ==> myblunders168x.png ---
+--- needs --- myblunders.idv[340] ==> myblunders169x.png ---
+--- needs --- myblunders.idv[342] ==> myblunders170x.png ---
+--- needs --- myblunders.idv[344] ==> myblunders171x.png ---
+--- needs --- myblunders.idv[346] ==> myblunders172x.png ---
+--- needs --- myblunders.idv[348] ==> myblunders173x.png ---
+--- needs --- myblunders.idv[350] ==> myblunders174x.png ---
+--- needs --- myblunders.idv[352] ==> myblunders175x.png ---
+--- needs --- myblunders.idv[354] ==> myblunders176x.png ---
+--- needs --- myblunders.idv[356] ==> myblunders177x.png ---
+--- needs --- myblunders.idv[358] ==> myblunders178x.png ---
+--- needs --- myblunders.idv[360] ==> myblunders179x.png ---
+--- needs --- myblunders.idv[362] ==> myblunders180x.png ---
+--- needs --- myblunders.idv[364] ==> myblunders181x.png ---
+--- needs --- myblunders.idv[366] ==> myblunders182x.png ---
+--- needs --- myblunders.idv[368] ==> myblunders183x.png ---
+--- needs --- myblunders.idv[370] ==> myblunders184x.png ---
+--- needs --- myblunders.idv[372] ==> myblunders185x.png ---
+--- needs --- myblunders.idv[374] ==> myblunders186x.png ---
+--- needs --- myblunders.idv[376] ==> myblunders187x.png ---
+--- needs --- myblunders.idv[378] ==> myblunders188x.png ---
+--- needs --- myblunders.idv[380] ==> myblunders189x.png ---
+--- needs --- myblunders.idv[382] ==> myblunders190x.png ---
+--- needs --- myblunders.idv[384] ==> myblunders191x.png ---
+--- needs --- myblunders.idv[386] ==> myblunders192x.png ---
+--- needs --- myblunders.idv[388] ==> myblunders193x.png ---
+--- needs --- myblunders.idv[390] ==> myblunders194x.png ---
+--- needs --- myblunders.idv[392] ==> myblunders195x.png ---
+--- needs --- myblunders.idv[394] ==> myblunders196x.png ---
+--- needs --- myblunders.idv[396] ==> myblunders197x.png ---
+--- needs --- myblunders.idv[398] ==> myblunders198x.png ---
+--- needs --- myblunders.idv[400] ==> myblunders199x.png ---
+--- needs --- myblunders.idv[402] ==> myblunders200x.png ---
+--- needs --- myblunders.idv[404] ==> myblunders201x.png ---
+--- needs --- myblunders.idv[406] ==> myblunders202x.png ---
+--- needs --- myblunders.idv[408] ==> myblunders203x.png ---
+--- needs --- myblunders.idv[410] ==> myblunders204x.png ---
+--- needs --- myblunders.idv[412] ==> myblunders205x.png ---
+--- needs --- myblunders.idv[414] ==> myblunders206x.png ---
+--- needs --- myblunders.idv[416] ==> myblunders207x.png ---
+--- needs --- myblunders.idv[418] ==> myblunders208x.png ---
+--- needs --- myblunders.idv[420] ==> myblunders209x.png ---
+--- needs --- myblunders.idv[422] ==> myblunders210x.png ---
+--- needs --- myblunders.idv[424] ==> myblunders211x.png ---
+--- needs --- myblunders.idv[426] ==> myblunders212x.png ---
+--- needs --- myblunders.idv[428] ==> myblunders213x.png ---
+--- needs --- myblunders.idv[430] ==> myblunders214x.png ---
+--- needs --- myblunders.idv[432] ==> myblunders215x.png ---
+--- needs --- myblunders.idv[434] ==> myblunders216x.png ---
+--- needs --- myblunders.idv[436] ==> myblunders217x.png ---
+--- needs --- myblunders.idv[438] ==> myblunders218x.png ---
+--- needs --- myblunders.idv[440] ==> myblunders219x.png ---
+--- needs --- myblunders.idv[442] ==> myblunders220x.png ---
+--- needs --- myblunders.idv[444] ==> myblunders221x.png ---
+--- needs --- myblunders.idv[446] ==> myblunders222x.png ---
+--- needs --- myblunders.idv[448] ==> myblunders223x.png ---
+--- needs --- myblunders.idv[450] ==> myblunders224x.png ---
+--- needs --- myblunders.idv[452] ==> myblunders225x.png ---
+--- needs --- myblunders.idv[454] ==> myblunders226x.png ---
+--- needs --- myblunders.idv[456] ==> myblunders227x.png ---
+--- needs --- myblunders.idv[458] ==> myblunders228x.png ---
+--- needs --- myblunders.idv[460] ==> myblunders229x.png ---
+--- needs --- myblunders.idv[462] ==> myblunders230x.png ---
+--- needs --- myblunders.idv[464] ==> myblunders231x.png ---
+--- needs --- myblunders.idv[466] ==> myblunders232x.png ---
+--- needs --- myblunders.idv[468] ==> myblunders233x.png ---
+--- needs --- myblunders.idv[470] ==> myblunders234x.png ---
+--- needs --- myblunders.idv[472] ==> myblunders235x.png ---
+--- needs --- myblunders.idv[474] ==> myblunders236x.png ---
+--- needs --- myblunders.idv[476] ==> myblunders237x.png ---
+--- needs --- myblunders.idv[478] ==> myblunders238x.png ---
+--- needs --- myblunders.idv[480] ==> myblunders239x.png ---
+--- needs --- myblunders.idv[482] ==> myblunders240x.png ---
+--- needs --- myblunders.idv[484] ==> myblunders241x.png ---
+--- needs --- myblunders.idv[486] ==> myblunders242x.png ---
+--- needs --- myblunders.idv[488] ==> myblunders243x.png ---
+--- needs --- myblunders.idv[490] ==> myblunders244x.png ---
+--- needs --- myblunders.idv[492] ==> myblunders245x.png ---
+--- needs --- myblunders.idv[494] ==> myblunders246x.png ---
+--- needs --- myblunders.idv[496] ==> myblunders247x.png ---
+--- needs --- myblunders.idv[498] ==> myblunders248x.png ---
+--- needs --- myblunders.idv[500] ==> myblunders249x.png ---
+--- needs --- myblunders.idv[502] ==> myblunders250x.png ---
+--- needs --- myblunders.idv[504] ==> myblunders251x.png ---
+--- needs --- myblunders.idv[506] ==> myblunders252x.png ---
+--- needs --- myblunders.idv[508] ==> myblunders253x.png ---
+--- needs --- myblunders.idv[510] ==> myblunders254x.png ---
+--- needs --- myblunders.idv[512] ==> myblunders255x.png ---
+--- needs --- myblunders.idv[514] ==> myblunders256x.png ---
+--- needs --- myblunders.idv[516] ==> myblunders257x.png ---
+--- needs --- myblunders.idv[518] ==> myblunders258x.png ---
+--- needs --- myblunders.idv[520] ==> myblunders259x.png ---
+--- needs --- myblunders.idv[522] ==> myblunders260x.png ---
+--- needs --- myblunders.idv[524] ==> myblunders261x.png ---
+--- needs --- myblunders.idv[526] ==> myblunders262x.png ---
+--- needs --- myblunders.idv[528] ==> myblunders263x.png ---
+--- needs --- myblunders.idv[530] ==> myblunders264x.png ---
+--- needs --- myblunders.idv[532] ==> myblunders265x.png ---
+--- needs --- myblunders.idv[534] ==> myblunders266x.png ---
+--- needs --- myblunders.idv[536] ==> myblunders267x.png ---
+--- needs --- myblunders.idv[538] ==> myblunders268x.png ---
+--- needs --- myblunders.idv[540] ==> myblunders269x.png ---
+--- needs --- myblunders.idv[542] ==> myblunders270x.png ---
+--- needs --- myblunders.idv[544] ==> myblunders271x.png ---
+--- needs --- myblunders.idv[546] ==> myblunders272x.png ---
+--- needs --- myblunders.idv[548] ==> myblunders273x.png ---
+--- needs --- myblunders.idv[550] ==> myblunders274x.png ---
+--- needs --- myblunders.idv[552] ==> myblunders275x.png ---
+--- needs --- myblunders.idv[554] ==> myblunders276x.png ---
+--- needs --- myblunders.idv[556] ==> myblunders277x.png ---
+--- needs --- myblunders.idv[558] ==> myblunders278x.png ---
+--- needs --- myblunders.idv[560] ==> myblunders279x.png ---
+--- needs --- myblunders.idv[562] ==> myblunders280x.png ---
+--- needs --- myblunders.idv[564] ==> myblunders281x.png ---
+--- needs --- myblunders.idv[566] ==> myblunders282x.png ---
+--- needs --- myblunders.idv[568] ==> myblunders283x.png ---
+--- needs --- myblunders.idv[570] ==> myblunders284x.png ---
+--- needs --- myblunders.idv[572] ==> myblunders285x.png ---
+--- needs --- myblunders.idv[574] ==> myblunders286x.png ---
+--- needs --- myblunders.idv[576] ==> myblunders287x.png ---
+--- needs --- myblunders.idv[578] ==> myblunders288x.png ---
+--- needs --- myblunders.idv[580] ==> myblunders289x.png ---
+--- needs --- myblunders.idv[582] ==> myblunders290x.png ---
+--- needs --- myblunders.idv[584] ==> myblunders291x.png ---
+--- needs --- myblunders.idv[586] ==> myblunders292x.png ---
+--- needs --- myblunders.idv[588] ==> myblunders293x.png ---
+--- needs --- myblunders.idv[590] ==> myblunders294x.png ---
+--- needs --- myblunders.idv[592] ==> myblunders295x.png ---
+--- needs --- myblunders.idv[594] ==> myblunders296x.png ---
+--- needs --- myblunders.idv[596] ==> myblunders297x.png ---
+--- needs --- myblunders.idv[598] ==> myblunders298x.png ---
+--- needs --- myblunders.idv[600] ==> myblunders299x.png ---
+--- needs --- myblunders.idv[602] ==> myblunders300x.png ---
+--- needs --- myblunders.idv[604] ==> myblunders301x.png ---
+--- needs --- myblunders.idv[606] ==> myblunders302x.png ---
+--- needs --- myblunders.idv[608] ==> myblunders303x.png ---
+--- needs --- myblunders.idv[610] ==> myblunders304x.png ---
+--- needs --- myblunders.idv[612] ==> myblunders305x.png ---
+--- needs --- myblunders.idv[614] ==> myblunders306x.png ---
+--- needs --- myblunders.idv[616] ==> myblunders307x.png ---
+--- needs --- myblunders.idv[618] ==> myblunders308x.png ---
+--- needs --- myblunders.idv[620] ==> myblunders309x.png ---
+--- needs --- myblunders.idv[622] ==> myblunders310x.png ---
+--- needs --- myblunders.idv[624] ==> myblunders311x.png ---
+--- needs --- myblunders.idv[626] ==> myblunders312x.png ---
+--- needs --- myblunders.idv[628] ==> myblunders313x.png ---
+--- needs --- myblunders.idv[630] ==> myblunders314x.png ---
+--- needs --- myblunders.idv[632] ==> myblunders315x.png ---
+--- needs --- myblunders.idv[634] ==> myblunders316x.png ---
+--- needs --- myblunders.idv[636] ==> myblunders317x.png ---
+--- needs --- myblunders.idv[638] ==> myblunders318x.png ---
+--- needs --- myblunders.idv[640] ==> myblunders319x.png ---
+--- needs --- myblunders.idv[642] ==> myblunders320x.png ---
+--- needs --- myblunders.idv[644] ==> myblunders321x.png ---
+--- needs --- myblunders.idv[646] ==> myblunders322x.png ---
+--- needs --- myblunders.idv[648] ==> myblunders323x.png ---
+--- needs --- myblunders.idv[650] ==> myblunders324x.png ---
+--- needs --- myblunders.idv[652] ==> myblunders325x.png ---
+--- needs --- myblunders.idv[654] ==> myblunders326x.png ---
+--- needs --- myblunders.idv[656] ==> myblunders327x.png ---
+--- needs --- myblunders.idv[658] ==> myblunders328x.png ---
+--- needs --- myblunders.idv[660] ==> myblunders329x.png ---
+--- needs --- myblunders.idv[662] ==> myblunders330x.png ---
+--- needs --- myblunders.idv[664] ==> myblunders331x.png ---
+--- needs --- myblunders.idv[666] ==> myblunders332x.png ---
+--- needs --- myblunders.idv[668] ==> myblunders333x.png ---
+--- needs --- myblunders.idv[670] ==> myblunders334x.png ---
+--- needs --- myblunders.idv[672] ==> myblunders335x.png ---
+--- needs --- myblunders.idv[674] ==> myblunders336x.png ---
+--- needs --- myblunders.idv[676] ==> myblunders337x.png ---
+--- needs --- myblunders.idv[678] ==> myblunders338x.png ---
+--- needs --- myblunders.idv[680] ==> myblunders339x.png ---
+--- needs --- myblunders.idv[682] ==> myblunders340x.png ---
+--- needs --- myblunders.idv[684] ==> myblunders341x.png ---
+--- needs --- myblunders.idv[686] ==> myblunders342x.png ---
+--- needs --- myblunders.idv[688] ==> myblunders343x.png ---
+--- needs --- myblunders.idv[690] ==> myblunders344x.png ---
+--- needs --- myblunders.idv[692] ==> myblunders345x.png ---
+--- needs --- myblunders.idv[694] ==> myblunders346x.png ---
+--- needs --- myblunders.idv[696] ==> myblunders347x.png ---
+--- needs --- myblunders.idv[698] ==> myblunders348x.png ---
+--- needs --- myblunders.idv[700] ==> myblunders349x.png ---
+--- needs --- myblunders.idv[702] ==> myblunders350x.png ---
+--- needs --- myblunders.idv[704] ==> myblunders351x.png ---
+--- needs --- myblunders.idv[706] ==> myblunders352x.png ---
+--- needs --- myblunders.idv[708] ==> myblunders353x.png ---
+--- needs --- myblunders.idv[710] ==> myblunders354x.png ---
+--- needs --- myblunders.idv[712] ==> myblunders355x.png ---
+--- needs --- myblunders.idv[714] ==> myblunders356x.png ---
+--- needs --- myblunders.idv[716] ==> myblunders357x.png ---
+--- needs --- myblunders.idv[718] ==> myblunders358x.png ---
+--- needs --- myblunders.idv[720] ==> myblunders359x.png ---
+--- needs --- myblunders.idv[722] ==> myblunders360x.png ---
+--- needs --- myblunders.idv[724] ==> myblunders361x.png ---
+--- needs --- myblunders.idv[726] ==> myblunders362x.png ---
+--- needs --- myblunders.idv[728] ==> myblunders363x.png ---
+--- needs --- myblunders.idv[730] ==> myblunders364x.png ---
+--- needs --- myblunders.idv[732] ==> myblunders365x.png ---
+--- needs --- myblunders.idv[734] ==> myblunders366x.png ---
+--- needs --- myblunders.idv[736] ==> myblunders367x.png ---
+--- needs --- myblunders.idv[738] ==> myblunders368x.png ---
+--- needs --- myblunders.idv[740] ==> myblunders369x.png ---
+--- needs --- myblunders.idv[742] ==> myblunders370x.png ---
+--- needs --- myblunders.idv[744] ==> myblunders371x.png ---
+--- needs --- myblunders.idv[746] ==> myblunders372x.png ---
+--- needs --- myblunders.idv[748] ==> myblunders373x.png ---
+--- needs --- myblunders.idv[750] ==> myblunders374x.png ---
+--- needs --- myblunders.idv[752] ==> myblunders375x.png ---
+--- needs --- myblunders.idv[754] ==> myblunders376x.png ---
+--- needs --- myblunders.idv[756] ==> myblunders377x.png ---
+--- needs --- myblunders.idv[758] ==> myblunders378x.png ---
+--- needs --- myblunders.idv[760] ==> myblunders379x.png ---
+--- needs --- myblunders.idv[762] ==> myblunders380x.png ---
+--- needs --- myblunders.idv[764] ==> myblunders381x.png ---
+--- needs --- myblunders.idv[766] ==> myblunders382x.png ---
+--- needs --- myblunders.idv[768] ==> myblunders383x.png ---
+--- needs --- myblunders.idv[770] ==> myblunders384x.png ---
+--- needs --- myblunders.idv[772] ==> myblunders385x.png ---
+--- needs --- myblunders.idv[774] ==> myblunders386x.png ---
+--- needs --- myblunders.idv[776] ==> myblunders387x.png ---
+--- needs --- myblunders.idv[778] ==> myblunders388x.png ---
+--- needs --- myblunders.idv[780] ==> myblunders389x.png ---
+--- needs --- myblunders.idv[782] ==> myblunders390x.png ---
+--- needs --- myblunders.idv[784] ==> myblunders391x.png ---
+--- needs --- myblunders.idv[786] ==> myblunders392x.png ---
+--- needs --- myblunders.idv[788] ==> myblunders393x.png ---
+--- needs --- myblunders.idv[790] ==> myblunders394x.png ---
+--- needs --- myblunders.idv[792] ==> myblunders395x.png ---
+--- needs --- myblunders.idv[794] ==> myblunders396x.png ---
+--- needs --- myblunders.idv[796] ==> myblunders397x.png ---
+--- needs --- myblunders.idv[798] ==> myblunders398x.png ---
+--- needs --- myblunders.idv[800] ==> myblunders399x.png ---
+--- needs --- myblunders.idv[802] ==> myblunders400x.png ---
+--- needs --- myblunders.idv[804] ==> myblunders401x.png ---
+--- needs --- myblunders.idv[806] ==> myblunders402x.png ---
+--- needs --- myblunders.idv[808] ==> myblunders403x.png ---
+--- needs --- myblunders.idv[810] ==> myblunders404x.png ---
+--- needs --- myblunders.idv[812] ==> myblunders405x.png ---
+--- needs --- myblunders.idv[814] ==> myblunders406x.png ---
+--- needs --- myblunders.idv[816] ==> myblunders407x.png ---
+--- needs --- myblunders.idv[818] ==> myblunders408x.png ---
+--- needs --- myblunders.idv[820] ==> myblunders409x.png ---
+--- needs --- myblunders.idv[822] ==> myblunders410x.png ---
+--- needs --- myblunders.idv[824] ==> myblunders411x.png ---
+--- needs --- myblunders.idv[826] ==> myblunders412x.png ---
+--- needs --- myblunders.idv[828] ==> myblunders413x.png ---
+--- needs --- myblunders.idv[830] ==> myblunders414x.png ---
+--- needs --- myblunders.idv[832] ==> myblunders415x.png ---
+--- needs --- myblunders.idv[834] ==> myblunders416x.png ---
+--- needs --- myblunders.idv[836] ==> myblunders417x.png ---
+--- needs --- myblunders.idv[838] ==> myblunders418x.png ---
+--- needs --- myblunders.idv[840] ==> myblunders419x.png ---
+--- needs --- myblunders.idv[842] ==> myblunders420x.png ---
+--- needs --- myblunders.idv[844] ==> myblunders421x.png ---
+--- needs --- myblunders.idv[846] ==> myblunders422x.png ---
+--- needs --- myblunders.idv[848] ==> myblunders423x.png ---
+--- needs --- myblunders.idv[850] ==> myblunders424x.png ---
+--- needs --- myblunders.idv[852] ==> myblunders425x.png ---
+--- needs --- myblunders.idv[854] ==> myblunders426x.png ---
+--- needs --- myblunders.idv[856] ==> myblunders427x.png ---
+--- needs --- myblunders.idv[858] ==> myblunders428x.png ---
+--- needs --- myblunders.idv[860] ==> myblunders429x.png ---
+--- needs --- myblunders.idv[862] ==> myblunders430x.png ---
+--- needs --- myblunders.idv[864] ==> myblunders431x.png ---
+--- needs --- myblunders.idv[866] ==> myblunders432x.png ---
+--- needs --- myblunders.idv[868] ==> myblunders433x.png ---
+--- needs --- myblunders.idv[870] ==> myblunders434x.png ---
+--- needs --- myblunders.idv[872] ==> myblunders435x.png ---
+--- needs --- myblunders.idv[874] ==> myblunders436x.png ---
+--- needs --- myblunders.idv[876] ==> myblunders437x.png ---
+--- needs --- myblunders.idv[878] ==> myblunders438x.png ---
+--- needs --- myblunders.idv[880] ==> myblunders439x.png ---
+--- characters ---
+Font("cmr","10","10","100")
+Font("SkakNew-Diagram","","10","200")
+Font("cmss","10","10","100")
+Font("cmbx","10","10","100")
+Font("SkakNew-FigurineBold","","10","100")
+Font("SkakNew-Figurine","","10","100")
+Font("cmti","10","10","100")
+Font("cmbxti","10","10","100")

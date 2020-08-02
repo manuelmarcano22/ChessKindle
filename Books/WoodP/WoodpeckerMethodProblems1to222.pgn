@@ -1,0 +1,3893 @@
+[Event "?"]
+[Site "?"]
+[Date "0001.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r6r/1pp3k1/1b6/p2P1p2/P1N1pn2/2P2PP1/BP5P/4RR1K b - - 0 1"]
+
+1...Rxh2+ 2.Kxh2 Rh8# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0002.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/3K1Rp1/PPP3q1/RN1Q4 w - - 0 1"]
+
+1.Rf8+ Bxf8 2.d6+ Be6 3.Bxe6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0003.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0003.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r2q1rk1/pppb1ppp/3b4/4p1P1/4Pn2/2N1B2P/PPPQBP2/2KR3R w - - 0 1"]
+
+1.Bxf4 exf4 2.e5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0004.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0004.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2kr4/1pp4p/1p1r4/5Pp1/1P2q3/2P1R2P/P3KP2/1Q1R4 b - - 0 1"]
+
+1...Rd2+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0005.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0005.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "rn1qk2r/ppp2ppp/5n2/2b1p3/2B1P1b1/3P1N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+
+1.Bxf7+ Kxf7 2.Nxe5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0006.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0006.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r2k3r/pp1b3p/1qn1p1p1/1B1pPn2/Q7/P4N2/1P1BNPPP/2R3K1 w - - 0 1"]
+
+1.Rxc6 bxc6 2.Ba5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0007.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0007.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2r1k2r/1b1p2q1/p4p2/4p3/PpB1Pp1p/7P/1PPRQPP1/4R1K1 b k - 0 1"]
+
+1...f3 
+    ( 1...Rxc4 2.Qxc4 f3 3.Qf1 )
+2.Qxf3 Rxc4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0008.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0008.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r3k2r/p1ppbppp/1pn1q3/4P3/2BP2n1/5NB1/1PP1Q1PP/R4K1R b kq - 0 1"]
+
+1...Qxc4 2.Qxc4 Ne3+ 3.Ke2 Nxc4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0009.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0009.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "1b6/3n1p2/r1k1p1pp/Pr2P3/1PK2P2/3R4/3B2PP/R7 w - - 0 1"]
+
+1.Rxd7 Kxd7 
+    ( 1...Rxb4+ 2.Bxb4 Kxd7 3.Kb5 )
+2.Kxb5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0010.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0010.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2b5/4Q1pp/pp3n1k/3p3q/P2P1P2/BP1B2P1/7P/6K1 w - - 0 1"]
+
+1.Qxf6+ gxf6 2.Bf8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0011.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[EventDate "0011.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4r2k/1b3Q1p/p1q3p1/1p4B1/2pb4/8/PPB3PP/5R1K w - - 0 1"]
+
+1.Be4 
+    ( 1.Rg1 Qxg2+ )
+1...Qxe4 
+    ( 1...Rxe4 2.Qf8# )
+2.Bf6+ Bxf6 3.Qxf6+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "0012.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0012.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1n5/pp2q1kp/2ppr1p1/4p1Q1/8/2N4R/PPP3PP/5RK1 w - - 0 1"]
+
+1.Qh6+ Kg8 2.Rf8+ Qxf8 3.Qxh7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0013.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0013.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4rrk1/ppp3pp/3p2n1/3Ppqb1/nPP5/6P1/P1NBQP1P/2R1NRK1 b - - 0 1"]
+
+1...Nc3 2.Bxc3 Bxc1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0014.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0014.??.??"]
+[SetUp "1"]
+[PlyCount "9"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2kr3r/p4pp1/2p4p/4p3/2n4q/1NPPnP1P/PP2Q2P/R1K2B1R b - - 0 1"]
+
+1...Rxd3 2.Bg2 
+    ( 2.Qxd3 Qe1+ )
+2...Rhd8 3.a4 Rd1+ 4.Rxd1 Rxd1+ 5.Qxd1 Nxd1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0015.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0015.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "6k1/5pp1/p1n1r2p/2NQ4/1P1p4/P6P/1B1bqPP1/5RK1 b - - 0 1"]
+
+1...Qxf1+ 2.Kxf1 Re1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0016.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0016.??.??"]
+[SetUp "1"]
+[PlyCount "13"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1bqk1nr/pppp3p/2n2p2/b5p1/2BPPp1P/2P2N2/P5P1/RNBQK2R w KQkq - 0 1"]
+
+1.Nxg5 fxg5 
+    ( 1...Qe7 )
+2.Qh5+ Ke7 3.Qf7+ Kd6 4.e5+ Nxe5 5.dxe5+ Kxe5 6.Qd5+ Kf6 7.Qxg5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0017.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0017.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2kr1bnr/p1ppqp1p/bpn5/1N4p1/P2PPp2/5N2/1PP2KPP/R1BQ1B1R w - - 0 1"]
+
+1.Nxa7+ Nxa7 2.Bxa6+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0018.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0018.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 1"]
+
+1.Bxf7+ Kxf7 2.Nxe5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0019.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0019.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "1k2r3/2p3p1/p4p2/1p3q1p/1n6/PQ2P3/1P2B2P/2KR4 b - - 0 1"]
+
+1...Rxe3 2.Qxb4 
+    ( 2.Qxe3 Qc2# )
+2...Rxe2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0020.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0020.??.??"]
+[SetUp "1"]
+[PlyCount "11"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1bqkbnr/pppp3p/2n2p2/6p1/2BPPp2/5N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+
+1.Nxg5 fxg5 
+    ( 1...h6 )
+2.Qh5+ Ke7 3.Qf7+ Kd6 4.e5+ Nxe5 5.Qd5+ Ke7 6.Qxe5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0021.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0021.??.??"]
+[SetUp "1"]
+[PlyCount "9"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "rnbqkbnr/pppp3p/5p2/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 1"]
+
+1.Nxg5 fxg5 2.Qh5+ Ke7 3.Qxg5+ Ke8 4.Qh5+ 
+    ( 4.Qe5+ Qe7 5.Qxh8 Qxe4+ )
+4...Ke7 5.Qe5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0022.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0022.??.??"]
+[SetUp "1"]
+[PlyCount "11"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "rnbqkb1r/pp1p2pp/2p2p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 w kq - 0 1"]
+
+1.Nxe5 d5 
+    ( 1...fxe5 2.Qh5+ g6 
+        ( 2...Ke7 3.Qxe5# )
+    3.Qxe5+ Qe7 4.Qxh8 )
+2.Qh5+ 
+    ( 2.Re1 fxe5 3.Rxe5+ Kd7 4.Bg5 )
+2...g6 
+    ( 2...Ke7 3.Nf7 Qe8 )
+3.Nxg6 hxg6 4.Qxh8 
+    ( 4.Re1+ )
+4...dxc4 5.Re1+ Kf7 6.Bh6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0023.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0023.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2r3k1/p3qppp/2pr4/Q2b4/1P2p3/4P3/P3BPPP/2RR2K1 w - - 0 1"]
+
+1.Rxd5 Rxd5 2.Qxd5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0024.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0024.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "6k1/2p3pp/q3pn2/1pp1p3/4P3/1P1P1P2/rNP2P1P/1Q3RK1 w - - 0 1"]
+
+1.Na4 Ra3 2.Qb2 
+    ( 2.Nxc5 )
+2...b4 3.Qxe5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0025.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0025.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "8/1p3q1k/2p3pp/4P1r1/8/4Q3/PP6/3R3K b - - 0 1"]
+
+1...Rxe5 2.Qxe5 Qf3+ 3.Kg1 Qxd1+ 4.Kf2 Qd7 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0026.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0026.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r5k1/1b1n2r1/p3n2q/1p1pPRN1/2pP3P/2P3P1/PPBQ4/5R1K w - - 0 1"]
+
+1.Rf6 Nxf6 2.Rxf6 Qh5 3.Bd1 
+    ( 3.Nxe6 )
+    ( 3.Rxe6 )
+3...Qe8 4.Rxe6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0027.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0027.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1b2rk1/p2p1p2/2p5/1p2PPqn/1b1p2N1/1B1P3Q/PPP3PP/R4RK1 w - - 0 1"]
+
+1.Qxh5 Qxh5 2.Nf6+ Kh8 3.Nxh5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0028.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0028.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r5r1/p1p1k3/3q3B/5p2/4p3/1P6/P1P1QPP1/R4RK1 b - - 0 1"]
+
+1...Rxg2+ 2.Kxg2 Rg8+ 
+    ( 2...Qg6+ )
+3.Kh1 Qxh6+ 4.Qh5 Qxh5# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0029.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0029.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "6rk/p1q2p2/2p1rb1P/1p2pN2/4P1Q1/2PP4/PPB5/2K4R w - - 0 1"]
+
+1.Qg7+ Rxg7 2.hxg7+ Kg8 3.Rh8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0030.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0030.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4q1k1/2r3pp/1p6/8/1b2N3/4R1P1/PP3P1P/R5K1 w - - 0 1"]
+
+1.Nf6+ gxf6 2.Rxe8+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0031.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0031.??.??"]
+[SetUp "1"]
+[PlyCount "6"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4k3/1bp4r/p7/1p1P4/2P3pN/1P2r1P1/1BP2RPK/8 b - - 0 1"]
+
+1...Rxh4+ 2.gxh4 g3+ 3.Kg1 gxf2+ 4.Kxf2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0032.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0032.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2q4k/5Qp1/4B2p/p1p5/1P6/6PK/r4P1P/8 b - - 0 1"]
+
+1...Rxf2 2.Qxf2 Qxe6+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0033.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0033.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "5Rnk/pp1q4/7p/3p2rN/3Pp1Q1/2P5/PP5P/6K1 w - - 0 1"]
+
+1.Qxg5 
+    ( 1.Rxg8+ Rxg8 2.Qxg8+ )
+1...hxg5 2.Rxg8+ Kxg8 3.Nf6+ Kf7 4.Nxd7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0034.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0034.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1bq2k1/pp3rpp/2n2b2/3p1p2/3P4/BQPB1N2/P4PPP/R3R1K1 w - - 0 1"]
+
+1.Qxd5 Qxd5 2.Re8+ Rf8 3.Rxf8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0035.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0035.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2r3k1/pb2bp1p/1p2p1p1/8/q1NPP3/3B4/P3QPPP/3R2K1 b - - 0 1"]
+
+1...Bxe4 2.Bxe4 Rxc4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0036.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0036.??.??"]
+[SetUp "1"]
+[PlyCount "11"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "6r1/2r1k3/R3p3/p4pPp/1pPK1P2/1P3B1P/P7/8 w - - 0 1"]
+
+1.Rxe6+ Kxe6 2.Bd5+ Kd6 3.Bxg8 Re7 4.c5+ Kc6 5.Bd5+ Kb5 6.g6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0037.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0037.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r4r1k/pppqNppp/3p1B2/4p3/3nP3/3P1b2/PPPQ1PPP/R4RK1 w - - 0 1"]
+
+1.Bxg7+ Kxg7 2.Qg5+ Kh8 3.Qf6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0038.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0038.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3r2k1/2p2pp1/p1Q2n1p/7q/8/1P1N2P1/P1P2P2/R3K3 b Q - 0 1"]
+
+1...Rxd3 
+    ( 1...Qh1+ 2.Qxh1 )
+2.cxd3 Qe5+ 3.Kd2 Qxa1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0039.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0039.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1b2rk1/pp3qpp/2p1p3/2Ppb1PP/5B2/3BP3/PP3Q2/2R1K2R w K - 0 1"]
+
+1.Bxh7+ Kh8 
+    ( 1...Kxh7 2.g6+ )
+2.Bg6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0040.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0040.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2r2rk1/pQ1n1pp1/1p2p2p/3p4/P2P4/4P2P/1qB2PP1/2R2RK1 w - - 0 1"]
+
+1.Bh7+ 
+    ( 1.Qxd7 Rxc2 )
+1...Kxh7 2.Rxc8 Rxc8 3.Qxc8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0041.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0041.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3k4/p1p2prr/1p5N/3PRPP1/b1P5/4B3/P4K2/8 w - - 0 1"]
+
+1.f6 
+    ( 1.Nxf7+ Rxf7 2.g6 Rxf5+ 3.Rxf5 Rg7 )
+1...Rg6 2.Bf4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0042.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0042.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r3k2r/pbp2qb1/1pn1p2p/3nP1pQ/3PNp2/2PB4/PP1N1BPP/R4RK1 w kq - 0 1"]
+
+1.Nd6+ cxd6 2.Bg6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0043.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0043.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4k3/1r2r1pp/1nR2p2/pp1p4/1N1P2P1/1R2PP2/PP3K1P/8 w - - 0 1"]
+
+1.Rxb6 axb4 
+    ( 1...Rxb6 2.Nxd5 )
+2.Rxb7 Rxb7 3.Rxb4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0044.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0044.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "7r/1p3pp1/pn1kb2p/3p4/3N1P1P/PP1BP3/3K2P1/2R5 w - - 0 1"]
+
+1.Bxa6 bxa6 2.Rc6+ Ke7 3.Rxb6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0045.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0045.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r3nrk1/1bp2ppp/pp2p3/3q2N1/1b1PNP2/3B2P1/PP2QP1P/2RR2K1 w - - 0 1"]
+
+1.Nxh7 f5 
+    ( 1...Kxh7 2.Nf6+ 
+        ( 2.Nc3+ )
+    )
+2.Nhg5 
+    ( 2.Nxf8 fxe4 3.Bc4 )
+2...fxe4 3.Bxe4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0046.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0046.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1b1k2r/2qp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P4PP/2RQKB1R w Kkq - 0 1"]
+
+1.Ndb5 
+    ( 1.Ncb5 )
+1...axb5 2.Nxb5 Bg3+ 3.hxg3 Qxg3+ 4.Bf2 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0047.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0047.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4r1k1/6qp/pp4p1/2pP4/4Pp2/1P6/P1R3PP/4Q2K b - - 0 1"]
+
+1...Rxe4 2.Qxe4 Qa1+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0048.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0048.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2bq1r2/4bpk1/4pp1N/7Q/1p1p4/3B4/PP3PPP/R5K1 w - - 0 1"]
+
+1.Nxf7 Rxf7 2.Qh7+ Kf8 3.Qh8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0049.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0049.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r3r1k1/3b2pp/2p5/p1RpPp2/3Q1P2/1q2P1P1/6BP/R5K1 w - - 0 1"]
+
+1.Rxd5 cxd5 2.Bxd5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0050.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0050.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r3br1k/pp5p/4B1p1/4NpP1/P2Pn3/q1PQ3R/7P/3R2K1 w - - 0 1"]
+
+1.Rxh7+ Kxh7 2.Qh3+ Kg7 3.Qh6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0051.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0051.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "5rk1/ppp2ppp/6q1/2b1P3/3r4/2N1BQ1b/PP3PPP/R3R1K1 b - - 0 1"]
+
+1...Bxg2 2.Qg3 
+    ( 2.Qxg2 Rg4 )
+2...Rg4 3.Bxc5 Rxg3 4.fxg3 Re8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0052.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0052.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4r2k/ppp3pp/8/1PPb1p2/3P1P1b/P1Q2p1P/7R/R4KBq b - - 0 1"]
+
+1...Qg2+ 2.Rxg2 fxg2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0053.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0053.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3r1b1k/pp4p1/2p1Qp2/5N2/PP2Pp2/2Pq4/5PKP/5R2 b - - 0 1"]
+
+1...f3+ 2.Kg1 Qxf1+ 3.Kxf1 Rd1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0054.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0054.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1b2rk1/pp4pp/2pb4/3p1pq1/2PP4/1N1BPR2/PPQ3PP/4R1K1 b - - 0 1"]
+
+1...Bxh2+ 2.Kxh2 Qh4+ 3.Rh3 Qxe1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0055.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0055.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "q6r/1b4bp/4k1p1/1p2Pn2/2pPp1Q1/2P5/1P1N2PP/2B2RK1 w - - 0 1"]
+
+1.Rxf5 gxf5 2.Qxg7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0056.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0056.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "5rk1/1b1p1ppp/1qr1p3/p2pP3/P4P2/Q2B4/1PP3PP/R4R1K w - - 0 1"]
+
+1.Bxh7+ Kxh7 2.Qxf8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0057.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0057.??.??"]
+[SetUp "1"]
+[PlyCount "9"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "5r1k/pp4pp/2p5/8/4n3/5NPQ/P3Bq1P/4R2K b - - 0 1"]
+
+1...Qxe1+ 
+    ( 1...Rxf3 2.Rf1 Qxf1+ 
+        ( 2...Qxe2 3.Qc8+ Rf8 4.Qxf8# )
+    3.Bxf1 Nf2+ 4.Kg2 Nxh3 5.Kxf3 Ng5+ 6.Kf4 Nf7 7.Kf5 )
+2.Nxe1 Nf2+ 3.Kg2 Nxh3 4.Nf3 
+    ( 4.Kxh3 Re8 )
+4...Rxf3 5.Bxf3 
+    ( 5.Kxf3 Ng1+ )
+5...Ng5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0058.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0058.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r4rk1/pp2bppp/1qp1p3/4Pb2/Q1P1nB2/2N5/PP1RBPPP/5RK1 w - - 0 1"]
+
+1.Nxe4 Bxe4 2.c5 Bxc5 3.Qxe4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0059.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0059.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2r5/pp1bkp1Q/2nbpq2/3p1p2/3P1Pr1/2NBP1N1/PP4PP/2R2RK1 w - - 0 1"]
+
+1.Nxf5+ 
+    ( 1.Bxf5 Rh4 
+        ( 1...Rxg3 )
+    2.Nh5 Qh8 )
+1...exf5 
+    ( 1...Kf8 2.Nxd6 Rh4 3.Qxf7+ Qxf7 4.Nxf7 )
+2.Nxd5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0060.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0060.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1bqr1k1/1p1nbpp1/p1p3p1/3p4/3P1B2/2NBP2P/PP3PP1/2RQ1RK1 w - - 0 1"]
+
+1.Nxd5 cxd5 
+    ( 1...Bd6 2.Bxd6 cxd5 )
+2.Bc7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0061.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0061.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3r2k1/q1p1nppp/p3n3/1pb1p3/4P2N/1PP3PP/PBB1QPK1/7R b - - 0 1"]
+
+1...Bxf2 2.Qxf2 Qxf2+ 3.Kxf2 Rd2+ 4.Ke3 Rxc2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0062.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0062.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "1Q6/p4pkp/3p2p1/3P4/q7/P3rBbP/6P1/5R1K b - - 0 1"]
+
+1...Rxf3 2.gxf3 
+    ( 2.Rxf3 Qd1+ 3.Rf1 Qxf1# )
+2...Qc2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0063.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0063.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1bqk2r/p1pn1pp1/1p2pn1p/8/3P4/B1PB4/P1P1QPPP/R3K1NR w KQkq - 0 1"]
+
+1.Qxe6+ fxe6 2.Bg6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0064.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0064.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r2qk2r/1p1b1pp1/p1pBpn1p/2P1N3/1n1P4/3B4/PPQ2PPP/2KR3R w kq - 0 1"]
+
+1.Bg6 fxg6 
+    ( 1...Qa5 2.Bxf7+ Kd8 )
+2.Qxg6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0065.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0065.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "1r2r1k1/p1pbqppp/Q2b1n2/3p4/P2P4/2P5/1P2BPPP/R1B1KN1R b KQ - 0 1"]
+
+1...Bb5 2.axb5 Qxe2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0066.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0066.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "1r4k1/pqp2pbp/2Q2np1/1N2p3/8/1P5P/PBP2PP1/3R2K1 w - - 0 1"]
+
+1.Rd8+ 
+    ( 1.Qxb7 Rxb7 2.Bxe5 )
+    ( 1.Qxb7 Rxb7 2.Rd8+ Bf8 3.Ba3 Nd7 )
+1...Bf8 
+    ( 1...Rxd8 2.Qxb7 )
+2.Qxf6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0067.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0067.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "rn1qkb1r/pp3p1b/2p1pnpp/4N3/2B4P/6N1/PPPPQPP1/R1B1K2R w KQkq - 0 1"]
+
+1.Nxf7 Kxf7 2.Qxe6+ 
+    ( 2.Qxe6+ Kg7 3.Qf7# )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0068.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0068.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3n4/2prR1pk/p2r1p1p/1p5P/5P1P/P1B2K2/1PP5/4R3 w - - 0 1"]
+
+1.Bxf6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0069.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0069.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "6r1/1p2R3/p5k1/2p5/4Nr1P/8/PP5P/6K1 b - - 0 1"]
+
+1...Rxe4 2.Rxe4 Kf5+ 3.Kf2 Kxe4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0070.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0070.??.??"]
+[SetUp "1"]
+[PlyCount "6"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1b2rk1/ppqnbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PPQ2PPP/R3K2R w KQ - 0 1"]
+
+1.Bxh7+ Nxh7 2.Bxe7 Re8 3.Bh4 dxc4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0071.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0071.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1b1qrk1/pppp1ppp/1bn3n1/3Np1BQ/2B1P3/3P1N2/PPP2PPP/R3K2R w KQ - 0 1"]
+
+1.Nf6+ gxf6 2.Bxf6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0072.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0072.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r2qrbk1/1bp2ppp/p2p1n2/2p2NB1/4P3/2N2Q2/PPP2PPP/R3R1K1 w - - 0 1"]
+
+1.Nh6+ gxh6 2.Bxf6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0073.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0073.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1 w - - 0 1"]
+
+1.Ng6+ hxg6 2.Rh4# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0074.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0074.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2r2rk1/pp1bnp2/3q1n1Q/3p1P2/4p2N/1BPP4/P1P3PP/R4RK1 b - - 0 1"]
+
+1...Qxh2+ 2.Kxh2 Ng4+ 3.Kg3 Nxh6 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0075.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0075.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "5rk1/pbp2ppp/qr6/8/5Q2/1PP5/P4PP1/R1B2RK1 b - - 0 1"]
+
+1...Bxg2 2.Kxg2 Rg6+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0076.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0076.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1b2rk1/pp1p1ppp/2n2n2/q7/2P5/P1N2NP1/3QPKBP/R1B4R b - - 0 1"]
+
+1...Qxc3 2.Qxc3 Ne4+ 3.Kf1 Nxc3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0077.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0077.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3Q4/p4pkp/1p3np1/2q5/4p3/4P1N1/PP3PPP/6K1 w - - 0 1"]
+
+1.Qxf6+ Kxf6 2.Nxe4+ Ke5 3.Nxc5 bxc5 4.Kf1 
+    ( 4.f3 )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0078.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0078.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3r4/p2q1pkp/1pn1bnp1/2p1p3/P1N1P3/1PP1Q1PP/5PK1/4RBN1 b - - 0 1"]
+
+1...Nxe4 2.Qxe4 
+    ( 2.Kh2 f5 
+        ( 2...Bd5 )
+        ( 2...Nf6 3.Nxe5 Nxe5 4.Qxe5 Bxb3 )
+    )
+2...Bd5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0079.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0079.??.??"]
+[SetUp "1"]
+[PlyCount "6"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2kr4/p1p2ppp/3rb3/8/2P5/1R1BR3/P4PPP/5K2 b - - 0 1"]
+
+1...Rxd3 2.Rexd3 Rxd3 
+    ( 2...Bxc4 )
+3.Rxd3 Bxc4 4.Ke2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0080.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0080.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "6k1/3q3p/p1p3pQ/1p1p4/3P2RP/1P3P2/r3r1P1/5R1K b - - 0 1"]
+
+1...Rxg2 2.Rxg2 Qh3+ 3.Kg1 Qxg2# 
+    ( 3...Rxg2# )
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0081.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0081.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "6k1/6pp/p1p3r1/3p4/P2P1Pq1/1R2PR2/2Q1K1P1/7r b - - 0 1"]
+
+1...Qxg2+ 2.Rf2 Qxf2+ 3.Kxf2 Rh2+ 4.Kf3 Rxc2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0082.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0082.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "1r2nrk1/p1p2pp1/4bb1p/3p4/q4B2/P1PB1Q1P/1P2NPP1/1R1R2K1 b - - 0 1"]
+
+1...Rxb2 2.Rxb2 Qxd1+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0083.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0083.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "5rk1/p4ppp/b3p3/2n1N3/Pp2P3/1P1r4/3N1PPP/R2R2K1 b - - 0 1"]
+
+1...Rxd2 2.Rxd2 Nxb3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0084.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0084.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2r1r2k/p4pp1/2pBnb1p/q1Pp4/3P4/P2R4/2Q1NPPP/3R2K1 b - - 0 1"]
+
+1...Nxd4 
+    ( 1...Bxd4 )
+2.Rxd4 Bxd4 3.Rxd4 Qe1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0085.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0085.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1bn1b1r/pp2k1pp/5p2/1B2p3/5B2/5N2/PPP2PPP/2KR3R w - - 0 1"]
+
+1.Nxe5 Ne6 
+    ( 1...fxe5 2.Bg5+ )
+2.Nd3 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0086.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0086.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "2r2rk1/5ppp/p1pp4/2p1n1q1/4P2b/1PN4P/PBPRQPP1/R5K1 b - - 0 1"]
+
+1...Nf3+ 2.Qxf3 Qxd2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0087.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[EventDate "0087.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "8/2q3pk/1p2p2p/2n5/2B5/P3PQ2/5PKP/8 w - - 0 1"]
+
+1.Bxe6 Nxe6 2.Qf5+ 
+    ( 2.Qe4+ )
+2...Kh8 3.Qxe6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "0088.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0088.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r7/3k3p/6p1/N1P2p2/1p2p2P/3bPP2/5KP1/R7 b - - 0 1"]
+
+1...Rxa5 2.Rxa5 b3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0089.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0089.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4rrk1/pp2p3/2pqP1p1/4Rp1p/P2P1n1P/6Q1/1P3PP1/1N1R2K1 b - - 0 1"]
+
+1...Qxe5 2.dxe5 Ne2+ 3.Kh2 Nxg3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0090.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0090.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3r2k1/2q1b2p/ppnpPpp1/2pB4/2P2PPB/PP1R3P/3Q4/6K1 w - - 0 1"]
+
+1.Bxf6 Bxf6 2.e7+ Kg7 3.exd8=Q 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0091.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0091.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3r2k1/p1q2pbp/1pn1p1p1/2p5/4P3/4B1P1/PPP1RPBP/2Q4K b - - 0 1"]
+
+1...Bxb2 2.Qxb2 Rd1+ 3.Bf1 Rxf1+ 4.Kg2 Rd1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0092.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0092.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "1k6/pp3pp1/rr6/3p2Np/2pPnP2/q1P1P2P/P1R3P1/K1QR4 b - - 0 1"]
+
+1...Nxc3 2.Qxa3 
+    ( 2.Rxc3 Qxa2# )
+2...Rxa3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0093.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0093.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r3r1k1/ppp2ppp/2nb1q2/6Rn/2BP4/P1NQBP1P/1P3P2/2KR4 b - - 0 1"]
+
+1...Rxe3 2.Qxe3 
+    ( 2.Rxg7+ )
+2...Bf4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0094.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0094.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "7k/p6p/6p1/2b2b2/2P5/2R1pBP1/P2rR1KP/8 b - - 0 1"]
+
+1...Be4 2.Bxe4 
+    ( 2.Rxd2 exd2 )
+    ( 2.Rxe3 Bxe3 3.Rxd2 Bxf3+ 4.Kxf3 Bxd2 )
+2...Rxe2+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0095.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0095.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "3q3k/1pp3pp/5p2/1P6/4PQ2/3B2P1/1r3b1P/R6K w - - 0 1"]
+
+1.Qxc7 
+    ( 1.e5 Rd2 2.Qf5 g6 3.Qxf6+ Qxf6 4.exf6 )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0096.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0096.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r4rk1/p3qpp1/2p2n2/3pb2p/3Q2B1/1PN1P3/PB3PPP/2R2RK1 w - - 0 1"]
+
+1.Nxd5 cxd5 2.Qxe5 Qxe5 3.Bxe5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0097.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0097.??.??"]
+[SetUp "1"]
+[PlyCount "6"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r4rk1/pp1b3p/2p4q/3p1p2/3P2n1/2NBP1PR/PP3PK1/R2Q4 b - - 0 1"]
+
+1...Qxh3+ 2.Kxh3 Nxf2+ 3.Kg2 Nxd1 4.Rxd1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0098.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0098.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 w q - 0 1"]
+
+1.Qxd7+ Kxd7 2.Nc5+ Ke7 3.Nxe4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0099.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0099.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "4r1k1/5p1p/2Qb2p1/3P4/6Pn/2N1B2P/1P3P1q/3R1K2 b - - 0 1"]
+
+1...Rxe3 2.fxe3 Qg2+ 3.Ke1 Nf3# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0100.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0100.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.26"]
+[FEN "r1b1k2r/1p3pp1/p3pn2/2p1q1N1/8/1B2P3/PPP1Q2P/2KR3R w kq - 0 1"]
+
+1.Rd8+ Ke7 
+    ( 1...Kxd8 2.Nxf7+ Ke7 3.Nxe5 )
+2.Rxh8 Qxg5 3.Qd2 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0101.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0101.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6k1/1pqrnp2/3p2p1/2pn2b1/P1Q3Pp/2B4P/1PP1RP2/4R1K1 w - - 0 1"]
+
+1.Qxd5 Nxd5 
+    ( 1...Bf4 )
+2.Re8+ Kh7 3.Rh8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0102.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0102.??.??"]
+[SetUp "1"]
+[PlyCount "9"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6k1/1p3pp1/p7/P2n1PQ1/8/8/1r3r1P/3R3K b - - 0 1"]
+
+1...Rxh2+ 2.Kg1 Rbg2+ 
+    ( 2...Rhg2+ )
+3.Qxg2 
+    ( 3.Kf1 Rxg5 )
+3...Rxg2+ 4.Kxg2 Ne3+ 5.Kf3 Nxd1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0103.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0103.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1r4k1/2qpn1pp/p1p1pr2/2b5/2P2P2/3B4/PP4PP/R1BQ1R1K w - - 0 1"]
+
+1.Bxh7+ 
+    ( 1.Qh5 Nf5 2.g4 Rh6 )
+1...Kxh7 2.Qh5+ Rh6 3.Qxc5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0104.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0104.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1 w - - 0 1"]
+
+1.Bxg7+ Kg8 2.Bh8 Kxf7 3.Qxf6+ Kg8 4.Qg7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0105.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0105.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "5bk1/p2Q1p2/q4p2/4r2p/3pr3/8/PPRRNPPP/5K2 b - - 0 1"]
+
+1...Rxe2 2.Rxe2 d3 3.Rxe5 
+    ( 3.Rc3 dxe2+ 4.Ke1 Bb4 )
+3...dxc2+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0106.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0106.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6k1/q4pp1/4p2p/1p1r4/1PpPQ3/r1P1R1P1/4RP1P/6K1 b - - 0 1"]
+
+1...Rxc3 2.Rxc3 Qa1+ 3.Kg2 Qxc3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0107.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0107.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r2qk2r/pp1n1ppb/2pbpn1p/4N3/2BP1P1P/6N1/PPP1Q1P1/R1B1K2R w KQkq - 0 1"]
+
+1.Nxf7 Kxf7 
+    ( 1...Qe7 )
+2.Qxe6+ Kf8 3.Qf7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0108.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0108.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1r4k1/5n1p/5qp1/1p6/3Q4/1P4PP/P3rPB1/R2R2K1 b - - 0 1"]
+
+1...Re1+ 2.Kh2 
+    ( 2.Rxe1 Qxd4 )
+2...Qxd4 3.Rxd4 Rxa1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0109.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[EventDate "0109.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r3r1k1/1p5p/p1pqn1p1/3p1p2/PP1P1P2/1Q1RP3/4B1PP/1R4K1 b - - 0 1"]
+
+1...Nxf4 2.exf4 Rxe2 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "0110.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0110.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3r2k1/p2r1p2/4b1p1/qPp1R2p/P1p4P/8/5PP1/Q3RBK1 w - - 0 1"]
+
+1.Bxc4 
+    ( 1.Rxe6 fxe6 2.Bxc4 
+        ( 2.Rxe6 Kh7 )
+    2...Qxe1+ )
+1...Bxc4 
+    ( 1...Rd6 2.Bxe6 )
+2.Re8+ Rxe8 3.Rxe8+ Kh7 4.Rh8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0111.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0111.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3r2k1/5qpp/pp2r3/2p2b2/nPPp1PP1/P4Q2/3N3P/R3RBK1 b - - 0 1"]
+
+1...Bxg4 2.Qxg4 
+    ( 2.Qg3 )
+2...Rg6 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0112.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0112.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6k1/1q1rbpp1/7p/1p1p1P2/1P2p1P1/P1Q5/4B2P/3R2K1 b - - 0 1"]
+
+1...d4 2.Rxd4 
+    ( 2.Qe1 d3 )
+2...Qb6 
+    ( 2...Qa7 )
+    ( 2...Bf6 3.Rxd7 )
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0113.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0113.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r1b1k1/r1N2p1p/1p2p1pn/p2pP3/1b1P2P1/1P3N1P/P1R2P2/2R2BK1 w - - 0 1"]
+
+1.Nxd5 
+    ( 1.Ba6 Rd8 )
+1...Rxc2 2.Nf6+ Kf8 3.Rxc2 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0114.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0114.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r4rk1/2n1q2p/b1n1p1p1/pp1pPpN1/P1pP1N1P/2P3P1/1P3PB1/R2QR1K1 w - - 0 1"]
+
+1.Nfxe6 
+    ( 1.Ngxe6 )
+    ( 1.axb5 Bxb5 2.Ngxe6 )
+1...Nxe6 2.Bxd5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0115.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0115.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3r1n1k/3P3p/pp3q2/2pQp3/P1P3B1/3b2R1/1P5P/6K1 w - - 0 1"]
+
+1.Qg8+ Kxg8 2.Be6+ Kh8 3.Rg8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0116.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0116.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 1"]
+
+1.Qh8+ 
+    ( 1.Nxf7 Qxe3 )
+1...Kxh8 2.Nxf7+ Kg7 3.Nxg5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0117.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0117.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "Q7/2r2rpk/2p4p/7N/3PpN2/1p2P3/1K4R1/5q2 w - - 0 1"]
+
+1.Rxg7+ 
+    ( 1.Qe8 )
+    ( 1.Nf6+ Rxf6 )
+1...Rxg7 2.Nf6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0118.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0118.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6rk/p3p2p/1p2Pp2/2p2P2/2P1nBr1/1P6/P6P/3R1R1K b - - 0 1"]
+
+1...Rg1+ 2.Rxg1 Nf2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0119.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0119.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/pr1r3p/6p1/2p1pk2/3b2N1/1P4P1/P2R1PKP/4R3 w - - 0 1"]
+
+1.Rxd4 Rxd4 2.Rxe5+ Kxg4 3.f3# 
+    ( 3.h3# )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0120.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0120.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r5k1/pp1b2pp/4q3/n7/3Rp3/P7/5QPP/2B2RK1 w - - 0 1"]
+
+1.Rxe4 Qxe4 
+    ( 1...Qg6 )
+2.Qf7+ Kh8 3.Qf8+ Rxf8 4.Rxf8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0121.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0121.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r1bq1rk1/pp2ppbp/2n3p1/2pn4/3p1P2/NP2PN2/PBPPB1PP/3RQRK1 b - - 0 1"]
+
+1...d3 2.Bxg7 dxe2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0122.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0122.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/4r1k1/4qp2/1p6/3R4/P1N2QPp/1PP2K1P/4r3 b - - 0 1"]
+
+1...Rf1+ 2.Kxf1 Qe1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0123.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0123.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2kr3r/pbpq4/1p5p/4PpP1/P2p4/2P2Q2/2P2P2/R1B1KB1R w KQ - 0 1"]
+
+1.Ba6 Bxa6 
+    ( 1...c6 2.Bxb7+ )
+2.Qa8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0124.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0124.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/4r1p1/p2k1p1p/1bNp3P/3P1K2/2P2P2/6P1/1R6 w - - 0 1"]
+
+1.Nxa6 Bxa6 2.Rb6+ Kd7 3.Rxa6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0125.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0125.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4kb1r/1br4p/p3p1p1/1p3R2/1n2p3/PNN1B3/1PP3PP/2R3K1 w k - 0 1"]
+
+1.Rxf8+ Rxf8 2.axb4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0126.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0126.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/4k1p1/1p2pp1p/p6P/2n1PN2/4qPP1/1P4K1/3Q4 b - - 0 1"]
+
+1...Qxf4 2.gxf4 Ne3+ 3.Kg3 Nxd1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0127.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0127.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/5r1k/p3Npp1/4p3/3nP3/4QP2/PP2q1P1/1KR5 w - - 0 1"]
+
+1.Qh6+ Kxh6 
+    ( 1...Kg8 2.Rc8+ Rf8 3.Rxf8# )
+2.Rh1# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0128.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0128.??.??"]
+[SetUp "1"]
+[PlyCount "11"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3Rb3/6kp/6p1/3P1p2/3q4/Q5PP/P1r1r1B1/6RK b - - 0 1"]
+
+1...Qxg1+ 2.Kxg1 Rxg2+ 3.Kh1 Rh2+ 4.Kg1 Rcg2+ 5.Kf1 Bb5+ 6.Ke1 Rh1# 
+    ( 6...Rg1# )
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0129.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0129.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r2nk1/p2q1pp1/1p2b2p/3p4/3P1P2/4R1P1/PP1Q3P/1B2R1K1 w - - 0 1"]
+
+1.f5 Bxf5 2.Re7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0130.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0130.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "b2r4/p4Brk/1pqp1Qp1/2p2pPp/5P2/3P4/PP5P/2B1RRK1 w - - 0 1"]
+
+1.Bxg6+ 
+    ( 1.Re2 )
+1...Rxg6 2.Re7+ Kg8 3.Qxg6+ 
+    ( 3.Qf7+ Kh8 4.Qh7# )
+3...Kf8 4.Qg7# 
+    ( 4.Qf7# )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0131.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0131.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2kn3r/pp1b4/2n1p1p1/q2pP1P1/2pN1P2/P1P3K1/2PB4/R2Q3B b - - 0 1"]
+
+1...Rxh1 2.Qxh1 Nxd4 3.cxd4 Qxd2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0132.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[EventDate "0132.??.??"]
+[SetUp "1"]
+[PlyCount "2"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "7k/8/7P/6K1/6Q1/6P1/7q/8 b - - 0 1"]
+
+1...Qxh6+ 
+    ( 1...Qd2+ )
+    ( 1...Qd2+ 2.Qf4 Qd8+ 3.Qf6+ Kh7 4.Qxd8 )
+2.Kxh6 
+    ( 2.Kf5 )
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "0133.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0133.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r4rk1/pp5p/2pp4/2n3q1/2b2p1R/2N3P1/PP1QPPB1/2KR4 b - - 0 1"]
+
+1...Bxa2 2.Nxa2 Nb3+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0134.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0134.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1 w - - 0 1"]
+
+1.Rd8+ 
+    ( 1.Rc1 Bd4+ )
+1...Qxd8 2.Qxc3+ Qf6 3.Qxf6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0135.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0135.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3r2k1/5rbp/pp3np1/3P4/1B1N1R2/8/P5PP/5RK1 b - - 0 1"]
+
+1...Nxd5 2.Ne6 
+    ( 2.Rxf7 Bxd4+ 3.Kh1 Nxb4 )
+2...Nxf4 3.Rxf4 Rxf4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0136.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0136.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r1bqr1k1/p1p2ppp/3b1n2/2P3B1/8/2NQ1N2/PP3PPP/R4RK1 b - - 0 1"]
+
+1...Bxh2+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0137.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[EventDate "0137.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r4rk1/2p3b1/3p2qp/p1PPp3/4Rn2/P5Q1/3B1NPP/2R3K1 b - - 0 1"]
+
+1...Qxe4 2.Nxe4 Ne2+ 3.Kh1 Nxg3+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "0138.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0138.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2rq1rk1/pp3pb1/3p2pB/n4P2/4pP2/1BNQ4/PKP3P1/3R3R w - - 0 1"]
+
+1.Bxg7 exd3 
+    ( 1...Kxg7 2.Nxe4 )
+2.f6 
+    ( 2.Bd4 )
+2...dxc2 3.Rh8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0139.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0139.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "rr4k1/1q3p2/4b2p/p2n2p1/2B5/Q3P3/PP1R1PPP/3R2K1 b - - 0 1"]
+
+1...Nxe3 2.Qxe3 
+    ( 2.Bxe6 Qxg2# )
+2...Bxc4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0140.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0140.??.??"]
+[SetUp "1"]
+[PlyCount "9"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3r1rk1/ppp1qpp1/2p1b2p/4P3/3nNQ1P/5N2/PPP2PP1/R4RK1 w - - 0 1"]
+
+1.Nxd4 
+    ( 1.Nf6+ Qxf6 2.Qxd4 )
+1...Rxd4 2.Nf6+ Qxf6 3.Qxd4 Rd8 4.Qe4 Bd5 5.Qxd5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0141.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0141.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2brrbk1/2q2p1p/p4np1/1ppPp3/4P3/BP2N1P1/P3QPBP/2RR2K1 w - - 0 1"]
+
+1.Bxc5 Bxc5 
+    ( 1...Qb8 )
+2.b4 Nd7 3.bxc5 Nxc5 4.Qc2 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0142.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0142.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r4rk1/ppp1bppp/2N2n2/7q/6b1/2P5/PP1NBPPP/R1B1QRK1 b - - 0 1"]
+
+1...Bd6 
+    ( 1...bxc6 2.Bxg4 )
+    ( 1...Bxe2 2.Nxe7+ )
+2.h3 Bxe2 3.Nd4 Bxf1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0143.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0143.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r1nq1n2/3b2k1/p2p1p1R/Pp1Pp1p1/1Pp1P1P1/2P1BPN1/2BQ2K1/8 w - - 0 1"]
+
+1.Rxf6 
+    ( 1.Rh3 )
+1...Qxf6 
+    ( 1...Kxf6 2.Bxg5+ )
+2.Nh5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0144.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0144.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4rbk1/3Q1ppp/3p4/3P4/5q2/B7/P5PP/5RK1 b - - 0 1"]
+
+1...Qd4+ 
+    ( 1...Qe3+ 2.Rf2 
+        ( 2.Kh1 Qf2 )
+    2...Re7 3.Qa4 Ra7 )
+2.Kh1 
+    ( 2.Rf2 Re1# )
+2...Qf2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0145.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0145.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r1b5/5pk1/1p1p3p/3Pq1p1/PQ2Pn2/5P2/5RPP/3R3K b - - 0 1"]
+
+1...Nd3 2.Qxb6 
+    ( 2.Rxd3 Qa1+ )
+2...Nxf2+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0146.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0146.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6rk/7p/p2Q4/1p2r3/8/4NP1q/PPP4P/5R1K b - - 0 1"]
+
+1...Qxh2+ 2.Kxh2 Rh5# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0147.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0147.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1r2b1k1/R4nqp/4p3/1pR5/1P1P1r2/5N2/1Q2B1P1/6K1 w - - 0 1"]
+
+1.Rg5 Qxg5 
+    ( 1...Nxg5 2.Rxg7+ Kxg7 3.Nxg5 )
+2.Nxg5 Nxg5 3.d5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0148.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0148.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2rb1qk1/1b4pp/3p4/1P2pr2/2n2PB1/2NQ2P1/P1N4P/R2R2K1 b - - 0 1"]
+
+1...Bb6+ 
+    ( 1...Rxf4 2.Be6+ Kh8 3.Nd5 )
+    ( 1...Nb2 2.Qxf5 )
+2.Kf1 Rxf4+ 3.gxf4 Qxf4+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0149.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0149.??.??"]
+[SetUp "1"]
+[PlyCount "11"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/2b2k1p/pp1P3r/2p3p1/6P1/1P2R2P/5P2/6K1 w - - 0 1"]
+
+1.Re7+ 
+    ( 1.dxc7 Rc6 )
+1...Kf8 
+    ( 1...Kf6 2.dxc7 )
+2.dxc7 Rc6 3.Rd7 
+    ( 3.Rxh7 Ke8 4.h4 )
+3...Ke8 4.Rd8+ Ke7 5.c8=Q Rxc8 6.Rxc8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0150.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0150.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r3rnk1/1N3ppp/1p6/p1Pp2q1/8/6P1/PP2PPBP/2R1Q1K1 b - - 0 1"]
+
+1...Rxe2 2.Qxe2 Qxc1+ 3.Qf1 Qd2 4.cxb6 Rc8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0151.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0151.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/6k1/1P1p2p1/3Ppn2/3q4/8/6PP/rR2QB1K b - - 0 1"]
+
+1...Ng3+ 2.hxg3 Ra8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0152.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0152.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/7R/2r5/8/P3n3/8/3nk1PP/R5K1 b - - 0 1"]
+
+1...Nf3+ 2.gxf3 Rg6+ 3.Kh1 Nf2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0153.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0153.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3rrk2/R4ppB/7p/1p2N1q1/nPbP1p2/2PQ1P2/6PP/4R1K1 w - - 0 1"]
+
+1.Qxc4 bxc4 2.Rxf7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0154.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0154.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK1P/3R4 w - - 0 1"]
+
+1.Qxd5 
+    ( 1.Bh6+ Ke7 2.Rxd5 
+        ( 2.Qb4+ Kd7 3.Rd2 Rxd2 4.Bxd2 Rg6 )
+    2...Rxe2+ )
+    ( 1.Qb4+ Kg7 2.Qh4 Re8 )
+1...Qxd5 2.Bh6+ 
+    ( 2.Bb4+ Qc5+ )
+2...Ke7 3.Rxd5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0155.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0155.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3rrnk1/1bq2pp1/ppnppb1p/8/2P1PPQ1/1PN2N2/PB4PP/1B1R1R1K w - - 0 1"]
+
+1.Nd5 
+    ( 1.Nb5 Qe7 2.Bxf6 Qxf6 3.Nxd6 )
+1...Bxb2 
+    ( 1...exd5 2.Bxf6 Ng6 3.Bxd8 )
+2.Nxc7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0156.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0156.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1n3rk1/p2pQpp1/4q2p/1r6/4B3/4P1P1/P4P1P/2RR2K1 w - - 0 1"]
+
+1.Bh7+ Kxh7 2.Qxf8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0157.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0157.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4R3/p4pk1/5qpp/1PnP4/3Q3P/6P1/r1r1BPK1/3R4 w - - 0 1"]
+
+1.Rg8+ Kxg8 2.Qxf6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0158.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[EventDate "0158.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4rrk1/1p1n1pb1/2ppq1p1/p3p1Bp/P1P1P2P/2NP2P1/1P2QPK1/3R1R2 w - - 0 1"]
+
+1.Nd5 Nc5 
+    ( 1...cxd5 2.cxd5 )
+    ( 1...Rb8 2.Nc7 )
+    ( 1...Rc8 2.Ne7+ )
+2.Nc7 Qd7 3.Nxe8 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "0159.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0159.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r3rbk1/1b3Npp/1q1p2n1/2pP4/5R2/1PN3Q1/4P1BP/5R1K w - - 0 1"]
+
+1.Qxg6 hxg6 2.Rh4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0160.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0160.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "5nk1/1b1qQpp1/p3p3/3pP1N1/3P3P/1p1B4/1P3PP1/6K1 w - - 0 1"]
+
+1.Bh7+ Nxh7 
+    ( 1...Kh8 2.Qxf8# )
+2.Qxd7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0161.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0161.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4r2k/3n2bB/2p1NqQ1/2Pp4/5B2/r6P/5PP1/4R1K1 b - - 0 1"]
+
+1...Rxe6 2.Rxe6 Ra1+ 
+    ( 2...Qxf4 3.Re8+ Nf8 4.Qh5 )
+3.Kh2 Qxf4+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0162.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0162.??.??"]
+[SetUp "1"]
+[PlyCount "11"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2b4k/p3q2p/2p1p3/2PpPpr1/3P3Q/4P2B/3b1B1P/R6K b - - 0 1"]
+
+1...Bxe3 2.Bxe3 
+    ( 2.Bg2 Bxf2 3.Qxf2 )
+2...Rg1+ 3.Rxg1 Qxh4 4.Bg5 Qe4+ 5.Bg2 Qxd4 6.Bf6+ Kg8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0163.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0163.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "7r/3b1pk1/2p2qp1/8/1P1bNP2/r2B4/3Q2PP/2R2R1K b - - 0 1"]
+
+1...Rxh2+ 2.Kxh2 Qh4# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0164.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0164.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1r1r4/5ppk/1p5p/2b1Pp1Q/8/q7/3B1PPP/2RR2K1 b - - 0 1"]
+
+1...Rxd2 2.Rxd2 
+    ( 2.Qh4 )
+2...Qxc1+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0165.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0165.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4kr2/p1Bbpp2/1p4p1/n6p/2B1P2P/2K2P2/P2R2P1/8 w - - 0 1"]
+
+1.Bb5 Bxb5 2.Rd8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0166.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0166.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2n2k2/2b2pp1/2p1pnp1/2Pp2N1/3P1PP1/3BP2P/3BK3/8 w - - 0 1"]
+
+1.Bxg6 Bxf4 
+    ( 1...fxg6 2.Nxe6+ Ke7 3.Nxc7 )
+2.exf4 
+    ( 2.Nxf7 )
+    ( 2.Nxe6+ fxe6 3.exf4 )
+2...fxg6 3.Nxe6+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0167.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0167.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r5k1/pb1p1Rpq/2n1p1Q1/1p2P3/3P2P1/P7/1P1K4/5R2 w - - 0 1"]
+
+1.Rf8+ 
+    ( 1.Qxh7+ Kxh7 2.Rxd7 )
+1...Rxf8 2.Rxf8+ Kxf8 3.Qxh7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0168.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0168.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1k1r1q1r/2p2ppp/Qp6/3b1N2/8/P5P1/1P3P1P/2R2RK1 w - - 0 1"]
+
+1.Rxc7 
+    ( 1.Nd4 Qe7 2.Nb5 c6 )
+1...Kxc7 2.Qa7+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0169.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0169.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6k1/4qp2/1B4pp/2R1b3/P2Nb3/1P2Q3/r4PPP/6K1 b - - 0 1"]
+
+1...Qxc5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0170.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0170.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "R3n1k1/7p/3prppB/1p2p3/1P2P2Q/7P/5PPK/1q6 w - - 0 1"]
+
+1.Rxe8+ Rxe8 
+    ( 1...Kf7 )
+2.Qxf6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0171.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0171.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2rr4/pp4kp/6p1/3nNp2/2B5/2n3P1/P2R1PKP/R7 b - - 0 1"]
+
+1...Ne3+ 
+    ( 1...Nf4+ )
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0172.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0172.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "5rk1/ppr2Npp/2q1Pp2/3n4/8/6Q1/P5PP/3R1R1K w - - 0 1"]
+
+1.Rxd5 Qxd5 2.Qxc7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0173.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0173.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r7/5kpp/2p1pq2/1bP2p2/p4Q2/5BP1/PP3P1P/4R1K1 w - - 0 1"]
+
+1.Bxc6 Bxc6 2.Qc7+ Qe7 3.Qxc6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0174.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0174.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/1p3pkp/pb2p1p1/8/4P2P/1N4P1/P1R1KP2/7r b - - 0 1"]
+
+1...Bxf2 2.Kxf2 Rh2+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0175.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0175.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1 w - - 0 1"]
+
+1.Rd4 
+    ( 1.Rg7 Be8 2.Rd4 Bg6 )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0176.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0176.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r2r2k1/1p1n1bpp/1pp1pp2/8/Pb1PP1P1/1BNRBP1P/1P3K2/2R5 b - - 0 1"]
+
+1...Nc5 2.dxc5 Rxd3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0177.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0177.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "8/1R3pbp/4p1k1/5p2/8/2N2P2/1P1r1P1P/4K3 b - - 0 1"]
+
+1...Rxb2 2.Rxb2 
+    ( 2.Nb5 )
+2...Bxc3+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0178.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0178.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "5k1r/ppq3b1/8/3Pp2p/3n4/7Q/PP3PPP/3RR1K1 w - - 0 1"]
+
+1.Rxd4 exd4 2.Qf5+ Qf7 3.Qc8+ Qe8 4.Qxe8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0179.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0179.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r3qn1k/pp3pp1/2b1p2p/4P1BP/2B3Q1/8/PPP3P1/2K1R3 w - - 0 1"]
+
+1.Bf6 gxf6 2.exf6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0180.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0180.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3r2k1/1b3p1p/pp4p1/4PqP1/3NpP2/1P2Q2P/P6K/2R5 b - - 0 1"]
+
+1...Rxd4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0181.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0181.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4r1rk/p3q2p/3p1n1Q/3P4/Pp1n1P2/3BN2R/1PPK1P2/R7 w - - 0 1"]
+
+1.Qxf6+ Qxf6 2.Rxh7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0182.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0182.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2kr3r/1pq3p1/p1p3Qp/P1n1p3/8/RbN1P1P1/1P2P1BP/5RK1 w - - 0 1"]
+
+1.Rxb3 Nxb3 2.Qe6+ Kb8 3.Qxb3 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0183.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0183.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2rq1rk1/1p4bp/4p1p1/p2p1bP1/P2N4/2PnB3/QP4BP/R5RK b - - 0 1"]
+
+1...Qxg5 2.Bxg5 
+    ( 2.Rge1 )
+2...Nf2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0184.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0184.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2k4r/pp3p2/1np3q1/2Q3p1/3R4/1P2P1P1/P4PB1/6K1 w - - 0 1"]
+
+1.Bh3+ 
+    ( 1.Rd6 Qb1+ 2.Bf1 Qh7 3.Bg2 Qb1+ )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0185.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0185.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r1b2rk1/p1q2n1p/6p1/2Ppp3/8/2Q2NPP/P4PB1/1R3RK1 w - - 0 1"]
+
+1.Nxe5 Nxe5 2.Bxd5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0186.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0186.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1r6/RP5p/P1kp4/2n2p2/8/4PKP1/5P1P/8 w - - 0 1"]
+
+1.Ra8 Kc7 
+    ( 1...Nxa6 2.Rxa6+ )
+2.a7 Rxb7 3.Rc8+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0187.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0187.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r2qk2r/3bb1pp/5p2/1p1Q4/1pNP4/4P3/PB4PP/R4RK1 w kq - 0 1"]
+
+1.Ne5 Rf8 
+    ( 1...fxe5 2.Qf7# )
+2.Nxd7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0188.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0188.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r3k1r1/p4p1p/3bpBp1/3p1b2/5P2/3BP2P/PP4P1/1K1R3R w q - 0 1"]
+
+1.e4 Bxe4 
+    ( 1...dxe4 2.Bb5+ Kf8 3.Rxd6 )
+2.Bxe4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0189.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0189.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4r2k/6b1/8/p2R3p/1pP1p1Nq/8/PP3P1P/3Q3K w - - 0 1"]
+
+1.Nf6 
+    ( 1.Ne3 Be5 )
+1...Qxf6 
+    ( 1...Bxf6 2.Rxh5+ )
+2.Qxh5+ Kg8 3.Qxe8+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0190.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0190.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r4k/2q4p/p2bPp2/1p6/6QP/3B4/PPP5/1K4R1 w - - 0 1"]
+
+1.e7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0191.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0191.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3n4/2p2pk1/3r2p1/6Np/1P1q3P/4QR2/5PP1/6K1 w - - 0 1"]
+
+1.Rxf7+ Nxf7 2.Ne6+ Rxe6 3.Qxd4+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0192.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0192.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r1q2rk1/3bpp1p/3p2p1/3P4/Pnn1P3/2N2NP1/1R1Q1PB1/4R1K1 w - - 0 1"]
+
+1.Qh6 f6 
+    ( 1...Nxb2 2.Ng5 )
+2.Rxb4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0193.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0193.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r2rk1/p4ppp/1p6/2b5/5Pn1/1Q2PR1P/P5P1/R1B1qBK1 b - - 0 22"]
+
+22...Nxe3 
+    ( 22...Bxe3+ 23.Bxe3 )
+23.Rxe3 
+    ( 23.Bxe3 Qxa1 
+        ( 23...Bxe3+ 24.Qxe3 Qxa1 )
+    )
+23...Rfe8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0194.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0194.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "5r1k/2p5/5qp1/1Pb1p2p/4B2P/3P2P1/4QPK1/5R2 w - - 0 1"]
+
+1.Bxg6 Qxg6 2.Qxe5+ Kg8 3.Qxc5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0195.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0195.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2kB2r1/p3R3/q1p3r1/bp2Qp2/2PP3p/1P4P1/P4P2/5K2 w - - 0 1"]
+
+1.Rc7+ 
+    ( 1.Qxf5+ Kb8 2.Bxa5 Ka8 )
+1...Kb8 
+    ( 1...Kxd8 2.Qe7# )
+    ( 1...Bxc7 2.Qxc7# )
+2.Rxc6+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0196.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0196.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1r3k2/2p3Rp/2b5/p1Pp2p1/P2B1pq1/2PB2P1/7P/5RK1 w - - 0 1"]
+
+1.Rxf4+ 
+    ( 1.Bxh7 Qh3 )
+    ( 1.Rxh7 Rb2 )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0197.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0197.??.??"]
+[SetUp "1"]
+[PlyCount "9"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6k1/5rpp/4Qn2/3p4/1q1P4/1p2P2P/6P1/3B1RK1 w - - 0 1"]
+
+1.Bh5 
+    ( 1.Rxf6 gxf6 2.Bh5 Qb7 3.Bxf7+ Qxf7 4.Qb6 )
+1...g6 
+    ( 1...Nxh5 2.Qxf7+ Kh8 3.Qe8+ Qf8 4.Rxf8# )
+    ( 1...Qf8 2.Bxf7+ )
+2.Rxf6 
+    ( 2.Bxg6 hxg6 3.Rxf6 )
+2...Qb7 3.Bd1 b2 4.Qe8+ Kg7 5.Qxf7+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0198.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0198.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6rk/7p/8/1p3R2/pN6/P1n2B1P/4brPK/4R3 b - - 0 1"]
+
+1...Bxf3 
+    ( 1...Rgxg2+ 2.Bxg2 Rxf5 3.Rc1 )
+2.Rxf3 Rgxg2+ 3.Kh1 Rh2+ 4.Kg1 Ne2+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0199.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0199.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r3k1/p2b2pp/1pqr4/2p1R3/4P3/P1Q3PP/1P4BK/3R4 w - - 0 1"]
+
+1.Re7 Rd4 
+    ( 1...Rg6 2.Rdxd7 )
+2.Rxd4 cxd4 3.Qxd4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0200.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0200.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r3r1k1/p2q1pbp/6p1/3Q2B1/8/5P2/PP4PP/R2R2K1 b - - 0 1"]
+
+1...Re1+ 2.Rxe1 
+    ( 2.Kf2 Qxd5 3.Rxd5 Rxa1 )
+2...Qxd5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0201.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0201.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "3r2k1/pp4qn/3p1ppQ/2pPp3/4P1N1/1P2P2R/1PP3PP/6K1 w - - 0 1"]
+
+1.Qxh7+ Qxh7 2.Nxf6+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0202.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0202.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4r2k/p4rp1/1pb3qp/3NB3/2P1Q2n/1P1R4/1P4PP/4R1K1 b - - 0 1"]
+
+1...Rxe5 2.Qxh4 
+    ( 2.Qxe5 Qxg2# 
+        ( 2...Qxd3 )
+    )
+    ( 2.Qxg6 Rxe1# 
+        ( 2...Nxg6 )
+    )
+2...Rxe1+ 
+    ( 2...Qxd3 )
+3.Qxe1 Qxd3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0203.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0203.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2b3k1/r2r1pp1/p3p2p/1pq1P3/4B2Q/2P5/P4PPP/3RR1K1 w - - 0 1"]
+
+1.Qd8+ Rxd8 
+    ( 1...Qf8 2.Bh7+ )
+2.Rxd8+ Qf8 3.Bh7+ 
+    ( 3.Red1 Rc7 4.Bh7+ )
+3...Kxh7 4.Rxf8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0204.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0204.??.??"]
+[SetUp "1"]
+[PlyCount "7"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r5/R2b1pk1/3q1bpp/1p1Pp3/4P3/3P3P/1Q1NBPP1/6K1 w - - 0 1"]
+
+1.Rxd7 
+    ( 1.Bg4 Bxg4 2.hxg4 )
+1...Qxd7 2.Bg4 Qd8 3.Bxc8 Qxc8 4.Qxb5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0205.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0205.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r6k/7p/1Qp2rpq/p3p3/2B1P3/2B2P1n/P5PK/1R6 w - - 0 1"]
+
+1.Qb8+ 
+    ( 1.Bxe5 Ng5+ 2.Kg1 
+        ( 2.Kg3 Nxe4+ 3.fxe4 Qg5+ )
+    2...Nxf3+ )
+1...Rxb8 2.Rxb8+ Kg7 
+    ( 2...Rf8 3.Bxe5+ 
+        ( 3.Rxf8+ Qxf8 4.Bxe5+ )
+    3...Qg7 4.Rxf8# )
+    ( 2...Qf8 3.Rxf8+ Rxf8 4.Bxe5+ Rf6 5.Bxf6# )
+3.Rg8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0206.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0206.??.??"]
+[SetUp "1"]
+[PlyCount "9"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "6rk/p6n/3p4/2pPb2q/4N3/P2BQPp1/6K1/7R b - - 0 1"]
+
+1...Qxh1+ 
+    ( 1...Qh2+ 2.Rxh2 gxh2+ 3.Kh1 Rg1+ 4.Qxg1 hxg1=Q+ 5.Kxg1 )
+2.Kxh1 g2+ 3.Kg1 Bd4 4.Qxd4+ cxd4 5.Nxd6 Ng5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0207.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0207.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "5rk1/p4qp1/2p4p/1p2Pn2/2pP2Q1/2P4P/P2B3K/5R2 b - - 0 1"]
+
+1...Ne3 
+    ( 1...b4 )
+2.Bxe3 
+    ( 2.Rxf7 Nxg4+ )
+2...Qxf1 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0208.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0208.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1r3qbk/1p2rpp1/p1p2n1p/PnN1NP2/1P2PQ2/3P1B1P/7K/1R4R1 w - - 0 1"]
+
+1.Ne6 fxe6 
+    ( 1...g5 2.Nxf8 
+        ( 2.fxg6 )
+    2...gxf4 3.Nfg6+ fxg6 4.Nxg6+ )
+    ( 1...Qc8 2.Rxg7 )
+2.Ng6+ Kh7 3.Nxf8+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0209.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0209.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4r1k1/2BR3p/8/5Rp1/4n1K1/4P1P1/1P2P2P/5r2 b - - 0 1"]
+
+1...h5+ 
+    ( 1...Nf6+ 2.Rxf6 Rxf6 )
+2.Kxh5 Rxf5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0210.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0210.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4rrk1/p2pB1pp/2p5/2P1R3/3QN3/Pq2n3/1P4PP/2KR4 w - - 0 1"]
+
+1.Nf6+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0211.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0211.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1 w - - 0 1"]
+
+1.Qf6+ Qxf6 2.Re8+ Qf8 3.Rxf8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0212.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0212.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1qr1r1k1/2b2ppp/Bpb1p3/4n3/P7/2N1BP2/1PP3PP/3RR1QK b - - 0 1"]
+
+1...Nxf3 2.gxf3 Bxf3+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0213.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0213.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2rb2k1/5pp1/2p1pn1p/2P5/1N1Pp3/4P1BP/5PP1/1R4K1 w - - 0 1"]
+
+1.Nxc6 
+    ( 1.Ra1 Nd5 2.Nxc6 )
+1...Rxc6 2.Rb8 Kh7 3.Rxd8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0214.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0214.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "5r1k/q3bQpp/2B5/1P2p3/4P3/p1P5/5PPP/5RK1 w - - 0 1"]
+
+1.b6 
+    ( 1.b6 Rxf7 2.bxa7 )
+    ( 1.b6 Qxb6 2.Qxe7 )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0215.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0215.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r3k1/4bpp1/4pn1p/1p6/q1r5/2BR1BP1/PQ2PPKP/3R4 b - - 0 1"]
+
+1...Rxc3 
+    ( 1...Rxc3 2.Rxc3 Rxc3 3.Qxc3 Qxd1 )
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0216.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0216.??.??"]
+[SetUp "1"]
+[PlyCount "5"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4r1k1/5p2/p5pp/P1p2q2/3Nr3/3Q4/5PPP/1RR3K1 b - - 0 1"]
+
+1...Re1+ 2.Rxe1 Rxe1+ 3.Rxe1 Qxd3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0217.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[EventDate "0217.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2r3k1/5p2/p3bBp1/1p5p/4P3/1P4qP/P5P1/1B1RR2K b - - 0 1"]
+
+1...Bxh3 
+    ( 1...Bxh3 2.gxh3 Qxh3+ 3.Kg1 Qg3+ 4.Kh1 Qf3+ 5.Kg1 Qxf6 )
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "0218.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0218.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "1r5k/6pp/2p1r3/1R1p4/pn1P1q2/3Q1P2/PP3BPP/3R2K1 w - - 0 1"]
+
+1.Qf5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0219.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0219.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "r2r2k1/1bqp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P2B1PP/2RQ1R1K w - - 0 1"]
+
+1.Ndb5 
+    ( 1.Ncb5 Qb8 2.Nxd6 Qxd6 3.Nxc6 Qxc6 4.Qd4 )
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0220.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0220.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2k1r3/p1pbbpp1/1p5p/2pNP3/2P3P1/1P3PBP/P5K1/3R4 w - - 0 1"]
+
+1.Nxc7 Kxc7 
+    ( 1...Rd8 2.Nd5 )
+2.e6+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0221.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0221.??.??"]
+[SetUp "1"]
+[PlyCount "3"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "4r1qk/2p4n/1b3pQB/p1p5/2P1P3/1P1R3P/P5P1/6K1 w - - 0 1"]
+
+1.Bg7+ Qxg7 2.Qxe8+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "0222.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[EventDate "0222.??.??"]
+[SetUp "1"]
+[PlyCount "1"]
+[Source "Tipter Napoleon"]
+[SourceDate "2018.08.27"]
+[FEN "2R5/4bppk/1p1p4/5R1P/4PQ2/5P2/r4q1P/7K w - - 0 1"]
+
+1.Qh6+ 1-0
+

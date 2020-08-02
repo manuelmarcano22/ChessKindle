@@ -1,0 +1,2922 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2020.7.20)  2 AUG 2020 16:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode configfile.a.b.c.\input  Wo
+odPBeginners.tex
+(./WoodPBeginners.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2018-02-11-15:01
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht)
+(/usr/share/texlive/texmf-dist/tex/latex/skak/skak.sty
+Package: skak 2018/01/08 v1.5.3 Chess typesetting
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/chessfss.sty
+Package: chessfss 2006/06/14 v1.2a chess font selection scheme
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count88
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbenc.def
+File: lsbenc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfenc.def
+File: lsfenc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsienc.def
+File: lsienc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+\len@cfss@squarewidth=\skip43
+\len@cfss@squaretotalheight=\skip44
+\len@cfss@squaredepth=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/plain/lambda-lists/lambda.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count92
+\pstFP@xia=\count93
+\pstFP@xib=\count94
+\pstFP@xfa=\count95
+\pstFP@xfb=\count96
+\pstFP@rega=\count97
+\pstFP@regb=\count98
+\pstFP@regs=\count99
+\pstFP@times=\count100
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen105
+\pgfutil@tempdimb=\dimen106
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks20
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen107
+\pgf@xa=\dimen108
+\pgf@xb=\dimen109
+\pgf@xc=\dimen110
+\pgf@y=\dimen111
+\pgf@ya=\dimen112
+\pgf@yb=\dimen113
+\pgf@yc=\dimen114
+\c@pgf@counta=\count101
+\c@pgf@countb=\count102
+\c@pgf@countc=\count103
+\c@pgf@countd=\count104
+\pgfutil@tempcnta=\count105
+\pgfutil@tempcntb=\count106
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen115
+\pgfmath@count=\count107
+\pgfmath@box=\box26
+\pgfmath@toks=\toks21
+\pgfmath@stack@operand=\toks22
+\pgfmath@stack@operation=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count108
+))
+\pgffor@iter=\dimen116
+\pgffor@skip=\dimen117
+\pgffor@stack=\toks24
+\pgffor@toks=\toks25
+)
+\psLoopIndex=\count109
+
+`PSTricks' v2.82  <2018/01/06> (tvz,hv)
+\pst@dima=\dimen118
+\pst@dimb=\dimen119
+\pst@dimc=\dimen120
+\pst@dimd=\dimen121
+\pst@dimg=\dimen122
+\pst@dimh=\dimen123
+\pst@dimm=\dimen124
+\pst@dimn=\dimen125
+\pst@dimo=\dimen126
+\pst@dimp=\dimen127
+\pst@hbox=\box27
+\pst@ibox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count110
+\pst@cntb=\count111
+\pst@cntc=\count112
+\pst@cntd=\count113
+\pst@cntg=\count114
+\pst@cnth=\count115
+\pst@cntm=\count116
+\pst@cntn=\count117
+\pst@cnto=\count118
+\pst@cntp=\count119
+\@zero=\count120
+\pst@toks=\toks26
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen128
+\psxunit=\dimen129
+\psyunit=\dimen130
+\pst@C@@rType=\count121
+\pslinewidth=\dimen131
+\psk@startLW=\dimen132
+\psk@endLW=\dimen133
+\pst@customdefs=\toks27
+\pslinearc=\dimen134
+\pst@symbolStep=\dimen135
+\pst@symbolWidth=\dimen136
+\pst@symbolLinewidth=\dimen137
+\everypsbox=\toks28
+\psframesep=\dimen138
+\pslabelsep=\dimen139
+\sh@wgridXunit=\dimen140
+\sh@wgridYunit=\dimen141
+\pst@shift=\dimen142
+)
+File: pstricks.tex 2018/01/06 v2.82 `PSTricks' (tvz,hv)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2018/01/06 v2.82 `PST-fp' (hv)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pst-node/pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pst-node/pst-node.tex
+ v1.41, 2017/12/30
+\psrow=\count122
+\pscol=\count123
+\psmatrixcnt=\count124
+\psrowsep=\skip49
+\pscolsep=\skip50
+\pst@args=\count125
+\num@pts=\count126
+\pst@argcnt=\count127
+)
+File: pst-node.tex 2017/12/30 1.41 `pst-node' (tvz,hv)
+)
+\c@fileFrom=\count128
+\c@rankFrom=\count129
+\c@fileTo=\count130
+\c@rankTo=\count131
+\c@ps@inverse=\count132
+\c@ps@knightangle=\count133
+\c@halfmove=\count134
+\c@move=\count135
+\c@helpgobble=\count136
+\c@helpnumber=\count137
+\c@helpnumberMove=\count138
+\squarelength=\skip51
+\square@multiplier=\count139
+\ranklift=\skip52
+LaTeX Font Info:    Try loading font information for LSB+skaknew on input line 
+1774.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbskaknew.fd
+File: lsbskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+\store@toks=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak.sty
+Package: xskak 2015/01/02 version v1.4 extended chess typesetting and parsing
+
+(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard.sty
+Package: chessboard 2014/05/01 version v1.7 print chessboards
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box30
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+)
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count141
+\c@pgf@countb=\count142
+\c@pgf@countc=\count143
+\c@pgf@countd=\count144
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-tex4ht.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-tex4ht.def
+File: pgfsys-tex4ht.def 2013/08/06  (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-svg.de
+f
+File: pgfsys-common-svg.def 2013/08/28  (rcs-revision 1.24)
+\pgf@sys@svg@objectcount=\count145
+\pgf@sys@svg@scopecount=\count146
+)
+\pgf@sys@svg@picnum=\count147
+\pgf@sys@svg@nodenum=\count148
+\pgfsys@foreignobject@Box=\box31
+\pgf@s=\dimen155
+\pgf@t=\dimen156
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count149
+\pgfsyssoftpath@bigbuffer@items=\count150
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen157
+\pgf@picmaxx=\dimen158
+\pgf@picminy=\dimen159
+\pgf@picmaxy=\dimen160
+\pgf@pathminx=\dimen161
+\pgf@pathmaxx=\dimen162
+\pgf@pathminy=\dimen163
+\pgf@pathmaxy=\dimen164
+\pgf@xx=\dimen165
+\pgf@xy=\dimen166
+\pgf@yx=\dimen167
+\pgf@yy=\dimen168
+\pgf@zx=\dimen169
+\pgf@zy=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen171
+\pgf@path@lasty=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen173
+\pgf@shorten@start@additional=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count151
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen176
+\pgf@pt@y=\dimen177
+\pgf@pt@temp=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen179
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count152
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box36
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen185
+)
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikzleveldistance=\dimen190
+\tikzsiblingdistance=\dimen191
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
+)
+\tikz@expandcount=\count161
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\len@board@tempx=\skip53
+\len@board@tempy=\skip54
+\c@cnt@board@file=\count162
+\c@cnt@board@rank=\count163
+\c@cnt@board=\count164
+\c@filelabel=\count165
+\c@ranklabel=\count166
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-main.sty
+File: chessboard-keys-main.sty 2014/05/01 version v1.7 key definitions for ches
+sboard.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-pgf.sty
+File: chessboard-keys-pgf.sty 2014/05/01 version v1.7 key definitions for chess
+board.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-pgf.sty
+File: chessboard-pgf.sty 2014/05/01 version v1.7 pgf code for chessboard.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-keys.sty
+File: xskak-keys.sty 2015/01/02 version v1.4 key definitions for xskak.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-nagdef.sty
+File: xskak-nagdef.sty 2015/01/02 version v1.4 nag definitions for xskak.sty
+)
+LaTeX Info: Redefining \variation on input line 1472.
+)
+(./configfile.cfg (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2017-05-09-09:21
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2018-02-11-15:01
+
+--- needs --- tex4ht WoodPBeginners ---
+\tmp:cnt=\count167
+\openout15 = `WoodPBeginners.tmp'.
+
+(./WoodPBeginners.tmp)
+\tmp:dim=\skip55
+ (./WoodPBeginners.xref)
+\:refout=\write4
+\openout4 = `WoodPBeginners.xref'.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html,xhtml
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+\:tokwrite=\toks36
+\:tokpage=\toks37
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `WoodPBeginners.4ct'.
+
+\:tocout=\write5
+\openout5 = `WoodPBeginners.4tc'.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2018-01-12-14:38
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/book.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)) (./skak.4ht) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pstricks.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2017-04-28-08:47
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pgf.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/everyshi.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2017-10-21-16:16
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphics.4ht
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(./WoodPBeginners.aux)
+\openout1 = `WoodPBeginners.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSB/skaknew/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSF/skaknew/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for LSF+skaknew on input line 
+12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfskaknew.fd
+File: lsfskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSI/skaknew/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for LSI+skaknew on input line 
+12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsiskaknew.fd
+File: lsiskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+--- file WoodPBeginners.css ---
+) [1
+
+] [2
+
+]
+(./WoodPBeginners.4ct [3] [4] [5] [6] [7]) [8]
+Chapter 1.
+l. 11 Writing WoodPBeginners.idv[1] (WoodPBeginners0x.png)
+[9
+
+] [10
+
+]
+l. 17 Writing WoodPBeginners.idv[2] (WoodPBeginners1x.png)
+ [11] [12
+
+]
+l. 29 Writing WoodPBeginners.idv[3] (WoodPBeginners2x.png)
+ [13] [14
+
+]
+l. 35 Writing WoodPBeginners.idv[4] (WoodPBeginners3x.png)
+ [15] [16
+
+]
+l. 47 Writing WoodPBeginners.idv[5] (WoodPBeginners4x.png)
+ [17] [18
+
+]
+l. 53 Writing WoodPBeginners.idv[6] (WoodPBeginners5x.png)
+ [19] [20
+
+]
+l. 65 Writing WoodPBeginners.idv[7] (WoodPBeginners6x.png)
+ [21] [22
+
+]
+l. 71 Writing WoodPBeginners.idv[8] (WoodPBeginners7x.png)
+ [23]
+[24
+
+]
+l. 83 Writing WoodPBeginners.idv[9] (WoodPBeginners8x.png)
+ [25] [26
+
+]
+l. 89 Writing WoodPBeginners.idv[10] (WoodPBeginners9x.png)
+ [27] [28
+
+]
+l. 101 Writing WoodPBeginners.idv[11] (WoodPBeginners10x.png)
+ [29] [30
+
+]
+l. 107 Writing WoodPBeginners.idv[12] (WoodPBeginners11x.png)
+ [31] [32
+
+]
+l. 119 Writing WoodPBeginners.idv[13] (WoodPBeginners12x.png)
+ [33] [34
+
+]
+l. 125 Writing WoodPBeginners.idv[14] (WoodPBeginners13x.png)
+ [35] [36
+
+]
+l. 141 Writing WoodPBeginners.idv[15] (WoodPBeginners14x.png)
+ [37] [38
+
+]
+l. 147 Writing WoodPBeginners.idv[16] (WoodPBeginners15x.png)
+
+[39] [40
+
+]
+l. 159 Writing WoodPBeginners.idv[17] (WoodPBeginners16x.png)
+ [41] [42
+
+]
+l. 165 Writing WoodPBeginners.idv[18] (WoodPBeginners17x.png)
+ [43] [44
+
+]
+l. 181 Writing WoodPBeginners.idv[19] (WoodPBeginners18x.png)
+ [45] [46
+
+]
+l. 187 Writing WoodPBeginners.idv[20] (WoodPBeginners19x.png)
+ [47] [48
+
+]
+l. 199 Writing WoodPBeginners.idv[21] (WoodPBeginners20x.png)
+ [49] [50
+
+]
+l. 205 Writing WoodPBeginners.idv[22] (WoodPBeginners21x.png)
+ [51] [52
+
+]
+l. 225 Writing WoodPBeginners.idv[23] (WoodPBeginners22x.png)
+ [53]
+[54
+
+]
+l. 231 Writing WoodPBeginners.idv[24] (WoodPBeginners23x.png)
+ [55] [56
+
+]
+l. 243 Writing WoodPBeginners.idv[25] (WoodPBeginners24x.png)
+ [57] [58
+
+]
+l. 249 Writing WoodPBeginners.idv[26] (WoodPBeginners25x.png)
+ [59] [60
+
+]
+l. 261 Writing WoodPBeginners.idv[27] (WoodPBeginners26x.png)
+ [61] [62
+
+]
+l. 267 Writing WoodPBeginners.idv[28] (WoodPBeginners27x.png)
+ [63] [64
+
+]
+l. 283 Writing WoodPBeginners.idv[29] (WoodPBeginners28x.png)
+ [65] [66
+
+]
+l. 289 Writing WoodPBeginners.idv[30] (WoodPBeginners29x.png)
+ [67] [68
+
+]
+l. 301 Writing WoodPBeginners.idv[31] (WoodPBeginners30x.png)
+
+[69] [70
+
+]
+l. 307 Writing WoodPBeginners.idv[32] (WoodPBeginners31x.png)
+ [71] [72
+
+]
+l. 323 Writing WoodPBeginners.idv[33] (WoodPBeginners32x.png)
+ [73] [74
+
+]
+l. 329 Writing WoodPBeginners.idv[34] (WoodPBeginners33x.png)
+ [75] [76
+
+]
+l. 341 Writing WoodPBeginners.idv[35] (WoodPBeginners34x.png)
+ [77] [78
+
+]
+l. 347 Writing WoodPBeginners.idv[36] (WoodPBeginners35x.png)
+ [79] [80
+
+]
+l. 359 Writing WoodPBeginners.idv[37] (WoodPBeginners36x.png)
+ [81] [82
+
+]
+l. 365 Writing WoodPBeginners.idv[38] (WoodPBeginners37x.png)
+ [83]
+[84
+
+]
+l. 381 Writing WoodPBeginners.idv[39] (WoodPBeginners38x.png)
+ [85] [86
+
+]
+l. 387 Writing WoodPBeginners.idv[40] (WoodPBeginners39x.png)
+ [87] [88
+
+]
+l. 403 Writing WoodPBeginners.idv[41] (WoodPBeginners40x.png)
+ [89] [90
+
+]
+l. 409 Writing WoodPBeginners.idv[42] (WoodPBeginners41x.png)
+ [91] [92
+
+]
+l. 425 Writing WoodPBeginners.idv[43] (WoodPBeginners42x.png)
+ [93] [94
+
+]
+l. 431 Writing WoodPBeginners.idv[44] (WoodPBeginners43x.png)
+
+
+LaTeX Font Warning: Font shape `LSF/skaknew/m/it' undefined
+(Font)              using `LSF/skaknew/m/n' instead on input line 436.
+
+
+LaTeX Font Warning: Font shape `LSI/skaknew/m/it' undefined
+(Font)              using `LSI/skaknew/m/n' instead on input line 436.
+
+[95] [96
+
+]
+l. 460 Writing WoodPBeginners.idv[45] (WoodPBeginners44x.png)
+ [97] [98
+
+]
+l. 466 Writing WoodPBeginners.idv[46] (WoodPBeginners45x.png)
+ [99] [100
+
+]
+l. 478 Writing WoodPBeginners.idv[47] (WoodPBeginners46x.png)
+ [101] [102
+
+]
+l. 484 Writing WoodPBeginners.idv[48] (WoodPBeginners47x.png)
+ [103] [104
+
+]
+l. 500 Writing WoodPBeginners.idv[49] (WoodPBeginners48x.png)
+ [105] [106
+
+]
+l. 506 Writing WoodPBeginners.idv[50] (WoodPBeginners49x.png)
+ [107]
+[108
+
+]
+l. 518 Writing WoodPBeginners.idv[51] (WoodPBeginners50x.png)
+ [109] [110
+
+]
+l. 524 Writing WoodPBeginners.idv[52] (WoodPBeginners51x.png)
+ [111] [112
+
+]
+l. 542 Writing WoodPBeginners.idv[53] (WoodPBeginners52x.png)
+ [113] [114
+
+]
+l. 548 Writing WoodPBeginners.idv[54] (WoodPBeginners53x.png)
+ [115] [116
+
+]
+l. 560 Writing WoodPBeginners.idv[55] (WoodPBeginners54x.png)
+ [117] [118
+
+]
+l. 566 Writing WoodPBeginners.idv[56] (WoodPBeginners55x.png)
+ [119]
+[120
+
+]
+l. 582 Writing WoodPBeginners.idv[57] (WoodPBeginners56x.png)
+ [121] [122
+
+]
+l. 588 Writing WoodPBeginners.idv[58] (WoodPBeginners57x.png)
+ [123] [124
+
+]
+l. 600 Writing WoodPBeginners.idv[59] (WoodPBeginners58x.png)
+ [125] [126
+
+]
+l. 606 Writing WoodPBeginners.idv[60] (WoodPBeginners59x.png)
+ [127] [128
+
+]
+l. 618 Writing WoodPBeginners.idv[61] (WoodPBeginners60x.png)
+ [129] [130
+
+]
+l. 624 Writing WoodPBeginners.idv[62] (WoodPBeginners61x.png)
+ [131]
+[132
+
+]
+l. 636 Writing WoodPBeginners.idv[63] (WoodPBeginners62x.png)
+ [133] [134
+
+]
+l. 642 Writing WoodPBeginners.idv[64] (WoodPBeginners63x.png)
+ [135] [136
+
+]
+l. 654 Writing WoodPBeginners.idv[65] (WoodPBeginners64x.png)
+ [137] [138
+
+]
+l. 660 Writing WoodPBeginners.idv[66] (WoodPBeginners65x.png)
+ [139] [140
+
+]
+l. 676 Writing WoodPBeginners.idv[67] (WoodPBeginners66x.png)
+ [141] [142
+
+]
+l. 682 Writing WoodPBeginners.idv[68] (WoodPBeginners67x.png)
+ [143]
+[144
+
+]
+l. 694 Writing WoodPBeginners.idv[69] (WoodPBeginners68x.png)
+ [145] [146
+
+]
+l. 700 Writing WoodPBeginners.idv[70] (WoodPBeginners69x.png)
+ [147] [148
+
+]
+l. 712 Writing WoodPBeginners.idv[71] (WoodPBeginners70x.png)
+ [149] [150
+
+]
+l. 718 Writing WoodPBeginners.idv[72] (WoodPBeginners71x.png)
+ [151] [152
+
+]
+l. 730 Writing WoodPBeginners.idv[73] (WoodPBeginners72x.png)
+ [153] [154
+
+]
+l. 736 Writing WoodPBeginners.idv[74] (WoodPBeginners73x.png)
+ [155]
+[156
+
+]
+l. 748 Writing WoodPBeginners.idv[75] (WoodPBeginners74x.png)
+ [157] [158
+
+]
+l. 754 Writing WoodPBeginners.idv[76] (WoodPBeginners75x.png)
+ [159] [160
+
+]
+l. 770 Writing WoodPBeginners.idv[77] (WoodPBeginners76x.png)
+ [161] [162
+
+]
+l. 776 Writing WoodPBeginners.idv[78] (WoodPBeginners77x.png)
+ [163] [164
+
+]
+l. 792 Writing WoodPBeginners.idv[79] (WoodPBeginners78x.png)
+ [165] [166
+
+]
+l. 798 Writing WoodPBeginners.idv[80] (WoodPBeginners79x.png)
+ [167]
+[168
+
+]
+l. 814 Writing WoodPBeginners.idv[81] (WoodPBeginners80x.png)
+ [169] [170
+
+]
+l. 820 Writing WoodPBeginners.idv[82] (WoodPBeginners81x.png)
+ [171] [172
+
+]
+l. 836 Writing WoodPBeginners.idv[83] (WoodPBeginners82x.png)
+ [173] [174
+
+]
+l. 842 Writing WoodPBeginners.idv[84] (WoodPBeginners83x.png)
+ [175] [176
+
+]
+l. 854 Writing WoodPBeginners.idv[85] (WoodPBeginners84x.png)
+ [177] [178
+
+]
+l. 860 Writing WoodPBeginners.idv[86] (WoodPBeginners85x.png)
+ [179]
+[180
+
+]
+l. 876 Writing WoodPBeginners.idv[87] (WoodPBeginners86x.png)
+ [181] [182
+
+]
+l. 882 Writing WoodPBeginners.idv[88] (WoodPBeginners87x.png)
+ [183] [184
+
+]
+l. 894 Writing WoodPBeginners.idv[89] (WoodPBeginners88x.png)
+ [185] [186
+
+]
+l. 900 Writing WoodPBeginners.idv[90] (WoodPBeginners89x.png)
+ [187] [188
+
+]
+l. 920 Writing WoodPBeginners.idv[91] (WoodPBeginners90x.png)
+ [189] [190
+
+]
+l. 926 Writing WoodPBeginners.idv[92] (WoodPBeginners91x.png)
+ [191]
+[192
+
+]
+l. 942 Writing WoodPBeginners.idv[93] (WoodPBeginners92x.png)
+ [193] [194
+
+]
+l. 948 Writing WoodPBeginners.idv[94] (WoodPBeginners93x.png)
+ [195] [196
+
+]
+l. 960 Writing WoodPBeginners.idv[95] (WoodPBeginners94x.png)
+ [197] [198
+
+]
+l. 966 Writing WoodPBeginners.idv[96] (WoodPBeginners95x.png)
+ [199] [200
+
+]
+l. 978 Writing WoodPBeginners.idv[97] (WoodPBeginners96x.png)
+ [201] [202
+
+]
+l. 984 Writing WoodPBeginners.idv[98] (WoodPBeginners97x.png)
+ [203]
+[204
+
+]
+l. 996 Writing WoodPBeginners.idv[99] (WoodPBeginners98x.png)
+ [205] [206
+
+]
+l. 1002 Writing WoodPBeginners.idv[100] (WoodPBeginners99x.png)
+ [207] [208
+
+]
+l. 1014 Writing WoodPBeginners.idv[101] (WoodPBeginners100x.png)
+ [209] [210
+
+]
+l. 1020 Writing WoodPBeginners.idv[102] (WoodPBeginners101x.png)
+ [211] [212
+
+]
+l. 1036 Writing WoodPBeginners.idv[103] (WoodPBeginners102x.png)
+ [213] [214
+
+]
+l. 1042 Writing WoodPBeginners.idv[104] (WoodPBeginners103x.png)
+ [215]
+[216
+
+]
+l. 1054 Writing WoodPBeginners.idv[105] (WoodPBeginners104x.png)
+ [217] [218
+
+]
+l. 1060 Writing WoodPBeginners.idv[106] (WoodPBeginners105x.png)
+ [219] [220
+
+]
+l. 1072 Writing WoodPBeginners.idv[107] (WoodPBeginners106x.png)
+ [221] [222
+
+]
+l. 1078 Writing WoodPBeginners.idv[108] (WoodPBeginners107x.png)
+ [223] [224
+
+]
+l. 1090 Writing WoodPBeginners.idv[109] (WoodPBeginners108x.png)
+ [225] [226
+
+]
+l. 1096 Writing WoodPBeginners.idv[110] (WoodPBeginners109x.png)
+ [227]
+[228
+
+]
+l. 1108 Writing WoodPBeginners.idv[111] (WoodPBeginners110x.png)
+ [229] [230
+
+]
+l. 1114 Writing WoodPBeginners.idv[112] (WoodPBeginners111x.png)
+ [231] [232
+
+]
+l. 1126 Writing WoodPBeginners.idv[113] (WoodPBeginners112x.png)
+ [233] [234
+
+]
+l. 1132 Writing WoodPBeginners.idv[114] (WoodPBeginners113x.png)
+ [235] [236
+
+]
+l. 1157 Writing WoodPBeginners.idv[115] (WoodPBeginners114x.png)
+ [237] [238
+
+]
+l. 1163 Writing WoodPBeginners.idv[116] (WoodPBeginners115x.png)
+ [239]
+[240
+
+]
+l. 1175 Writing WoodPBeginners.idv[117] (WoodPBeginners116x.png)
+ [241] [242
+
+]
+l. 1181 Writing WoodPBeginners.idv[118] (WoodPBeginners117x.png)
+ [243] [244
+
+]
+l. 1202 Writing WoodPBeginners.idv[119] (WoodPBeginners118x.png)
+ [245] [246
+
+]
+l. 1208 Writing WoodPBeginners.idv[120] (WoodPBeginners119x.png)
+ [247] [248
+
+]
+l. 1224 Writing WoodPBeginners.idv[121] (WoodPBeginners120x.png)
+ [249] [250
+
+]
+l. 1230 Writing WoodPBeginners.idv[122] (WoodPBeginners121x.png)
+ [251]
+[252
+
+]
+l. 1242 Writing WoodPBeginners.idv[123] (WoodPBeginners122x.png)
+ [253] [254
+
+]
+l. 1248 Writing WoodPBeginners.idv[124] (WoodPBeginners123x.png)
+ [255] [256
+
+]
+l. 1264 Writing WoodPBeginners.idv[125] (WoodPBeginners124x.png)
+ [257] [258
+
+]
+l. 1270 Writing WoodPBeginners.idv[126] (WoodPBeginners125x.png)
+ [259] [260
+
+]
+l. 1282 Writing WoodPBeginners.idv[127] (WoodPBeginners126x.png)
+ [261] [262
+
+]
+l. 1288 Writing WoodPBeginners.idv[128] (WoodPBeginners127x.png)
+ [263]
+[264
+
+]
+l. 1304 Writing WoodPBeginners.idv[129] (WoodPBeginners128x.png)
+ [265] [266
+
+]
+l. 1310 Writing WoodPBeginners.idv[130] (WoodPBeginners129x.png)
+ [267] [268
+
+]
+l. 1322 Writing WoodPBeginners.idv[131] (WoodPBeginners130x.png)
+ [269] [270
+
+]
+l. 1328 Writing WoodPBeginners.idv[132] (WoodPBeginners131x.png)
+ [271] [272
+
+]
+l. 1350 Writing WoodPBeginners.idv[133] (WoodPBeginners132x.png)
+ [273] [274
+
+]
+l. 1356 Writing WoodPBeginners.idv[134] (WoodPBeginners133x.png)
+ [275]
+[276
+
+]
+l. 1372 Writing WoodPBeginners.idv[135] (WoodPBeginners134x.png)
+ [277] [278
+
+]
+l. 1378 Writing WoodPBeginners.idv[136] (WoodPBeginners135x.png)
+ [279] [280
+
+]
+l. 1390 Writing WoodPBeginners.idv[137] (WoodPBeginners136x.png)
+ [281] [282
+
+]
+l. 1396 Writing WoodPBeginners.idv[138] (WoodPBeginners137x.png)
+ [283] [284
+
+]
+l. 1408 Writing WoodPBeginners.idv[139] (WoodPBeginners138x.png)
+ [285] [286
+
+]
+l. 1414 Writing WoodPBeginners.idv[140] (WoodPBeginners139x.png)
+ [287]
+[288
+
+]
+l. 1426 Writing WoodPBeginners.idv[141] (WoodPBeginners140x.png)
+ [289] [290
+
+]
+l. 1432 Writing WoodPBeginners.idv[142] (WoodPBeginners141x.png)
+ [291] [292
+
+]
+l. 1444 Writing WoodPBeginners.idv[143] (WoodPBeginners142x.png)
+ [293] [294
+
+]
+l. 1450 Writing WoodPBeginners.idv[144] (WoodPBeginners143x.png)
+ [295] [296
+
+]
+l. 1462 Writing WoodPBeginners.idv[145] (WoodPBeginners144x.png)
+ [297] [298
+
+]
+l. 1468 Writing WoodPBeginners.idv[146] (WoodPBeginners145x.png)
+ [299]
+[300
+
+]
+l. 1480 Writing WoodPBeginners.idv[147] (WoodPBeginners146x.png)
+ [301] [302
+
+]
+l. 1486 Writing WoodPBeginners.idv[148] (WoodPBeginners147x.png)
+ [303] [304
+
+]
+l. 1498 Writing WoodPBeginners.idv[149] (WoodPBeginners148x.png)
+ [305] [306
+
+]
+l. 1504 Writing WoodPBeginners.idv[150] (WoodPBeginners149x.png)
+ [307] [308
+
+]
+l. 1516 Writing WoodPBeginners.idv[151] (WoodPBeginners150x.png)
+ [309] [310
+
+]
+l. 1522 Writing WoodPBeginners.idv[152] (WoodPBeginners151x.png)
+ [311]
+[312
+
+]
+l. 1534 Writing WoodPBeginners.idv[153] (WoodPBeginners152x.png)
+ [313] [314
+
+]
+l. 1540 Writing WoodPBeginners.idv[154] (WoodPBeginners153x.png)
+ [315] [316
+
+]
+l. 1556 Writing WoodPBeginners.idv[155] (WoodPBeginners154x.png)
+ [317] [318
+
+]
+l. 1562 Writing WoodPBeginners.idv[156] (WoodPBeginners155x.png)
+ [319] [320
+
+]
+l. 1578 Writing WoodPBeginners.idv[157] (WoodPBeginners156x.png)
+ [321] [322
+
+]
+l. 1584 Writing WoodPBeginners.idv[158] (WoodPBeginners157x.png)
+ [323]
+[324
+
+]
+l. 1600 Writing WoodPBeginners.idv[159] (WoodPBeginners158x.png)
+ [325] [326
+
+]
+l. 1606 Writing WoodPBeginners.idv[160] (WoodPBeginners159x.png)
+ [327] [328
+
+]
+l. 1622 Writing WoodPBeginners.idv[161] (WoodPBeginners160x.png)
+ [329] [330
+
+]
+l. 1628 Writing WoodPBeginners.idv[162] (WoodPBeginners161x.png)
+ [331] [332
+
+]
+l. 1640 Writing WoodPBeginners.idv[163] (WoodPBeginners162x.png)
+ [333] [334
+
+]
+l. 1646 Writing WoodPBeginners.idv[164] (WoodPBeginners163x.png)
+ [335]
+[336
+
+]
+l. 1658 Writing WoodPBeginners.idv[165] (WoodPBeginners164x.png)
+ [337] [338
+
+]
+l. 1664 Writing WoodPBeginners.idv[166] (WoodPBeginners165x.png)
+ [339] [340
+
+]
+l. 1676 Writing WoodPBeginners.idv[167] (WoodPBeginners166x.png)
+ [341] [342
+
+]
+l. 1682 Writing WoodPBeginners.idv[168] (WoodPBeginners167x.png)
+ [343] [344
+
+]
+l. 1698 Writing WoodPBeginners.idv[169] (WoodPBeginners168x.png)
+ [345] [346
+
+]
+l. 1704 Writing WoodPBeginners.idv[170] (WoodPBeginners169x.png)
+ [347]
+[348
+
+]
+l. 1720 Writing WoodPBeginners.idv[171] (WoodPBeginners170x.png)
+ [349] [350
+
+]
+l. 1726 Writing WoodPBeginners.idv[172] (WoodPBeginners171x.png)
+ [351] [352
+
+]
+l. 1738 Writing WoodPBeginners.idv[173] (WoodPBeginners172x.png)
+ [353] [354
+
+]
+l. 1744 Writing WoodPBeginners.idv[174] (WoodPBeginners173x.png)
+ [355] [356
+
+]
+l. 1760 Writing WoodPBeginners.idv[175] (WoodPBeginners174x.png)
+ [357] [358
+
+]
+l. 1766 Writing WoodPBeginners.idv[176] (WoodPBeginners175x.png)
+ [359]
+[360
+
+]
+l. 1778 Writing WoodPBeginners.idv[177] (WoodPBeginners176x.png)
+ [361] [362
+
+]
+l. 1784 Writing WoodPBeginners.idv[178] (WoodPBeginners177x.png)
+ [363] [364
+
+]
+l. 1796 Writing WoodPBeginners.idv[179] (WoodPBeginners178x.png)
+ [365] [366
+
+]
+l. 1802 Writing WoodPBeginners.idv[180] (WoodPBeginners179x.png)
+ [367] [368
+
+]
+l. 1814 Writing WoodPBeginners.idv[181] (WoodPBeginners180x.png)
+ [369] [370
+
+]
+l. 1820 Writing WoodPBeginners.idv[182] (WoodPBeginners181x.png)
+ [371]
+[372
+
+]
+l. 1832 Writing WoodPBeginners.idv[183] (WoodPBeginners182x.png)
+ [373] [374
+
+]
+l. 1838 Writing WoodPBeginners.idv[184] (WoodPBeginners183x.png)
+ [375] [376
+
+]
+l. 1854 Writing WoodPBeginners.idv[185] (WoodPBeginners184x.png)
+ [377] [378
+
+]
+l. 1860 Writing WoodPBeginners.idv[186] (WoodPBeginners185x.png)
+ [379] [380
+
+]
+l. 1876 Writing WoodPBeginners.idv[187] (WoodPBeginners186x.png)
+ [381] [382
+
+]
+l. 1882 Writing WoodPBeginners.idv[188] (WoodPBeginners187x.png)
+ [383]
+[384
+
+]
+l. 1900 Writing WoodPBeginners.idv[189] (WoodPBeginners188x.png)
+ [385] [386
+
+]
+l. 1906 Writing WoodPBeginners.idv[190] (WoodPBeginners189x.png)
+ [387] [388
+
+]
+l. 1922 Writing WoodPBeginners.idv[191] (WoodPBeginners190x.png)
+ [389] [390
+
+]
+l. 1928 Writing WoodPBeginners.idv[192] (WoodPBeginners191x.png)
+ [391] [392
+
+]
+l. 1940 Writing WoodPBeginners.idv[193] (WoodPBeginners192x.png)
+ [393] [394
+
+]
+l. 1946 Writing WoodPBeginners.idv[194] (WoodPBeginners193x.png)
+ [395]
+[396
+
+]
+l. 1958 Writing WoodPBeginners.idv[195] (WoodPBeginners194x.png)
+ [397] [398
+
+]
+l. 1964 Writing WoodPBeginners.idv[196] (WoodPBeginners195x.png)
+ [399] [400
+
+]
+l. 1976 Writing WoodPBeginners.idv[197] (WoodPBeginners196x.png)
+ [401] [402
+
+]
+l. 1982 Writing WoodPBeginners.idv[198] (WoodPBeginners197x.png)
+ [403] [404
+
+]
+l. 1994 Writing WoodPBeginners.idv[199] (WoodPBeginners198x.png)
+ [405] [406
+
+]
+l. 2000 Writing WoodPBeginners.idv[200] (WoodPBeginners199x.png)
+ [407]
+[408
+
+]
+l. 2016 Writing WoodPBeginners.idv[201] (WoodPBeginners200x.png)
+ [409] [410
+
+]
+l. 2022 Writing WoodPBeginners.idv[202] (WoodPBeginners201x.png)
+ [411] [412
+
+]
+l. 2038 Writing WoodPBeginners.idv[203] (WoodPBeginners202x.png)
+ [413] [414
+
+]
+l. 2044 Writing WoodPBeginners.idv[204] (WoodPBeginners203x.png)
+ [415] [416
+
+]
+l. 2064 Writing WoodPBeginners.idv[205] (WoodPBeginners204x.png)
+ [417] [418
+
+]
+l. 2070 Writing WoodPBeginners.idv[206] (WoodPBeginners205x.png)
+ [419]
+[420
+
+]
+l. 2086 Writing WoodPBeginners.idv[207] (WoodPBeginners206x.png)
+ [421] [422
+
+]
+l. 2092 Writing WoodPBeginners.idv[208] (WoodPBeginners207x.png)
+ [423] [424
+
+]
+l. 2104 Writing WoodPBeginners.idv[209] (WoodPBeginners208x.png)
+ [425] [426
+
+]
+l. 2110 Writing WoodPBeginners.idv[210] (WoodPBeginners209x.png)
+ [427] [428
+
+]
+l. 2126 Writing WoodPBeginners.idv[211] (WoodPBeginners210x.png)
+ [429] [430
+
+]
+l. 2132 Writing WoodPBeginners.idv[212] (WoodPBeginners211x.png)
+ [431]
+[432
+
+]
+l. 2144 Writing WoodPBeginners.idv[213] (WoodPBeginners212x.png)
+ [433] [434
+
+]
+l. 2150 Writing WoodPBeginners.idv[214] (WoodPBeginners213x.png)
+ [435] [436
+
+]
+l. 2166 Writing WoodPBeginners.idv[215] (WoodPBeginners214x.png)
+ [437] [438
+
+]
+l. 2172 Writing WoodPBeginners.idv[216] (WoodPBeginners215x.png)
+ [439] [440
+
+]
+l. 2188 Writing WoodPBeginners.idv[217] (WoodPBeginners216x.png)
+ [441] [442
+
+]
+l. 2194 Writing WoodPBeginners.idv[218] (WoodPBeginners217x.png)
+ [443]
+[444
+
+]
+l. 2206 Writing WoodPBeginners.idv[219] (WoodPBeginners218x.png)
+ [445] [446
+
+]
+l. 2212 Writing WoodPBeginners.idv[220] (WoodPBeginners219x.png)
+ [447] [448
+
+]
+l. 2233 Writing WoodPBeginners.idv[221] (WoodPBeginners220x.png)
+ [449] [450
+
+]
+l. 2239 Writing WoodPBeginners.idv[222] (WoodPBeginners221x.png)
+ [451] [452
+
+]
+l. 2255 Writing WoodPBeginners.idv[223] (WoodPBeginners222x.png)
+ [453] [454
+
+]
+l. 2261 Writing WoodPBeginners.idv[224] (WoodPBeginners223x.png)
+ [455]
+[456
+
+]
+l. 2283 Writing WoodPBeginners.idv[225] (WoodPBeginners224x.png)
+ [457] [458
+
+]
+l. 2289 Writing WoodPBeginners.idv[226] (WoodPBeginners225x.png)
+ [459] [460
+
+]
+l. 2305 Writing WoodPBeginners.idv[227] (WoodPBeginners226x.png)
+ [461] [462
+
+]
+l. 2311 Writing WoodPBeginners.idv[228] (WoodPBeginners227x.png)
+ [463] [464
+
+]
+l. 2329 Writing WoodPBeginners.idv[229] (WoodPBeginners228x.png)
+ [465] [466
+
+]
+l. 2335 Writing WoodPBeginners.idv[230] (WoodPBeginners229x.png)
+ [467]
+[468
+
+]
+l. 2347 Writing WoodPBeginners.idv[231] (WoodPBeginners230x.png)
+ [469] [470
+
+]
+l. 2353 Writing WoodPBeginners.idv[232] (WoodPBeginners231x.png)
+ [471] [472
+
+]
+l. 2369 Writing WoodPBeginners.idv[233] (WoodPBeginners232x.png)
+ [473] [474
+
+]
+l. 2375 Writing WoodPBeginners.idv[234] (WoodPBeginners233x.png)
+ [475] [476
+
+]
+l. 2393 Writing WoodPBeginners.idv[235] (WoodPBeginners234x.png)
+ [477] [478
+
+]
+l. 2399 Writing WoodPBeginners.idv[236] (WoodPBeginners235x.png)
+ [479]
+[480
+
+]
+l. 2411 Writing WoodPBeginners.idv[237] (WoodPBeginners236x.png)
+ [481] [482
+
+]
+l. 2417 Writing WoodPBeginners.idv[238] (WoodPBeginners237x.png)
+ [483] [484
+
+]
+l. 2433 Writing WoodPBeginners.idv[239] (WoodPBeginners238x.png)
+ [485] [486
+
+]
+l. 2439 Writing WoodPBeginners.idv[240] (WoodPBeginners239x.png)
+ [487] [488
+
+]
+l. 2455 Writing WoodPBeginners.idv[241] (WoodPBeginners240x.png)
+ [489] [490
+
+]
+l. 2461 Writing WoodPBeginners.idv[242] (WoodPBeginners241x.png)
+ [491]
+[492
+
+]
+l. 2473 Writing WoodPBeginners.idv[243] (WoodPBeginners242x.png)
+ [493] [494
+
+]
+l. 2479 Writing WoodPBeginners.idv[244] (WoodPBeginners243x.png)
+ [495] [496
+
+]
+l. 2491 Writing WoodPBeginners.idv[245] (WoodPBeginners244x.png)
+ [497] [498
+
+]
+l. 2497 Writing WoodPBeginners.idv[246] (WoodPBeginners245x.png)
+ [499] [500
+
+]
+l. 2513 Writing WoodPBeginners.idv[247] (WoodPBeginners246x.png)
+ [501] [502
+
+]
+l. 2519 Writing WoodPBeginners.idv[248] (WoodPBeginners247x.png)
+ [503]
+[504
+
+]
+l. 2531 Writing WoodPBeginners.idv[249] (WoodPBeginners248x.png)
+ [505] [506
+
+]
+l. 2537 Writing WoodPBeginners.idv[250] (WoodPBeginners249x.png)
+ [507] [508
+
+]
+l. 2549 Writing WoodPBeginners.idv[251] (WoodPBeginners250x.png)
+ [509] [510
+
+]
+l. 2555 Writing WoodPBeginners.idv[252] (WoodPBeginners251x.png)
+ [511] [512
+
+]
+l. 2567 Writing WoodPBeginners.idv[253] (WoodPBeginners252x.png)
+ [513] [514
+
+]
+l. 2573 Writing WoodPBeginners.idv[254] (WoodPBeginners253x.png)
+ [515]
+[516
+
+]
+l. 2589 Writing WoodPBeginners.idv[255] (WoodPBeginners254x.png)
+ [517] [518
+
+]
+l. 2595 Writing WoodPBeginners.idv[256] (WoodPBeginners255x.png)
+ [519] [520
+
+]
+l. 2611 Writing WoodPBeginners.idv[257] (WoodPBeginners256x.png)
+ [521] [522
+
+]
+l. 2617 Writing WoodPBeginners.idv[258] (WoodPBeginners257x.png)
+ [523] [524
+
+]
+l. 2629 Writing WoodPBeginners.idv[259] (WoodPBeginners258x.png)
+ [525] [526
+
+]
+l. 2635 Writing WoodPBeginners.idv[260] (WoodPBeginners259x.png)
+ [527]
+[528
+
+]
+l. 2659 Writing WoodPBeginners.idv[261] (WoodPBeginners260x.png)
+ [529] [530
+
+]
+l. 2665 Writing WoodPBeginners.idv[262] (WoodPBeginners261x.png)
+ [531] [532
+
+]
+l. 2677 Writing WoodPBeginners.idv[263] (WoodPBeginners262x.png)
+ [533] [534
+
+]
+l. 2683 Writing WoodPBeginners.idv[264] (WoodPBeginners263x.png)
+ [535] [536
+
+]
+l. 2705 Writing WoodPBeginners.idv[265] (WoodPBeginners264x.png)
+ [537] [538
+
+]
+l. 2711 Writing WoodPBeginners.idv[266] (WoodPBeginners265x.png)
+ [539]
+[540
+
+]
+l. 2723 Writing WoodPBeginners.idv[267] (WoodPBeginners266x.png)
+ [541] [542
+
+]
+l. 2729 Writing WoodPBeginners.idv[268] (WoodPBeginners267x.png)
+ [543] [544
+
+]
+l. 2745 Writing WoodPBeginners.idv[269] (WoodPBeginners268x.png)
+ [545] [546
+
+]
+l. 2751 Writing WoodPBeginners.idv[270] (WoodPBeginners269x.png)
+ [547] [548
+
+]
+l. 2767 Writing WoodPBeginners.idv[271] (WoodPBeginners270x.png)
+ [549] [550
+
+]
+l. 2773 Writing WoodPBeginners.idv[272] (WoodPBeginners271x.png)
+ [551]
+[552
+
+]
+l. 2785 Writing WoodPBeginners.idv[273] (WoodPBeginners272x.png)
+ [553] [554
+
+]
+l. 2791 Writing WoodPBeginners.idv[274] (WoodPBeginners273x.png)
+ [555] [556
+
+]
+l. 2803 Writing WoodPBeginners.idv[275] (WoodPBeginners274x.png)
+ [557] [558
+
+]
+l. 2809 Writing WoodPBeginners.idv[276] (WoodPBeginners275x.png)
+ [559] [560
+
+]
+l. 2829 Writing WoodPBeginners.idv[277] (WoodPBeginners276x.png)
+ [561] [562
+
+]
+l. 2835 Writing WoodPBeginners.idv[278] (WoodPBeginners277x.png)
+ [563]
+[564
+
+]
+l. 2851 Writing WoodPBeginners.idv[279] (WoodPBeginners278x.png)
+ [565] [566
+
+]
+l. 2857 Writing WoodPBeginners.idv[280] (WoodPBeginners279x.png)
+ [567] [568
+
+]
+l. 2873 Writing WoodPBeginners.idv[281] (WoodPBeginners280x.png)
+ [569] [570
+
+]
+l. 2879 Writing WoodPBeginners.idv[282] (WoodPBeginners281x.png)
+ [571] [572
+
+]
+l. 2895 Writing WoodPBeginners.idv[283] (WoodPBeginners282x.png)
+ [573] [574
+
+]
+l. 2901 Writing WoodPBeginners.idv[284] (WoodPBeginners283x.png)
+ [575]
+[576
+
+]
+l. 2919 Writing WoodPBeginners.idv[285] (WoodPBeginners284x.png)
+ [577] [578
+
+]
+l. 2925 Writing WoodPBeginners.idv[286] (WoodPBeginners285x.png)
+ [579] [580
+
+]
+l. 2945 Writing WoodPBeginners.idv[287] (WoodPBeginners286x.png)
+ [581] [582
+
+]
+l. 2951 Writing WoodPBeginners.idv[288] (WoodPBeginners287x.png)
+ [583] [584
+
+]
+l. 2972 Writing WoodPBeginners.idv[289] (WoodPBeginners288x.png)
+ [585] [586
+
+]
+l. 2978 Writing WoodPBeginners.idv[290] (WoodPBeginners289x.png)
+ [587]
+[588
+
+]
+l. 2994 Writing WoodPBeginners.idv[291] (WoodPBeginners290x.png)
+ [589] [590
+
+]
+l. 3000 Writing WoodPBeginners.idv[292] (WoodPBeginners291x.png)
+ [591] [592
+
+]
+l. 3012 Writing WoodPBeginners.idv[293] (WoodPBeginners292x.png)
+ [593] [594
+
+]
+l. 3018 Writing WoodPBeginners.idv[294] (WoodPBeginners293x.png)
+ [595] [596
+
+]
+l. 3034 Writing WoodPBeginners.idv[295] (WoodPBeginners294x.png)
+ [597] [598
+
+]
+l. 3040 Writing WoodPBeginners.idv[296] (WoodPBeginners295x.png)
+ [599]
+[600
+
+]
+l. 3058 Writing WoodPBeginners.idv[297] (WoodPBeginners296x.png)
+ [601] [602
+
+]
+l. 3064 Writing WoodPBeginners.idv[298] (WoodPBeginners297x.png)
+ [603] [604
+
+]
+l. 3088 Writing WoodPBeginners.idv[299] (WoodPBeginners298x.png)
+ [605] [606
+
+]
+l. 3094 Writing WoodPBeginners.idv[300] (WoodPBeginners299x.png)
+ [607] [608
+
+]
+l. 3106 Writing WoodPBeginners.idv[301] (WoodPBeginners300x.png)
+ [609] [610
+
+]
+l. 3112 Writing WoodPBeginners.idv[302] (WoodPBeginners301x.png)
+ [611]
+[612
+
+]
+l. 3124 Writing WoodPBeginners.idv[303] (WoodPBeginners302x.png)
+ [613] [614
+
+]
+l. 3130 Writing WoodPBeginners.idv[304] (WoodPBeginners303x.png)
+ [615] [616
+
+]
+l. 3142 Writing WoodPBeginners.idv[305] (WoodPBeginners304x.png)
+ [617] [618
+
+]
+l. 3148 Writing WoodPBeginners.idv[306] (WoodPBeginners305x.png)
+ [619] [620
+
+]
+l. 3160 Writing WoodPBeginners.idv[307] (WoodPBeginners306x.png)
+ [621] [622
+
+]
+l. 3166 Writing WoodPBeginners.idv[308] (WoodPBeginners307x.png)
+ [623]
+[624
+
+]
+l. 3189 Writing WoodPBeginners.idv[309] (WoodPBeginners308x.png)
+ [625] [626
+
+]
+l. 3195 Writing WoodPBeginners.idv[310] (WoodPBeginners309x.png)
+ [627] [628
+
+]
+l. 3215 Writing WoodPBeginners.idv[311] (WoodPBeginners310x.png)
+ [629] [630
+
+]
+l. 3221 Writing WoodPBeginners.idv[312] (WoodPBeginners311x.png)
+ [631] [632
+
+]
+l. 3233 Writing WoodPBeginners.idv[313] (WoodPBeginners312x.png)
+ [633] [634
+
+]
+l. 3239 Writing WoodPBeginners.idv[314] (WoodPBeginners313x.png)
+ [635]
+[636
+
+]
+l. 3251 Writing WoodPBeginners.idv[315] (WoodPBeginners314x.png)
+ [637] [638
+
+]
+l. 3257 Writing WoodPBeginners.idv[316] (WoodPBeginners315x.png)
+ [639] [640
+
+]
+l. 3277 Writing WoodPBeginners.idv[317] (WoodPBeginners316x.png)
+ [641] [642
+
+]
+l. 3283 Writing WoodPBeginners.idv[318] (WoodPBeginners317x.png)
+ [643] [644
+
+]
+l. 3295 Writing WoodPBeginners.idv[319] (WoodPBeginners318x.png)
+ [645] [646
+
+]
+l. 3301 Writing WoodPBeginners.idv[320] (WoodPBeginners319x.png)
+ [647]
+[648
+
+]
+l. 3317 Writing WoodPBeginners.idv[321] (WoodPBeginners320x.png)
+ [649] [650
+
+]
+l. 3323 Writing WoodPBeginners.idv[322] (WoodPBeginners321x.png)
+ [651] [652
+
+]
+l. 3339 Writing WoodPBeginners.idv[323] (WoodPBeginners322x.png)
+ [653] [654
+
+]
+l. 3345 Writing WoodPBeginners.idv[324] (WoodPBeginners323x.png)
+ [655] [656
+
+]
+l. 3361 Writing WoodPBeginners.idv[325] (WoodPBeginners324x.png)
+ [657] [658
+
+]
+l. 3367 Writing WoodPBeginners.idv[326] (WoodPBeginners325x.png)
+ [659]
+[660
+
+]
+l. 3379 Writing WoodPBeginners.idv[327] (WoodPBeginners326x.png)
+ [661] [662
+
+]
+l. 3385 Writing WoodPBeginners.idv[328] (WoodPBeginners327x.png)
+ [663] [664
+
+]
+l. 3401 Writing WoodPBeginners.idv[329] (WoodPBeginners328x.png)
+ [665] [666
+
+]
+l. 3407 Writing WoodPBeginners.idv[330] (WoodPBeginners329x.png)
+ [667] [668
+
+]
+l. 3419 Writing WoodPBeginners.idv[331] (WoodPBeginners330x.png)
+ [669] [670
+
+]
+l. 3425 Writing WoodPBeginners.idv[332] (WoodPBeginners331x.png)
+ [671]
+[672
+
+]
+l. 3447 Writing WoodPBeginners.idv[333] (WoodPBeginners332x.png)
+ [673] [674
+
+]
+l. 3453 Writing WoodPBeginners.idv[334] (WoodPBeginners333x.png)
+ [675] [676
+
+]
+l. 3469 Writing WoodPBeginners.idv[335] (WoodPBeginners334x.png)
+ [677] [678
+
+]
+l. 3475 Writing WoodPBeginners.idv[336] (WoodPBeginners335x.png)
+ [679] [680
+
+]
+l. 3491 Writing WoodPBeginners.idv[337] (WoodPBeginners336x.png)
+ [681] [682
+
+]
+l. 3497 Writing WoodPBeginners.idv[338] (WoodPBeginners337x.png)
+ [683]
+[684
+
+]
+l. 3509 Writing WoodPBeginners.idv[339] (WoodPBeginners338x.png)
+ [685] [686
+
+]
+l. 3515 Writing WoodPBeginners.idv[340] (WoodPBeginners339x.png)
+ [687] [688
+
+]
+l. 3531 Writing WoodPBeginners.idv[341] (WoodPBeginners340x.png)
+ [689] [690
+
+]
+l. 3537 Writing WoodPBeginners.idv[342] (WoodPBeginners341x.png)
+ [691] [692
+
+]
+l. 3553 Writing WoodPBeginners.idv[343] (WoodPBeginners342x.png)
+ [693] [694
+
+]
+l. 3559 Writing WoodPBeginners.idv[344] (WoodPBeginners343x.png)
+ [695]
+[696
+
+]
+l. 3571 Writing WoodPBeginners.idv[345] (WoodPBeginners344x.png)
+ [697] [698
+
+]
+l. 3577 Writing WoodPBeginners.idv[346] (WoodPBeginners345x.png)
+ [699] [700
+
+]
+l. 3589 Writing WoodPBeginners.idv[347] (WoodPBeginners346x.png)
+ [701] [702
+
+]
+l. 3595 Writing WoodPBeginners.idv[348] (WoodPBeginners347x.png)
+ [703] [704
+
+]
+l. 3607 Writing WoodPBeginners.idv[349] (WoodPBeginners348x.png)
+ [705] [706
+
+]
+l. 3613 Writing WoodPBeginners.idv[350] (WoodPBeginners349x.png)
+ [707]
+[708
+
+]
+l. 3629 Writing WoodPBeginners.idv[351] (WoodPBeginners350x.png)
+ [709] [710
+
+]
+l. 3635 Writing WoodPBeginners.idv[352] (WoodPBeginners351x.png)
+ [711] [712
+
+]
+l. 3647 Writing WoodPBeginners.idv[353] (WoodPBeginners352x.png)
+ [713] [714
+
+]
+l. 3653 Writing WoodPBeginners.idv[354] (WoodPBeginners353x.png)
+ [715] [716
+
+]
+l. 3669 Writing WoodPBeginners.idv[355] (WoodPBeginners354x.png)
+ [717] [718
+
+]
+l. 3675 Writing WoodPBeginners.idv[356] (WoodPBeginners355x.png)
+ [719]
+[720
+
+]
+l. 3687 Writing WoodPBeginners.idv[357] (WoodPBeginners356x.png)
+ [721] [722
+
+]
+l. 3693 Writing WoodPBeginners.idv[358] (WoodPBeginners357x.png)
+ [723] [724
+
+]
+l. 3705 Writing WoodPBeginners.idv[359] (WoodPBeginners358x.png)
+ [725] [726
+
+]
+l. 3711 Writing WoodPBeginners.idv[360] (WoodPBeginners359x.png)
+ [727] [728
+
+]
+l. 3723 Writing WoodPBeginners.idv[361] (WoodPBeginners360x.png)
+ [729] [730
+
+]
+l. 3729 Writing WoodPBeginners.idv[362] (WoodPBeginners361x.png)
+ [731]
+[732
+
+]
+l. 3741 Writing WoodPBeginners.idv[363] (WoodPBeginners362x.png)
+ [733] [734
+
+]
+l. 3747 Writing WoodPBeginners.idv[364] (WoodPBeginners363x.png)
+ [735] [736
+
+]
+l. 3759 Writing WoodPBeginners.idv[365] (WoodPBeginners364x.png)
+ [737] [738
+
+]
+l. 3765 Writing WoodPBeginners.idv[366] (WoodPBeginners365x.png)
+ [739] [740
+
+]
+l. 3781 Writing WoodPBeginners.idv[367] (WoodPBeginners366x.png)
+ [741] [742
+
+]
+l. 3787 Writing WoodPBeginners.idv[368] (WoodPBeginners367x.png)
+ [743]
+[744
+
+]
+l. 3803 Writing WoodPBeginners.idv[369] (WoodPBeginners368x.png)
+ [745] [746
+
+]
+l. 3809 Writing WoodPBeginners.idv[370] (WoodPBeginners369x.png)
+ [747] [748
+
+]
+l. 3821 Writing WoodPBeginners.idv[371] (WoodPBeginners370x.png)
+ [749] [750
+
+]
+l. 3827 Writing WoodPBeginners.idv[372] (WoodPBeginners371x.png)
+ [751] [752
+
+]
+l. 3843 Writing WoodPBeginners.idv[373] (WoodPBeginners372x.png)
+ [753] [754
+
+]
+l. 3849 Writing WoodPBeginners.idv[374] (WoodPBeginners373x.png)
+ [755]
+[756
+
+]
+l. 3865 Writing WoodPBeginners.idv[375] (WoodPBeginners374x.png)
+ [757] [758
+
+]
+l. 3871 Writing WoodPBeginners.idv[376] (WoodPBeginners375x.png)
+ [759] [760
+
+]
+l. 3887 Writing WoodPBeginners.idv[377] (WoodPBeginners376x.png)
+ [761] [762
+
+]
+l. 3893 Writing WoodPBeginners.idv[378] (WoodPBeginners377x.png)
+ [763] [764
+
+]
+l. 3913 Writing WoodPBeginners.idv[379] (WoodPBeginners378x.png)
+ [765] [766
+
+]
+l. 3919 Writing WoodPBeginners.idv[380] (WoodPBeginners379x.png)
+ [767]
+[768
+
+]
+l. 3931 Writing WoodPBeginners.idv[381] (WoodPBeginners380x.png)
+ [769] [770
+
+]
+l. 3937 Writing WoodPBeginners.idv[382] (WoodPBeginners381x.png)
+ [771] [772
+
+]
+l. 3949 Writing WoodPBeginners.idv[383] (WoodPBeginners382x.png)
+ [773] [774
+
+]
+l. 3955 Writing WoodPBeginners.idv[384] (WoodPBeginners383x.png)
+ [775] [776
+
+]
+l. 3971 Writing WoodPBeginners.idv[385] (WoodPBeginners384x.png)
+ [777] [778
+
+]
+l. 3977 Writing WoodPBeginners.idv[386] (WoodPBeginners385x.png)
+ [779]
+[780
+
+]
+l. 3997 Writing WoodPBeginners.idv[387] (WoodPBeginners386x.png)
+ [781] [782
+
+]
+l. 4003 Writing WoodPBeginners.idv[388] (WoodPBeginners387x.png)
+ [783] [784
+
+]
+l. 4015 Writing WoodPBeginners.idv[389] (WoodPBeginners388x.png)
+ [785] [786
+
+]
+l. 4021 Writing WoodPBeginners.idv[390] (WoodPBeginners389x.png)
+ [787] [788
+
+]
+l. 4043 Writing WoodPBeginners.idv[391] (WoodPBeginners390x.png)
+ [789] [790
+
+]
+l. 4049 Writing WoodPBeginners.idv[392] (WoodPBeginners391x.png)
+ [791]
+[792
+
+]
+l. 4067 Writing WoodPBeginners.idv[393] (WoodPBeginners392x.png)
+ [793] [794
+
+]
+l. 4073 Writing WoodPBeginners.idv[394] (WoodPBeginners393x.png)
+ [795] [796
+
+]
+l. 4099 Writing WoodPBeginners.idv[395] (WoodPBeginners394x.png)
+ [797] [798
+
+]
+l. 4105 Writing WoodPBeginners.idv[396] (WoodPBeginners395x.png)
+ [799] [800
+
+]
+l. 4121 Writing WoodPBeginners.idv[397] (WoodPBeginners396x.png)
+ [801] [802
+
+]
+l. 4127 Writing WoodPBeginners.idv[398] (WoodPBeginners397x.png)
+ [803]
+[804
+
+]
+l. 4143 Writing WoodPBeginners.idv[399] (WoodPBeginners398x.png)
+ [805] [806
+
+]
+l. 4149 Writing WoodPBeginners.idv[400] (WoodPBeginners399x.png)
+ [807] [808
+
+]
+l. 4165 Writing WoodPBeginners.idv[401] (WoodPBeginners400x.png)
+ [809] [810
+
+]
+l. 4171 Writing WoodPBeginners.idv[402] (WoodPBeginners401x.png)
+ [811] [812
+
+]
+l. 4183 Writing WoodPBeginners.idv[403] (WoodPBeginners402x.png)
+ [813] [814
+
+]
+l. 4189 Writing WoodPBeginners.idv[404] (WoodPBeginners403x.png)
+ [815]
+[816
+
+]
+l. 4211 Writing WoodPBeginners.idv[405] (WoodPBeginners404x.png)
+ [817] [818
+
+]
+l. 4217 Writing WoodPBeginners.idv[406] (WoodPBeginners405x.png)
+ [819] [820
+
+]
+l. 4237 Writing WoodPBeginners.idv[407] (WoodPBeginners406x.png)
+ [821] [822
+
+]
+l. 4243 Writing WoodPBeginners.idv[408] (WoodPBeginners407x.png)
+ [823] [824
+
+]
+l. 4259 Writing WoodPBeginners.idv[409] (WoodPBeginners408x.png)
+ [825] [826
+
+]
+l. 4265 Writing WoodPBeginners.idv[410] (WoodPBeginners409x.png)
+ [827]
+[828
+
+]
+l. 4289 Writing WoodPBeginners.idv[411] (WoodPBeginners410x.png)
+ [829] [830
+
+]
+l. 4295 Writing WoodPBeginners.idv[412] (WoodPBeginners411x.png)
+ [831] [832
+
+]
+l. 4311 Writing WoodPBeginners.idv[413] (WoodPBeginners412x.png)
+ [833] [834
+
+]
+l. 4317 Writing WoodPBeginners.idv[414] (WoodPBeginners413x.png)
+ [835] [836
+
+]
+l. 4337 Writing WoodPBeginners.idv[415] (WoodPBeginners414x.png)
+ [837] [838
+
+]
+l. 4343 Writing WoodPBeginners.idv[416] (WoodPBeginners415x.png)
+ [839]
+[840
+
+]
+l. 4362 Writing WoodPBeginners.idv[417] (WoodPBeginners416x.png)
+ [841] [842
+
+]
+l. 4368 Writing WoodPBeginners.idv[418] (WoodPBeginners417x.png)
+ [843] [844
+
+]
+l. 4384 Writing WoodPBeginners.idv[419] (WoodPBeginners418x.png)
+ [845] [846
+
+]
+l. 4390 Writing WoodPBeginners.idv[420] (WoodPBeginners419x.png)
+ [847] [848
+
+]
+l. 4402 Writing WoodPBeginners.idv[421] (WoodPBeginners420x.png)
+ [849] [850
+
+]
+l. 4408 Writing WoodPBeginners.idv[422] (WoodPBeginners421x.png)
+ [851]
+[852
+
+]
+l. 4420 Writing WoodPBeginners.idv[423] (WoodPBeginners422x.png)
+ [853] [854
+
+]
+l. 4426 Writing WoodPBeginners.idv[424] (WoodPBeginners423x.png)
+ [855] [856
+
+]
+l. 4438 Writing WoodPBeginners.idv[425] (WoodPBeginners424x.png)
+ [857] [858
+
+]
+l. 4444 Writing WoodPBeginners.idv[426] (WoodPBeginners425x.png)
+ [859] [860
+
+]
+l. 4460 Writing WoodPBeginners.idv[427] (WoodPBeginners426x.png)
+ [861] [862
+
+]
+l. 4466 Writing WoodPBeginners.idv[428] (WoodPBeginners427x.png)
+ [863]
+[864
+
+]
+l. 4484 Writing WoodPBeginners.idv[429] (WoodPBeginners428x.png)
+ [865] [866
+
+]
+l. 4490 Writing WoodPBeginners.idv[430] (WoodPBeginners429x.png)
+ [867] [868
+
+]
+l. 4506 Writing WoodPBeginners.idv[431] (WoodPBeginners430x.png)
+ [869] [870
+
+]
+l. 4512 Writing WoodPBeginners.idv[432] (WoodPBeginners431x.png)
+ [871] [872
+
+]
+l. 4524 Writing WoodPBeginners.idv[433] (WoodPBeginners432x.png)
+ [873] [874
+
+]
+l. 4530 Writing WoodPBeginners.idv[434] (WoodPBeginners433x.png)
+ [875]
+[876
+
+]
+l. 4546 Writing WoodPBeginners.idv[435] (WoodPBeginners434x.png)
+ [877] [878
+
+]
+l. 4552 Writing WoodPBeginners.idv[436] (WoodPBeginners435x.png)
+ [879] [880
+
+]
+l. 4564 Writing WoodPBeginners.idv[437] (WoodPBeginners436x.png)
+ [881] [882
+
+]
+l. 4570 Writing WoodPBeginners.idv[438] (WoodPBeginners437x.png)
+ [883] [884
+
+]
+l. 4586 Writing WoodPBeginners.idv[439] (WoodPBeginners438x.png)
+ [885] [886
+
+]
+l. 4592 Writing WoodPBeginners.idv[440] (WoodPBeginners439x.png)
+ [887]
+[888
+
+]
+l. 4608 Writing WoodPBeginners.idv[441] (WoodPBeginners440x.png)
+ [889] [890
+
+]
+l. 4614 Writing WoodPBeginners.idv[442] (WoodPBeginners441x.png)
+ [891] [892
+
+]
+l. 4626 Writing WoodPBeginners.idv[443] (WoodPBeginners442x.png)
+ [893] [894
+
+]
+l. 4632 Writing WoodPBeginners.idv[444] (WoodPBeginners443x.png)
+ [895] [896
+
+] [897] [898]
+(./WoodPBeginners.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 22569 strings out of 492983
+ 400184 string characters out of 6134922
+ 594375 words of memory out of 5000000
+ 25694 multiletter control sequences out of 15000+600000
+ 6786 words of font info for 26 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,8n,146p,1305b,870s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on WoodPBeginners.dvi (898 pages, 1031940 bytes).

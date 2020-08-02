@@ -1,0 +1,2972 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2020.7.20)  2 AUG 2020 16:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode configfile.a.b.c.\input  my
+blunders.tex
+(./myblunders.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2018-02-11-15:01
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht)
+(/usr/share/texlive/texmf-dist/tex/latex/skak/skak.sty
+Package: skak 2018/01/08 v1.5.3 Chess typesetting
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/chessfss.sty
+Package: chessfss 2006/06/14 v1.2a chess font selection scheme
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count88
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbenc.def
+File: lsbenc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfenc.def
+File: lsfenc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsienc.def
+File: lsienc.def 2006/06/09 v1.2 Standard LaTeX file
+)
+\len@cfss@squarewidth=\skip43
+\len@cfss@squaretotalheight=\skip44
+\len@cfss@squaredepth=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/plain/lambda-lists/lambda.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count92
+\pstFP@xia=\count93
+\pstFP@xib=\count94
+\pstFP@xfa=\count95
+\pstFP@xfb=\count96
+\pstFP@rega=\count97
+\pstFP@regb=\count98
+\pstFP@regs=\count99
+\pstFP@times=\count100
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen105
+\pgfutil@tempdimb=\dimen106
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks20
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen107
+\pgf@xa=\dimen108
+\pgf@xb=\dimen109
+\pgf@xc=\dimen110
+\pgf@y=\dimen111
+\pgf@ya=\dimen112
+\pgf@yb=\dimen113
+\pgf@yc=\dimen114
+\c@pgf@counta=\count101
+\c@pgf@countb=\count102
+\c@pgf@countc=\count103
+\c@pgf@countd=\count104
+\pgfutil@tempcnta=\count105
+\pgfutil@tempcntb=\count106
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen115
+\pgfmath@count=\count107
+\pgfmath@box=\box26
+\pgfmath@toks=\toks21
+\pgfmath@stack@operand=\toks22
+\pgfmath@stack@operation=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count108
+))
+\pgffor@iter=\dimen116
+\pgffor@skip=\dimen117
+\pgffor@stack=\toks24
+\pgffor@toks=\toks25
+)
+\psLoopIndex=\count109
+
+`PSTricks' v2.82  <2018/01/06> (tvz,hv)
+\pst@dima=\dimen118
+\pst@dimb=\dimen119
+\pst@dimc=\dimen120
+\pst@dimd=\dimen121
+\pst@dimg=\dimen122
+\pst@dimh=\dimen123
+\pst@dimm=\dimen124
+\pst@dimn=\dimen125
+\pst@dimo=\dimen126
+\pst@dimp=\dimen127
+\pst@hbox=\box27
+\pst@ibox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count110
+\pst@cntb=\count111
+\pst@cntc=\count112
+\pst@cntd=\count113
+\pst@cntg=\count114
+\pst@cnth=\count115
+\pst@cntm=\count116
+\pst@cntn=\count117
+\pst@cnto=\count118
+\pst@cntp=\count119
+\@zero=\count120
+\pst@toks=\toks26
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen128
+\psxunit=\dimen129
+\psyunit=\dimen130
+\pst@C@@rType=\count121
+\pslinewidth=\dimen131
+\psk@startLW=\dimen132
+\psk@endLW=\dimen133
+\pst@customdefs=\toks27
+\pslinearc=\dimen134
+\pst@symbolStep=\dimen135
+\pst@symbolWidth=\dimen136
+\pst@symbolLinewidth=\dimen137
+\everypsbox=\toks28
+\psframesep=\dimen138
+\pslabelsep=\dimen139
+\sh@wgridXunit=\dimen140
+\sh@wgridYunit=\dimen141
+\pst@shift=\dimen142
+)
+File: pstricks.tex 2018/01/06 v2.82 `PSTricks' (tvz,hv)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2018/01/06 v2.82 `PST-fp' (hv)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pst-node/pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pst-node/pst-node.tex
+ v1.41, 2017/12/30
+\psrow=\count122
+\pscol=\count123
+\psmatrixcnt=\count124
+\psrowsep=\skip49
+\pscolsep=\skip50
+\pst@args=\count125
+\num@pts=\count126
+\pst@argcnt=\count127
+)
+File: pst-node.tex 2017/12/30 1.41 `pst-node' (tvz,hv)
+)
+\c@fileFrom=\count128
+\c@rankFrom=\count129
+\c@fileTo=\count130
+\c@rankTo=\count131
+\c@ps@inverse=\count132
+\c@ps@knightangle=\count133
+\c@halfmove=\count134
+\c@move=\count135
+\c@helpgobble=\count136
+\c@helpnumber=\count137
+\c@helpnumberMove=\count138
+\squarelength=\skip51
+\square@multiplier=\count139
+\ranklift=\skip52
+LaTeX Font Info:    Try loading font information for LSB+skaknew on input line 
+1774.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbskaknew.fd
+File: lsbskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+\store@toks=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak.sty
+Package: xskak 2015/01/02 version v1.4 extended chess typesetting and parsing
+
+(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard.sty
+Package: chessboard 2014/05/01 version v1.7 print chessboards
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box30
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+)
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count141
+\c@pgf@countb=\count142
+\c@pgf@countc=\count143
+\c@pgf@countd=\count144
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-tex4ht.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-tex4ht.def
+File: pgfsys-tex4ht.def 2013/08/06  (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-svg.de
+f
+File: pgfsys-common-svg.def 2013/08/28  (rcs-revision 1.24)
+\pgf@sys@svg@objectcount=\count145
+\pgf@sys@svg@scopecount=\count146
+)
+\pgf@sys@svg@picnum=\count147
+\pgf@sys@svg@nodenum=\count148
+\pgfsys@foreignobject@Box=\box31
+\pgf@s=\dimen155
+\pgf@t=\dimen156
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count149
+\pgfsyssoftpath@bigbuffer@items=\count150
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen157
+\pgf@picmaxx=\dimen158
+\pgf@picminy=\dimen159
+\pgf@picmaxy=\dimen160
+\pgf@pathminx=\dimen161
+\pgf@pathmaxx=\dimen162
+\pgf@pathminy=\dimen163
+\pgf@pathmaxy=\dimen164
+\pgf@xx=\dimen165
+\pgf@xy=\dimen166
+\pgf@yx=\dimen167
+\pgf@yy=\dimen168
+\pgf@zx=\dimen169
+\pgf@zy=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen171
+\pgf@path@lasty=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen173
+\pgf@shorten@start@additional=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count151
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen176
+\pgf@pt@y=\dimen177
+\pgf@pt@temp=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen179
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count152
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box36
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen185
+)
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikzleveldistance=\dimen190
+\tikzsiblingdistance=\dimen191
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
+)
+\tikz@expandcount=\count161
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\len@board@tempx=\skip53
+\len@board@tempy=\skip54
+\c@cnt@board@file=\count162
+\c@cnt@board@rank=\count163
+\c@cnt@board=\count164
+\c@filelabel=\count165
+\c@ranklabel=\count166
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-main.sty
+File: chessboard-keys-main.sty 2014/05/01 version v1.7 key definitions for ches
+sboard.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-pgf.sty
+File: chessboard-keys-pgf.sty 2014/05/01 version v1.7 key definitions for chess
+board.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-pgf.sty
+File: chessboard-pgf.sty 2014/05/01 version v1.7 pgf code for chessboard.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-keys.sty
+File: xskak-keys.sty 2015/01/02 version v1.4 key definitions for xskak.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-nagdef.sty
+File: xskak-nagdef.sty 2015/01/02 version v1.4 nag definitions for xskak.sty
+)
+LaTeX Info: Redefining \variation on input line 1472.
+)
+(./configfile.cfg (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2017-05-09-09:21
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2018-02-11-15:01
+
+--- needs --- tex4ht myblunders ---
+\tmp:cnt=\count167
+\openout15 = `myblunders.tmp'.
+
+(./myblunders.tmp)
+\tmp:dim=\skip55
+ (./myblunders.xref)
+\:refout=\write4
+\openout4 = `myblunders.xref'.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html,xhtml
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+\:tokwrite=\toks36
+\:tokpage=\toks37
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `myblunders.4ct'.
+
+\:tocout=\write5
+\openout5 = `myblunders.4tc'.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2018-01-12-14:38
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/book.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)) (./skak.4ht) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pstricks.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2017-04-28-08:47
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pgf.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/everyshi.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2017-10-21-16:16
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphics.4ht
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2018-02-21-09:31
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(./myblunders.aux)
+\openout1 = `myblunders.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSB/skaknew/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSF/skaknew/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for LSF+skaknew on input line 
+12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfskaknew.fd
+File: lsfskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LSI/skaknew/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for LSI+skaknew on input line 
+12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/chessfss/lsiskaknew.fd
+File: lsiskaknew.fd 2006/03/31 v1.0 Chess font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+--- file myblunders.css ---
+) [1
+
+] [2
+
+]
+(./myblunders.4ct [3] [4] [5] [6] [7] [8] [9] [10] [11]) [12]
+Chapter 1.
+l. 12 Writing myblunders.idv[1] (myblunders0x.png)
+[13
+
+] [14
+
+]
+l. 18 Writing myblunders.idv[2] (myblunders1x.png)
+
+
+LaTeX Font Warning: Font shape `LSF/skaknew/m/it' undefined
+(Font)              using `LSF/skaknew/m/n' instead on input line 23.
+
+
+LaTeX Font Warning: Font shape `LSI/skaknew/m/it' undefined
+(Font)              using `LSI/skaknew/m/n' instead on input line 23.
+
+[15] [16
+
+]
+l. 36 Writing myblunders.idv[3] (myblunders2x.png)
+ [17] [18
+
+]
+l. 42 Writing myblunders.idv[4] (myblunders3x.png)
+ [19] [20
+
+]
+l. 59 Writing myblunders.idv[5] (myblunders4x.png)
+ [21] [22
+
+]
+l. 65 Writing myblunders.idv[6] (myblunders5x.png)
+ [23] [24
+
+]
+l. 88 Writing myblunders.idv[7] (myblunders6x.png)
+ [25] [26
+
+]
+l. 94 Writing myblunders.idv[8] (myblunders7x.png)
+ [27] [28
+
+]
+l. 120 Writing myblunders.idv[9] (myblunders8x.png)
+ [29]
+[30
+
+]
+l. 126 Writing myblunders.idv[10] (myblunders9x.png)
+ [31] [32
+
+]
+l. 139 Writing myblunders.idv[11] (myblunders10x.png)
+ [33] [34
+
+]
+l. 145 Writing myblunders.idv[12] (myblunders11x.png)
+ [35] [36
+
+]
+l. 158 Writing myblunders.idv[13] (myblunders12x.png)
+ [37] [38
+
+]
+l. 164 Writing myblunders.idv[14] (myblunders13x.png)
+
+
+! LaTeX Error: \begin{document} ended by \end{samepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 \end{samepage}
+                    
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.167 \end{samepage}
+                    
+? 
+l.167 --- TeX4ht warning --- \SaveEverypar's: 0 at \begin{samepage} and 1 \end{
+samepage} ---
+[39] [40
+
+]
+l. 177 Writing myblunders.idv[15] (myblunders14x.png)
+ [41] [42
+
+]
+l. 183 Writing myblunders.idv[16] (myblunders15x.png)
+ [43] [44
+
+]
+l. 203 Writing myblunders.idv[17] (myblunders16x.png)
+ [45] [46
+
+]
+l. 209 Writing myblunders.idv[18] (myblunders17x.png)
+ [47] [48
+
+]
+l. 222 Writing myblunders.idv[19] (myblunders18x.png)
+ [49] [50
+
+]
+l. 228 Writing myblunders.idv[20] (myblunders19x.png)
+ [51] [52
+
+]
+l. 241 Writing myblunders.idv[21] (myblunders20x.png)
+ [53]
+[54
+
+]
+l. 247 Writing myblunders.idv[22] (myblunders21x.png)
+ [55] [56
+
+]
+l. 272 Writing myblunders.idv[23] (myblunders22x.png)
+ [57] [58
+
+]
+l. 278 Writing myblunders.idv[24] (myblunders23x.png)
+ [59] [60
+
+]
+l. 291 Writing myblunders.idv[25] (myblunders24x.png)
+ [61] [62
+
+]
+l. 297 Writing myblunders.idv[26] (myblunders25x.png)
+ [63] [64
+
+]
+l. 314 Writing myblunders.idv[27] (myblunders26x.png)
+ [65] [66
+
+]
+l. 320 Writing myblunders.idv[28] (myblunders27x.png)
+ [67] [68
+
+]
+l. 345 Writing myblunders.idv[29] (myblunders28x.png)
+
+[69] [70
+
+]
+l. 351 Writing myblunders.idv[30] (myblunders29x.png)
+ [71] [72
+
+]
+l. 364 Writing myblunders.idv[31] (myblunders30x.png)
+ [73] [74
+
+]
+l. 370 Writing myblunders.idv[32] (myblunders31x.png)
+ [75] [76
+
+]
+l. 383 Writing myblunders.idv[33] (myblunders32x.png)
+ [77] [78
+
+]
+l. 389 Writing myblunders.idv[34] (myblunders33x.png)
+ [79] [80
+
+]
+l. 402 Writing myblunders.idv[35] (myblunders34x.png)
+ [81] [82
+
+]
+l. 408 Writing myblunders.idv[36] (myblunders35x.png)
+ [83]
+[84
+
+]
+l. 425 Writing myblunders.idv[37] (myblunders36x.png)
+ [85] [86
+
+]
+l. 431 Writing myblunders.idv[38] (myblunders37x.png)
+ [87] [88
+
+]
+l. 444 Writing myblunders.idv[39] (myblunders38x.png)
+ [89] [90
+
+]
+l. 450 Writing myblunders.idv[40] (myblunders39x.png)
+ [91] [92
+
+]
+l. 463 Writing myblunders.idv[41] (myblunders40x.png)
+ [93] [94
+
+]
+l. 469 Writing myblunders.idv[42] (myblunders41x.png)
+ [95] [96
+
+]
+l. 482 Writing myblunders.idv[43] (myblunders42x.png)
+ [97] [98
+
+]
+l. 488 Writing myblunders.idv[44] (myblunders43x.png)
+
+[99] [100
+
+]
+l. 501 Writing myblunders.idv[45] (myblunders44x.png)
+ [101] [102
+
+]
+l. 507 Writing myblunders.idv[46] (myblunders45x.png)
+ [103] [104
+
+]
+l. 524 Writing myblunders.idv[47] (myblunders46x.png)
+ [105] [106
+
+]
+l. 530 Writing myblunders.idv[48] (myblunders47x.png)
+ [107] [108
+
+]
+l. 549 Writing myblunders.idv[49] (myblunders48x.png)
+ [109] [110
+
+]
+l. 555 Writing myblunders.idv[50] (myblunders49x.png)
+ [111]
+[112
+
+]
+l. 568 Writing myblunders.idv[51] (myblunders50x.png)
+ [113] [114
+
+]
+l. 574 Writing myblunders.idv[52] (myblunders51x.png)
+ [115] [116
+
+]
+l. 587 Writing myblunders.idv[53] (myblunders52x.png)
+ [117] [118
+
+]
+l. 593 Writing myblunders.idv[54] (myblunders53x.png)
+ [119] [120
+
+]
+l. 621 Writing myblunders.idv[55] (myblunders54x.png)
+ [121] [122
+
+]
+l. 627 Writing myblunders.idv[56] (myblunders55x.png)
+ [123]
+[124
+
+]
+l. 640 Writing myblunders.idv[57] (myblunders56x.png)
+ [125] [126
+
+]
+l. 646 Writing myblunders.idv[58] (myblunders57x.png)
+ [127] [128
+
+]
+l. 659 Writing myblunders.idv[59] (myblunders58x.png)
+ [129] [130
+
+]
+l. 665 Writing myblunders.idv[60] (myblunders59x.png)
+ [131] [132
+
+]
+l. 678 Writing myblunders.idv[61] (myblunders60x.png)
+ [133] [134
+
+]
+l. 684 Writing myblunders.idv[62] (myblunders61x.png)
+ [135]
+[136
+
+]
+l. 701 Writing myblunders.idv[63] (myblunders62x.png)
+ [137] [138
+
+]
+l. 707 Writing myblunders.idv[64] (myblunders63x.png)
+ [139] [140
+
+]
+l. 725 Writing myblunders.idv[65] (myblunders64x.png)
+ [141] [142
+
+]
+l. 731 Writing myblunders.idv[66] (myblunders65x.png)
+ [143] [144
+
+]
+l. 754 Writing myblunders.idv[67] (myblunders66x.png)
+ [145] [146
+
+]
+l. 760 Writing myblunders.idv[68] (myblunders67x.png)
+ [147]
+[148
+
+]
+l. 773 Writing myblunders.idv[69] (myblunders68x.png)
+ [149] [150
+
+]
+l. 779 Writing myblunders.idv[70] (myblunders69x.png)
+ [151] [152
+
+]
+l. 792 Writing myblunders.idv[71] (myblunders70x.png)
+ [153] [154
+
+]
+l. 798 Writing myblunders.idv[72] (myblunders71x.png)
+ [155] [156
+
+]
+l. 820 Writing myblunders.idv[73] (myblunders72x.png)
+ [157] [158
+
+]
+l. 826 Writing myblunders.idv[74] (myblunders73x.png)
+ [159]
+[160
+
+]
+l. 839 Writing myblunders.idv[75] (myblunders74x.png)
+ [161] [162
+
+]
+l. 845 Writing myblunders.idv[76] (myblunders75x.png)
+ [163] [164
+
+]
+l. 858 Writing myblunders.idv[77] (myblunders76x.png)
+ [165] [166
+
+]
+l. 864 Writing myblunders.idv[78] (myblunders77x.png)
+ [167] [168
+
+]
+l. 877 Writing myblunders.idv[79] (myblunders78x.png)
+ [169] [170
+
+]
+l. 883 Writing myblunders.idv[80] (myblunders79x.png)
+ [171]
+[172
+
+]
+l. 905 Writing myblunders.idv[81] (myblunders80x.png)
+ [173] [174
+
+]
+l. 911 Writing myblunders.idv[82] (myblunders81x.png)
+ [175] [176
+
+]
+l. 924 Writing myblunders.idv[83] (myblunders82x.png)
+ [177] [178
+
+]
+l. 930 Writing myblunders.idv[84] (myblunders83x.png)
+ [179] [180
+
+]
+l. 943 Writing myblunders.idv[85] (myblunders84x.png)
+ [181] [182
+
+]
+l. 949 Writing myblunders.idv[86] (myblunders85x.png)
+ [183]
+[184
+
+]
+l. 962 Writing myblunders.idv[87] (myblunders86x.png)
+ [185] [186
+
+]
+l. 968 Writing myblunders.idv[88] (myblunders87x.png)
+ [187] [188
+
+]
+l. 999 Writing myblunders.idv[89] (myblunders88x.png)
+ [189] [190
+
+]
+l. 1005 Writing myblunders.idv[90] (myblunders89x.png)
+ [191] [192
+
+]
+l. 1018 Writing myblunders.idv[91] (myblunders90x.png)
+ [193] [194
+
+]
+l. 1024 Writing myblunders.idv[92] (myblunders91x.png)
+ [195]
+[196
+
+]
+l. 1049 Writing myblunders.idv[93] (myblunders92x.png)
+ [197] [198
+
+]
+l. 1055 Writing myblunders.idv[94] (myblunders93x.png)
+ [199] [200
+
+]
+l. 1068 Writing myblunders.idv[95] (myblunders94x.png)
+ [201] [202
+
+]
+l. 1074 Writing myblunders.idv[96] (myblunders95x.png)
+ [203] [204
+
+]
+l. 1091 Writing myblunders.idv[97] (myblunders96x.png)
+ [205] [206
+
+]
+l. 1097 Writing myblunders.idv[98] (myblunders97x.png)
+ [207]
+[208
+
+]
+l. 1110 Writing myblunders.idv[99] (myblunders98x.png)
+ [209] [210
+
+]
+l. 1116 Writing myblunders.idv[100] (myblunders99x.png)
+ [211] [212
+
+]
+l. 1129 Writing myblunders.idv[101] (myblunders100x.png)
+ [213] [214
+
+]
+l. 1135 Writing myblunders.idv[102] (myblunders101x.png)
+ [215] [216
+
+]
+l. 1148 Writing myblunders.idv[103] (myblunders102x.png)
+ [217] [218
+
+]
+l. 1154 Writing myblunders.idv[104] (myblunders103x.png)
+ [219]
+[220
+
+]
+l. 1171 Writing myblunders.idv[105] (myblunders104x.png)
+ [221] [222
+
+]
+l. 1177 Writing myblunders.idv[106] (myblunders105x.png)
+ [223] [224
+
+]
+l. 1190 Writing myblunders.idv[107] (myblunders106x.png)
+ [225] [226
+
+]
+l. 1196 Writing myblunders.idv[108] (myblunders107x.png)
+ [227] [228
+
+]
+l. 1209 Writing myblunders.idv[109] (myblunders108x.png)
+ [229] [230
+
+]
+l. 1215 Writing myblunders.idv[110] (myblunders109x.png)
+ [231]
+[232
+
+]
+l. 1234 Writing myblunders.idv[111] (myblunders110x.png)
+ [233] [234
+
+]
+l. 1240 Writing myblunders.idv[112] (myblunders111x.png)
+ [235] [236
+
+]
+l. 1253 Writing myblunders.idv[113] (myblunders112x.png)
+ [237] [238
+
+]
+l. 1259 Writing myblunders.idv[114] (myblunders113x.png)
+ [239] [240
+
+]
+l. 1272 Writing myblunders.idv[115] (myblunders114x.png)
+ [241] [242
+
+]
+l. 1278 Writing myblunders.idv[116] (myblunders115x.png)
+ [243]
+[244
+
+]
+l. 1299 Writing myblunders.idv[117] (myblunders116x.png)
+ [245] [246
+
+]
+l. 1305 Writing myblunders.idv[118] (myblunders117x.png)
+ [247] [248
+
+]
+l. 1318 Writing myblunders.idv[119] (myblunders118x.png)
+ [249] [250
+
+]
+l. 1324 Writing myblunders.idv[120] (myblunders119x.png)
+ [251] [252
+
+]
+l. 1337 Writing myblunders.idv[121] (myblunders120x.png)
+ [253] [254
+
+]
+l. 1343 Writing myblunders.idv[122] (myblunders121x.png)
+ [255]
+[256
+
+]
+l. 1356 Writing myblunders.idv[123] (myblunders122x.png)
+ [257] [258
+
+]
+l. 1362 Writing myblunders.idv[124] (myblunders123x.png)
+
+! mainline: 1 is not the correct move number.
+<argument> ...e: 1 is not the correct move number}
+                                                  
+l.1365 \mainline[level=1]{1. a4 }
+                                 
+? 
+! Argument of \EatNumberA has an extra }.
+<inserted text> 
+                \par 
+l.1365 \mainline[level=1]{1. a4 }
+                                 
+? 
+Runaway argument?
+a4WXYZ)\xskak@do@parsemainline ( Z )\fi \fi \closecommands 
+! Paragraph ended before \EatNumberA was complete.
+<to be read again> 
+                   \par 
+l.1365 \mainline[level=1]{1. a4 }
+                                 
+? 
+[259] [260
+
+]
+l. 1378 Writing myblunders.idv[125] (myblunders124x.png)
+ [261] [262
+
+]
+l. 1384 Writing myblunders.idv[126] (myblunders125x.png)
+ [263] [264
+
+]
+l. 1401 Writing myblunders.idv[127] (myblunders126x.png)
+ [265] [266
+
+]
+l. 1407 Writing myblunders.idv[128] (myblunders127x.png)
+ [267] [268
+
+]
+l. 1420 Writing myblunders.idv[129] (myblunders128x.png)
+ [269] [270
+
+]
+l. 1426 Writing myblunders.idv[130] (myblunders129x.png)
+
+[271] [272
+
+]
+l. 1439 Writing myblunders.idv[131] (myblunders130x.png)
+ [273] [274
+
+]
+l. 1445 Writing myblunders.idv[132] (myblunders131x.png)
+ [275] [276
+
+]
+l. 1458 Writing myblunders.idv[133] (myblunders132x.png)
+ [277] [278
+
+]
+l. 1464 Writing myblunders.idv[134] (myblunders133x.png)
+ [279] [280
+
+]
+l. 1488 Writing myblunders.idv[135] (myblunders134x.png)
+ [281] [282
+
+]
+l. 1494 Writing myblunders.idv[136] (myblunders135x.png)
+
+[283] [284
+
+]
+l. 1515 Writing myblunders.idv[137] (myblunders136x.png)
+ [285] [286
+
+]
+l. 1521 Writing myblunders.idv[138] (myblunders137x.png)
+ [287] [288
+
+]
+l. 1546 Writing myblunders.idv[139] (myblunders138x.png)
+ [289] [290
+
+]
+l. 1552 Writing myblunders.idv[140] (myblunders139x.png)
+ [291] [292
+
+]
+l. 1569 Writing myblunders.idv[141] (myblunders140x.png)
+ [293] [294
+
+]
+l. 1575 Writing myblunders.idv[142] (myblunders141x.png)
+
+[295] [296
+
+]
+l. 1593 Writing myblunders.idv[143] (myblunders142x.png)
+ [297] [298
+
+]
+l. 1599 Writing myblunders.idv[144] (myblunders143x.png)
+ [299] [300
+
+]
+l. 1627 Writing myblunders.idv[145] (myblunders144x.png)
+ [301] [302
+
+]
+l. 1633 Writing myblunders.idv[146] (myblunders145x.png)
+ [303] [304
+
+]
+l. 1646 Writing myblunders.idv[147] (myblunders146x.png)
+ [305] [306
+
+]
+l. 1652 Writing myblunders.idv[148] (myblunders147x.png)
+
+[307] [308
+
+]
+l. 1678 Writing myblunders.idv[149] (myblunders148x.png)
+ [309] [310
+
+]
+l. 1684 Writing myblunders.idv[150] (myblunders149x.png)
+ [311] [312
+
+]
+l. 1697 Writing myblunders.idv[151] (myblunders150x.png)
+ [313] [314
+
+]
+l. 1703 Writing myblunders.idv[152] (myblunders151x.png)
+ [315] [316
+
+]
+l. 1716 Writing myblunders.idv[153] (myblunders152x.png)
+ [317] [318
+
+]
+l. 1722 Writing myblunders.idv[154] (myblunders153x.png)
+
+[319] [320
+
+]
+l. 1739 Writing myblunders.idv[155] (myblunders154x.png)
+ [321] [322
+
+]
+l. 1745 Writing myblunders.idv[156] (myblunders155x.png)
+ [323] [324
+
+]
+l. 1766 Writing myblunders.idv[157] (myblunders156x.png)
+ [325] [326
+
+]
+l. 1772 Writing myblunders.idv[158] (myblunders157x.png)
+ [327] [328
+
+]
+l. 1789 Writing myblunders.idv[159] (myblunders158x.png)
+ [329] [330
+
+]
+l. 1795 Writing myblunders.idv[160] (myblunders159x.png)
+
+[331] [332
+
+]
+l. 1808 Writing myblunders.idv[161] (myblunders160x.png)
+ [333] [334
+
+]
+l. 1814 Writing myblunders.idv[162] (myblunders161x.png)
+ [335] [336
+
+]
+l. 1827 Writing myblunders.idv[163] (myblunders162x.png)
+ [337] [338
+
+]
+l. 1833 Writing myblunders.idv[164] (myblunders163x.png)
+ [339] [340
+
+]
+l. 1846 Writing myblunders.idv[165] (myblunders164x.png)
+ [341] [342
+
+]
+l. 1852 Writing myblunders.idv[166] (myblunders165x.png)
+
+[343] [344
+
+]
+l. 1869 Writing myblunders.idv[167] (myblunders166x.png)
+ [345] [346
+
+]
+l. 1875 Writing myblunders.idv[168] (myblunders167x.png)
+ [347] [348
+
+]
+l. 1888 Writing myblunders.idv[169] (myblunders168x.png)
+ [349] [350
+
+]
+l. 1894 Writing myblunders.idv[170] (myblunders169x.png)
+ [351] [352
+
+]
+l. 1911 Writing myblunders.idv[171] (myblunders170x.png)
+ [353] [354
+
+]
+l. 1917 Writing myblunders.idv[172] (myblunders171x.png)
+
+[355] [356
+
+]
+l. 1937 Writing myblunders.idv[173] (myblunders172x.png)
+ [357] [358
+
+]
+l. 1943 Writing myblunders.idv[174] (myblunders173x.png)
+ [359] [360
+
+]
+l. 1962 Writing myblunders.idv[175] (myblunders174x.png)
+ [361] [362
+
+]
+l. 1968 Writing myblunders.idv[176] (myblunders175x.png)
+ [363] [364
+
+]
+l. 1981 Writing myblunders.idv[177] (myblunders176x.png)
+ [365] [366
+
+]
+l. 1987 Writing myblunders.idv[178] (myblunders177x.png)
+
+[367] [368
+
+]
+l. 2008 Writing myblunders.idv[179] (myblunders178x.png)
+ [369] [370
+
+]
+l. 2014 Writing myblunders.idv[180] (myblunders179x.png)
+ [371] [372
+
+]
+l. 2038 Writing myblunders.idv[181] (myblunders180x.png)
+ [373] [374
+
+]
+l. 2044 Writing myblunders.idv[182] (myblunders181x.png)
+ [375] [376
+
+]
+l. 2057 Writing myblunders.idv[183] (myblunders182x.png)
+ [377] [378
+
+]
+l. 2063 Writing myblunders.idv[184] (myblunders183x.png)
+
+[379] [380
+
+]
+l. 2085 Writing myblunders.idv[185] (myblunders184x.png)
+ [381] [382
+
+]
+l. 2091 Writing myblunders.idv[186] (myblunders185x.png)
+ [383] [384
+
+]
+l. 2104 Writing myblunders.idv[187] (myblunders186x.png)
+ [385] [386
+
+]
+l. 2110 Writing myblunders.idv[188] (myblunders187x.png)
+ [387] [388
+
+]
+l. 2123 Writing myblunders.idv[189] (myblunders188x.png)
+ [389] [390
+
+]
+l. 2129 Writing myblunders.idv[190] (myblunders189x.png)
+
+[391] [392
+
+]
+l. 2152 Writing myblunders.idv[191] (myblunders190x.png)
+ [393] [394
+
+]
+l. 2158 Writing myblunders.idv[192] (myblunders191x.png)
+ [395] [396
+
+]
+l. 2171 Writing myblunders.idv[193] (myblunders192x.png)
+ [397] [398
+
+]
+l. 2177 Writing myblunders.idv[194] (myblunders193x.png)
+ [399] [400
+
+]
+l. 2216 Writing myblunders.idv[195] (myblunders194x.png)
+ [401] [402
+
+]
+l. 2222 Writing myblunders.idv[196] (myblunders195x.png)
+
+[403] [404
+
+]
+l. 2247 Writing myblunders.idv[197] (myblunders196x.png)
+ [405] [406
+
+]
+l. 2253 Writing myblunders.idv[198] (myblunders197x.png)
+ [407] [408
+
+]
+l. 2266 Writing myblunders.idv[199] (myblunders198x.png)
+ [409] [410
+
+]
+l. 2272 Writing myblunders.idv[200] (myblunders199x.png)
+ [411] [412
+
+]
+l. 2293 Writing myblunders.idv[201] (myblunders200x.png)
+ [413] [414
+
+]
+l. 2299 Writing myblunders.idv[202] (myblunders201x.png)
+
+[415] [416
+
+]
+l. 2312 Writing myblunders.idv[203] (myblunders202x.png)
+ [417] [418
+
+]
+l. 2318 Writing myblunders.idv[204] (myblunders203x.png)
+ [419] [420
+
+]
+l. 2343 Writing myblunders.idv[205] (myblunders204x.png)
+ [421] [422
+
+]
+l. 2349 Writing myblunders.idv[206] (myblunders205x.png)
+ [423] [424
+
+]
+l. 2362 Writing myblunders.idv[207] (myblunders206x.png)
+ [425] [426
+
+]
+l. 2368 Writing myblunders.idv[208] (myblunders207x.png)
+
+[427] [428
+
+]
+l. 2381 Writing myblunders.idv[209] (myblunders208x.png)
+ [429] [430
+
+]
+l. 2387 Writing myblunders.idv[210] (myblunders209x.png)
+ [431] [432
+
+]
+l. 2404 Writing myblunders.idv[211] (myblunders210x.png)
+ [433] [434
+
+]
+l. 2410 Writing myblunders.idv[212] (myblunders211x.png)
+ [435] [436
+
+]
+l. 2427 Writing myblunders.idv[213] (myblunders212x.png)
+ [437] [438
+
+]
+l. 2433 Writing myblunders.idv[214] (myblunders213x.png)
+
+[439] [440
+
+]
+l. 2446 Writing myblunders.idv[215] (myblunders214x.png)
+ [441] [442
+
+]
+l. 2452 Writing myblunders.idv[216] (myblunders215x.png)
+ [443] [444
+
+]
+l. 2465 Writing myblunders.idv[217] (myblunders216x.png)
+ [445] [446
+
+]
+l. 2471 Writing myblunders.idv[218] (myblunders217x.png)
+ [447] [448
+
+]
+l. 2488 Writing myblunders.idv[219] (myblunders218x.png)
+ [449] [450
+
+]
+l. 2494 Writing myblunders.idv[220] (myblunders219x.png)
+
+[451] [452
+
+]
+l. 2511 Writing myblunders.idv[221] (myblunders220x.png)
+ [453] [454
+
+]
+l. 2517 Writing myblunders.idv[222] (myblunders221x.png)
+ [455] [456
+
+]
+l. 2530 Writing myblunders.idv[223] (myblunders222x.png)
+ [457] [458
+
+]
+l. 2536 Writing myblunders.idv[224] (myblunders223x.png)
+ [459] [460
+
+]
+l. 2553 Writing myblunders.idv[225] (myblunders224x.png)
+ [461] [462
+
+]
+l. 2559 Writing myblunders.idv[226] (myblunders225x.png)
+
+[463] [464
+
+]
+l. 2572 Writing myblunders.idv[227] (myblunders226x.png)
+ [465] [466
+
+]
+l. 2578 Writing myblunders.idv[228] (myblunders227x.png)
+ [467] [468
+
+]
+l. 2595 Writing myblunders.idv[229] (myblunders228x.png)
+ [469] [470
+
+]
+l. 2601 Writing myblunders.idv[230] (myblunders229x.png)
+ [471] [472
+
+]
+l. 2618 Writing myblunders.idv[231] (myblunders230x.png)
+ [473] [474
+
+]
+l. 2624 Writing myblunders.idv[232] (myblunders231x.png)
+
+[475] [476
+
+]
+l. 2646 Writing myblunders.idv[233] (myblunders232x.png)
+ [477] [478
+
+]
+l. 2652 Writing myblunders.idv[234] (myblunders233x.png)
+ [479] [480
+
+]
+l. 2670 Writing myblunders.idv[235] (myblunders234x.png)
+ [481] [482
+
+]
+l. 2676 Writing myblunders.idv[236] (myblunders235x.png)
+ [483] [484
+
+]
+l. 2701 Writing myblunders.idv[237] (myblunders236x.png)
+ [485] [486
+
+]
+l. 2707 Writing myblunders.idv[238] (myblunders237x.png)
+
+[487] [488
+
+]
+l. 2728 Writing myblunders.idv[239] (myblunders238x.png)
+ [489] [490
+
+]
+l. 2734 Writing myblunders.idv[240] (myblunders239x.png)
+ [491] [492
+
+]
+l. 2747 Writing myblunders.idv[241] (myblunders240x.png)
+ [493] [494
+
+]
+l. 2753 Writing myblunders.idv[242] (myblunders241x.png)
+ [495] [496
+
+]
+l. 2783 Writing myblunders.idv[243] (myblunders242x.png)
+ [497] [498
+
+]
+l. 2789 Writing myblunders.idv[244] (myblunders243x.png)
+
+[499] [500
+
+]
+l. 2802 Writing myblunders.idv[245] (myblunders244x.png)
+ [501] [502
+
+]
+l. 2808 Writing myblunders.idv[246] (myblunders245x.png)
+ [503] [504
+
+]
+l. 2821 Writing myblunders.idv[247] (myblunders246x.png)
+ [505] [506
+
+]
+l. 2827 Writing myblunders.idv[248] (myblunders247x.png)
+ [507] [508
+
+]
+l. 2846 Writing myblunders.idv[249] (myblunders248x.png)
+ [509] [510
+
+]
+l. 2852 Writing myblunders.idv[250] (myblunders249x.png)
+
+[511] [512
+
+]
+l. 2875 Writing myblunders.idv[251] (myblunders250x.png)
+ [513] [514
+
+]
+l. 2881 Writing myblunders.idv[252] (myblunders251x.png)
+ [515] [516
+
+]
+l. 2894 Writing myblunders.idv[253] (myblunders252x.png)
+ [517] [518
+
+]
+l. 2900 Writing myblunders.idv[254] (myblunders253x.png)
+ [519] [520
+
+]
+l. 2913 Writing myblunders.idv[255] (myblunders254x.png)
+ [521] [522
+
+]
+l. 2919 Writing myblunders.idv[256] (myblunders255x.png)
+
+[523] [524
+
+]
+l. 2932 Writing myblunders.idv[257] (myblunders256x.png)
+ [525] [526
+
+]
+l. 2938 Writing myblunders.idv[258] (myblunders257x.png)
+ [527] [528
+
+]
+l. 2951 Writing myblunders.idv[259] (myblunders258x.png)
+ [529] [530
+
+]
+l. 2957 Writing myblunders.idv[260] (myblunders259x.png)
+ [531] [532
+
+]
+l. 2976 Writing myblunders.idv[261] (myblunders260x.png)
+ [533] [534
+
+]
+l. 2982 Writing myblunders.idv[262] (myblunders261x.png)
+
+[535] [536
+
+]
+l. 2995 Writing myblunders.idv[263] (myblunders262x.png)
+ [537] [538
+
+]
+l. 3001 Writing myblunders.idv[264] (myblunders263x.png)
+ [539] [540
+
+]
+l. 3014 Writing myblunders.idv[265] (myblunders264x.png)
+ [541] [542
+
+]
+l. 3020 Writing myblunders.idv[266] (myblunders265x.png)
+ [543] [544
+
+]
+l. 3033 Writing myblunders.idv[267] (myblunders266x.png)
+ [545] [546
+
+]
+l. 3039 Writing myblunders.idv[268] (myblunders267x.png)
+
+[547] [548
+
+]
+l. 3061 Writing myblunders.idv[269] (myblunders268x.png)
+ [549] [550
+
+]
+l. 3067 Writing myblunders.idv[270] (myblunders269x.png)
+ [551] [552
+
+]
+l. 3080 Writing myblunders.idv[271] (myblunders270x.png)
+ [553] [554
+
+]
+l. 3086 Writing myblunders.idv[272] (myblunders271x.png)
+ [555] [556
+
+]
+l. 3099 Writing myblunders.idv[273] (myblunders272x.png)
+ [557] [558
+
+]
+l. 3105 Writing myblunders.idv[274] (myblunders273x.png)
+
+[559] [560
+
+]
+l. 3131 Writing myblunders.idv[275] (myblunders274x.png)
+ [561] [562
+
+]
+l. 3137 Writing myblunders.idv[276] (myblunders275x.png)
+ [563] [564
+
+]
+l. 3150 Writing myblunders.idv[277] (myblunders276x.png)
+ [565] [566
+
+]
+l. 3156 Writing myblunders.idv[278] (myblunders277x.png)
+ [567] [568
+
+]
+l. 3169 Writing myblunders.idv[279] (myblunders278x.png)
+ [569] [570
+
+]
+l. 3175 Writing myblunders.idv[280] (myblunders279x.png)
+
+[571] [572
+
+]
+l. 3192 Writing myblunders.idv[281] (myblunders280x.png)
+ [573] [574
+
+]
+l. 3198 Writing myblunders.idv[282] (myblunders281x.png)
+ [575] [576
+
+]
+l. 3223 Writing myblunders.idv[283] (myblunders282x.png)
+ [577] [578
+
+]
+l. 3229 Writing myblunders.idv[284] (myblunders283x.png)
+ [579] [580
+
+]
+l. 3247 Writing myblunders.idv[285] (myblunders284x.png)
+ [581] [582
+
+]
+l. 3253 Writing myblunders.idv[286] (myblunders285x.png)
+
+[583] [584
+
+]
+l. 3266 Writing myblunders.idv[287] (myblunders286x.png)
+ [585] [586
+
+]
+l. 3272 Writing myblunders.idv[288] (myblunders287x.png)
+ [587] [588
+
+]
+l. 3285 Writing myblunders.idv[289] (myblunders288x.png)
+ [589] [590
+
+]
+l. 3291 Writing myblunders.idv[290] (myblunders289x.png)
+ [591] [592
+
+]
+l. 3327 Writing myblunders.idv[291] (myblunders290x.png)
+ [593] [594
+
+]
+l. 3333 Writing myblunders.idv[292] (myblunders291x.png)
+
+[595] [596
+
+]
+l. 3346 Writing myblunders.idv[293] (myblunders292x.png)
+ [597] [598
+
+]
+l. 3352 Writing myblunders.idv[294] (myblunders293x.png)
+ [599] [600
+
+]
+l. 3365 Writing myblunders.idv[295] (myblunders294x.png)
+ [601] [602
+
+]
+l. 3371 Writing myblunders.idv[296] (myblunders295x.png)
+ [603] [604
+
+]
+l. 3384 Writing myblunders.idv[297] (myblunders296x.png)
+ [605] [606
+
+]
+l. 3390 Writing myblunders.idv[298] (myblunders297x.png)
+
+[607] [608
+
+]
+l. 3418 Writing myblunders.idv[299] (myblunders298x.png)
+ [609] [610
+
+]
+l. 3424 Writing myblunders.idv[300] (myblunders299x.png)
+ [611] [612
+
+]
+l. 3441 Writing myblunders.idv[301] (myblunders300x.png)
+ [613] [614
+
+]
+l. 3447 Writing myblunders.idv[302] (myblunders301x.png)
+ [615] [616
+
+]
+l. 3460 Writing myblunders.idv[303] (myblunders302x.png)
+ [617] [618
+
+]
+l. 3466 Writing myblunders.idv[304] (myblunders303x.png)
+
+[619] [620
+
+]
+l. 3479 Writing myblunders.idv[305] (myblunders304x.png)
+ [621] [622
+
+]
+l. 3485 Writing myblunders.idv[306] (myblunders305x.png)
+ [623] [624
+
+]
+l. 3510 Writing myblunders.idv[307] (myblunders306x.png)
+ [625] [626
+
+]
+l. 3516 Writing myblunders.idv[308] (myblunders307x.png)
+ [627] [628
+
+]
+l. 3545 Writing myblunders.idv[309] (myblunders308x.png)
+ [629] [630
+
+]
+l. 3551 Writing myblunders.idv[310] (myblunders309x.png)
+
+[631] [632
+
+]
+l. 3564 Writing myblunders.idv[311] (myblunders310x.png)
+ [633] [634
+
+]
+l. 3570 Writing myblunders.idv[312] (myblunders311x.png)
+ [635] [636
+
+]
+l. 3583 Writing myblunders.idv[313] (myblunders312x.png)
+ [637] [638
+
+]
+l. 3589 Writing myblunders.idv[314] (myblunders313x.png)
+ [639] [640
+
+]
+l. 3614 Writing myblunders.idv[315] (myblunders314x.png)
+ [641] [642
+
+]
+l. 3620 Writing myblunders.idv[316] (myblunders315x.png)
+
+
+! LaTeX Error: \begin{document} ended by \end{samepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3623 \end{samepage}
+                     
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.3623 \end{samepage}
+                     
+? 
+l.3623 --- TeX4ht warning --- empty \PopStack\envn:list\:tempb? ---
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.3623 \end{samepage}
+                     
+? 
+l.3623 --- TeX4ht warning --- \SaveEverypar's:  at \begin{samepage} and 1 \end{
+samepage} ---
+[643] [644
+
+]
+l. 3633 Writing myblunders.idv[317] (myblunders316x.png)
+ [645] [646
+
+]
+l. 3639 Writing myblunders.idv[318] (myblunders317x.png)
+ [647] [648
+
+]
+l. 3664 Writing myblunders.idv[319] (myblunders318x.png)
+ [649] [650
+
+]
+l. 3670 Writing myblunders.idv[320] (myblunders319x.png)
+ [651] [652
+
+]
+l. 3683 Writing myblunders.idv[321] (myblunders320x.png)
+ [653] [654
+
+]
+l. 3689 Writing myblunders.idv[322] (myblunders321x.png)
+
+[655] [656
+
+]
+l. 3710 Writing myblunders.idv[323] (myblunders322x.png)
+ [657] [658
+
+]
+l. 3716 Writing myblunders.idv[324] (myblunders323x.png)
+ [659] [660
+
+]
+l. 3729 Writing myblunders.idv[325] (myblunders324x.png)
+ [661] [662
+
+]
+l. 3735 Writing myblunders.idv[326] (myblunders325x.png)
+ [663] [664
+
+]
+l. 3748 Writing myblunders.idv[327] (myblunders326x.png)
+ [665] [666
+
+]
+l. 3754 Writing myblunders.idv[328] (myblunders327x.png)
+
+[667] [668
+
+]
+l. 3767 Writing myblunders.idv[329] (myblunders328x.png)
+ [669] [670
+
+]
+l. 3773 Writing myblunders.idv[330] (myblunders329x.png)
+ [671] [672
+
+]
+l. 3786 Writing myblunders.idv[331] (myblunders330x.png)
+ [673] [674
+
+]
+l. 3792 Writing myblunders.idv[332] (myblunders331x.png)
+ [675] [676
+
+]
+l. 3805 Writing myblunders.idv[333] (myblunders332x.png)
+ [677] [678
+
+]
+l. 3811 Writing myblunders.idv[334] (myblunders333x.png)
+
+[679] [680
+
+]
+l. 3832 Writing myblunders.idv[335] (myblunders334x.png)
+ [681] [682
+
+]
+l. 3838 Writing myblunders.idv[336] (myblunders335x.png)
+ [683] [684
+
+]
+l. 3859 Writing myblunders.idv[337] (myblunders336x.png)
+ [685] [686
+
+]
+l. 3865 Writing myblunders.idv[338] (myblunders337x.png)
+ [687] [688
+
+]
+l. 3878 Writing myblunders.idv[339] (myblunders338x.png)
+ [689] [690
+
+]
+l. 3884 Writing myblunders.idv[340] (myblunders339x.png)
+
+[691] [692
+
+]
+l. 3901 Writing myblunders.idv[341] (myblunders340x.png)
+ [693] [694
+
+]
+l. 3907 Writing myblunders.idv[342] (myblunders341x.png)
+ [695] [696
+
+]
+l. 3941 Writing myblunders.idv[343] (myblunders342x.png)
+ [697] [698
+
+]
+l. 3947 Writing myblunders.idv[344] (myblunders343x.png)
+ [699] [700
+
+]
+l. 3960 Writing myblunders.idv[345] (myblunders344x.png)
+ [701] [702
+
+]
+l. 3966 Writing myblunders.idv[346] (myblunders345x.png)
+
+[703] [704
+
+]
+l. 3983 Writing myblunders.idv[347] (myblunders346x.png)
+ [705] [706
+
+]
+l. 3989 Writing myblunders.idv[348] (myblunders347x.png)
+ [707] [708
+
+]
+l. 4002 Writing myblunders.idv[349] (myblunders348x.png)
+ [709] [710
+
+]
+l. 4008 Writing myblunders.idv[350] (myblunders349x.png)
+ [711] [712
+
+]
+l. 4021 Writing myblunders.idv[351] (myblunders350x.png)
+ [713] [714
+
+]
+l. 4027 Writing myblunders.idv[352] (myblunders351x.png)
+
+[715] [716
+
+]
+l. 4040 Writing myblunders.idv[353] (myblunders352x.png)
+ [717] [718
+
+]
+l. 4046 Writing myblunders.idv[354] (myblunders353x.png)
+ [719] [720
+
+]
+l. 4063 Writing myblunders.idv[355] (myblunders354x.png)
+ [721] [722
+
+]
+l. 4069 Writing myblunders.idv[356] (myblunders355x.png)
+ [723] [724
+
+]
+l. 4082 Writing myblunders.idv[357] (myblunders356x.png)
+ [725] [726
+
+]
+l. 4088 Writing myblunders.idv[358] (myblunders357x.png)
+
+[727] [728
+
+]
+l. 4105 Writing myblunders.idv[359] (myblunders358x.png)
+ [729] [730
+
+]
+l. 4111 Writing myblunders.idv[360] (myblunders359x.png)
+ [731] [732
+
+]
+l. 4124 Writing myblunders.idv[361] (myblunders360x.png)
+ [733] [734
+
+]
+l. 4130 Writing myblunders.idv[362] (myblunders361x.png)
+ [735] [736] [737
+
+]
+l. 4176 Writing myblunders.idv[363] (myblunders362x.png)
+ [738]
+[739
+
+]
+l. 4182 Writing myblunders.idv[364] (myblunders363x.png)
+ [740] [741
+
+]
+l. 4195 Writing myblunders.idv[365] (myblunders364x.png)
+ [742] [743
+
+]
+l. 4201 Writing myblunders.idv[366] (myblunders365x.png)
+ [744] [745
+
+]
+l. 4214 Writing myblunders.idv[367] (myblunders366x.png)
+ [746] [747
+
+]
+l. 4220 Writing myblunders.idv[368] (myblunders367x.png)
+ [748] [749
+
+]
+l. 4233 Writing myblunders.idv[369] (myblunders368x.png)
+ [750]
+[751
+
+]
+l. 4239 Writing myblunders.idv[370] (myblunders369x.png)
+ [752] [753
+
+]
+l. 4273 Writing myblunders.idv[371] (myblunders370x.png)
+ [754] [755
+
+]
+l. 4279 Writing myblunders.idv[372] (myblunders371x.png)
+ [756] [757
+
+]
+l. 4292 Writing myblunders.idv[373] (myblunders372x.png)
+ [758] [759
+
+]
+l. 4298 Writing myblunders.idv[374] (myblunders373x.png)
+ [760] [761
+
+]
+l. 4319 Writing myblunders.idv[375] (myblunders374x.png)
+ [762]
+[763
+
+]
+l. 4325 Writing myblunders.idv[376] (myblunders375x.png)
+ [764] [765
+
+]
+l. 4342 Writing myblunders.idv[377] (myblunders376x.png)
+ [766] [767
+
+]
+l. 4348 Writing myblunders.idv[378] (myblunders377x.png)
+ [768] [769
+
+]
+l. 4361 Writing myblunders.idv[379] (myblunders378x.png)
+ [770] [771
+
+]
+l. 4367 Writing myblunders.idv[380] (myblunders379x.png)
+ [772] [773
+
+]
+l. 4380 Writing myblunders.idv[381] (myblunders380x.png)
+ [774]
+[775
+
+]
+l. 4386 Writing myblunders.idv[382] (myblunders381x.png)
+ [776] [777
+
+]
+l. 4399 Writing myblunders.idv[383] (myblunders382x.png)
+ [778] [779
+
+]
+l. 4405 Writing myblunders.idv[384] (myblunders383x.png)
+ [780] [781
+
+]
+l. 4422 Writing myblunders.idv[385] (myblunders384x.png)
+ [782] [783
+
+]
+l. 4428 Writing myblunders.idv[386] (myblunders385x.png)
+ [784] [785
+
+]
+l. 4466 Writing myblunders.idv[387] (myblunders386x.png)
+ [786]
+[787
+
+]
+l. 4472 Writing myblunders.idv[388] (myblunders387x.png)
+ [788] [789
+
+]
+l. 4485 Writing myblunders.idv[389] (myblunders388x.png)
+ [790] [791
+
+]
+l. 4491 Writing myblunders.idv[390] (myblunders389x.png)
+ [792] [793
+
+]
+l. 4504 Writing myblunders.idv[391] (myblunders390x.png)
+ [794] [795
+
+]
+l. 4510 Writing myblunders.idv[392] (myblunders391x.png)
+ [796] [797
+
+]
+l. 4542 Writing myblunders.idv[393] (myblunders392x.png)
+ [798]
+[799
+
+]
+l. 4548 Writing myblunders.idv[394] (myblunders393x.png)
+ [800] [801
+
+]
+l. 4561 Writing myblunders.idv[395] (myblunders394x.png)
+ [802] [803
+
+]
+l. 4567 Writing myblunders.idv[396] (myblunders395x.png)
+ [804] [805
+
+]
+l. 4585 Writing myblunders.idv[397] (myblunders396x.png)
+ [806] [807
+
+]
+l. 4591 Writing myblunders.idv[398] (myblunders397x.png)
+ [808] [809
+
+]
+l. 4614 Writing myblunders.idv[399] (myblunders398x.png)
+ [810]
+[811
+
+]
+l. 4620 Writing myblunders.idv[400] (myblunders399x.png)
+ [812] [813
+
+]
+l. 4637 Writing myblunders.idv[401] (myblunders400x.png)
+ [814] [815
+
+]
+l. 4643 Writing myblunders.idv[402] (myblunders401x.png)
+ [816] [817
+
+]
+l. 4656 Writing myblunders.idv[403] (myblunders402x.png)
+ [818] [819
+
+]
+l. 4662 Writing myblunders.idv[404] (myblunders403x.png)
+ [820] [821
+
+]
+l. 4693 Writing myblunders.idv[405] (myblunders404x.png)
+ [822]
+[823
+
+]
+l. 4699 Writing myblunders.idv[406] (myblunders405x.png)
+ [824] [825
+
+]
+l. 4712 Writing myblunders.idv[407] (myblunders406x.png)
+ [826] [827
+
+]
+l. 4718 Writing myblunders.idv[408] (myblunders407x.png)
+ [828] [829
+
+]
+l. 4741 Writing myblunders.idv[409] (myblunders408x.png)
+ [830] [831
+
+]
+l. 4747 Writing myblunders.idv[410] (myblunders409x.png)
+ [832] [833
+
+]
+l. 4764 Writing myblunders.idv[411] (myblunders410x.png)
+ [834]
+[835
+
+]
+l. 4770 Writing myblunders.idv[412] (myblunders411x.png)
+ [836] [837
+
+]
+l. 4787 Writing myblunders.idv[413] (myblunders412x.png)
+ [838] [839
+
+]
+l. 4793 Writing myblunders.idv[414] (myblunders413x.png)
+ [840] [841
+
+]
+l. 4806 Writing myblunders.idv[415] (myblunders414x.png)
+ [842] [843
+
+]
+l. 4812 Writing myblunders.idv[416] (myblunders415x.png)
+ [844] [845
+
+]
+l. 4829 Writing myblunders.idv[417] (myblunders416x.png)
+ [846]
+[847
+
+]
+l. 4835 Writing myblunders.idv[418] (myblunders417x.png)
+ [848] [849
+
+]
+l. 4852 Writing myblunders.idv[419] (myblunders418x.png)
+ [850] [851
+
+]
+l. 4858 Writing myblunders.idv[420] (myblunders419x.png)
+ [852] [853
+
+]
+l. 4871 Writing myblunders.idv[421] (myblunders420x.png)
+ [854] [855
+
+]
+l. 4877 Writing myblunders.idv[422] (myblunders421x.png)
+ [856] [857
+
+]
+l. 4890 Writing myblunders.idv[423] (myblunders422x.png)
+ [858]
+[859
+
+]
+l. 4896 Writing myblunders.idv[424] (myblunders423x.png)
+ [860] [861
+
+]
+l. 4909 Writing myblunders.idv[425] (myblunders424x.png)
+ [862] [863
+
+]
+l. 4915 Writing myblunders.idv[426] (myblunders425x.png)
+ [864] [865
+
+]
+l. 4933 Writing myblunders.idv[427] (myblunders426x.png)
+ [866] [867
+
+]
+l. 4939 Writing myblunders.idv[428] (myblunders427x.png)
+ [868] [869
+
+]
+l. 4956 Writing myblunders.idv[429] (myblunders428x.png)
+ [870]
+[871
+
+]
+l. 4962 Writing myblunders.idv[430] (myblunders429x.png)
+ [872] [873
+
+]
+l. 4979 Writing myblunders.idv[431] (myblunders430x.png)
+ [874] [875
+
+]
+l. 4985 Writing myblunders.idv[432] (myblunders431x.png)
+ [876] [877
+
+]
+l. 5002 Writing myblunders.idv[433] (myblunders432x.png)
+ [878] [879
+
+]
+l. 5008 Writing myblunders.idv[434] (myblunders433x.png)
+ [880] [881
+
+]
+l. 5029 Writing myblunders.idv[435] (myblunders434x.png)
+ [882]
+[883
+
+]
+l. 5035 Writing myblunders.idv[436] (myblunders435x.png)
+ [884] [885
+
+]
+l. 5057 Writing myblunders.idv[437] (myblunders436x.png)
+ [886] [887
+
+]
+l. 5063 Writing myblunders.idv[438] (myblunders437x.png)
+ [888] [889
+
+]
+l. 5076 Writing myblunders.idv[439] (myblunders438x.png)
+ [890] [891
+
+]
+l. 5082 Writing myblunders.idv[440] (myblunders439x.png)
+ [892] [893
+
+] [894]
+[895] (./myblunders.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(\end occurred when \iffalse on line 1365 was incomplete)
+(\end occurred when \iffalse on line 1365 was incomplete) 
+Here is how much of TeX's memory you used:
+ 27855 strings out of 492983
+ 522427 string characters out of 6134922
+ 598667 words of memory out of 5000000
+ 30980 multiletter control sequences out of 15000+600000
+ 7391 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 148i,8n,298p,1301b,1422s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on myblunders.dvi (895 pages, 1164500 bytes).

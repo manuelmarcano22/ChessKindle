@@ -1,0 +1,345 @@
+htfcss: cmbxti  font-weight: bold; font-style: italic;
+htfcss: cmti  font-style: italic;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmss   font-family: sans-serif;
+htfcss: cmssbx  font-family: sans-serif; font-weight: bold;
+htfcss: cmssbxo  font-family: sans-serif; font-style: oblique; font-weight: bold;
+htfcss: cmssdc  font-family: sans-serif;
+htfcss: cmssi  font-family: sans-serif; font-style: oblique;
+File: CTARTFirst100.html
+File: CTARTFirst100.css
+File: CTARTFirst100.tmp
+Css: p.noindent { text-indent: 0em }
+Css: td p.noindent { text-indent: 0em; margin-top:0em; }
+Css: p.nopar { text-indent: 0em; }
+Css: p.indent{ text-indent: 1.5em }
+Css: @media print {div.crosslinks {visibility:hidden;}}
+Css: a img { border-top: 0; border-left: 0; border-right: 0; }
+Font_Css("4"): .small-caps{font-variant: small-caps; }
+Font_Css("10"): .htf-cmbx {font-weight: bold; font-style:normal;}
+Font_Css("12"): .htf-calligraphy {font-family:cursive}
+Font_Css("14"): .htf-italic {font-style: italic;}
+Font_Css("16"): .htf-bold {font-weight: bold;}
+Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
+Css: center { margin-top:1em; margin-bottom:1em; }
+Css: td center { margin-top:0em; margin-bottom:0em; }
+Css: .Canvas { position:relative; }
+Css: img.math{vertical-align:middle;}
+Css: li p.indent { text-indent: 0em }
+Css: li p:first-child{ margin-top:0em; }
+Css: li p:last-child, li div:last-child { margin-bottom:0.5em; }
+Css: li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+Css: .enumerate1 {list-style-type:decimal;}
+Css: .enumerate2 {list-style-type:lower-alpha;}
+Css: .enumerate3 {list-style-type:lower-roman;}
+Css: .enumerate4 {list-style-type:upper-alpha;}
+Css: div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+Css: .obeylines-h,.obeylines-v {white-space: nowrap; }
+Css: div.obeylines-v p { margin-top:0; margin-bottom:0; }
+Css: .overline{ text-decoration:overline; }
+Css: .overline img{ border-top: 1px solid black; }
+Css: td.displaylines {text-align:center; white-space:nowrap;}
+Css: .centerline {text-align:center;}
+Css: .rightline {text-align:right;}
+Css: div.verbatim {font-family: monospace; white-space: nowrap; text-align:left; clear:both; }
+Css: .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.fbox {display:table}
+Css: div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.minipage{width:100%;}
+Css: div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+Css: div.center div {text-align: left;}
+Css: div.flushright, div.flushright div.flushright {text-align: right;}
+Css: div.flushright div {text-align: left;}
+Css: div.flushleft {text-align: left;}
+Css: .underline{ text-decoration:underline; }
+Css: .underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+Css: .framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: .framebox-c {text-align:center;}
+Css: .framebox-l {text-align:left;}
+Css: .framebox-r {text-align:right;}
+Css: span.thank-mark{ vertical-align: super }
+Css: span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+Css: div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+Css: table.tabular td p{margin-top:0em;}
+Css: table.tabular {margin-left: auto; margin-right: auto;}
+Css: td p:first-child{ margin-top:0em; }
+Css: td p:last-child{ margin-bottom:0em; }
+Css: div.td00{ margin-left:0pt; margin-right:0pt; }
+Css: div.td01{ margin-left:0pt; margin-right:5pt; }
+Css: div.td10{ margin-left:5pt; margin-right:0pt; }
+Css: div.td11{ margin-left:5pt; margin-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: td.td00{ padding-left:0pt; padding-right:0pt; }
+Css: td.td01{ padding-left:0pt; padding-right:5pt; }
+Css: td.td10{ padding-left:5pt; padding-right:0pt; }
+Css: td.td11{ padding-left:5pt; padding-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: .hline hr, .cline hr{ height : 1px; margin:0px; }
+Css: .tabbing-right {text-align:right;}
+Css: span.TEX {letter-spacing: -0.125em; }
+Css: span.TEX span.E{ position:relative;top:0.5ex;left:-0.0417em;}
+Css: a span.TEX span.E {text-decoration: none; }
+Css: span.LATEX span.A{ position:relative; top:-0.5ex; left:-0.4em; font-size:85%;}
+Css: span.LATEX span.TEX{ position:relative; left: -0.4em; }
+Css: div.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: div.float img {text-align:center;}
+Css: div.figure img {text-align:center;}
+Css: .marginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+Css: .marginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+Css: table.equation {width:100%;}
+Css: .equation td{text-align:center; }
+Css: td.equation { margin-top:1em; margin-bottom:1em; } 
+Css: td.equation-label { width:5%; text-align:center; }
+Css: td.eqnarray4 { width:5%; white-space: normal; }
+Css: td.eqnarray2 { width:5%; }
+Css: table.eqnarray-star, table.eqnarray {width:100%;}
+Css: div.eqnarray{text-align:center;}
+Css: div.array {text-align:center;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.pmatrix img{vertical-align:middle;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.bar-css {text-decoration:overline;}
+Css: img.cdots{vertical-align:middle;}
+Css: .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+Css: .chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {line-height: 200%; font-weight:bold;}
+Css: .index-item, .index-subitem, .index-subsubitem {display:block}
+Css: div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+Css: div.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: h1.partHead{text-align: center}
+Css: p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: .paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+Css: .subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+Css: .quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+Css: .verse{white-space:nowrap; margin-left:2em}
+Css: div.maketitle {text-align:center;}
+Css: h2.titleHead{text-align:center;}
+Css: div.maketitle{ margin-bottom: 2em; }
+Css: div.author, div.date {text-align:center;}
+Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+Css: div.author{white-space: nowrap;}
+Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+Css: h1.partHead{text-align: center}
+Css:  .chapterToc, .likechapterToc {margin-left:0em;}
+Css:  .chapterToc ~ .likesectionToc, .chapterToc ~ .sectionToc, .likechapterToc ~ .likesectionToc, .likechapterToc ~ .sectionToc {margin-left:2em;}
+Css:  .chapterToc ~ .likesectionToc ~ .likesubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc {margin-left:4em;}
+Css: .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:6em;}
+Css:  .likesectionToc , .sectionToc {margin-left:0em;}
+Css:  .likesectionToc ~ .likesubsectionToc, .likesectionToc ~ .subsectionToc, .sectionToc ~ .likesubsectionToc, .sectionToc ~ .subsectionToc {margin-left:2em;}
+Css: .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:4em;}
+Css:  .likesubsectionToc, .subsectionToc {margin-left:0em;}
+Css:  .likesubsectionToc ~ .subsubsectionToc, .subsectionToc ~ .subsubsectionToc {margin-left:2em;}
+Css: .figure img.graphics {margin-left:10%;}
+Css: .newpage{page-break-before:always;}
+--- needs --- CTARTFirst100.idv[2] ==> CTARTFirst1000x.png ---
+--- needs --- CTARTFirst100.idv[4] ==> CTARTFirst1001x.png ---
+--- needs --- CTARTFirst100.idv[6] ==> CTARTFirst1002x.png ---
+--- needs --- CTARTFirst100.idv[8] ==> CTARTFirst1003x.png ---
+--- needs --- CTARTFirst100.idv[10] ==> CTARTFirst1004x.png ---
+--- needs --- CTARTFirst100.idv[12] ==> CTARTFirst1005x.png ---
+--- needs --- CTARTFirst100.idv[14] ==> CTARTFirst1006x.png ---
+--- needs --- CTARTFirst100.idv[16] ==> CTARTFirst1007x.png ---
+--- needs --- CTARTFirst100.idv[18] ==> CTARTFirst1008x.png ---
+--- needs --- CTARTFirst100.idv[20] ==> CTARTFirst1009x.png ---
+--- needs --- CTARTFirst100.idv[22] ==> CTARTFirst10010x.png ---
+--- needs --- CTARTFirst100.idv[24] ==> CTARTFirst10011x.png ---
+--- needs --- CTARTFirst100.idv[26] ==> CTARTFirst10012x.png ---
+--- needs --- CTARTFirst100.idv[28] ==> CTARTFirst10013x.png ---
+--- needs --- CTARTFirst100.idv[30] ==> CTARTFirst10014x.png ---
+--- needs --- CTARTFirst100.idv[32] ==> CTARTFirst10015x.png ---
+--- needs --- CTARTFirst100.idv[34] ==> CTARTFirst10016x.png ---
+--- needs --- CTARTFirst100.idv[36] ==> CTARTFirst10017x.png ---
+--- needs --- CTARTFirst100.idv[38] ==> CTARTFirst10018x.png ---
+--- needs --- CTARTFirst100.idv[40] ==> CTARTFirst10019x.png ---
+--- needs --- CTARTFirst100.idv[42] ==> CTARTFirst10020x.png ---
+--- needs --- CTARTFirst100.idv[44] ==> CTARTFirst10021x.png ---
+--- needs --- CTARTFirst100.idv[46] ==> CTARTFirst10022x.png ---
+--- needs --- CTARTFirst100.idv[48] ==> CTARTFirst10023x.png ---
+--- needs --- CTARTFirst100.idv[50] ==> CTARTFirst10024x.png ---
+--- needs --- CTARTFirst100.idv[52] ==> CTARTFirst10025x.png ---
+--- needs --- CTARTFirst100.idv[54] ==> CTARTFirst10026x.png ---
+--- needs --- CTARTFirst100.idv[56] ==> CTARTFirst10027x.png ---
+--- needs --- CTARTFirst100.idv[58] ==> CTARTFirst10028x.png ---
+--- needs --- CTARTFirst100.idv[60] ==> CTARTFirst10029x.png ---
+--- needs --- CTARTFirst100.idv[62] ==> CTARTFirst10030x.png ---
+--- needs --- CTARTFirst100.idv[64] ==> CTARTFirst10031x.png ---
+--- needs --- CTARTFirst100.idv[66] ==> CTARTFirst10032x.png ---
+--- needs --- CTARTFirst100.idv[68] ==> CTARTFirst10033x.png ---
+--- needs --- CTARTFirst100.idv[70] ==> CTARTFirst10034x.png ---
+--- needs --- CTARTFirst100.idv[72] ==> CTARTFirst10035x.png ---
+--- needs --- CTARTFirst100.idv[74] ==> CTARTFirst10036x.png ---
+--- needs --- CTARTFirst100.idv[76] ==> CTARTFirst10037x.png ---
+--- needs --- CTARTFirst100.idv[78] ==> CTARTFirst10038x.png ---
+--- needs --- CTARTFirst100.idv[80] ==> CTARTFirst10039x.png ---
+--- needs --- CTARTFirst100.idv[82] ==> CTARTFirst10040x.png ---
+--- needs --- CTARTFirst100.idv[84] ==> CTARTFirst10041x.png ---
+--- needs --- CTARTFirst100.idv[86] ==> CTARTFirst10042x.png ---
+--- needs --- CTARTFirst100.idv[88] ==> CTARTFirst10043x.png ---
+--- needs --- CTARTFirst100.idv[90] ==> CTARTFirst10044x.png ---
+--- needs --- CTARTFirst100.idv[92] ==> CTARTFirst10045x.png ---
+--- needs --- CTARTFirst100.idv[94] ==> CTARTFirst10046x.png ---
+--- needs --- CTARTFirst100.idv[96] ==> CTARTFirst10047x.png ---
+--- needs --- CTARTFirst100.idv[98] ==> CTARTFirst10048x.png ---
+--- needs --- CTARTFirst100.idv[100] ==> CTARTFirst10049x.png ---
+--- needs --- CTARTFirst100.idv[102] ==> CTARTFirst10050x.png ---
+--- needs --- CTARTFirst100.idv[104] ==> CTARTFirst10051x.png ---
+--- needs --- CTARTFirst100.idv[106] ==> CTARTFirst10052x.png ---
+--- needs --- CTARTFirst100.idv[108] ==> CTARTFirst10053x.png ---
+--- needs --- CTARTFirst100.idv[110] ==> CTARTFirst10054x.png ---
+--- needs --- CTARTFirst100.idv[112] ==> CTARTFirst10055x.png ---
+--- needs --- CTARTFirst100.idv[114] ==> CTARTFirst10056x.png ---
+--- needs --- CTARTFirst100.idv[116] ==> CTARTFirst10057x.png ---
+--- needs --- CTARTFirst100.idv[118] ==> CTARTFirst10058x.png ---
+--- needs --- CTARTFirst100.idv[120] ==> CTARTFirst10059x.png ---
+--- needs --- CTARTFirst100.idv[122] ==> CTARTFirst10060x.png ---
+--- needs --- CTARTFirst100.idv[124] ==> CTARTFirst10061x.png ---
+--- needs --- CTARTFirst100.idv[126] ==> CTARTFirst10062x.png ---
+--- needs --- CTARTFirst100.idv[128] ==> CTARTFirst10063x.png ---
+--- needs --- CTARTFirst100.idv[130] ==> CTARTFirst10064x.png ---
+--- needs --- CTARTFirst100.idv[132] ==> CTARTFirst10065x.png ---
+--- needs --- CTARTFirst100.idv[134] ==> CTARTFirst10066x.png ---
+--- needs --- CTARTFirst100.idv[136] ==> CTARTFirst10067x.png ---
+--- needs --- CTARTFirst100.idv[138] ==> CTARTFirst10068x.png ---
+--- needs --- CTARTFirst100.idv[140] ==> CTARTFirst10069x.png ---
+--- needs --- CTARTFirst100.idv[142] ==> CTARTFirst10070x.png ---
+--- needs --- CTARTFirst100.idv[144] ==> CTARTFirst10071x.png ---
+--- needs --- CTARTFirst100.idv[146] ==> CTARTFirst10072x.png ---
+--- needs --- CTARTFirst100.idv[148] ==> CTARTFirst10073x.png ---
+--- needs --- CTARTFirst100.idv[150] ==> CTARTFirst10074x.png ---
+--- needs --- CTARTFirst100.idv[152] ==> CTARTFirst10075x.png ---
+--- needs --- CTARTFirst100.idv[154] ==> CTARTFirst10076x.png ---
+--- needs --- CTARTFirst100.idv[156] ==> CTARTFirst10077x.png ---
+--- needs --- CTARTFirst100.idv[158] ==> CTARTFirst10078x.png ---
+--- needs --- CTARTFirst100.idv[160] ==> CTARTFirst10079x.png ---
+--- needs --- CTARTFirst100.idv[162] ==> CTARTFirst10080x.png ---
+--- needs --- CTARTFirst100.idv[164] ==> CTARTFirst10081x.png ---
+--- needs --- CTARTFirst100.idv[166] ==> CTARTFirst10082x.png ---
+--- needs --- CTARTFirst100.idv[168] ==> CTARTFirst10083x.png ---
+--- needs --- CTARTFirst100.idv[170] ==> CTARTFirst10084x.png ---
+--- needs --- CTARTFirst100.idv[172] ==> CTARTFirst10085x.png ---
+--- needs --- CTARTFirst100.idv[174] ==> CTARTFirst10086x.png ---
+--- needs --- CTARTFirst100.idv[176] ==> CTARTFirst10087x.png ---
+--- needs --- CTARTFirst100.idv[178] ==> CTARTFirst10088x.png ---
+--- needs --- CTARTFirst100.idv[180] ==> CTARTFirst10089x.png ---
+--- needs --- CTARTFirst100.idv[182] ==> CTARTFirst10090x.png ---
+--- needs --- CTARTFirst100.idv[184] ==> CTARTFirst10091x.png ---
+--- needs --- CTARTFirst100.idv[186] ==> CTARTFirst10092x.png ---
+--- needs --- CTARTFirst100.idv[188] ==> CTARTFirst10093x.png ---
+--- needs --- CTARTFirst100.idv[190] ==> CTARTFirst10094x.png ---
+--- needs --- CTARTFirst100.idv[192] ==> CTARTFirst10095x.png ---
+--- needs --- CTARTFirst100.idv[194] ==> CTARTFirst10096x.png ---
+--- needs --- CTARTFirst100.idv[196] ==> CTARTFirst10097x.png ---
+--- needs --- CTARTFirst100.idv[198] ==> CTARTFirst10098x.png ---
+--- needs --- CTARTFirst100.idv[200] ==> CTARTFirst10099x.png ---
+--- needs --- CTARTFirst100.idv[202] ==> CTARTFirst100100x.png ---
+--- needs --- CTARTFirst100.idv[204] ==> CTARTFirst100101x.png ---
+--- needs --- CTARTFirst100.idv[206] ==> CTARTFirst100102x.png ---
+--- needs --- CTARTFirst100.idv[208] ==> CTARTFirst100103x.png ---
+--- needs --- CTARTFirst100.idv[210] ==> CTARTFirst100104x.png ---
+--- needs --- CTARTFirst100.idv[212] ==> CTARTFirst100105x.png ---
+--- needs --- CTARTFirst100.idv[214] ==> CTARTFirst100106x.png ---
+--- needs --- CTARTFirst100.idv[216] ==> CTARTFirst100107x.png ---
+--- needs --- CTARTFirst100.idv[218] ==> CTARTFirst100108x.png ---
+--- needs --- CTARTFirst100.idv[220] ==> CTARTFirst100109x.png ---
+--- needs --- CTARTFirst100.idv[222] ==> CTARTFirst100110x.png ---
+--- needs --- CTARTFirst100.idv[224] ==> CTARTFirst100111x.png ---
+--- needs --- CTARTFirst100.idv[226] ==> CTARTFirst100112x.png ---
+--- needs --- CTARTFirst100.idv[228] ==> CTARTFirst100113x.png ---
+--- needs --- CTARTFirst100.idv[230] ==> CTARTFirst100114x.png ---
+--- needs --- CTARTFirst100.idv[232] ==> CTARTFirst100115x.png ---
+--- needs --- CTARTFirst100.idv[234] ==> CTARTFirst100116x.png ---
+--- needs --- CTARTFirst100.idv[236] ==> CTARTFirst100117x.png ---
+--- needs --- CTARTFirst100.idv[238] ==> CTARTFirst100118x.png ---
+--- needs --- CTARTFirst100.idv[240] ==> CTARTFirst100119x.png ---
+--- needs --- CTARTFirst100.idv[242] ==> CTARTFirst100120x.png ---
+--- needs --- CTARTFirst100.idv[244] ==> CTARTFirst100121x.png ---
+--- needs --- CTARTFirst100.idv[246] ==> CTARTFirst100122x.png ---
+--- needs --- CTARTFirst100.idv[248] ==> CTARTFirst100123x.png ---
+--- needs --- CTARTFirst100.idv[250] ==> CTARTFirst100124x.png ---
+--- needs --- CTARTFirst100.idv[252] ==> CTARTFirst100125x.png ---
+--- needs --- CTARTFirst100.idv[254] ==> CTARTFirst100126x.png ---
+--- needs --- CTARTFirst100.idv[256] ==> CTARTFirst100127x.png ---
+--- needs --- CTARTFirst100.idv[258] ==> CTARTFirst100128x.png ---
+--- needs --- CTARTFirst100.idv[260] ==> CTARTFirst100129x.png ---
+--- needs --- CTARTFirst100.idv[262] ==> CTARTFirst100130x.png ---
+--- needs --- CTARTFirst100.idv[264] ==> CTARTFirst100131x.png ---
+--- needs --- CTARTFirst100.idv[266] ==> CTARTFirst100132x.png ---
+--- needs --- CTARTFirst100.idv[268] ==> CTARTFirst100133x.png ---
+--- needs --- CTARTFirst100.idv[270] ==> CTARTFirst100134x.png ---
+--- needs --- CTARTFirst100.idv[272] ==> CTARTFirst100135x.png ---
+--- needs --- CTARTFirst100.idv[274] ==> CTARTFirst100136x.png ---
+--- needs --- CTARTFirst100.idv[276] ==> CTARTFirst100137x.png ---
+--- needs --- CTARTFirst100.idv[278] ==> CTARTFirst100138x.png ---
+--- needs --- CTARTFirst100.idv[280] ==> CTARTFirst100139x.png ---
+--- needs --- CTARTFirst100.idv[282] ==> CTARTFirst100140x.png ---
+--- needs --- CTARTFirst100.idv[284] ==> CTARTFirst100141x.png ---
+--- needs --- CTARTFirst100.idv[286] ==> CTARTFirst100142x.png ---
+--- needs --- CTARTFirst100.idv[288] ==> CTARTFirst100143x.png ---
+--- needs --- CTARTFirst100.idv[290] ==> CTARTFirst100144x.png ---
+--- needs --- CTARTFirst100.idv[292] ==> CTARTFirst100145x.png ---
+--- needs --- CTARTFirst100.idv[294] ==> CTARTFirst100146x.png ---
+--- needs --- CTARTFirst100.idv[296] ==> CTARTFirst100147x.png ---
+--- needs --- CTARTFirst100.idv[298] ==> CTARTFirst100148x.png ---
+--- needs --- CTARTFirst100.idv[300] ==> CTARTFirst100149x.png ---
+--- needs --- CTARTFirst100.idv[302] ==> CTARTFirst100150x.png ---
+--- needs --- CTARTFirst100.idv[304] ==> CTARTFirst100151x.png ---
+--- needs --- CTARTFirst100.idv[306] ==> CTARTFirst100152x.png ---
+--- needs --- CTARTFirst100.idv[308] ==> CTARTFirst100153x.png ---
+--- needs --- CTARTFirst100.idv[310] ==> CTARTFirst100154x.png ---
+--- needs --- CTARTFirst100.idv[312] ==> CTARTFirst100155x.png ---
+--- needs --- CTARTFirst100.idv[314] ==> CTARTFirst100156x.png ---
+--- needs --- CTARTFirst100.idv[316] ==> CTARTFirst100157x.png ---
+--- needs --- CTARTFirst100.idv[318] ==> CTARTFirst100158x.png ---
+--- needs --- CTARTFirst100.idv[320] ==> CTARTFirst100159x.png ---
+--- needs --- CTARTFirst100.idv[322] ==> CTARTFirst100160x.png ---
+--- needs --- CTARTFirst100.idv[324] ==> CTARTFirst100161x.png ---
+--- needs --- CTARTFirst100.idv[326] ==> CTARTFirst100162x.png ---
+--- needs --- CTARTFirst100.idv[328] ==> CTARTFirst100163x.png ---
+--- needs --- CTARTFirst100.idv[330] ==> CTARTFirst100164x.png ---
+--- needs --- CTARTFirst100.idv[332] ==> CTARTFirst100165x.png ---
+--- needs --- CTARTFirst100.idv[334] ==> CTARTFirst100166x.png ---
+--- needs --- CTARTFirst100.idv[336] ==> CTARTFirst100167x.png ---
+--- needs --- CTARTFirst100.idv[338] ==> CTARTFirst100168x.png ---
+--- needs --- CTARTFirst100.idv[340] ==> CTARTFirst100169x.png ---
+--- needs --- CTARTFirst100.idv[342] ==> CTARTFirst100170x.png ---
+--- needs --- CTARTFirst100.idv[344] ==> CTARTFirst100171x.png ---
+--- needs --- CTARTFirst100.idv[346] ==> CTARTFirst100172x.png ---
+--- needs --- CTARTFirst100.idv[348] ==> CTARTFirst100173x.png ---
+--- needs --- CTARTFirst100.idv[350] ==> CTARTFirst100174x.png ---
+--- needs --- CTARTFirst100.idv[352] ==> CTARTFirst100175x.png ---
+--- needs --- CTARTFirst100.idv[354] ==> CTARTFirst100176x.png ---
+--- needs --- CTARTFirst100.idv[356] ==> CTARTFirst100177x.png ---
+--- needs --- CTARTFirst100.idv[358] ==> CTARTFirst100178x.png ---
+--- needs --- CTARTFirst100.idv[360] ==> CTARTFirst100179x.png ---
+--- needs --- CTARTFirst100.idv[362] ==> CTARTFirst100180x.png ---
+--- needs --- CTARTFirst100.idv[364] ==> CTARTFirst100181x.png ---
+--- needs --- CTARTFirst100.idv[366] ==> CTARTFirst100182x.png ---
+--- needs --- CTARTFirst100.idv[368] ==> CTARTFirst100183x.png ---
+--- needs --- CTARTFirst100.idv[370] ==> CTARTFirst100184x.png ---
+--- needs --- CTARTFirst100.idv[372] ==> CTARTFirst100185x.png ---
+--- needs --- CTARTFirst100.idv[374] ==> CTARTFirst100186x.png ---
+--- needs --- CTARTFirst100.idv[376] ==> CTARTFirst100187x.png ---
+--- needs --- CTARTFirst100.idv[378] ==> CTARTFirst100188x.png ---
+--- needs --- CTARTFirst100.idv[380] ==> CTARTFirst100189x.png ---
+--- needs --- CTARTFirst100.idv[382] ==> CTARTFirst100190x.png ---
+--- needs --- CTARTFirst100.idv[384] ==> CTARTFirst100191x.png ---
+--- needs --- CTARTFirst100.idv[386] ==> CTARTFirst100192x.png ---
+--- needs --- CTARTFirst100.idv[388] ==> CTARTFirst100193x.png ---
+--- needs --- CTARTFirst100.idv[390] ==> CTARTFirst100194x.png ---
+--- needs --- CTARTFirst100.idv[392] ==> CTARTFirst100195x.png ---
+--- needs --- CTARTFirst100.idv[394] ==> CTARTFirst100196x.png ---
+--- needs --- CTARTFirst100.idv[396] ==> CTARTFirst100197x.png ---
+--- needs --- CTARTFirst100.idv[398] ==> CTARTFirst100198x.png ---
+--- needs --- CTARTFirst100.idv[400] ==> CTARTFirst100199x.png ---
+--- characters ---
+Font("cmr","10","10","100")
+Font("SkakNew-Diagram","","10","200")
+Font("cmss","10","10","100")
+Font("cmbx","10","10","100")
+Font("SkakNew-FigurineBold","","10","100")
+Font("SkakNew-Figurine","","10","100")
+Font("cmti","10","10","100")
+Font("cmbxti","10","10","100")
