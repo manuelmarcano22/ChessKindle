@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "2020.08.02"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/p3pk2/5nR1/8/P3rN2/1P3KP1/8 w - - 0 1"]
+
+ 1.Rxf5+ (1.g4 Rxf3+ 2.Kxf3 Kxg5) (1.Rg6+ Kxg6) (1.Nd4 Kxg5 2.Nxf5 Rb3) (1.Ne5 Kxg5 2.Nf3+ Kf4) (1.Nh4 Kxg5 2.Nxf5 Rb3) 1...exf5 2.Kxe3 *

@@ -1,0 +1,307 @@
+htfcss: cmbxti  font-weight: bold; font-style: italic;
+htfcss: cmti  font-style: italic;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmss   font-family: sans-serif;
+htfcss: cmssbx  font-family: sans-serif; font-weight: bold;
+htfcss: cmssbxo  font-family: sans-serif; font-style: oblique; font-weight: bold;
+htfcss: cmssdc  font-family: sans-serif;
+htfcss: cmssi  font-family: sans-serif; font-style: oblique;
+File: CTART4L1and2.html
+File: CTART4L1and2.css
+File: CTART4L1and2.tmp
+Css: p.noindent { text-indent: 0em }
+Css: td p.noindent { text-indent: 0em; margin-top:0em; }
+Css: p.nopar { text-indent: 0em; }
+Css: p.indent{ text-indent: 1.5em }
+Css: @media print {div.crosslinks {visibility:hidden;}}
+Css: a img { border-top: 0; border-left: 0; border-right: 0; }
+Font_Css("4"): .small-caps{font-variant: small-caps; }
+Font_Css("10"): .htf-cmbx {font-weight: bold; font-style:normal;}
+Font_Css("12"): .htf-calligraphy {font-family:cursive}
+Font_Css("14"): .htf-italic {font-style: italic;}
+Font_Css("16"): .htf-bold {font-weight: bold;}
+Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
+Css: center { margin-top:1em; margin-bottom:1em; }
+Css: td center { margin-top:0em; margin-bottom:0em; }
+Css: .Canvas { position:relative; }
+Css: img.math{vertical-align:middle;}
+Css: li p.indent { text-indent: 0em }
+Css: li p:first-child{ margin-top:0em; }
+Css: li p:last-child, li div:last-child { margin-bottom:0.5em; }
+Css: li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+Css: .enumerate1 {list-style-type:decimal;}
+Css: .enumerate2 {list-style-type:lower-alpha;}
+Css: .enumerate3 {list-style-type:lower-roman;}
+Css: .enumerate4 {list-style-type:upper-alpha;}
+Css: div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+Css: .obeylines-h,.obeylines-v {white-space: nowrap; }
+Css: div.obeylines-v p { margin-top:0; margin-bottom:0; }
+Css: .overline{ text-decoration:overline; }
+Css: .overline img{ border-top: 1px solid black; }
+Css: td.displaylines {text-align:center; white-space:nowrap;}
+Css: .centerline {text-align:center;}
+Css: .rightline {text-align:right;}
+Css: div.verbatim {font-family: monospace; white-space: nowrap; text-align:left; clear:both; }
+Css: .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.fbox {display:table}
+Css: div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.minipage{width:100%;}
+Css: div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+Css: div.center div {text-align: left;}
+Css: div.flushright, div.flushright div.flushright {text-align: right;}
+Css: div.flushright div {text-align: left;}
+Css: div.flushleft {text-align: left;}
+Css: .underline{ text-decoration:underline; }
+Css: .underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+Css: .framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: .framebox-c {text-align:center;}
+Css: .framebox-l {text-align:left;}
+Css: .framebox-r {text-align:right;}
+Css: span.thank-mark{ vertical-align: super }
+Css: span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+Css: div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+Css: table.tabular td p{margin-top:0em;}
+Css: table.tabular {margin-left: auto; margin-right: auto;}
+Css: td p:first-child{ margin-top:0em; }
+Css: td p:last-child{ margin-bottom:0em; }
+Css: div.td00{ margin-left:0pt; margin-right:0pt; }
+Css: div.td01{ margin-left:0pt; margin-right:5pt; }
+Css: div.td10{ margin-left:5pt; margin-right:0pt; }
+Css: div.td11{ margin-left:5pt; margin-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: td.td00{ padding-left:0pt; padding-right:0pt; }
+Css: td.td01{ padding-left:0pt; padding-right:5pt; }
+Css: td.td10{ padding-left:5pt; padding-right:0pt; }
+Css: td.td11{ padding-left:5pt; padding-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: .hline hr, .cline hr{ height : 1px; margin:0px; }
+Css: .tabbing-right {text-align:right;}
+Css: span.TEX {letter-spacing: -0.125em; }
+Css: span.TEX span.E{ position:relative;top:0.5ex;left:-0.0417em;}
+Css: a span.TEX span.E {text-decoration: none; }
+Css: span.LATEX span.A{ position:relative; top:-0.5ex; left:-0.4em; font-size:85%;}
+Css: span.LATEX span.TEX{ position:relative; left: -0.4em; }
+Css: div.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: div.float img {text-align:center;}
+Css: div.figure img {text-align:center;}
+Css: .marginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+Css: .marginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+Css: table.equation {width:100%;}
+Css: .equation td{text-align:center; }
+Css: td.equation { margin-top:1em; margin-bottom:1em; } 
+Css: td.equation-label { width:5%; text-align:center; }
+Css: td.eqnarray4 { width:5%; white-space: normal; }
+Css: td.eqnarray2 { width:5%; }
+Css: table.eqnarray-star, table.eqnarray {width:100%;}
+Css: div.eqnarray{text-align:center;}
+Css: div.array {text-align:center;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.pmatrix img{vertical-align:middle;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.bar-css {text-decoration:overline;}
+Css: img.cdots{vertical-align:middle;}
+Css: .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+Css: .chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {line-height: 200%; font-weight:bold;}
+Css: .index-item, .index-subitem, .index-subsubitem {display:block}
+Css: div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+Css: div.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: h1.partHead{text-align: center}
+Css: p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: .paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+Css: .subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+Css: .quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+Css: .verse{white-space:nowrap; margin-left:2em}
+Css: div.maketitle {text-align:center;}
+Css: h2.titleHead{text-align:center;}
+Css: div.maketitle{ margin-bottom: 2em; }
+Css: div.author, div.date {text-align:center;}
+Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+Css: div.author{white-space: nowrap;}
+Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+Css: h1.partHead{text-align: center}
+Css:  .chapterToc, .likechapterToc {margin-left:0em;}
+Css:  .chapterToc ~ .likesectionToc, .chapterToc ~ .sectionToc, .likechapterToc ~ .likesectionToc, .likechapterToc ~ .sectionToc {margin-left:2em;}
+Css:  .chapterToc ~ .likesectionToc ~ .likesubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc {margin-left:4em;}
+Css: .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:6em;}
+Css:  .likesectionToc , .sectionToc {margin-left:0em;}
+Css:  .likesectionToc ~ .likesubsectionToc, .likesectionToc ~ .subsectionToc, .sectionToc ~ .likesubsectionToc, .sectionToc ~ .subsectionToc {margin-left:2em;}
+Css: .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:4em;}
+Css:  .likesubsectionToc, .subsectionToc {margin-left:0em;}
+Css:  .likesubsectionToc ~ .subsubsectionToc, .subsectionToc ~ .subsubsectionToc {margin-left:2em;}
+Css: .figure img.graphics {margin-left:10%;}
+Css: .newpage{page-break-before:always;}
+--- needs --- CTART4L1and2.idv[2] ==> CTART4L1and20x.png ---
+--- needs --- CTART4L1and2.idv[4] ==> CTART4L1and21x.png ---
+--- needs --- CTART4L1and2.idv[6] ==> CTART4L1and22x.png ---
+--- needs --- CTART4L1and2.idv[8] ==> CTART4L1and23x.png ---
+--- needs --- CTART4L1and2.idv[10] ==> CTART4L1and24x.png ---
+--- needs --- CTART4L1and2.idv[12] ==> CTART4L1and25x.png ---
+--- needs --- CTART4L1and2.idv[14] ==> CTART4L1and26x.png ---
+--- needs --- CTART4L1and2.idv[16] ==> CTART4L1and27x.png ---
+--- needs --- CTART4L1and2.idv[18] ==> CTART4L1and28x.png ---
+--- needs --- CTART4L1and2.idv[20] ==> CTART4L1and29x.png ---
+--- needs --- CTART4L1and2.idv[22] ==> CTART4L1and210x.png ---
+--- needs --- CTART4L1and2.idv[24] ==> CTART4L1and211x.png ---
+--- needs --- CTART4L1and2.idv[26] ==> CTART4L1and212x.png ---
+--- needs --- CTART4L1and2.idv[28] ==> CTART4L1and213x.png ---
+--- needs --- CTART4L1and2.idv[30] ==> CTART4L1and214x.png ---
+--- needs --- CTART4L1and2.idv[32] ==> CTART4L1and215x.png ---
+--- needs --- CTART4L1and2.idv[34] ==> CTART4L1and216x.png ---
+--- needs --- CTART4L1and2.idv[36] ==> CTART4L1and217x.png ---
+--- needs --- CTART4L1and2.idv[38] ==> CTART4L1and218x.png ---
+--- needs --- CTART4L1and2.idv[40] ==> CTART4L1and219x.png ---
+--- needs --- CTART4L1and2.idv[42] ==> CTART4L1and220x.png ---
+--- needs --- CTART4L1and2.idv[44] ==> CTART4L1and221x.png ---
+--- needs --- CTART4L1and2.idv[46] ==> CTART4L1and222x.png ---
+--- needs --- CTART4L1and2.idv[48] ==> CTART4L1and223x.png ---
+--- needs --- CTART4L1and2.idv[50] ==> CTART4L1and224x.png ---
+--- needs --- CTART4L1and2.idv[52] ==> CTART4L1and225x.png ---
+--- needs --- CTART4L1and2.idv[54] ==> CTART4L1and226x.png ---
+--- needs --- CTART4L1and2.idv[56] ==> CTART4L1and227x.png ---
+--- needs --- CTART4L1and2.idv[58] ==> CTART4L1and228x.png ---
+--- needs --- CTART4L1and2.idv[60] ==> CTART4L1and229x.png ---
+--- needs --- CTART4L1and2.idv[62] ==> CTART4L1and230x.png ---
+--- needs --- CTART4L1and2.idv[64] ==> CTART4L1and231x.png ---
+--- needs --- CTART4L1and2.idv[66] ==> CTART4L1and232x.png ---
+--- needs --- CTART4L1and2.idv[68] ==> CTART4L1and233x.png ---
+--- needs --- CTART4L1and2.idv[70] ==> CTART4L1and234x.png ---
+--- needs --- CTART4L1and2.idv[72] ==> CTART4L1and235x.png ---
+--- needs --- CTART4L1and2.idv[74] ==> CTART4L1and236x.png ---
+--- needs --- CTART4L1and2.idv[76] ==> CTART4L1and237x.png ---
+--- needs --- CTART4L1and2.idv[78] ==> CTART4L1and238x.png ---
+--- needs --- CTART4L1and2.idv[80] ==> CTART4L1and239x.png ---
+--- needs --- CTART4L1and2.idv[82] ==> CTART4L1and240x.png ---
+--- needs --- CTART4L1and2.idv[84] ==> CTART4L1and241x.png ---
+--- needs --- CTART4L1and2.idv[86] ==> CTART4L1and242x.png ---
+--- needs --- CTART4L1and2.idv[88] ==> CTART4L1and243x.png ---
+--- needs --- CTART4L1and2.idv[90] ==> CTART4L1and244x.png ---
+--- needs --- CTART4L1and2.idv[92] ==> CTART4L1and245x.png ---
+--- needs --- CTART4L1and2.idv[94] ==> CTART4L1and246x.png ---
+--- needs --- CTART4L1and2.idv[96] ==> CTART4L1and247x.png ---
+--- needs --- CTART4L1and2.idv[98] ==> CTART4L1and248x.png ---
+--- needs --- CTART4L1and2.idv[100] ==> CTART4L1and249x.png ---
+--- needs --- CTART4L1and2.idv[102] ==> CTART4L1and250x.png ---
+--- needs --- CTART4L1and2.idv[104] ==> CTART4L1and251x.png ---
+--- needs --- CTART4L1and2.idv[106] ==> CTART4L1and252x.png ---
+--- needs --- CTART4L1and2.idv[108] ==> CTART4L1and253x.png ---
+--- needs --- CTART4L1and2.idv[110] ==> CTART4L1and254x.png ---
+--- needs --- CTART4L1and2.idv[112] ==> CTART4L1and255x.png ---
+--- needs --- CTART4L1and2.idv[114] ==> CTART4L1and256x.png ---
+--- needs --- CTART4L1and2.idv[116] ==> CTART4L1and257x.png ---
+--- needs --- CTART4L1and2.idv[118] ==> CTART4L1and258x.png ---
+--- needs --- CTART4L1and2.idv[120] ==> CTART4L1and259x.png ---
+--- needs --- CTART4L1and2.idv[122] ==> CTART4L1and260x.png ---
+--- needs --- CTART4L1and2.idv[124] ==> CTART4L1and261x.png ---
+--- needs --- CTART4L1and2.idv[126] ==> CTART4L1and262x.png ---
+--- needs --- CTART4L1and2.idv[128] ==> CTART4L1and263x.png ---
+--- needs --- CTART4L1and2.idv[130] ==> CTART4L1and264x.png ---
+--- needs --- CTART4L1and2.idv[132] ==> CTART4L1and265x.png ---
+--- needs --- CTART4L1and2.idv[134] ==> CTART4L1and266x.png ---
+--- needs --- CTART4L1and2.idv[136] ==> CTART4L1and267x.png ---
+--- needs --- CTART4L1and2.idv[138] ==> CTART4L1and268x.png ---
+--- needs --- CTART4L1and2.idv[140] ==> CTART4L1and269x.png ---
+--- needs --- CTART4L1and2.idv[142] ==> CTART4L1and270x.png ---
+--- needs --- CTART4L1and2.idv[144] ==> CTART4L1and271x.png ---
+--- needs --- CTART4L1and2.idv[146] ==> CTART4L1and272x.png ---
+--- needs --- CTART4L1and2.idv[148] ==> CTART4L1and273x.png ---
+--- needs --- CTART4L1and2.idv[150] ==> CTART4L1and274x.png ---
+--- needs --- CTART4L1and2.idv[152] ==> CTART4L1and275x.png ---
+--- needs --- CTART4L1and2.idv[154] ==> CTART4L1and276x.png ---
+--- needs --- CTART4L1and2.idv[156] ==> CTART4L1and277x.png ---
+--- needs --- CTART4L1and2.idv[158] ==> CTART4L1and278x.png ---
+--- needs --- CTART4L1and2.idv[160] ==> CTART4L1and279x.png ---
+--- needs --- CTART4L1and2.idv[162] ==> CTART4L1and280x.png ---
+--- needs --- CTART4L1and2.idv[164] ==> CTART4L1and281x.png ---
+--- needs --- CTART4L1and2.idv[166] ==> CTART4L1and282x.png ---
+--- needs --- CTART4L1and2.idv[168] ==> CTART4L1and283x.png ---
+--- needs --- CTART4L1and2.idv[170] ==> CTART4L1and284x.png ---
+--- needs --- CTART4L1and2.idv[172] ==> CTART4L1and285x.png ---
+--- needs --- CTART4L1and2.idv[174] ==> CTART4L1and286x.png ---
+--- needs --- CTART4L1and2.idv[176] ==> CTART4L1and287x.png ---
+--- needs --- CTART4L1and2.idv[178] ==> CTART4L1and288x.png ---
+--- needs --- CTART4L1and2.idv[180] ==> CTART4L1and289x.png ---
+--- needs --- CTART4L1and2.idv[182] ==> CTART4L1and290x.png ---
+--- needs --- CTART4L1and2.idv[184] ==> CTART4L1and291x.png ---
+--- needs --- CTART4L1and2.idv[186] ==> CTART4L1and292x.png ---
+--- needs --- CTART4L1and2.idv[188] ==> CTART4L1and293x.png ---
+--- needs --- CTART4L1and2.idv[190] ==> CTART4L1and294x.png ---
+--- needs --- CTART4L1and2.idv[192] ==> CTART4L1and295x.png ---
+--- needs --- CTART4L1and2.idv[194] ==> CTART4L1and296x.png ---
+--- needs --- CTART4L1and2.idv[196] ==> CTART4L1and297x.png ---
+--- needs --- CTART4L1and2.idv[198] ==> CTART4L1and298x.png ---
+--- needs --- CTART4L1and2.idv[200] ==> CTART4L1and299x.png ---
+--- needs --- CTART4L1and2.idv[202] ==> CTART4L1and2100x.png ---
+--- needs --- CTART4L1and2.idv[204] ==> CTART4L1and2101x.png ---
+--- needs --- CTART4L1and2.idv[206] ==> CTART4L1and2102x.png ---
+--- needs --- CTART4L1and2.idv[208] ==> CTART4L1and2103x.png ---
+--- needs --- CTART4L1and2.idv[210] ==> CTART4L1and2104x.png ---
+--- needs --- CTART4L1and2.idv[212] ==> CTART4L1and2105x.png ---
+--- needs --- CTART4L1and2.idv[214] ==> CTART4L1and2106x.png ---
+--- needs --- CTART4L1and2.idv[216] ==> CTART4L1and2107x.png ---
+--- needs --- CTART4L1and2.idv[218] ==> CTART4L1and2108x.png ---
+--- needs --- CTART4L1and2.idv[220] ==> CTART4L1and2109x.png ---
+--- needs --- CTART4L1and2.idv[222] ==> CTART4L1and2110x.png ---
+--- needs --- CTART4L1and2.idv[224] ==> CTART4L1and2111x.png ---
+--- needs --- CTART4L1and2.idv[226] ==> CTART4L1and2112x.png ---
+--- needs --- CTART4L1and2.idv[228] ==> CTART4L1and2113x.png ---
+--- needs --- CTART4L1and2.idv[230] ==> CTART4L1and2114x.png ---
+--- needs --- CTART4L1and2.idv[232] ==> CTART4L1and2115x.png ---
+--- needs --- CTART4L1and2.idv[234] ==> CTART4L1and2116x.png ---
+--- needs --- CTART4L1and2.idv[236] ==> CTART4L1and2117x.png ---
+--- needs --- CTART4L1and2.idv[238] ==> CTART4L1and2118x.png ---
+--- needs --- CTART4L1and2.idv[240] ==> CTART4L1and2119x.png ---
+--- needs --- CTART4L1and2.idv[242] ==> CTART4L1and2120x.png ---
+--- needs --- CTART4L1and2.idv[244] ==> CTART4L1and2121x.png ---
+--- needs --- CTART4L1and2.idv[246] ==> CTART4L1and2122x.png ---
+--- needs --- CTART4L1and2.idv[248] ==> CTART4L1and2123x.png ---
+--- needs --- CTART4L1and2.idv[250] ==> CTART4L1and2124x.png ---
+--- needs --- CTART4L1and2.idv[252] ==> CTART4L1and2125x.png ---
+--- needs --- CTART4L1and2.idv[254] ==> CTART4L1and2126x.png ---
+--- needs --- CTART4L1and2.idv[256] ==> CTART4L1and2127x.png ---
+--- needs --- CTART4L1and2.idv[258] ==> CTART4L1and2128x.png ---
+--- needs --- CTART4L1and2.idv[260] ==> CTART4L1and2129x.png ---
+--- needs --- CTART4L1and2.idv[262] ==> CTART4L1and2130x.png ---
+--- needs --- CTART4L1and2.idv[264] ==> CTART4L1and2131x.png ---
+--- needs --- CTART4L1and2.idv[266] ==> CTART4L1and2132x.png ---
+--- needs --- CTART4L1and2.idv[268] ==> CTART4L1and2133x.png ---
+--- needs --- CTART4L1and2.idv[270] ==> CTART4L1and2134x.png ---
+--- needs --- CTART4L1and2.idv[272] ==> CTART4L1and2135x.png ---
+--- needs --- CTART4L1and2.idv[274] ==> CTART4L1and2136x.png ---
+--- needs --- CTART4L1and2.idv[276] ==> CTART4L1and2137x.png ---
+--- needs --- CTART4L1and2.idv[278] ==> CTART4L1and2138x.png ---
+--- needs --- CTART4L1and2.idv[280] ==> CTART4L1and2139x.png ---
+--- needs --- CTART4L1and2.idv[282] ==> CTART4L1and2140x.png ---
+--- needs --- CTART4L1and2.idv[284] ==> CTART4L1and2141x.png ---
+--- needs --- CTART4L1and2.idv[286] ==> CTART4L1and2142x.png ---
+--- needs --- CTART4L1and2.idv[288] ==> CTART4L1and2143x.png ---
+--- needs --- CTART4L1and2.idv[290] ==> CTART4L1and2144x.png ---
+--- needs --- CTART4L1and2.idv[292] ==> CTART4L1and2145x.png ---
+--- needs --- CTART4L1and2.idv[294] ==> CTART4L1and2146x.png ---
+--- needs --- CTART4L1and2.idv[296] ==> CTART4L1and2147x.png ---
+--- needs --- CTART4L1and2.idv[298] ==> CTART4L1and2148x.png ---
+--- needs --- CTART4L1and2.idv[300] ==> CTART4L1and2149x.png ---
+--- needs --- CTART4L1and2.idv[302] ==> CTART4L1and2150x.png ---
+--- needs --- CTART4L1and2.idv[304] ==> CTART4L1and2151x.png ---
+--- needs --- CTART4L1and2.idv[306] ==> CTART4L1and2152x.png ---
+--- needs --- CTART4L1and2.idv[308] ==> CTART4L1and2153x.png ---
+--- needs --- CTART4L1and2.idv[310] ==> CTART4L1and2154x.png ---
+--- needs --- CTART4L1and2.idv[312] ==> CTART4L1and2155x.png ---
+--- needs --- CTART4L1and2.idv[314] ==> CTART4L1and2156x.png ---
+--- needs --- CTART4L1and2.idv[316] ==> CTART4L1and2157x.png ---
+--- needs --- CTART4L1and2.idv[318] ==> CTART4L1and2158x.png ---
+--- needs --- CTART4L1and2.idv[320] ==> CTART4L1and2159x.png ---
+--- needs --- CTART4L1and2.idv[322] ==> CTART4L1and2160x.png ---
+--- needs --- CTART4L1and2.idv[324] ==> CTART4L1and2161x.png ---
+--- characters ---
+Font("cmr","10","10","100")
+Font("SkakNew-Diagram","","10","200")
+Font("cmss","10","10","100")
+Font("cmbx","10","10","100")
+Font("SkakNew-FigurineBold","","10","100")
+Font("SkakNew-Figurine","","10","100")
+Font("cmti","10","10","100")
+Font("cmbxti","10","10","100")

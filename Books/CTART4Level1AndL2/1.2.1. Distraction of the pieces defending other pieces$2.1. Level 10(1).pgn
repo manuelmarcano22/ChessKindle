@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "2020.08.02"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3rk/1b4pp/1p1Rp1q1/7R/4NPP1/2P1K3/2Q2P2/8 b - - 0 1"]
+
+ 1...Rxc3+ (1...Bxe4 2.Qxe4 Rxc3+ 3.Rd3 Qxe4+ 4.Kxe4 Rxd3 5.Kxd3 h6) (1...Qxe4+ 2.Qxe4 Bxe4 3.Kxe4 Rc4+ 4.Ke5) (1...Qxg4 2.Rxh7+ Kxh7 3.Ng5+) (1...e5 2.Rxg6 Bxe4 3.Qxe4 exf4+ 4.Kxf4 Rgf8+ 5.Kg3) (1...Rc4 2.Ng5 Re4+ 3.Qxe4 Qxe4+ 4.Nxe4) (1...Rgd8 2.Rxd8+ Rxd8 3.f3) (1...Qxh5 2.gxh5 Bxe4 3.Qxe4) (1...Rc6 2.Ng5 Rxc3+ 3.Qxc3 Qxh5 4.gxh5) 2.Qxc3 (2.Nxc3 Qxc2) 2...Qxe4+ (2...Bxe4 3.Rg5) (2...Rc8 3.Qxc8+ Bxc8 4.Rd8+) (2...Qxg4 3.Rg5 Qh3+ 4.Rg3) 3.Kd2 Qxf4+ (3...Rc8 4.Qxc8+ Bxc8 5.Rd8#) (3...Qe3+ 4.Qxe3) (3...Qe2+ 4.Kxe2 Ba6+ 5.Ke1) (3...Qd5+ 4.Rhxd5 Bxd5 5.f5 exf5 6.Rxd5 fxg4 7.Rd7) (3...Qf3 4.Qxf3 Bxf3 5.Rh4) 4.Ke1 Qxd6 (4...Qe4+ 5.Qe3 Qxg4) (4...Qxg4 5.Rh3 Ba6) (4...Qxf2+ 5.Kxf2 Rf8+ 6.Ke1) (4...Rf8 5.Qd4 Qc1+) (4...Rc8 5.Qxc8+ Bxc8 6.Rd8+) (4...Qe5+ 5.Qxe5) (4...Qc1+ 5.Qxc1) (4...Qf3 5.Qxf3 Bxf3 6.Rd4) *

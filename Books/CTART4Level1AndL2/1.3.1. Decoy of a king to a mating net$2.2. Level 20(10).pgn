@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "2020.08.02"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/pbppq1pp/1p2pb2/4N2Q/3PN3/3B4/PPP2PPP/R3K2R w KQ - 0 11"]
+
+ 11.Qxh7+ (11.Nxf6+ gxf6 12.Nf3) (11.Ng6 hxg6 12.Qxg6 Qf7) (11.Ng5 g6 12.Nxg6 hxg6 13.Qxg6+ Qg7) (11.Nd6 g6 12.Nxg6 Qxd6 13.Nxf8 Kxf8) (11.Nf7 Rxf7 12.Nxf6+ gxf6) (11.Qf7+ Rxf7 12.Nxf7 Qxf7) (11.Ng4 Bxd4) (11.Ng3 g6 12.Bxg6 Bxe5 13.dxe5 hxg6 14.Qxg6+ Qg7) (11.Nxd7 Nxd7) 11...Kxh7 12.Nxf6+ (12.Ng5+ Kh6) (12.Ng3+ Kg8) (12.Nd6+ Kg8 13.Nxb7 Qb4+) 12...Kh6 (12...Kh8 13.Ng6#) 13.Neg4+ (13.Nfg4+ Kh5 14.Bg6+) (13.Nf7+ Qxf7 14.Ng4+ Kh5) (13.Ng8+ Rxg8) (13.Ng6 Qxf6 14.Nxf8 Qxf8) (13.Nf3 Rxf6) (13.Nh7 Rf4) (13.g4 gxf6 14.g5+ fxg5) (13.h4 gxf6 14.Ng4+ Kh5) (13.O-O gxf6) (13.Ne4 Rf4) (13.Bg6 gxf6 14.Ng4+ Kxg6) (13.O-O-O gxf6 14.Ng4+ Kg7) (13.Nc6 Qxf6) (13.Be2 gxf6 14.Ng4+ Kg7) (13.Bh7 gxf6 14.Ng4+ Kxh7) (13.g3 gxf6 14.Ng4+ Kh5) (13.Rd1 gxf6 14.Ng4+ Kg5) (13.h3 gxf6 14.Ng4+ Kh5) (13.Nd5 Bxd5) (13.Bc4 gxf6 14.Ng4+ Kg5) (13.d5 gxf6 14.Ng4+ Kh5) (13.Nh5 Qb4+ 14.c3 Qxb2) (13.Kd2 gxf6 14.Ng4+ Kg7) (13.f4 gxf6 14.Ng4+ Kh5) (13.Ba6 Bxa6 14.Nfg4+ Kh5) (13.Be4 Bxe4 14.Nxe4 Qh4) 13...Kg5 14.h4+ (14.f4+ Kh4 15.g3+ (15.h3 Qb4+ 16.Ke2 gxf6) 15...Kh3 16.Bf1+ (16.O-O b5 17.Nf2# (17.Nd5 Kxg4 18.Nxe7)) (16.Nf2+ Kg2 17.Ke2) 16...Bg2 17.Nf2# (17.Bxg2+ Kxg2 18.Ke2) (17.Kf2 Rxf6 18.Bxg2+ Kxg4 19.Bxa8 Qb4) (17.Rg1 Qb4+ 18.c3) (17.Ne3 Bxf1)) (14.Nh7+ Kxg4 15.f3+ Kh5) (14.Ne4+ Kxg4 15.f3+ Kh5) (14.h3 gxf6) 14...Kf4 15.g3+ (15.Nh5+ Kxg4 16.Be2+ Bf3) (15.f3 gxf6 16.Kf2) 15...Kf3 16.Be2+ (16.Kf1 b5 17.Nh2# (17.Ne5#) (17.Be2#) (17.Be4+ Bxe4 18.Nh2#) (17.Kg1 b4 18.Nh2#) (17.a3 b4 18.Nh2#) (17.Re1 b4 18.Nh2#) (17.d5 b4 18.Nh2#)) (16.O-O b5 17.Nh2# (17.Ne5#) (17.Be2+ Kxe2 18.f4) (17.Rae1 b4 18.Nh2#) (17.Be4+ Bxe4 18.Rfe1)) (16.Be4+ Bxe4 17.Kf1) (16.Ne5+ Kg2 17.Be4+) (16.Nh2+ Kg2 17.Nfg4) 16...Kg2 17.Rh2+ (17.O-O-O 17...e5 18.Rh2#) (17.Rg1+ 17...Kxg1 18.O-O-O+) (17.Bf1+ 17...Kxh1 18.Bh3) (17.Kd2 Qb4+ 18.Ke3) (17.Ne3+ Kxh1 18.O-O-O+) (17.Bf3+ Kxf3 18.Ne5+) 17...Kg1 18.Kd2# (18.O-O-O#) (18.Bf3 18...Bxf3 19.Kd2+) (18.Rg2+ Kxg2 19.Bf1+) (18.Rh1+ Bxh1 19.O-O-O+) (18.Kd1 Qb4) (18.Bf1 Qb4+ 19.Ke2 Qxb2) *

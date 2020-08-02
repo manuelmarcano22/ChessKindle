@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "2020.08.02"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rbr2k/1pq2ppp/p3bn2/4p1B1/P3P3/2N3Q1/1PP1B1PP/3R1R1K w - - 0 1"]
+
+ 1.Rxd8 (1.Bxf6 Bxf6) (1.Rxf6 Bxf6 2.Bxf6 gxf6) (1.Nd5 Nxe4 2.Nxc7 Nxg3+ 3.hxg3 Bxc7) (1.Qh4 Ng8) (1.Bh6 gxh6) (1.Bg4 Nxg4 2.Bxd8 Rexd8) (1.Nb5 axb5 2.Bxf6 Bxf6 3.Bxb5 Red8) (1.Rd5 Nxe4 2.Nxe4 Bxd5) (1.Qxe5 Qxe5) (1.Bh5 Nxh5) (1.Rd7 Nxd7) 1...Qxd8 (1...Rcxd8 2.Rxf6 (2.Bxf6 gxf6) (2.Qh4 Ng8 3.Bxd8 Rxd8) (2.Nd5 Bxd5 3.Bxf6 gxf6 4.exd5 Rxd5) (2.Rd1 Rxd1+ 3.Bxd1 Qb6) (2.Qxe5 Qxe5 3.Bxf6 gxf6)) 2.Qh4 (2.Rd1 Qc7 3.Bxf6 gxf6) (2.Qxe5 Bg4 3.Bxf6 gxf6) (2.Rxf6 gxf6) (2.Bxf6 gxf6) (2.Nd5 Nxe4 3.Bxd8 Nxg3+ 4.hxg3 Bxd5) (2.Qd3 Qxd3 3.Bxd3 Kg8) (2.Bh5 Nxh5) (2.Bh6 gxh6 3.Qxe5 Bc4) (2.Bg4 Bxg4 3.Bxf6 gxf6 4.Qxg4 Qd2) (2.Qf3 h6) (2.Qh3 Bxh3 3.gxh3 Qb6) 2...Bc4 3.Rxf6 (3.Bxf6 gxf6) (3.Bxc4 Rxc4 4.Rxf6 Rxc3 5.Rf1) (3.Rd1 Qb6) (3.Bg4 Bxf1 4.Bxc8 Qxc8 5.Bxf6 Re6) (3.Nd5 Bxd5 4.exd5 Qxd5 5.Rxf6) (3.Qxh7+ Kxh7 4.Bxc4 Rxc4) 3...Bxe2 4.Rh6 (4.Nd5 Rxc2 5.h3) (4.Rxf7 Qd6 5.Nxe2 Rxc2 6.Ng3) (4.Nxe2 Kg8 5.Qg3) (4.Rf2 f6 5.Bxf6 gxf6 6.Rxe2 f5) (4.Qxh7+ Kxh7 5.Rh6+ gxh6 6.Bxd8 Rexd8) (4.Bh6 Rxc3 5.Bxg7+ Kxg7 6.Rxf7+ Kxf7 7.Qxh7+ Ke6) (4.Rd6 Qxd6) (4.Rf1 f6 5.Bxf6 gxf6 6.Nxe2 Rxc2) (4.Re6 Qd7) (4.Rg6 f6) (4.Rc6 f6 5.Rxc8 Qxc8 6.Bxf6 Bc4) (4.Rf5 f6) 4...f6 5.Bxf6 (5.Rxh7+ Kg8 6.Nd5) (5.Rxf6 Rxc3) (5.Nxe2 Qd1+ 6.Ng1 gxh6 7.Bxf6+ Kg8) (5.Nd5 Rc6 6.Rxh7+ Kg8 7.Be3) 5...gxf6 (5...Qxf6 6.Rxf6) 6.Rxh7+ (6.Rxf6 Rxc3) (6.Qxf6+ Qxf6 7.Rxf6 Bc4) (6.Rg6 Rxc3 7.Qxf6+ Qxf6 8.Rxf6 Rxc2) (6.Nxe2 Rc7) (6.Nd5 Re7 7.Qxf6+ Rg7) 6...Kg8 7.Qh6 Rc7 8.Qg6+ (8.Rh8+ Kf7 9.Qh7+) (8.Rxc7 Qxc7 9.Qg6+) (8.Nd5 Rxh7 9.Nxf6+ Kf7 10.Qxh7+ Kxf6 11.Qh6+ Kf7) (8.Qg7+ Rxg7) (8.Rg7+ Rxg7 9.Nxe2 Qd1+) (8.Qxf6 Qxf6 9.Nxe2 Qf1+) (8.Nxe2 Rxh7) (8.Qf8+ Rxf8 9.Rxc7 Qxc7) 8...Kf8 9.Rh8+ (9.Qh6+ Kg8 10.Qg6+) (9.Qg8+ Kxg8 10.Rxc7 Qd2 11.Nxe2 Qxe2) (9.Nd5 Rxh7 10.Qxh7 Bc4) (9.Rh6 Bc4 10.Rh8+ Ke7) (9.Rf7+ Rxf7 10.Nxe2 Qd1+) (9.Qxf6+ Qxf6 10.Nxe2 Qf1+) (9.Qh5 Bxh5 10.Rxc7 Qxc7) (9.Rxc7 Qxc7 10.Qxf6+ Qf7 11.Qh8+) (9.Qg7+ Rxg7) (9.Qf7+ Rxf7 10.Rh8+ Ke7) 9...Ke7 10.Nd5+ (10.Rh7+ Kd6 11.Rxc7 Kxc7 12.Nxe2 Qd1+) (10.Qg7+ Kd6 11.Rxe8 Qxe8 12.Qxf6+ Kd7) (10.Qh7+ Kd6 11.Rxe8 Qxe8) (10.Nxe2 Rxh8) (10.Qf7+ Kxf7 11.Rh7+ Ke6) (10.Rxe8+ Qxe8 11.Nd5+) (10.Qxf6+ Kxf6 11.Nd5+ Kg6) *
