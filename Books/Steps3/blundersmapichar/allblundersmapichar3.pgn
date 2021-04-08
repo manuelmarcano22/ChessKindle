@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 8"]
+[Site "https://lichess.org/study/p2wBcSRP/Yej4LrVu"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/4k3/2K5/1P6/8/8/8 w - - 0 1"]
+
+1. b5 ( 1. Kb6 Kd5 2. b5 { ( #+47 ) } ) ( 1. Kc6 Ke7 2. Kc7 { ( 63.6 ) } ) 1... Ke7 2. b6 { ( #+15 ) } *

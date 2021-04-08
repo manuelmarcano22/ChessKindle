@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 32"]
+[Site "https://lichess.org/study/p2wBcSRP/J8zmWseN"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/pb4pp/1p1bN3/3p4/2r4q/3QP2P/1B3P2/1B3RK1 b - - 0 1"]
+
+1... Rg4+ ( 1... Rb4 2. Qxh7+ Qxh7 { ( 0.7 ) } ) ( 1... Qxh3 2. Nf4 Bxf4 { ( 1.18 ) } ) 2. hxg4 Qh2# { ( #-2 ) } *

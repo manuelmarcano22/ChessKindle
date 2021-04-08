@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 25"]
+[Site "https://lichess.org/study/p2wBcSRP/tR6x1IQI"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1k5/ppp3p1/4Rr1p/n7/8/3B2qP/P5P1/3R2K1 w - - 0 1"]
+
+{ Pawn ending } 1. Re8+ ( 1. Rxf6 Qe3+ 2. Kf1 { ( -5.99 ) } ) ( 1. Bf5 b5 2. Rxf6+ { ( -7.01 ) } ) 1... Kd7 2. Bb5# { ( #+2 ) } *

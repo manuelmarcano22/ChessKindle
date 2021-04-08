@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 28"]
+[Site "https://lichess.org/study/p2wBcSRP/yh7fC0mg"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/8/8/5k2/2PK4/8/8 w - - 0 1"]
+
+1. Kc4 ( 1. Kd4 Kf5 2. Kd5 { ( 60.05 ) } ) ( 1. Kc2 Ke5 2. Kb3 { ( 60.05 ) } ) 1... Ke4 2. Kc5 { ( 60.06 ) } *

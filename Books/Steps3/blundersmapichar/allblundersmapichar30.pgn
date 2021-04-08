@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 35"]
+[Site "https://lichess.org/study/p2wBcSRP/lB037NA6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r7/k1p3Q1/p5Rp/3n1q2/8/4b3/6PP/1R5K w - - 0 1"]
+
+1. Rxa6+ ( 1. Ra1 Kb7 2. Rg3 { ( -4.31 ) } ) ( 1. Qb2 Bb6 2. Rxh6 { ( -4.62 ) } ) 1... Kxa6 2. Qa1# { ( #+2 ) } *

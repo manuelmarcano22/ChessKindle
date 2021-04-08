@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 36"]
+[Site "https://lichess.org/study/p2wBcSRP/eVkGqZeX"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq4/b2n1ppk/p3p3/4P3/pR2N3/3BB1PP/5P1K/3R4 w - - 0 1"]
+
+1. Nf6+ ( 1. Bb6 Kg8 2. Bxd8 { ( 5.94 ) } ) ( 1. Bg5 Qxg5 2. Nxg5+ { ( 5.78 ) } ) 1... Kh8 2. Rh4# { ( #+2 ) } *

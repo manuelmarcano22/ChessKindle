@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 30"]
+[Site "https://lichess.org/study/p2wBcSRP/dvoUOsAk"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "8/p4ppk/Q6p/4r3/8/P2R4/KP2qPPP/8 b - - 0 1"]
+
+1... Rd5 ( 1... Rf5 2. Qc4 Rxf2 { ( -1.59 ) } ) ( 1... Rg5 2. Qd6 Rxg2 { ( -0.61 ) } ) 2. Rxd5 Qxa6 { ( -5.02 ) } *

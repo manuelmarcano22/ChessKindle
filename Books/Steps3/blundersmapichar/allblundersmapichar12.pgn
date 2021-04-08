@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 17"]
+[Site "https://lichess.org/study/p2wBcSRP/rStGkFkB"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rq2r/ppk5/5b2/3Pnp2/7p/P1B1P3/1P1R1P1P/1KR2B2 w - - 0 1"]
+
+1. Bxe5+ ( 1. Bb5 Qg6 2. Bxe5+ { ( -6.45 ) } ) ( 1. f4 Kb8 2. fxe5 { ( -6.67 ) } ) 1... Kb6 2. Bc7# { ( #+2 ) } *

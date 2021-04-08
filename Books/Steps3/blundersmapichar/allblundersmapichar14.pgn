@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 19"]
+[Site "https://lichess.org/study/p2wBcSRP/NLEpSfZh"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r3k2r/1p1n1pp1/p1n1pqbp/2b5/2B5/2P2NB1/PP1NQPPP/2KR3R b kq - 0 1"]
+
+1... Qxc3+ ( 1... Ba3 2. Nb1 Be7 { ( -0.58 ) } ) ( 1... Qf5 2. Ne1 Nde5 { ( 0.0 ) } ) 2. bxc3 Ba3# { ( #-2 ) } *

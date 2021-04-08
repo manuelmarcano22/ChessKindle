@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 24"]
+[Site "https://lichess.org/study/p2wBcSRP/NsaRmGmz"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "6k1/5R1p/6p1/8/4b1P1/P4R2/1r5P/7K b - - 0 1"]
+
+1... Rf2 ( 1... Rb3 2. Kg2 Rxa3 { ( 0.0 ) } ) ( 1... Ra2 2. Kg1 Bxf3 { ( 0.0 ) } ) 2. Kg1 Rxf3 { ( -3.7 ) } *

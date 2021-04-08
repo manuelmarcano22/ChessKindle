@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 18"]
+[Site "https://lichess.org/study/p2wBcSRP/59H78szb"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/3p4/3n4/4N3/4Q3/PPPP1PPP/R1B1KBNR w KQkq - 0 1"]
+
+1. Nf6# { ( #+1 ) } ( 1. Bb5+ Ke7 2. Qg5+ { ( 2.19 ) } ) ( 1. Nxd6+ Kd7 2. Qe5 { ( 1.67 ) } ) *

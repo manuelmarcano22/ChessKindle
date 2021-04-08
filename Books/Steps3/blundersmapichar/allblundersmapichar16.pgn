@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 21"]
+[Site "https://lichess.org/study/p2wBcSRP/3a3HK8SC"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2k5/7p/2K5/4p3/8/3P4/2P5/8 b - - 0 1"]
+
+1... e4 ( 1... h5 2. Kd5 h4 { ( 0.0 ) } ) ( 1... Kd8 2. Kd5 e4 { ( 39.78 ) } ) 2. dxe4 h5 { ( -29.08 ) } *

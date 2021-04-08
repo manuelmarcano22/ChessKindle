@@ -1,0 +1,11 @@
+
+[Event "FinalTestATestBSteps3: Chapter 20"]
+[Site "https://lichess.org/study/p2wBcSRP/NJyDDagb"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4rk1/6pp/p5n1/1p3b2/8/P1N1B1Q1/1PPR2PP/5K2 b - - 0 1"]
+
+1... Bd3+ ( 1... b4 2. Ne2 bxa3 { ( 6.36 ) } ) ( 1... Rad8 2. Rxd8 Rxd8 { ( 6.72 ) } ) 2. Ke1 Rf1# { ( #-2 ) } *

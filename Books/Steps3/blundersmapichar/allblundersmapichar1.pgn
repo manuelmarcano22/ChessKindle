@@ -1,6 +1,6 @@
 
-[Event "FinalErase: Chapter 3"]
-[Site "https://lichess.org/study/p2wBcSRP/Ytlt6KVS"]
+[Event "FinalTestATestBSteps3: Chapter 6"]
+[Site "https://lichess.org/study/p2wBcSRP/VkZkms0n"]
 [Date "????.??.??"]
 [Round "?"]
 [White "?"]
@@ -8,4 +8,4 @@
 [Result "*"]
 [FEN "8/7K/8/8/8/8/P5k1/8 b - - 0 1"]
 
-{ Pawn ending } 1... Kf3 ( 1... Kg3 2. a4 Kf3 { ( 58.35 ) } ) ( 1... Kf1 2. a4 Kf2 { ( 59.56 ) } ) 2. a3 Ke3 { ( 0.0 ) } *
+1... Kf3 ( 1... Kg3 2. a4 Kf3 { ( 58.35 ) } ) ( 1... Kf1 2. a4 Kf2 { ( 59.56 ) } ) 2. a3 Ke3 { ( 0.0 ) } *
