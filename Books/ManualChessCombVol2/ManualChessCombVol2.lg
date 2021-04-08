@@ -1,0 +1,543 @@
+htfcss: cmbxti  font-weight: bold; font-style: italic;
+htfcss: cmti  font-style: italic;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmss   font-family: sans-serif;
+htfcss: cmssbx  font-family: sans-serif; font-weight: bold;
+htfcss: cmssbxo  font-family: sans-serif; font-style: oblique; font-weight: bold;
+htfcss: cmssdc  font-family: sans-serif;
+htfcss: cmssi  font-family: sans-serif; font-style: oblique;
+File: ManualChessCombVol2.html
+File: ManualChessCombVol2.css
+File: ManualChessCombVol2.tmp
+Css: p{margin-top:0;margin-bottom:0}
+Css: p.indent{text-indent:0;}
+Css: p + p{margin-top:1em;}
+Css: p + div, p + pre {margin-top:1em;}
+Css: div + p, pre + p {margin-top:1em;}
+Css: @media print {div.crosslinks {visibility:hidden;}}
+Css: a img { border-top: 0; border-left: 0; border-right: 0; }
+Font_Css("4"): .small-caps{font-variant: small-caps; }
+Font_Css("10"): .htf-cmbx {font-weight: bold; font-style:normal;}
+Font_Css("12"): .htf-calligraphy {font-family:cursive}
+Font_Css("14"): .htf-italic {font-style: italic;}
+Font_Css("16"): .htf-bold {font-weight: bold;}
+Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
+Css: center { margin-top:1em; margin-bottom:1em; }
+Css: td center { margin-top:0em; margin-bottom:0em; }
+Css: .Canvas { position:relative; }
+Css: img.math{vertical-align:middle;}
+Css: li p.indent { text-indent: 0em }
+Css: li p:first-child{ margin-top:0em; }
+Css: li p:last-child, li div:last-child { margin-bottom:0.5em; }
+Css: li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+Css: .enumerate1 {list-style-type:decimal;}
+Css: .enumerate2 {list-style-type:lower-alpha;}
+Css: .enumerate3 {list-style-type:lower-roman;}
+Css: .enumerate4 {list-style-type:upper-alpha;}
+Css: div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+Css: .obeylines-h,.obeylines-v {white-space: nowrap; }
+Css: div.obeylines-v p { margin-top:0; margin-bottom:0; }
+Css: .overline{ text-decoration:overline; }
+Css: .overline img{ border-top: 1px solid black; }
+Css: td.displaylines {text-align:center; white-space:nowrap;}
+Css: .centerline {text-align:center;}
+Css: .rightline {text-align:right;}
+Css: div.verbatim {font-family: monospace,monospace; white-space: nowrap; text-align:left; clear:both; }
+Css: .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.fbox {display:table}
+Css: div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.minipage{width:100%;}
+Css: div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+Css: div.center div {text-align: left;}
+Css: div.flushright, div.flushright div.flushright {text-align: right;}
+Css: div.flushright div {text-align: left;}
+Css: div.flushleft {text-align: left;}
+Css: .underline{ text-decoration:underline; }
+Css: .underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+Css: .framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: .framebox-c {text-align:center;}
+Css: .framebox-l {text-align:left;}
+Css: .framebox-r {text-align:right;}
+Css: span.thank-mark{ vertical-align: super }
+Css: span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+Css: div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+Css: table.tabular td p{margin-top:0em;}
+Css: table.tabular {margin-left: auto; margin-right: auto;}
+Css: td p:first-child{ margin-top:0em; }
+Css: td p:last-child{ margin-bottom:0em; }
+Css: div.td00{ margin-left:0pt; margin-right:0pt; }
+Css: div.td01{ margin-left:0pt; margin-right:5pt; }
+Css: div.td10{ margin-left:5pt; margin-right:0pt; }
+Css: div.td11{ margin-left:5pt; margin-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: td.td00{ padding-left:0pt; padding-right:0pt; }
+Css: td.td01{ padding-left:0pt; padding-right:5pt; }
+Css: td.td10{ padding-left:5pt; padding-right:0pt; }
+Css: td.td11{ padding-left:5pt; padding-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: .hline hr, .cline hr{ height : 0px; margin:0px; }
+Css: .hline td, .cline td{ padding: 0; }
+Css: .hline hr, .cline hr{border:none;border-top:1px solid black;}
+Css: .tabbing-right {text-align:right;}
+Css: div.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: div.float img {text-align:center;}
+Css: div.figure img {text-align:center;}
+Css: .marginpar,.reversemarginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+Css: .marginpar p,.reversemarginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+Css: .reversemarginpar{float:left;}
+Css: table.equation {width:100%;}
+Css: .equation td{text-align:center; }
+Css: td.equation { margin-top:1em; margin-bottom:1em; } 
+Css: td.equation-label { width:5%; text-align:center; }
+Css: td.eqnarray4 { width:5%; white-space: normal; }
+Css: td.eqnarray2 { width:5%; }
+Css: table.eqnarray-star, table.eqnarray {width:100%;}
+Css: div.eqnarray{text-align:center;}
+Css: div.array {text-align:center;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.pmatrix img{vertical-align:middle;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.bar-css {text-decoration:overline;}
+Css: img.cdots{vertical-align:middle;}
+Css: .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+Css: .chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {line-height: 200%; font-weight:bold;}
+Css: .index-item, .index-subitem, .index-subsubitem {display:block}
+Css: div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+Css: div.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: h1.partHead{text-align: center}
+Css: p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: .paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+Css: .subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+Css: .quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+Css: .verse{white-space:nowrap; margin-left:2em}
+Css: div.maketitle {text-align:center;}
+Css: h2.titleHead{text-align:center;}
+Css: div.maketitle{ margin-bottom: 2em; }
+Css: div.author, div.date {text-align:center;}
+Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+Css: div.author{white-space: nowrap;}
+Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+Css: h1.partHead{text-align: center}
+Css:  .chapterToc, .likechapterToc {margin-left:0em;}
+Css:  .chapterToc ~ .likesectionToc, .chapterToc ~ .sectionToc, .likechapterToc ~ .likesectionToc, .likechapterToc ~ .sectionToc {margin-left:2em;}
+Css:  .chapterToc ~ .likesectionToc ~ .likesubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc {margin-left:4em;}
+Css: .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .chapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likechapterToc ~ .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc .likechapterToc ~ .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:6em;}
+Css:  .likesectionToc , .sectionToc {margin-left:0em;}
+Css:  .likesectionToc ~ .likesubsectionToc, .likesectionToc ~ .subsectionToc, .sectionToc ~ .likesubsectionToc, .sectionToc ~ .subsectionToc {margin-left:2em;}
+Css: .likesectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .likesectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .likesectionToc ~ .subsectionToc ~ .subsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .likesubsectionToc ~ .subsubsectionToc, .sectionToc ~ .subsectionToc ~ .likesubsubsectionToc, .sectionToc ~ .subsectionToc ~ .subsubsectionToc {margin-left:4em;}
+Css:  .likesubsectionToc, .subsectionToc {margin-left:0em;}
+Css:  .likesubsectionToc ~ .subsubsectionToc, .subsectionToc ~ .subsubsectionToc {margin-left:2em;}
+Css: .rotatebox{display: inline-block;}
+Css: .figure img.graphics {margin-left:10%;}
+Css: .newpage{page-break-before:always;}
+--- needs --- ManualChessCombVol2.idv[2] ==> ManualChessCombVol20x.png ---
+--- needs --- ManualChessCombVol2.idv[4] ==> ManualChessCombVol21x.png ---
+--- needs --- ManualChessCombVol2.idv[6] ==> ManualChessCombVol22x.png ---
+--- needs --- ManualChessCombVol2.idv[8] ==> ManualChessCombVol23x.png ---
+--- needs --- ManualChessCombVol2.idv[10] ==> ManualChessCombVol24x.png ---
+--- needs --- ManualChessCombVol2.idv[12] ==> ManualChessCombVol25x.png ---
+--- needs --- ManualChessCombVol2.idv[14] ==> ManualChessCombVol26x.png ---
+--- needs --- ManualChessCombVol2.idv[16] ==> ManualChessCombVol27x.png ---
+--- needs --- ManualChessCombVol2.idv[18] ==> ManualChessCombVol28x.png ---
+--- needs --- ManualChessCombVol2.idv[20] ==> ManualChessCombVol29x.png ---
+--- needs --- ManualChessCombVol2.idv[22] ==> ManualChessCombVol210x.png ---
+--- needs --- ManualChessCombVol2.idv[24] ==> ManualChessCombVol211x.png ---
+--- needs --- ManualChessCombVol2.idv[26] ==> ManualChessCombVol212x.png ---
+--- needs --- ManualChessCombVol2.idv[28] ==> ManualChessCombVol213x.png ---
+--- needs --- ManualChessCombVol2.idv[30] ==> ManualChessCombVol214x.png ---
+--- needs --- ManualChessCombVol2.idv[32] ==> ManualChessCombVol215x.png ---
+--- needs --- ManualChessCombVol2.idv[34] ==> ManualChessCombVol216x.png ---
+--- needs --- ManualChessCombVol2.idv[36] ==> ManualChessCombVol217x.png ---
+--- needs --- ManualChessCombVol2.idv[38] ==> ManualChessCombVol218x.png ---
+--- needs --- ManualChessCombVol2.idv[40] ==> ManualChessCombVol219x.png ---
+--- needs --- ManualChessCombVol2.idv[42] ==> ManualChessCombVol220x.png ---
+--- needs --- ManualChessCombVol2.idv[44] ==> ManualChessCombVol221x.png ---
+--- needs --- ManualChessCombVol2.idv[46] ==> ManualChessCombVol222x.png ---
+--- needs --- ManualChessCombVol2.idv[48] ==> ManualChessCombVol223x.png ---
+--- needs --- ManualChessCombVol2.idv[50] ==> ManualChessCombVol224x.png ---
+--- needs --- ManualChessCombVol2.idv[52] ==> ManualChessCombVol225x.png ---
+--- needs --- ManualChessCombVol2.idv[54] ==> ManualChessCombVol226x.png ---
+--- needs --- ManualChessCombVol2.idv[56] ==> ManualChessCombVol227x.png ---
+--- needs --- ManualChessCombVol2.idv[58] ==> ManualChessCombVol228x.png ---
+--- needs --- ManualChessCombVol2.idv[60] ==> ManualChessCombVol229x.png ---
+--- needs --- ManualChessCombVol2.idv[62] ==> ManualChessCombVol230x.png ---
+--- needs --- ManualChessCombVol2.idv[64] ==> ManualChessCombVol231x.png ---
+--- needs --- ManualChessCombVol2.idv[66] ==> ManualChessCombVol232x.png ---
+--- needs --- ManualChessCombVol2.idv[68] ==> ManualChessCombVol233x.png ---
+--- needs --- ManualChessCombVol2.idv[70] ==> ManualChessCombVol234x.png ---
+--- needs --- ManualChessCombVol2.idv[72] ==> ManualChessCombVol235x.png ---
+--- needs --- ManualChessCombVol2.idv[74] ==> ManualChessCombVol236x.png ---
+--- needs --- ManualChessCombVol2.idv[76] ==> ManualChessCombVol237x.png ---
+--- needs --- ManualChessCombVol2.idv[78] ==> ManualChessCombVol238x.png ---
+--- needs --- ManualChessCombVol2.idv[80] ==> ManualChessCombVol239x.png ---
+--- needs --- ManualChessCombVol2.idv[82] ==> ManualChessCombVol240x.png ---
+--- needs --- ManualChessCombVol2.idv[84] ==> ManualChessCombVol241x.png ---
+--- needs --- ManualChessCombVol2.idv[86] ==> ManualChessCombVol242x.png ---
+--- needs --- ManualChessCombVol2.idv[88] ==> ManualChessCombVol243x.png ---
+--- needs --- ManualChessCombVol2.idv[90] ==> ManualChessCombVol244x.png ---
+--- needs --- ManualChessCombVol2.idv[92] ==> ManualChessCombVol245x.png ---
+--- needs --- ManualChessCombVol2.idv[94] ==> ManualChessCombVol246x.png ---
+--- needs --- ManualChessCombVol2.idv[96] ==> ManualChessCombVol247x.png ---
+--- needs --- ManualChessCombVol2.idv[98] ==> ManualChessCombVol248x.png ---
+--- needs --- ManualChessCombVol2.idv[100] ==> ManualChessCombVol249x.png ---
+--- needs --- ManualChessCombVol2.idv[102] ==> ManualChessCombVol250x.png ---
+--- needs --- ManualChessCombVol2.idv[104] ==> ManualChessCombVol251x.png ---
+--- needs --- ManualChessCombVol2.idv[106] ==> ManualChessCombVol252x.png ---
+--- needs --- ManualChessCombVol2.idv[108] ==> ManualChessCombVol253x.png ---
+--- needs --- ManualChessCombVol2.idv[110] ==> ManualChessCombVol254x.png ---
+--- needs --- ManualChessCombVol2.idv[112] ==> ManualChessCombVol255x.png ---
+--- needs --- ManualChessCombVol2.idv[114] ==> ManualChessCombVol256x.png ---
+--- needs --- ManualChessCombVol2.idv[116] ==> ManualChessCombVol257x.png ---
+--- needs --- ManualChessCombVol2.idv[118] ==> ManualChessCombVol258x.png ---
+--- needs --- ManualChessCombVol2.idv[120] ==> ManualChessCombVol259x.png ---
+--- needs --- ManualChessCombVol2.idv[122] ==> ManualChessCombVol260x.png ---
+--- needs --- ManualChessCombVol2.idv[124] ==> ManualChessCombVol261x.png ---
+--- needs --- ManualChessCombVol2.idv[126] ==> ManualChessCombVol262x.png ---
+--- needs --- ManualChessCombVol2.idv[128] ==> ManualChessCombVol263x.png ---
+--- needs --- ManualChessCombVol2.idv[130] ==> ManualChessCombVol264x.png ---
+--- needs --- ManualChessCombVol2.idv[132] ==> ManualChessCombVol265x.png ---
+--- needs --- ManualChessCombVol2.idv[134] ==> ManualChessCombVol266x.png ---
+--- needs --- ManualChessCombVol2.idv[136] ==> ManualChessCombVol267x.png ---
+--- needs --- ManualChessCombVol2.idv[138] ==> ManualChessCombVol268x.png ---
+--- needs --- ManualChessCombVol2.idv[140] ==> ManualChessCombVol269x.png ---
+--- needs --- ManualChessCombVol2.idv[142] ==> ManualChessCombVol270x.png ---
+--- needs --- ManualChessCombVol2.idv[144] ==> ManualChessCombVol271x.png ---
+--- needs --- ManualChessCombVol2.idv[146] ==> ManualChessCombVol272x.png ---
+--- needs --- ManualChessCombVol2.idv[148] ==> ManualChessCombVol273x.png ---
+--- needs --- ManualChessCombVol2.idv[150] ==> ManualChessCombVol274x.png ---
+--- needs --- ManualChessCombVol2.idv[152] ==> ManualChessCombVol275x.png ---
+--- needs --- ManualChessCombVol2.idv[154] ==> ManualChessCombVol276x.png ---
+--- needs --- ManualChessCombVol2.idv[156] ==> ManualChessCombVol277x.png ---
+--- needs --- ManualChessCombVol2.idv[158] ==> ManualChessCombVol278x.png ---
+--- needs --- ManualChessCombVol2.idv[160] ==> ManualChessCombVol279x.png ---
+--- needs --- ManualChessCombVol2.idv[162] ==> ManualChessCombVol280x.png ---
+--- needs --- ManualChessCombVol2.idv[164] ==> ManualChessCombVol281x.png ---
+--- needs --- ManualChessCombVol2.idv[166] ==> ManualChessCombVol282x.png ---
+--- needs --- ManualChessCombVol2.idv[168] ==> ManualChessCombVol283x.png ---
+--- needs --- ManualChessCombVol2.idv[170] ==> ManualChessCombVol284x.png ---
+--- needs --- ManualChessCombVol2.idv[172] ==> ManualChessCombVol285x.png ---
+--- needs --- ManualChessCombVol2.idv[174] ==> ManualChessCombVol286x.png ---
+--- needs --- ManualChessCombVol2.idv[176] ==> ManualChessCombVol287x.png ---
+--- needs --- ManualChessCombVol2.idv[178] ==> ManualChessCombVol288x.png ---
+--- needs --- ManualChessCombVol2.idv[180] ==> ManualChessCombVol289x.png ---
+--- needs --- ManualChessCombVol2.idv[182] ==> ManualChessCombVol290x.png ---
+--- needs --- ManualChessCombVol2.idv[184] ==> ManualChessCombVol291x.png ---
+--- needs --- ManualChessCombVol2.idv[186] ==> ManualChessCombVol292x.png ---
+--- needs --- ManualChessCombVol2.idv[188] ==> ManualChessCombVol293x.png ---
+--- needs --- ManualChessCombVol2.idv[190] ==> ManualChessCombVol294x.png ---
+--- needs --- ManualChessCombVol2.idv[192] ==> ManualChessCombVol295x.png ---
+--- needs --- ManualChessCombVol2.idv[194] ==> ManualChessCombVol296x.png ---
+--- needs --- ManualChessCombVol2.idv[196] ==> ManualChessCombVol297x.png ---
+--- needs --- ManualChessCombVol2.idv[198] ==> ManualChessCombVol298x.png ---
+--- needs --- ManualChessCombVol2.idv[200] ==> ManualChessCombVol299x.png ---
+--- needs --- ManualChessCombVol2.idv[202] ==> ManualChessCombVol2100x.png ---
+--- needs --- ManualChessCombVol2.idv[204] ==> ManualChessCombVol2101x.png ---
+--- needs --- ManualChessCombVol2.idv[206] ==> ManualChessCombVol2102x.png ---
+--- needs --- ManualChessCombVol2.idv[208] ==> ManualChessCombVol2103x.png ---
+--- needs --- ManualChessCombVol2.idv[210] ==> ManualChessCombVol2104x.png ---
+--- needs --- ManualChessCombVol2.idv[212] ==> ManualChessCombVol2105x.png ---
+--- needs --- ManualChessCombVol2.idv[214] ==> ManualChessCombVol2106x.png ---
+--- needs --- ManualChessCombVol2.idv[216] ==> ManualChessCombVol2107x.png ---
+--- needs --- ManualChessCombVol2.idv[218] ==> ManualChessCombVol2108x.png ---
+--- needs --- ManualChessCombVol2.idv[220] ==> ManualChessCombVol2109x.png ---
+--- needs --- ManualChessCombVol2.idv[222] ==> ManualChessCombVol2110x.png ---
+--- needs --- ManualChessCombVol2.idv[224] ==> ManualChessCombVol2111x.png ---
+--- needs --- ManualChessCombVol2.idv[226] ==> ManualChessCombVol2112x.png ---
+--- needs --- ManualChessCombVol2.idv[228] ==> ManualChessCombVol2113x.png ---
+--- needs --- ManualChessCombVol2.idv[230] ==> ManualChessCombVol2114x.png ---
+--- needs --- ManualChessCombVol2.idv[232] ==> ManualChessCombVol2115x.png ---
+--- needs --- ManualChessCombVol2.idv[234] ==> ManualChessCombVol2116x.png ---
+--- needs --- ManualChessCombVol2.idv[236] ==> ManualChessCombVol2117x.png ---
+--- needs --- ManualChessCombVol2.idv[238] ==> ManualChessCombVol2118x.png ---
+--- needs --- ManualChessCombVol2.idv[240] ==> ManualChessCombVol2119x.png ---
+--- needs --- ManualChessCombVol2.idv[242] ==> ManualChessCombVol2120x.png ---
+--- needs --- ManualChessCombVol2.idv[244] ==> ManualChessCombVol2121x.png ---
+--- needs --- ManualChessCombVol2.idv[246] ==> ManualChessCombVol2122x.png ---
+--- needs --- ManualChessCombVol2.idv[248] ==> ManualChessCombVol2123x.png ---
+--- needs --- ManualChessCombVol2.idv[250] ==> ManualChessCombVol2124x.png ---
+--- needs --- ManualChessCombVol2.idv[252] ==> ManualChessCombVol2125x.png ---
+--- needs --- ManualChessCombVol2.idv[254] ==> ManualChessCombVol2126x.png ---
+--- needs --- ManualChessCombVol2.idv[256] ==> ManualChessCombVol2127x.png ---
+--- needs --- ManualChessCombVol2.idv[258] ==> ManualChessCombVol2128x.png ---
+--- needs --- ManualChessCombVol2.idv[260] ==> ManualChessCombVol2129x.png ---
+--- needs --- ManualChessCombVol2.idv[262] ==> ManualChessCombVol2130x.png ---
+--- needs --- ManualChessCombVol2.idv[264] ==> ManualChessCombVol2131x.png ---
+--- needs --- ManualChessCombVol2.idv[266] ==> ManualChessCombVol2132x.png ---
+--- needs --- ManualChessCombVol2.idv[268] ==> ManualChessCombVol2133x.png ---
+--- needs --- ManualChessCombVol2.idv[270] ==> ManualChessCombVol2134x.png ---
+--- needs --- ManualChessCombVol2.idv[272] ==> ManualChessCombVol2135x.png ---
+--- needs --- ManualChessCombVol2.idv[274] ==> ManualChessCombVol2136x.png ---
+--- needs --- ManualChessCombVol2.idv[276] ==> ManualChessCombVol2137x.png ---
+--- needs --- ManualChessCombVol2.idv[278] ==> ManualChessCombVol2138x.png ---
+--- needs --- ManualChessCombVol2.idv[280] ==> ManualChessCombVol2139x.png ---
+--- needs --- ManualChessCombVol2.idv[282] ==> ManualChessCombVol2140x.png ---
+--- needs --- ManualChessCombVol2.idv[284] ==> ManualChessCombVol2141x.png ---
+--- needs --- ManualChessCombVol2.idv[286] ==> ManualChessCombVol2142x.png ---
+--- needs --- ManualChessCombVol2.idv[288] ==> ManualChessCombVol2143x.png ---
+--- needs --- ManualChessCombVol2.idv[290] ==> ManualChessCombVol2144x.png ---
+--- needs --- ManualChessCombVol2.idv[292] ==> ManualChessCombVol2145x.png ---
+--- needs --- ManualChessCombVol2.idv[294] ==> ManualChessCombVol2146x.png ---
+--- needs --- ManualChessCombVol2.idv[296] ==> ManualChessCombVol2147x.png ---
+--- needs --- ManualChessCombVol2.idv[298] ==> ManualChessCombVol2148x.png ---
+--- needs --- ManualChessCombVol2.idv[300] ==> ManualChessCombVol2149x.png ---
+--- needs --- ManualChessCombVol2.idv[302] ==> ManualChessCombVol2150x.png ---
+--- needs --- ManualChessCombVol2.idv[304] ==> ManualChessCombVol2151x.png ---
+--- needs --- ManualChessCombVol2.idv[306] ==> ManualChessCombVol2152x.png ---
+--- needs --- ManualChessCombVol2.idv[308] ==> ManualChessCombVol2153x.png ---
+--- needs --- ManualChessCombVol2.idv[310] ==> ManualChessCombVol2154x.png ---
+--- needs --- ManualChessCombVol2.idv[312] ==> ManualChessCombVol2155x.png ---
+--- needs --- ManualChessCombVol2.idv[314] ==> ManualChessCombVol2156x.png ---
+--- needs --- ManualChessCombVol2.idv[316] ==> ManualChessCombVol2157x.png ---
+--- needs --- ManualChessCombVol2.idv[318] ==> ManualChessCombVol2158x.png ---
+--- needs --- ManualChessCombVol2.idv[320] ==> ManualChessCombVol2159x.png ---
+--- needs --- ManualChessCombVol2.idv[322] ==> ManualChessCombVol2160x.png ---
+--- needs --- ManualChessCombVol2.idv[324] ==> ManualChessCombVol2161x.png ---
+--- needs --- ManualChessCombVol2.idv[326] ==> ManualChessCombVol2162x.png ---
+--- needs --- ManualChessCombVol2.idv[328] ==> ManualChessCombVol2163x.png ---
+--- needs --- ManualChessCombVol2.idv[330] ==> ManualChessCombVol2164x.png ---
+--- needs --- ManualChessCombVol2.idv[332] ==> ManualChessCombVol2165x.png ---
+--- needs --- ManualChessCombVol2.idv[334] ==> ManualChessCombVol2166x.png ---
+--- needs --- ManualChessCombVol2.idv[336] ==> ManualChessCombVol2167x.png ---
+--- needs --- ManualChessCombVol2.idv[338] ==> ManualChessCombVol2168x.png ---
+--- needs --- ManualChessCombVol2.idv[340] ==> ManualChessCombVol2169x.png ---
+--- needs --- ManualChessCombVol2.idv[342] ==> ManualChessCombVol2170x.png ---
+--- needs --- ManualChessCombVol2.idv[344] ==> ManualChessCombVol2171x.png ---
+--- needs --- ManualChessCombVol2.idv[346] ==> ManualChessCombVol2172x.png ---
+--- needs --- ManualChessCombVol2.idv[348] ==> ManualChessCombVol2173x.png ---
+--- needs --- ManualChessCombVol2.idv[350] ==> ManualChessCombVol2174x.png ---
+--- needs --- ManualChessCombVol2.idv[352] ==> ManualChessCombVol2175x.png ---
+--- needs --- ManualChessCombVol2.idv[354] ==> ManualChessCombVol2176x.png ---
+--- needs --- ManualChessCombVol2.idv[356] ==> ManualChessCombVol2177x.png ---
+--- needs --- ManualChessCombVol2.idv[358] ==> ManualChessCombVol2178x.png ---
+--- needs --- ManualChessCombVol2.idv[360] ==> ManualChessCombVol2179x.png ---
+--- needs --- ManualChessCombVol2.idv[362] ==> ManualChessCombVol2180x.png ---
+--- needs --- ManualChessCombVol2.idv[364] ==> ManualChessCombVol2181x.png ---
+--- needs --- ManualChessCombVol2.idv[366] ==> ManualChessCombVol2182x.png ---
+--- needs --- ManualChessCombVol2.idv[368] ==> ManualChessCombVol2183x.png ---
+--- needs --- ManualChessCombVol2.idv[370] ==> ManualChessCombVol2184x.png ---
+--- needs --- ManualChessCombVol2.idv[372] ==> ManualChessCombVol2185x.png ---
+--- needs --- ManualChessCombVol2.idv[374] ==> ManualChessCombVol2186x.png ---
+--- needs --- ManualChessCombVol2.idv[376] ==> ManualChessCombVol2187x.png ---
+--- needs --- ManualChessCombVol2.idv[378] ==> ManualChessCombVol2188x.png ---
+--- needs --- ManualChessCombVol2.idv[380] ==> ManualChessCombVol2189x.png ---
+--- needs --- ManualChessCombVol2.idv[382] ==> ManualChessCombVol2190x.png ---
+--- needs --- ManualChessCombVol2.idv[384] ==> ManualChessCombVol2191x.png ---
+--- needs --- ManualChessCombVol2.idv[386] ==> ManualChessCombVol2192x.png ---
+--- needs --- ManualChessCombVol2.idv[388] ==> ManualChessCombVol2193x.png ---
+--- needs --- ManualChessCombVol2.idv[390] ==> ManualChessCombVol2194x.png ---
+--- needs --- ManualChessCombVol2.idv[392] ==> ManualChessCombVol2195x.png ---
+--- needs --- ManualChessCombVol2.idv[394] ==> ManualChessCombVol2196x.png ---
+--- needs --- ManualChessCombVol2.idv[396] ==> ManualChessCombVol2197x.png ---
+--- needs --- ManualChessCombVol2.idv[398] ==> ManualChessCombVol2198x.png ---
+--- needs --- ManualChessCombVol2.idv[400] ==> ManualChessCombVol2199x.png ---
+--- needs --- ManualChessCombVol2.idv[402] ==> ManualChessCombVol2200x.png ---
+--- needs --- ManualChessCombVol2.idv[404] ==> ManualChessCombVol2201x.png ---
+--- needs --- ManualChessCombVol2.idv[406] ==> ManualChessCombVol2202x.png ---
+--- needs --- ManualChessCombVol2.idv[408] ==> ManualChessCombVol2203x.png ---
+--- needs --- ManualChessCombVol2.idv[410] ==> ManualChessCombVol2204x.png ---
+--- needs --- ManualChessCombVol2.idv[412] ==> ManualChessCombVol2205x.png ---
+--- needs --- ManualChessCombVol2.idv[414] ==> ManualChessCombVol2206x.png ---
+--- needs --- ManualChessCombVol2.idv[416] ==> ManualChessCombVol2207x.png ---
+--- needs --- ManualChessCombVol2.idv[418] ==> ManualChessCombVol2208x.png ---
+--- needs --- ManualChessCombVol2.idv[420] ==> ManualChessCombVol2209x.png ---
+--- needs --- ManualChessCombVol2.idv[422] ==> ManualChessCombVol2210x.png ---
+--- needs --- ManualChessCombVol2.idv[424] ==> ManualChessCombVol2211x.png ---
+--- needs --- ManualChessCombVol2.idv[426] ==> ManualChessCombVol2212x.png ---
+--- needs --- ManualChessCombVol2.idv[428] ==> ManualChessCombVol2213x.png ---
+--- needs --- ManualChessCombVol2.idv[430] ==> ManualChessCombVol2214x.png ---
+--- needs --- ManualChessCombVol2.idv[432] ==> ManualChessCombVol2215x.png ---
+--- needs --- ManualChessCombVol2.idv[434] ==> ManualChessCombVol2216x.png ---
+--- needs --- ManualChessCombVol2.idv[436] ==> ManualChessCombVol2217x.png ---
+--- needs --- ManualChessCombVol2.idv[438] ==> ManualChessCombVol2218x.png ---
+--- needs --- ManualChessCombVol2.idv[440] ==> ManualChessCombVol2219x.png ---
+--- needs --- ManualChessCombVol2.idv[442] ==> ManualChessCombVol2220x.png ---
+--- needs --- ManualChessCombVol2.idv[444] ==> ManualChessCombVol2221x.png ---
+--- needs --- ManualChessCombVol2.idv[446] ==> ManualChessCombVol2222x.png ---
+--- needs --- ManualChessCombVol2.idv[448] ==> ManualChessCombVol2223x.png ---
+--- needs --- ManualChessCombVol2.idv[450] ==> ManualChessCombVol2224x.png ---
+--- needs --- ManualChessCombVol2.idv[452] ==> ManualChessCombVol2225x.png ---
+--- needs --- ManualChessCombVol2.idv[454] ==> ManualChessCombVol2226x.png ---
+--- needs --- ManualChessCombVol2.idv[456] ==> ManualChessCombVol2227x.png ---
+--- needs --- ManualChessCombVol2.idv[458] ==> ManualChessCombVol2228x.png ---
+--- needs --- ManualChessCombVol2.idv[460] ==> ManualChessCombVol2229x.png ---
+--- needs --- ManualChessCombVol2.idv[462] ==> ManualChessCombVol2230x.png ---
+--- needs --- ManualChessCombVol2.idv[464] ==> ManualChessCombVol2231x.png ---
+--- needs --- ManualChessCombVol2.idv[466] ==> ManualChessCombVol2232x.png ---
+--- needs --- ManualChessCombVol2.idv[468] ==> ManualChessCombVol2233x.png ---
+--- needs --- ManualChessCombVol2.idv[470] ==> ManualChessCombVol2234x.png ---
+--- needs --- ManualChessCombVol2.idv[472] ==> ManualChessCombVol2235x.png ---
+--- needs --- ManualChessCombVol2.idv[474] ==> ManualChessCombVol2236x.png ---
+--- needs --- ManualChessCombVol2.idv[476] ==> ManualChessCombVol2237x.png ---
+--- needs --- ManualChessCombVol2.idv[478] ==> ManualChessCombVol2238x.png ---
+--- needs --- ManualChessCombVol2.idv[480] ==> ManualChessCombVol2239x.png ---
+--- needs --- ManualChessCombVol2.idv[482] ==> ManualChessCombVol2240x.png ---
+--- needs --- ManualChessCombVol2.idv[484] ==> ManualChessCombVol2241x.png ---
+--- needs --- ManualChessCombVol2.idv[486] ==> ManualChessCombVol2242x.png ---
+--- needs --- ManualChessCombVol2.idv[488] ==> ManualChessCombVol2243x.png ---
+--- needs --- ManualChessCombVol2.idv[490] ==> ManualChessCombVol2244x.png ---
+--- needs --- ManualChessCombVol2.idv[492] ==> ManualChessCombVol2245x.png ---
+--- needs --- ManualChessCombVol2.idv[494] ==> ManualChessCombVol2246x.png ---
+--- needs --- ManualChessCombVol2.idv[496] ==> ManualChessCombVol2247x.png ---
+--- needs --- ManualChessCombVol2.idv[498] ==> ManualChessCombVol2248x.png ---
+--- needs --- ManualChessCombVol2.idv[500] ==> ManualChessCombVol2249x.png ---
+--- needs --- ManualChessCombVol2.idv[502] ==> ManualChessCombVol2250x.png ---
+--- needs --- ManualChessCombVol2.idv[504] ==> ManualChessCombVol2251x.png ---
+--- needs --- ManualChessCombVol2.idv[506] ==> ManualChessCombVol2252x.png ---
+--- needs --- ManualChessCombVol2.idv[508] ==> ManualChessCombVol2253x.png ---
+--- needs --- ManualChessCombVol2.idv[510] ==> ManualChessCombVol2254x.png ---
+--- needs --- ManualChessCombVol2.idv[512] ==> ManualChessCombVol2255x.png ---
+--- needs --- ManualChessCombVol2.idv[514] ==> ManualChessCombVol2256x.png ---
+--- needs --- ManualChessCombVol2.idv[516] ==> ManualChessCombVol2257x.png ---
+--- needs --- ManualChessCombVol2.idv[518] ==> ManualChessCombVol2258x.png ---
+--- needs --- ManualChessCombVol2.idv[520] ==> ManualChessCombVol2259x.png ---
+--- needs --- ManualChessCombVol2.idv[522] ==> ManualChessCombVol2260x.png ---
+--- needs --- ManualChessCombVol2.idv[524] ==> ManualChessCombVol2261x.png ---
+--- needs --- ManualChessCombVol2.idv[526] ==> ManualChessCombVol2262x.png ---
+--- needs --- ManualChessCombVol2.idv[528] ==> ManualChessCombVol2263x.png ---
+--- needs --- ManualChessCombVol2.idv[530] ==> ManualChessCombVol2264x.png ---
+--- needs --- ManualChessCombVol2.idv[532] ==> ManualChessCombVol2265x.png ---
+--- needs --- ManualChessCombVol2.idv[534] ==> ManualChessCombVol2266x.png ---
+--- needs --- ManualChessCombVol2.idv[536] ==> ManualChessCombVol2267x.png ---
+--- needs --- ManualChessCombVol2.idv[538] ==> ManualChessCombVol2268x.png ---
+--- needs --- ManualChessCombVol2.idv[540] ==> ManualChessCombVol2269x.png ---
+--- needs --- ManualChessCombVol2.idv[542] ==> ManualChessCombVol2270x.png ---
+--- needs --- ManualChessCombVol2.idv[544] ==> ManualChessCombVol2271x.png ---
+--- needs --- ManualChessCombVol2.idv[546] ==> ManualChessCombVol2272x.png ---
+--- needs --- ManualChessCombVol2.idv[548] ==> ManualChessCombVol2273x.png ---
+--- needs --- ManualChessCombVol2.idv[550] ==> ManualChessCombVol2274x.png ---
+--- needs --- ManualChessCombVol2.idv[552] ==> ManualChessCombVol2275x.png ---
+--- needs --- ManualChessCombVol2.idv[554] ==> ManualChessCombVol2276x.png ---
+--- needs --- ManualChessCombVol2.idv[556] ==> ManualChessCombVol2277x.png ---
+--- needs --- ManualChessCombVol2.idv[558] ==> ManualChessCombVol2278x.png ---
+--- needs --- ManualChessCombVol2.idv[560] ==> ManualChessCombVol2279x.png ---
+--- needs --- ManualChessCombVol2.idv[562] ==> ManualChessCombVol2280x.png ---
+--- needs --- ManualChessCombVol2.idv[564] ==> ManualChessCombVol2281x.png ---
+--- needs --- ManualChessCombVol2.idv[566] ==> ManualChessCombVol2282x.png ---
+--- needs --- ManualChessCombVol2.idv[568] ==> ManualChessCombVol2283x.png ---
+--- needs --- ManualChessCombVol2.idv[570] ==> ManualChessCombVol2284x.png ---
+--- needs --- ManualChessCombVol2.idv[572] ==> ManualChessCombVol2285x.png ---
+--- needs --- ManualChessCombVol2.idv[574] ==> ManualChessCombVol2286x.png ---
+--- needs --- ManualChessCombVol2.idv[576] ==> ManualChessCombVol2287x.png ---
+--- needs --- ManualChessCombVol2.idv[578] ==> ManualChessCombVol2288x.png ---
+--- needs --- ManualChessCombVol2.idv[580] ==> ManualChessCombVol2289x.png ---
+--- needs --- ManualChessCombVol2.idv[582] ==> ManualChessCombVol2290x.png ---
+--- needs --- ManualChessCombVol2.idv[584] ==> ManualChessCombVol2291x.png ---
+--- needs --- ManualChessCombVol2.idv[586] ==> ManualChessCombVol2292x.png ---
+--- needs --- ManualChessCombVol2.idv[588] ==> ManualChessCombVol2293x.png ---
+--- needs --- ManualChessCombVol2.idv[590] ==> ManualChessCombVol2294x.png ---
+--- needs --- ManualChessCombVol2.idv[592] ==> ManualChessCombVol2295x.png ---
+--- needs --- ManualChessCombVol2.idv[594] ==> ManualChessCombVol2296x.png ---
+--- needs --- ManualChessCombVol2.idv[596] ==> ManualChessCombVol2297x.png ---
+--- needs --- ManualChessCombVol2.idv[598] ==> ManualChessCombVol2298x.png ---
+--- needs --- ManualChessCombVol2.idv[600] ==> ManualChessCombVol2299x.png ---
+--- needs --- ManualChessCombVol2.idv[602] ==> ManualChessCombVol2300x.png ---
+--- needs --- ManualChessCombVol2.idv[604] ==> ManualChessCombVol2301x.png ---
+--- needs --- ManualChessCombVol2.idv[606] ==> ManualChessCombVol2302x.png ---
+--- needs --- ManualChessCombVol2.idv[608] ==> ManualChessCombVol2303x.png ---
+--- needs --- ManualChessCombVol2.idv[610] ==> ManualChessCombVol2304x.png ---
+--- needs --- ManualChessCombVol2.idv[612] ==> ManualChessCombVol2305x.png ---
+--- needs --- ManualChessCombVol2.idv[614] ==> ManualChessCombVol2306x.png ---
+--- needs --- ManualChessCombVol2.idv[616] ==> ManualChessCombVol2307x.png ---
+--- needs --- ManualChessCombVol2.idv[618] ==> ManualChessCombVol2308x.png ---
+--- needs --- ManualChessCombVol2.idv[620] ==> ManualChessCombVol2309x.png ---
+--- needs --- ManualChessCombVol2.idv[622] ==> ManualChessCombVol2310x.png ---
+--- needs --- ManualChessCombVol2.idv[624] ==> ManualChessCombVol2311x.png ---
+--- needs --- ManualChessCombVol2.idv[626] ==> ManualChessCombVol2312x.png ---
+--- needs --- ManualChessCombVol2.idv[628] ==> ManualChessCombVol2313x.png ---
+--- needs --- ManualChessCombVol2.idv[630] ==> ManualChessCombVol2314x.png ---
+--- needs --- ManualChessCombVol2.idv[632] ==> ManualChessCombVol2315x.png ---
+--- needs --- ManualChessCombVol2.idv[634] ==> ManualChessCombVol2316x.png ---
+--- needs --- ManualChessCombVol2.idv[636] ==> ManualChessCombVol2317x.png ---
+--- needs --- ManualChessCombVol2.idv[638] ==> ManualChessCombVol2318x.png ---
+--- needs --- ManualChessCombVol2.idv[640] ==> ManualChessCombVol2319x.png ---
+--- needs --- ManualChessCombVol2.idv[642] ==> ManualChessCombVol2320x.png ---
+--- needs --- ManualChessCombVol2.idv[644] ==> ManualChessCombVol2321x.png ---
+--- needs --- ManualChessCombVol2.idv[646] ==> ManualChessCombVol2322x.png ---
+--- needs --- ManualChessCombVol2.idv[648] ==> ManualChessCombVol2323x.png ---
+--- needs --- ManualChessCombVol2.idv[650] ==> ManualChessCombVol2324x.png ---
+--- needs --- ManualChessCombVol2.idv[652] ==> ManualChessCombVol2325x.png ---
+--- needs --- ManualChessCombVol2.idv[654] ==> ManualChessCombVol2326x.png ---
+--- needs --- ManualChessCombVol2.idv[656] ==> ManualChessCombVol2327x.png ---
+--- needs --- ManualChessCombVol2.idv[658] ==> ManualChessCombVol2328x.png ---
+--- needs --- ManualChessCombVol2.idv[660] ==> ManualChessCombVol2329x.png ---
+--- needs --- ManualChessCombVol2.idv[662] ==> ManualChessCombVol2330x.png ---
+--- needs --- ManualChessCombVol2.idv[664] ==> ManualChessCombVol2331x.png ---
+--- needs --- ManualChessCombVol2.idv[666] ==> ManualChessCombVol2332x.png ---
+--- needs --- ManualChessCombVol2.idv[668] ==> ManualChessCombVol2333x.png ---
+--- needs --- ManualChessCombVol2.idv[670] ==> ManualChessCombVol2334x.png ---
+--- needs --- ManualChessCombVol2.idv[672] ==> ManualChessCombVol2335x.png ---
+--- needs --- ManualChessCombVol2.idv[674] ==> ManualChessCombVol2336x.png ---
+--- needs --- ManualChessCombVol2.idv[676] ==> ManualChessCombVol2337x.png ---
+--- needs --- ManualChessCombVol2.idv[678] ==> ManualChessCombVol2338x.png ---
+--- needs --- ManualChessCombVol2.idv[680] ==> ManualChessCombVol2339x.png ---
+--- needs --- ManualChessCombVol2.idv[682] ==> ManualChessCombVol2340x.png ---
+--- needs --- ManualChessCombVol2.idv[684] ==> ManualChessCombVol2341x.png ---
+--- needs --- ManualChessCombVol2.idv[686] ==> ManualChessCombVol2342x.png ---
+--- needs --- ManualChessCombVol2.idv[688] ==> ManualChessCombVol2343x.png ---
+--- needs --- ManualChessCombVol2.idv[690] ==> ManualChessCombVol2344x.png ---
+--- needs --- ManualChessCombVol2.idv[692] ==> ManualChessCombVol2345x.png ---
+--- needs --- ManualChessCombVol2.idv[694] ==> ManualChessCombVol2346x.png ---
+--- needs --- ManualChessCombVol2.idv[696] ==> ManualChessCombVol2347x.png ---
+--- needs --- ManualChessCombVol2.idv[698] ==> ManualChessCombVol2348x.png ---
+--- needs --- ManualChessCombVol2.idv[700] ==> ManualChessCombVol2349x.png ---
+--- needs --- ManualChessCombVol2.idv[702] ==> ManualChessCombVol2350x.png ---
+--- needs --- ManualChessCombVol2.idv[704] ==> ManualChessCombVol2351x.png ---
+--- needs --- ManualChessCombVol2.idv[706] ==> ManualChessCombVol2352x.png ---
+--- needs --- ManualChessCombVol2.idv[708] ==> ManualChessCombVol2353x.png ---
+--- needs --- ManualChessCombVol2.idv[710] ==> ManualChessCombVol2354x.png ---
+--- needs --- ManualChessCombVol2.idv[712] ==> ManualChessCombVol2355x.png ---
+--- needs --- ManualChessCombVol2.idv[714] ==> ManualChessCombVol2356x.png ---
+--- needs --- ManualChessCombVol2.idv[716] ==> ManualChessCombVol2357x.png ---
+--- needs --- ManualChessCombVol2.idv[718] ==> ManualChessCombVol2358x.png ---
+--- needs --- ManualChessCombVol2.idv[720] ==> ManualChessCombVol2359x.png ---
+--- needs --- ManualChessCombVol2.idv[722] ==> ManualChessCombVol2360x.png ---
+--- needs --- ManualChessCombVol2.idv[724] ==> ManualChessCombVol2361x.png ---
+--- needs --- ManualChessCombVol2.idv[726] ==> ManualChessCombVol2362x.png ---
+--- needs --- ManualChessCombVol2.idv[728] ==> ManualChessCombVol2363x.png ---
+--- needs --- ManualChessCombVol2.idv[730] ==> ManualChessCombVol2364x.png ---
+--- needs --- ManualChessCombVol2.idv[732] ==> ManualChessCombVol2365x.png ---
+--- needs --- ManualChessCombVol2.idv[734] ==> ManualChessCombVol2366x.png ---
+--- needs --- ManualChessCombVol2.idv[736] ==> ManualChessCombVol2367x.png ---
+--- needs --- ManualChessCombVol2.idv[738] ==> ManualChessCombVol2368x.png ---
+--- needs --- ManualChessCombVol2.idv[740] ==> ManualChessCombVol2369x.png ---
+--- needs --- ManualChessCombVol2.idv[742] ==> ManualChessCombVol2370x.png ---
+--- needs --- ManualChessCombVol2.idv[744] ==> ManualChessCombVol2371x.png ---
+--- needs --- ManualChessCombVol2.idv[746] ==> ManualChessCombVol2372x.png ---
+--- needs --- ManualChessCombVol2.idv[748] ==> ManualChessCombVol2373x.png ---
+--- needs --- ManualChessCombVol2.idv[750] ==> ManualChessCombVol2374x.png ---
+--- needs --- ManualChessCombVol2.idv[752] ==> ManualChessCombVol2375x.png ---
+--- needs --- ManualChessCombVol2.idv[754] ==> ManualChessCombVol2376x.png ---
+--- needs --- ManualChessCombVol2.idv[756] ==> ManualChessCombVol2377x.png ---
+--- needs --- ManualChessCombVol2.idv[758] ==> ManualChessCombVol2378x.png ---
+--- needs --- ManualChessCombVol2.idv[760] ==> ManualChessCombVol2379x.png ---
+--- needs --- ManualChessCombVol2.idv[762] ==> ManualChessCombVol2380x.png ---
+--- needs --- ManualChessCombVol2.idv[764] ==> ManualChessCombVol2381x.png ---
+--- needs --- ManualChessCombVol2.idv[766] ==> ManualChessCombVol2382x.png ---
+--- needs --- ManualChessCombVol2.idv[768] ==> ManualChessCombVol2383x.png ---
+--- needs --- ManualChessCombVol2.idv[770] ==> ManualChessCombVol2384x.png ---
+--- needs --- ManualChessCombVol2.idv[772] ==> ManualChessCombVol2385x.png ---
+--- needs --- ManualChessCombVol2.idv[774] ==> ManualChessCombVol2386x.png ---
+--- needs --- ManualChessCombVol2.idv[776] ==> ManualChessCombVol2387x.png ---
+--- needs --- ManualChessCombVol2.idv[778] ==> ManualChessCombVol2388x.png ---
+--- needs --- ManualChessCombVol2.idv[780] ==> ManualChessCombVol2389x.png ---
+--- needs --- ManualChessCombVol2.idv[782] ==> ManualChessCombVol2390x.png ---
+--- needs --- ManualChessCombVol2.idv[784] ==> ManualChessCombVol2391x.png ---
+--- needs --- ManualChessCombVol2.idv[786] ==> ManualChessCombVol2392x.png ---
+--- needs --- ManualChessCombVol2.idv[788] ==> ManualChessCombVol2393x.png ---
+--- needs --- ManualChessCombVol2.idv[790] ==> ManualChessCombVol2394x.png ---
+--- needs --- ManualChessCombVol2.idv[792] ==> ManualChessCombVol2395x.png ---
+--- needs --- ManualChessCombVol2.idv[794] ==> ManualChessCombVol2396x.png ---
+--- needs --- ManualChessCombVol2.idv[796] ==> ManualChessCombVol2397x.png ---
+--- characters ---
+Font("cmr","10","10","100")
+Font("SkakNew-Diagram","","10","200")
+Font("cmss","10","10","100")
+Font("cmbx","10","10","100")
+Font("SkakNew-FigurineBold","","10","100")
+Font("SkakNew-Figurine","","10","100")
+Font("cmti","10","10","100")
+Font("cmbxti","10","10","100")
